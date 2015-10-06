@@ -1,8 +1,9 @@
 #-*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID
 ** KR2f ZB2f 詔令奏議類
-*** KR2f0001 [[mandoku:ZB2f0001.org][ZB2f0001]] 太祖高皇帝聖訓
+*** KR2f0001 太祖高皇帝聖訓-清-聖祖
 :PROPERTIES:
+:KR_ID: KR2f0001
 :CUSTOM_ID:  ZB2f0001
 :SOURCE:   四庫全書 文淵閣版, V411.1, p1
 :EXTENT: 4 卷
@@ -20,8 +21,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0002 [[mandoku:ZB2f0002.org][ZB2f0002]] 太宗文皇帝聖訓
+*** KR2f0002 太宗文皇帝聖訓-清-世祖
 :PROPERTIES:
+:KR_ID: KR2f0002
 :CUSTOM_ID:  ZB2f0002
 :SOURCE:   四庫全書 文淵閣版, V411.2, p39
 :EXTENT: 6 卷
@@ -45,8 +47,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0003 SB32n411 太宗皇帝實錄殘
+*** KR2f0003 太宗皇帝實錄殘-宋-錢若水
 :PROPERTIES:
+:KR_ID: KR2f0003
 :EXTENT: 二十卷
 :_RESP:    （宋）錢若水
 :CUSTOM_ID: SB32n411
@@ -65,8 +68,9 @@
 :EDITION: 海鹽張氏涉園藏宋館閣鈔本常熟瞿氏藏舊鈔本宋鈔本
 :END:
 
-*** KR2f0004 [[mandoku:ZB2f0003.org][ZB2f0003]] 世祖章皇帝聖訓
+*** KR2f0004 世祖章皇帝聖訓-清-聖祖
 :PROPERTIES:
+:KR_ID: KR2f0004
 :CUSTOM_ID:  ZB2f0003
 :SOURCE:   四庫全書 文淵閣版, V411.3, p97
 :EXTENT: 6 卷
@@ -84,8 +88,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0005 [[mandoku:ZB2f0004.org][ZB2f0004]] 聖祖仁皇帝聖訓
+*** KR2f0005 聖祖仁皇帝聖訓-清-世宗
 :PROPERTIES:
+:KR_ID: KR2f0005
 :CUSTOM_ID:  ZB2f0004
 :SOURCE:   四庫全書 文淵閣版, V411.4, p145
 :EXTENT: 60 卷
@@ -103,8 +108,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0006 [[mandoku:ZB2f0005.org][ZB2f0005]] 世宗憲皇帝聖訓
+*** KR2f0006 世宗憲皇帝聖訓-清-高宗
 :PROPERTIES:
+:KR_ID: KR2f0006
 :CUSTOM_ID:  ZB2f0005
 :SOURCE:   四庫全書 文淵閣版, V412.1, p1
 :EXTENT: 36 卷
@@ -122,8 +128,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0007 [[mandoku:ZB2f0006.org][ZB2f0006]] 世宗憲皇帝上諭八旗
+*** KR2f0007 世宗憲皇帝上諭八旗-清-允祿
 :PROPERTIES:
+:KR_ID: KR2f0007
 :CUSTOM_ID:  ZB2f0006
 :SOURCE:   四庫全書 文淵閣版, V413.1, p1
 :EXTENT: 13 卷
@@ -140,22 +147,23 @@
 
 **** 版本
 ***** WYG
-**** [[mandoku:ZB2f0006a.org][ZB2f0006a]] 上諭旗務議覆
+**** 上諭旗務議覆
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 12 卷
       :BOOK:   5
       :END:
 
-**** [[mandoku:ZB2f0006b.org][ZB2f0006b]] 諭行旗務奏議
+**** 諭行旗務奏議
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 13 卷
       :BOOK:   3
       :END:
 
-*** KR2f0008 [[mandoku:ZB2f0007.org][ZB2f0007]] 世宗憲皇帝上諭內閣
+*** KR2f0008 世宗憲皇帝上諭內閣-清-允祿
 :PROPERTIES:
+:KR_ID: KR2f0008
 :CUSTOM_ID:  ZB2f0007
 :SOURCE:   四庫全書 文淵閣版, V414.1, p1 - V415.1
 :EXTENT: 159 卷
@@ -185,8 +193,9 @@
       :BOOK:   (42)
       :END:
 
-*** KR2f0009 [[mandoku:ZB2f0008.org][ZB2f0008]] 世宗憲皇帝硃批諭旨
+*** KR2f0009 世宗憲皇帝硃批諭旨-清-世宗胤禛
 :PROPERTIES:
+:KR_ID: KR2f0009
 :CUSTOM_ID:  ZB2f0008
 :SOURCE:   四庫全書 文淵閣版, V416.1, p1 - V425.1
 :EXTENT: 360 卷
@@ -205,8 +214,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0010 [[mandoku:ZB2f0009.org][ZB2f0009]] 唐大詔令集
+*** KR2f0010 唐大詔令集-宋-宋敏求
 :PROPERTIES:
+:KR_ID: KR2f0010
 :CUSTOM_ID:  ZB2f0009
 :SOURCE:   四庫全書 文淵閣版, V426.1, p1
 :EXTENT: 存107 卷
@@ -223,8 +233,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0011 [[mandoku:ZB2f0010.org][ZB2f0010]] 兩漢詔令
+*** KR2f0011 兩漢詔令-宋-林虙
 :PROPERTIES:
+:KR_ID: KR2f0011
 :CUSTOM_ID:  ZB2f0010
 :SOURCE:   四庫全書 文淵閣版, V426.2, p971
 :EXTENT: 23 卷
@@ -270,8 +281,9 @@
       :FUNCTION: 編
       :END:
 
-*** KR2f0012 [[mandoku:ZB2f0011.org][ZB2f0011]] 范文正奏議
+*** KR2f0012 范文正奏議-宋-范仲淹
 :PROPERTIES:
+:KR_ID: KR2f0012
 :CUSTOM_ID:  ZB2f0011
 :SOURCE:   四庫全書 文淵閣版, V427.1, p1
 :EXTENT: 2 卷
@@ -288,10 +300,11 @@
 
 **** 版本
 ***** WYG
-# *** [[mandoku:ZB2f0011a.org][ZB2f0011a]] 奏議之屬
-# *** [[mandoku:ZB2f0011b.org][ZB2f0011b]] 范文正奏議
-*** KR2f0013 [[mandoku:ZB2f0012.org][ZB2f0012]] 包孝肅奏議集
+# *** 奏議之屬
+# *** 范文正奏議
+*** KR2f0013 包孝肅奏議集-宋-包拯
 :PROPERTIES:
+:KR_ID: KR2f0013
 :CUSTOM_ID:  ZB2f0012
 :SOURCE:   四庫全書 文淵閣版, V427.2, p73
 :EXTENT: 10 卷
@@ -314,8 +327,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0014 [[mandoku:ZB2f0013.org][ZB2f0013]] 盡言集
+*** KR2f0014 盡言集-宋-劉安世
 :PROPERTIES:
+:KR_ID: KR2f0014
 :CUSTOM_ID:  ZB2f0013
 :SOURCE:   四庫全書 文淵閣版, V427.3, p183
 :EXTENT: 13 卷
@@ -332,8 +346,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0015 [[mandoku:ZB2f0014.org][ZB2f0014]] 讜論集
+*** KR2f0015 讜論集-宋-陳次升
 :PROPERTIES:
+:KR_ID: KR2f0015
 :CUSTOM_ID:  ZB2f0014
 :SOURCE:   四庫全書 文淵閣版, V427.4, p319
 :EXTENT: 5 卷
@@ -350,8 +365,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0016 [[mandoku:ZB2f0015.org][ZB2f0015]] 左史諫草
+*** KR2f0016 左史諫草-宋-呂午
 :PROPERTIES:
+:KR_ID: KR2f0016
 :CUSTOM_ID:  ZB2f0015
 :SOURCE:   四庫全書 文淵閣版, V427.5, p389
 :EXTENT: 1 卷
@@ -387,8 +403,9 @@
       :BOOK:   (1)
       :END:
 
-*** KR2f0017 [[mandoku:ZB2f0016.org][ZB2f0016]] 商文毅疏稿
+*** KR2f0017 商文毅疏稿-明-商輅
 :PROPERTIES:
+:KR_ID: KR2f0017
 :CUSTOM_ID:  ZB2f0016
 :SOURCE:   四庫全書 文淵閣版, V427.6, p417
 :EXTENT: 1 卷
@@ -405,8 +422,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0018 [[mandoku:ZB2f0017.org][ZB2f0017]] 王端毅奏議
+*** KR2f0018 王端毅奏議-明-王恕
 :PROPERTIES:
+:KR_ID: KR2f0018
 :CUSTOM_ID:  ZB2f0017
 :SOURCE:   四庫全書 文淵閣版, V427.7, p453
 :EXTENT: 15 卷
@@ -423,8 +441,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0019 [[mandoku:ZB2f0018.org][ZB2f0018]] 馬端肅奏議
+*** KR2f0019 馬端肅奏議-明-馬文升
 :PROPERTIES:
+:KR_ID: KR2f0019
 :CUSTOM_ID:  ZB2f0018
 :SOURCE:   四庫全書 文淵閣版, V427.8, p705
 :EXTENT: 12 卷
@@ -441,8 +460,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0020 [[mandoku:ZB2f0019.org][ZB2f0019]] 關中奏議
+*** KR2f0020 關中奏議-明-楊一清
 :PROPERTIES:
+:KR_ID: KR2f0020
 :CUSTOM_ID:  ZB2f0019
 :SOURCE:   四庫全書 文淵閣版, V428.1, p1
 :EXTENT: 18 卷
@@ -459,8 +479,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0021 [[mandoku:ZB2f0020.org][ZB2f0020]] 胡端敏奏議
+*** KR2f0021 胡端敏奏議-明-胡世寧
 :PROPERTIES:
+:KR_ID: KR2f0021
 :CUSTOM_ID:  ZB2f0020
 :SOURCE:   四庫全書 文淵閣版, V428.2, p559
 :EXTENT: 10 卷
@@ -477,8 +498,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0022 [[mandoku:ZB2f0021.org][ZB2f0021]] 楊文忠三錄
+*** KR2f0022 楊文忠三錄-明-楊廷和
 :PROPERTIES:
+:KR_ID: KR2f0022
 :CUSTOM_ID:  ZB2f0021
 :SOURCE:   四庫全書 文淵閣版, V428.3, p749
 :EXTENT: 8 卷
@@ -495,8 +517,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0023 [[mandoku:ZB2f0022.org][ZB2f0022]] 何文簡疏議
+*** KR2f0023 何文簡疏議-明-何孟春
 :PROPERTIES:
+:KR_ID: KR2f0023
 :CUSTOM_ID:  ZB2f0022
 :SOURCE:   四庫全書 文淵閣版, V429.1, p1
 :EXTENT: 10 卷
@@ -513,8 +536,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0024 [[mandoku:ZB2f0023.org][ZB2f0023]] 垂光集
+*** KR2f0024 垂光集-明-周璽
 :PROPERTIES:
+:KR_ID: KR2f0024
 :CUSTOM_ID:  ZB2f0023
 :SOURCE:   四庫全書 文淵閣版, V429.2, p263
 :EXTENT: 1 卷
@@ -531,8 +555,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0025 [[mandoku:ZB2f0024.org][ZB2f0024]] 孫毅菴奏議
+*** KR2f0025 孫毅菴奏議-明-孫懋
 :PROPERTIES:
+:KR_ID: KR2f0025
 :CUSTOM_ID:  ZB2f0024
 :SOURCE:   四庫全書 文淵閣版, V429.3, p289
 :EXTENT: 2 卷
@@ -548,8 +573,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0026 [[mandoku:ZB2f0025.org][ZB2f0025]] 玉坡奏議
+*** KR2f0026 玉坡奏議-明-張原
 :PROPERTIES:
+:KR_ID: KR2f0026
 :CUSTOM_ID:  ZB2f0025
 :SOURCE:   四庫全書 文淵閣版, V429.4, p351
 :EXTENT: 5 卷
@@ -565,8 +591,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0027 [[mandoku:ZB2f0026.org][ZB2f0026]] 南宮奏稿
+*** KR2f0027 南宮奏稿-明-夏言
 :PROPERTIES:
+:KR_ID: KR2f0027
 :CUSTOM_ID:  ZB2f0026
 :SOURCE:   四庫全書 文淵閣版, V429.5, p409
 :EXTENT: 5 卷
@@ -583,8 +610,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0028 [[mandoku:ZB2f0027.org][ZB2f0027]] 訥谿奏疏
+*** KR2f0028 訥谿奏疏-明-周怡
 :PROPERTIES:
+:KR_ID: KR2f0028
 :CUSTOM_ID:  ZB2f0027
 :SOURCE:   四庫全書 文淵閣版, V429.6, p559
 :EXTENT: 1 卷
@@ -601,8 +629,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0029 [[mandoku:ZB2f0028.org][ZB2f0028]] 譚襄敏奏議
+*** KR2f0029 譚襄敏奏議-明-譚綸
 :PROPERTIES:
+:KR_ID: KR2f0029
 :CUSTOM_ID:  ZB2f0028
 :SOURCE:   四庫全書 文淵閣版, V429.7, p587
 :EXTENT: 10 卷
@@ -619,8 +648,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0030 [[mandoku:ZB2f0029.org][ZB2f0029]] 潘司空奏疏
+*** KR2f0030 潘司空奏疏-明-潘季馴
 :PROPERTIES:
+:KR_ID: KR2f0030
 :CUSTOM_ID:  ZB2f0029
 :SOURCE:   四庫全書 文淵閣版, V430.1, p1
 :EXTENT: 7 卷
@@ -637,8 +667,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0031 [[mandoku:ZB2f0030.org][ZB2f0030]] 兩河經略
+*** KR2f0031 兩河經略-明-潘季馴
 :PROPERTIES:
+:KR_ID: KR2f0031
 :CUSTOM_ID:  ZB2f0030
 :SOURCE:   四庫全書 文淵閣版, V430.2, p189
 :EXTENT: 4 卷
@@ -662,8 +693,9 @@
       :BOOK:   (1)
       :END:
 
-*** KR2f0032 [[mandoku:ZB2f0031.org][ZB2f0031]] 兩垣奏議
+*** KR2f0032 兩垣奏議-明-逯中立
 :PROPERTIES:
+:KR_ID: KR2f0032
 :CUSTOM_ID:  ZB2f0031
 :SOURCE:   四庫全書 文淵閣版, V430.3, p249
 :EXTENT: 1 卷
@@ -680,8 +712,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0033 [[mandoku:ZB2f0032.org][ZB2f0032]] 周忠愍奏疏
+*** KR2f0033 周忠愍奏疏-明-周起元
 :PROPERTIES:
+:KR_ID: KR2f0033
 :CUSTOM_ID:  ZB2f0032
 :SOURCE:   四庫全書 文淵閣版, V430.4, p259
 :EXTENT: 2 卷
@@ -697,8 +730,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0034 [[mandoku:ZB2f0033.org][ZB2f0033]] 張襄壯奏疏
+*** KR2f0034 張襄壯奏疏-清-張勇
 :PROPERTIES:
+:KR_ID: KR2f0034
 :CUSTOM_ID:  ZB2f0033
 :SOURCE:   四庫全書 文淵閣版, V430.5, p303
 :EXTENT: 6 卷
@@ -715,8 +749,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0035 [[mandoku:ZB2f0034.org][ZB2f0034]] 靳文襄奏疏
+*** KR2f0035 靳文襄奏疏-清-靳輔
 :PROPERTIES:
+:KR_ID: KR2f0035
 :CUSTOM_ID:  ZB2f0034
 :SOURCE:   四庫全書 文淵閣版, V430.6, p451
 :EXTENT: 9 卷
@@ -747,8 +782,9 @@
       :BOOK:   (6)
       :END:
 
-*** KR2f0036 [[mandoku:ZB2f0035.org][ZB2f0035]] 華野疏稿
+*** KR2f0036 華野疏稿-清-郭琇
 :PROPERTIES:
+:KR_ID: KR2f0036
 :CUSTOM_ID:  ZB2f0035
 :SOURCE:   四庫全書 文淵閣版, V430.7, p729
 :EXTENT: 5 卷
@@ -765,8 +801,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0037 SB12n041 五朝名臣言行錄
+*** KR2f0037 五朝名臣言行錄-宋-
 :PROPERTIES:
+:KR_ID: KR2f0037
 :TYPE:  text
 :CUSTOM_ID: SB12n041
 :EXTENT: 十卷
@@ -805,8 +842,9 @@
 [[krpimg:sbck/SB1/SB12n041/SB12n041_012-002.tif][冊 12]]
 [[krpimg:sbck/SB1/SB12n041/SB12n041_013-002.tif][冊 13]]
 [[krpimg:sbck/SB1/SB12n041/SB12n041_014-002.tif][冊 14]]
-*** KR2f0038 [[mandoku:ZB2f0036.org][ZB2f0036]] 宋名臣奏議
+*** KR2f0038 宋名臣奏議-宋-趙汝愚
 :PROPERTIES:
+:KR_ID: KR2f0038
 :CUSTOM_ID:  ZB2f0036
 :SOURCE:   四庫全書 文淵閣版, V431.1, p1 - V432.1
 :EXTENT: 150 卷
@@ -823,8 +861,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0039 [[mandoku:ZB2f0037.org][ZB2f0037]] 歷代名臣奏議
+*** KR2f0039 歷代名臣奏議-明-楊士奇
 :PROPERTIES:
+:KR_ID: KR2f0039
 :CUSTOM_ID:  ZB2f0037
 :SOURCE:   四庫全書 文淵閣版, V433.1, p1 - V442.1
 :EXTENT: 350 卷
@@ -847,8 +886,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0040 [[mandoku:ZB2f0038.org][ZB2f0038]] 名臣經濟錄
+*** KR2f0040 名臣經濟錄-明-黃訓
 :PROPERTIES:
+:KR_ID: KR2f0040
 :CUSTOM_ID:  ZB2f0038
 :SOURCE:   四庫全書 文淵閣版, V443.1, p1 - V444.1
 :EXTENT: 53 卷
@@ -864,8 +904,9 @@
 
 **** 版本
 ***** WYG
-*** KR2f0041 [[mandoku:ZB2f0039.org][ZB2f0039]] 御選明臣奏議
+*** KR2f0041 御選明臣奏議-清-高宗弘曆
 :PROPERTIES:
+:KR_ID: KR2f0041
 :CUSTOM_ID:  ZB2f0039
 :SOURCE:   四庫全書 文淵閣版, V445.1, p1
 :EXTENT: 40 卷

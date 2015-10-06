@@ -1,8 +1,9 @@
 #-*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID
 ** KR3k ZB3k 類書類
-*** KR3k0001 [[mandoku:ZB3k0001.org][ZB3k0001]] 古今同姓名錄
+*** KR3k0001 古今同姓名錄-梁-元帝
 :PROPERTIES:
+:KR_ID: KR3k0001
 :CUSTOM_ID:  ZB3k0001
 :SOURCE:   四庫全書 文淵閣版, V887.1, p1
 :EXTENT: 2 卷
@@ -31,8 +32,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0002 [[mandoku:ZB3k0002.org][ZB3k0002]] 編珠
+*** KR3k0002 編珠-隋-杜公瞻
 :PROPERTIES:
+:KR_ID: KR3k0002
 :CUSTOM_ID:  ZB3k0002
 :SOURCE:   四庫全書 文淵閣版, V887.2, p37
 :EXTENT: 2 卷
@@ -75,8 +77,9 @@
      :FUNCTION: 撰
      :END:
 
-*** KR3k0003 [[mandoku:ZB3k0003.org][ZB3k0003]] 藝文類聚
+*** KR3k0003 藝文類聚-唐-歐陽詢
 :PROPERTIES:
+:KR_ID: KR3k0003
 :CUSTOM_ID:  ZB3k0003
 :SOURCE:   四庫全書 文淵閣版, V887.3, p137 - V888.1
 :EXTENT: 100 卷
@@ -93,8 +96,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0004 [[mandoku:ZB3k0004.org][ZB3k0004]] 北堂書鈔
+*** KR3k0004 北堂書鈔-唐-虞世南
 :PROPERTIES:
+:KR_ID: KR3k0004
 :CUSTOM_ID:  ZB3k0004
 :SOURCE:   四庫全書 文淵閣版, V889.1, p1
 :EXTENT: 160 卷
@@ -117,8 +121,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0005 [[mandoku:ZB3k0005.org][ZB3k0005]] 龍筋鳳髓判
+*** KR3k0005 龍筋鳳髓判-唐-張鷟
 :PROPERTIES:
+:KR_ID: KR3k0005
 :CUSTOM_ID:  ZB3k0005
 :SOURCE:   四庫全書 文淵閣版, V889.2, p851
 :EXTENT: 4 卷
@@ -141,8 +146,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0006 [[mandoku:ZB3k0006.org][ZB3k0006]] 初學記
+*** KR3k0006 初學記-唐-徐堅
 :PROPERTIES:
+:KR_ID: KR3k0006
 :CUSTOM_ID:  ZB3k0006
 :SOURCE:   四庫全書 文淵閣版, V890.1, p1
 :EXTENT: 30 卷
@@ -166,8 +172,9 @@
      :BOOK:   (16)
      :END:
 
-*** KR3k0007 [[mandoku:ZB3k0007.org][ZB3k0007]] 元和姓纂
+*** KR3k0007 元和姓纂-唐-林寶
 :PROPERTIES:
+:KR_ID: KR3k0007
 :CUSTOM_ID:  ZB3k0007
 :SOURCE:   四庫全書 文淵閣版, V890.2, p499
 :EXTENT: 10 卷
@@ -191,8 +198,9 @@
      :BOOK:   (8)
      :END:
 
-*** KR3k0008 [[mandoku:ZB3k0008.org][ZB3k0008]] 白孔六帖
+*** KR3k0008 白孔六帖-唐-白居易
 :PROPERTIES:
+:KR_ID: KR3k0008
 :CUSTOM_ID:  ZB3k0008
 :SOURCE:   四庫全書 文淵閣版, V891.1, p1 - V892.1
 :EXTENT: 100 卷
@@ -215,8 +223,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0009 [[mandoku:ZB3k0009.org][ZB3k0009]] 小名錄
+*** KR3k0009 小名錄-唐-陸龜蒙
 :PROPERTIES:
+:KR_ID: KR3k0009
 :CUSTOM_ID:  ZB3k0009
 :SOURCE:   四庫全書 文淵閣版, V892.2, p623
 :EXTENT: 2 卷
@@ -233,8 +242,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0010 [[mandoku:ZB3k0010.org][ZB3k0010]] 蒙求集註
+*** KR3k0010 蒙求集註-唐-李瀚
 :PROPERTIES:
+:KR_ID: KR3k0010
 :CUSTOM_ID:  ZB3k0010
 :SOURCE:   四庫全書 文淵閣版, V892.3, p651
 :EXTENT: 2 卷
@@ -256,8 +266,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0011 [[mandoku:ZB3k0011.org][ZB3k0011]] 事類賦
+*** KR3k0011 事類賦-宋-吳淑
 :PROPERTIES:
+:KR_ID: KR3k0011
 :CUSTOM_ID:  ZB3k0011
 :SOURCE:   四庫全書 文淵閣版, V892.4, p799
 :EXTENT: 30 卷
@@ -274,8 +285,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0012 [[mandoku:ZB3k0012.org][ZB3k0012]] 太平御覽
+*** KR3k0012 太平御覽-宋-李昉
 :PROPERTIES:
+:KR_ID: KR3k0012
 :CUSTOM_ID:  ZB3k0012
 :SOURCE:   四庫全書 文淵閣版, V893.1, p1 - V901.1
 :EXTENT: 1000 卷
@@ -306,8 +318,9 @@
      :BOOK:   (180)
      :END:
 
-*** KR3k0013 [[mandoku:ZB3k0013.org][ZB3k0013]] 册府元龜
+*** KR3k0013 册府元龜-宋-王欽若
 :PROPERTIES:
+:KR_ID: KR3k0013
 :CUSTOM_ID:  ZB3k0013
 :SOURCE:   四庫全書 文淵閣版, V902.1, p1 - V919.1
 :EXTENT: 1000 卷
@@ -337,8 +350,9 @@
      :BOOK:   (336)
      :END:
 
-*** KR3k0014 [[mandoku:ZB3k0014.org][ZB3k0014]] 事物紀原
+*** KR3k0014 事物紀原-宋-高承
 :PROPERTIES:
+:KR_ID: KR3k0014
 :CUSTOM_ID:  ZB3k0014
 :SOURCE:   四庫全書 文淵閣版, V920.1, p1
 :EXTENT: 10 卷
@@ -355,8 +369,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0015 [[mandoku:ZB3k0015.org][ZB3k0015]] 實賓錄
+*** KR3k0015 實賓錄-宋-馬永易
 :PROPERTIES:
+:KR_ID: KR3k0015
 :CUSTOM_ID:  ZB3k0015
 :SOURCE:   四庫全書 文淵閣版, V920.2, p293
 :EXTENT: 14 卷
@@ -373,8 +388,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0016 [[mandoku:ZB3k0016.org][ZB3k0016]] 書敘指南
+*** KR3k0016 書敘指南-宋-任廣
 :PROPERTIES:
+:KR_ID: KR3k0016
 :CUSTOM_ID:  ZB3k0016
 :SOURCE:   四庫全書 文淵閣版, V920.3, p455
 :EXTENT: 20 卷
@@ -390,8 +406,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0017 [[mandoku:ZB3k0017.org][ZB3k0017]] 海錄碎事
+*** KR3k0017 海錄碎事-宋-葉庭珪
 :PROPERTIES:
+:KR_ID: KR3k0017
 :CUSTOM_ID:  ZB3k0017
 :SOURCE:   四庫全書 文淵閣版, V921.1, p1
 :EXTENT: 22 卷
@@ -407,8 +424,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0018 [[mandoku:ZB3k0018.org][ZB3k0018]] 古今姓氏書辯證
+*** KR3k0018 古今姓氏書辯證-宋-鄧名世
 :PROPERTIES:
+:KR_ID: KR3k0018
 :CUSTOM_ID:  ZB3k0018
 :SOURCE:   四庫全書 文淵閣版, V922.1, p1
 :EXTENT: 40 卷
@@ -438,8 +456,9 @@
      :BOOK:   (16)
      :END:
 
-*** KR3k0019 [[mandoku:ZB3k0019.org][ZB3k0019]] 帝王經世圖譜
+*** KR3k0019 帝王經世圖譜-宋-唐仲友
 :PROPERTIES:
+:KR_ID: KR3k0019
 :CUSTOM_ID:  ZB3k0019
 :SOURCE:   四庫全書 文淵閣版, V922.2, p383
 :EXTENT: 16 卷
@@ -456,8 +475,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0020 [[mandoku:ZB3k0020.org][ZB3k0020]] 職官分紀
+*** KR3k0020 職官分紀-宋-孫逢吉
 :PROPERTIES:
+:KR_ID: KR3k0020
 :CUSTOM_ID:  ZB3k0020
 :SOURCE:   四庫全書 文淵閣版, V923.1, p1
 :EXTENT: 50 卷
@@ -474,8 +494,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0021 [[mandoku:ZB3k0021.org][ZB3k0021]] 歷代制度詳說
+*** KR3k0021 歷代制度詳說-宋-呂祖謙
 :PROPERTIES:
+:KR_ID: KR3k0021
 :CUSTOM_ID:  ZB3k0021
 :SOURCE:   四庫全書 文淵閣版, V923.2, p893
 :EXTENT: 12 卷
@@ -492,8 +513,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0022 [[mandoku:ZB3k0022.org][ZB3k0022]] 八面鋒
+*** KR3k0022 八面鋒-宋-陳傅良
 :PROPERTIES:
+:KR_ID: KR3k0022
 :CUSTOM_ID:  ZB3k0022
 :SOURCE:   四庫全書 文淵閣版, V923.3, p989
 :EXTENT: 13 卷
@@ -510,8 +532,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0023 [[mandoku:ZB3k0023.org][ZB3k0023]] 錦繡萬花谷
+*** KR3k0023 錦繡萬花谷-宋-闕名
 :PROPERTIES:
+:KR_ID: KR3k0023
 :CUSTOM_ID:  ZB3k0023
 :SOURCE:   四庫全書 文淵閣版, V924.1, p1
 :EXTENT: 120 卷
@@ -545,8 +568,9 @@
      :BOOK:   (5)
      :END:
 
-*** KR3k0024 [[mandoku:ZB3k0024.org][ZB3k0024]] 古今事文類聚
+*** KR3k0024 古今事文類聚-宋-祝穆
 :PROPERTIES:
+:KR_ID: KR3k0024
 :CUSTOM_ID:  ZB3k0024
 :SOURCE:   四庫全書 文淵閣版, V925.1, p1 - V929.1
 :EXTENT: 236 卷
@@ -617,8 +641,9 @@
      :FUNCTION: 撰
      :END:
 
-*** KR3k0025 [[mandoku:ZB3k0025.org][ZB3k0025]] 記纂淵海
+*** KR3k0025 記纂淵海-宋-潘自牧
 :PROPERTIES:
+:KR_ID: KR3k0025
 :CUSTOM_ID:  ZB3k0025
 :SOURCE:   四庫全書 文淵閣版, V930.1, p1 - V932.1
 :EXTENT: 100 卷
@@ -634,8 +659,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0026 [[mandoku:ZB3k0026.org][ZB3k0026]] 名賢氏族言行類稿
+*** KR3k0026 名賢氏族言行類稿-宋-章定
 :PROPERTIES:
+:KR_ID: KR3k0026
 :CUSTOM_ID:  ZB3k0026
 :SOURCE:   四庫全書 文淵閣版, V933.1, p1
 :EXTENT: 60 卷
@@ -659,8 +685,9 @@
      :BOOK:   (22)
      :END:
 
-*** KR3k0027 [[mandoku:ZB3k0027.org][ZB3k0027]] 羣書會元截江網
+*** KR3k0027 羣書會元截江網-宋-闕名
 :PROPERTIES:
+:KR_ID: KR3k0027
 :CUSTOM_ID:  ZB3k0027
 :SOURCE:   四庫全書 文淵閣版, V934.1, p1
 :EXTENT: 35 卷
@@ -676,8 +703,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0028 [[mandoku:ZB3k0028.org][ZB3k0028]] 全芳備祖集
+*** KR3k0028 全芳備祖集-宋-陳景沂
 :PROPERTIES:
+:KR_ID: KR3k0028
 :CUSTOM_ID:  ZB3k0028
 :SOURCE:   四庫全書 文淵閣版, V935.1, p1
 :EXTENT: 58 卷
@@ -705,8 +733,9 @@
      :BOOK:   (12)
      :END:
 
-*** KR3k0029 [[mandoku:ZB3k0029.org][ZB3k0029]] 羣書考索
+*** KR3k0029 羣書考索-宋-章如愚
 :PROPERTIES:
+:KR_ID: KR3k0029
 :CUSTOM_ID:  ZB3k0029
 :SOURCE:   四庫全書 文淵閣版, V936.1, p1 - V938.1
 :EXTENT: 212 卷
@@ -746,8 +775,9 @@
      :BOOK:   (13)
      :END:
 
-*** KR3k0030 [[mandoku:ZB3k0030.org][ZB3k0030]] 古今合璧事類備要
+*** KR3k0030 古今合璧事類備要-宋-謝維新
 :PROPERTIES:
+:KR_ID: KR3k0030
 :CUSTOM_ID:  ZB3k0030
 :SOURCE:   四庫全書 文淵閣版, V939.1, p1 - V941.1
 :EXTENT: 存365 卷
@@ -794,8 +824,9 @@
      :BOOK:   (11)
      :END:
 
-*** KR3k0031 [[mandoku:ZB3k0031.org][ZB3k0031]] 古今源流至論
+*** KR3k0031 古今源流至論-宋-林駧
 :PROPERTIES:
+:KR_ID: KR3k0031
 :CUSTOM_ID:  ZB3k0031
 :SOURCE:   四庫全書 文淵閣版, V942.1, p1
 :EXTENT: 40 卷
@@ -841,8 +872,9 @@
      :FUNCTION: 撰
      :END:
 
-*** KR3k0032 [[mandoku:ZB3k0032.org][ZB3k0032]] 玉海
+*** KR3k0032 玉海-宋-王應麟
 :PROPERTIES:
+:KR_ID: KR3k0032
 :CUSTOM_ID:  ZB3k0032
 :SOURCE:   四庫全書 文淵閣版, V943.1, p1 - V948.1
 :EXTENT: 200 卷
@@ -873,8 +905,9 @@
      :BOOK:   (164)
      :END:
 
-*** KR3k0033 [[mandoku:ZB3k0033.org][ZB3k0033]] 小學紺珠
+*** KR3k0033 小學紺珠-宋-王應麟
 :PROPERTIES:
+:KR_ID: KR3k0033
 :CUSTOM_ID:  ZB3k0033
 :SOURCE:   四庫全書 文淵閣版, V948.2, p379
 :EXTENT: 10 卷
@@ -891,8 +924,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0034 [[mandoku:ZB3k0034.org][ZB3k0034]] 姓氏急就篇
+*** KR3k0034 姓氏急就篇-宋-王應麟
 :PROPERTIES:
+:KR_ID: KR3k0034
 :CUSTOM_ID:  ZB3k0034
 :SOURCE:   四庫全書 文淵閣版, V948.3, p633
 :EXTENT: 2 卷
@@ -909,8 +943,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0035 [[mandoku:ZB3k0035.org][ZB3k0035]] 小字錄
+*** KR3k0035 小字錄-宋-陳思
 :PROPERTIES:
+:KR_ID: KR3k0035
 :CUSTOM_ID:  ZB3k0035
 :SOURCE:   四庫全書 文淵閣版, V948.4, p701
 :EXTENT: 1 卷
@@ -927,8 +962,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0036 [[mandoku:ZB3k0036.org][ZB3k0036]] 雞肋
+*** KR3k0036 雞肋-宋-趙崇絢
 :PROPERTIES:
+:KR_ID: KR3k0036
 :CUSTOM_ID:  ZB3k0036
 :SOURCE:   四庫全書 文淵閣版, V948.5, p731
 :EXTENT: 1 卷
@@ -945,8 +981,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0037 [[mandoku:ZB3k0037.org][ZB3k0037]] 六帖補
+*** KR3k0037 六帖補-宋-楊伯喦
 :PROPERTIES:
+:KR_ID: KR3k0037
 :CUSTOM_ID:  ZB3k0037
 :SOURCE:   四庫全書 文淵閣版, V948.6, p739
 :EXTENT: 20 卷
@@ -962,8 +999,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0038 [[mandoku:ZB3k0038.org][ZB3k0038]] 翰苑新書
+*** KR3k0038 翰苑新書-宋-闕名
 :PROPERTIES:
+:KR_ID: KR3k0038
 :CUSTOM_ID:  ZB3k0038
 :SOURCE:   四庫全書 文淵閣版, V949.1, p1 - V950.1
 :EXTENT: 156 卷
@@ -1009,8 +1047,9 @@
      :BOOK:   (15)
      :END:
 
-*** KR3k0039 [[mandoku:ZB3k0039.org][ZB3k0039]] 韻府羣玉
+*** KR3k0039 韻府羣玉-元-陰勁弦
 :PROPERTIES:
+:KR_ID: KR3k0039
 :CUSTOM_ID:  ZB3k0039
 :SOURCE:   四庫全書 文淵閣版, V951.1, p1
 :EXTENT: 20 卷
@@ -1033,8 +1072,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0040 [[mandoku:ZB3k0040.org][ZB3k0040]] 純正蒙求
+*** KR3k0040 純正蒙求-元-胡炳文
 :PROPERTIES:
+:KR_ID: KR3k0040
 :CUSTOM_ID:  ZB3k0040
 :SOURCE:   四庫全書 文淵閣版, V952.1, p1
 :EXTENT: 3 卷
@@ -1051,8 +1091,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0041 [[mandoku:ZB3k0041.org][ZB3k0041]] 氏族大全
+*** KR3k0041 氏族大全-元-闕名
 :PROPERTIES:
+:KR_ID: KR3k0041
 :CUSTOM_ID:  ZB3k0041
 :SOURCE:   四庫全書 文淵閣版, V952.2, p61
 :EXTENT: 22 卷
@@ -1075,8 +1116,9 @@
      :BOOK:   (20)
      :END:
 
-*** KR3k0042 [[mandoku:ZB3k0042.org][ZB3k0042]] 名疑
+*** KR3k0042 名疑-明-陳士元
 :PROPERTIES:
+:KR_ID: KR3k0042
 :CUSTOM_ID:  ZB3k0042
 :SOURCE:   四庫全書 文淵閣版, V952.3, p593
 :EXTENT: 4 卷
@@ -1093,8 +1135,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0043 [[mandoku:ZB3k0043.org][ZB3k0043]] 稗編
+*** KR3k0043 稗編-明-唐順之
 :PROPERTIES:
+:KR_ID: KR3k0043
 :CUSTOM_ID:  ZB3k0043
 :SOURCE:   四庫全書 文淵閣版, V953.1, p1 - V955.1
 :EXTENT: 120 卷
@@ -1111,8 +1154,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0044 [[mandoku:ZB3k0044.org][ZB3k0044]] 萬姓統譜
+*** KR3k0044 萬姓統譜-明-凌迪知
 :PROPERTIES:
+:KR_ID: KR3k0044
 :CUSTOM_ID:  ZB3k0044
 :SOURCE:   四庫全書 文淵閣版, V956.1, p1 - V957.1
 :EXTENT: 140 卷
@@ -1142,15 +1186,16 @@
      :BOOK:   (44)
      :END:
 
-**** [[mandoku:ZB3k0044a.org][ZB3k0044a]] (附)氏族博攷
+**** (附)氏族博攷
      :PROPERTIES:
      :TYPE:   appendix
      :EXTENT: 14 卷
      :BOOK:   4
      :END:
 
-*** KR3k0045 [[mandoku:ZB3k0045.org][ZB3k0045]] 喻林
+*** KR3k0045 喻林-明-徐元太
 :PROPERTIES:
+:KR_ID: KR3k0045
 :CUSTOM_ID:  ZB3k0045
 :SOURCE:   四庫全書 文淵閣版, V958.1, p1 - V959.1
 :EXTENT: 120 卷
@@ -1166,8 +1211,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0046 [[mandoku:ZB3k0046.org][ZB3k0046]] 經濟類編
+*** KR3k0046 經濟類編-明-馮琦
 :PROPERTIES:
+:KR_ID: KR3k0046
 :CUSTOM_ID:  ZB3k0046
 :SOURCE:   四庫全書 文淵閣版, V960.1, p1 - V963.1
 :EXTENT: 100 卷
@@ -1190,8 +1236,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0047 [[mandoku:ZB3k0047.org][ZB3k0047]] 同姓名錄
+*** KR3k0047 同姓名錄-明-余寅
 :PROPERTIES:
+:KR_ID: KR3k0047
 :CUSTOM_ID:  ZB3k0047
 :SOURCE:   四庫全書 文淵閣版, V964.1, p1
 :EXTENT: 12 卷
@@ -1228,8 +1275,9 @@
      :FUNCTION: 撰
      :END:
 
-*** KR3k0048 [[mandoku:ZB3k0048.org][ZB3k0048]] 說畧
+*** KR3k0048 說畧-明-顧起元
 :PROPERTIES:
+:KR_ID: KR3k0048
 :CUSTOM_ID:  ZB3k0048
 :SOURCE:   四庫全書 文淵閣版, V964.2, p341
 :EXTENT: 30 卷
@@ -1246,8 +1294,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0049 [[mandoku:ZB3k0049.org][ZB3k0049]] 天中記
+*** KR3k0049 天中記-明-陳耀文
 :PROPERTIES:
+:KR_ID: KR3k0049
 :CUSTOM_ID:  ZB3k0049
 :SOURCE:   四庫全書 文淵閣版, V965.1, p1 - V967.1
 :EXTENT: 60 卷
@@ -1277,8 +1326,9 @@
      :FUNCTION: 撰
      :END:
 
-*** KR3k0050 [[mandoku:ZB3k0050.org][ZB3k0050]] 圖書編
+*** KR3k0050 圖書編-明-章潢
 :PROPERTIES:
+:KR_ID: KR3k0050
 :CUSTOM_ID:  ZB3k0050
 :SOURCE:   四庫全書 文淵閣版, V968.1, p1 - V972.1
 :EXTENT: 127 卷
@@ -1308,8 +1358,9 @@
      :FUNCTION: 撰
      :END:
 
-*** KR3k0051 [[mandoku:ZB3k0051.org][ZB3k0051]] 駢志
+*** KR3k0051 駢志-明-陳禹謨
 :PROPERTIES:
+:KR_ID: KR3k0051
 :CUSTOM_ID:  ZB3k0051
 :SOURCE:   四庫全書 文淵閣版, V973.1, p1
 :EXTENT: 20 卷
@@ -1325,8 +1376,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0052 [[mandoku:ZB3k0052.org][ZB3k0052]] 山堂肆考
+*** KR3k0052 山堂肆考-明-彭大翼
 :PROPERTIES:
+:KR_ID: KR3k0052
 :CUSTOM_ID:  ZB3k0052
 :SOURCE:   四庫全書 文淵閣版, V974.1, p1 - V978.1
 :EXTENT: 228 卷
@@ -1356,8 +1408,9 @@
      :BOOK:   (126)
      :END:
 
-*** KR3k0053 [[mandoku:ZB3k0053.org][ZB3k0053]] 古儷府
+*** KR3k0053 古儷府-明-王志慶
 :PROPERTIES:
+:KR_ID: KR3k0053
 :CUSTOM_ID:  ZB3k0053
 :SOURCE:   四庫全書 文淵閣版, V979.1, p1
 :EXTENT: 12 卷
@@ -1373,8 +1426,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0054 [[mandoku:ZB3k0054.org][ZB3k0054]] 廣博物志
+*** KR3k0054 廣博物志-明-董斯張
 :PROPERTIES:
+:KR_ID: KR3k0054
 :CUSTOM_ID:  ZB3k0054
 :SOURCE:   四庫全書 文淵閣版, V980.1, p1 - V981.1
 :EXTENT: 50 卷
@@ -1391,8 +1445,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0055 [[mandoku:ZB3k0055.org][ZB3k0055]] 御定淵鑑類函
+*** KR3k0055 御定淵鑑類函-清-張英
 :PROPERTIES:
+:KR_ID: KR3k0055
 :CUSTOM_ID:  ZB3k0055
 :SOURCE:   四庫全書 文淵閣版, V982.1, p1 - V993.1
 :EXTENT: 450 卷
@@ -1428,8 +1483,9 @@
      :BOOK:   (272)
      :END:
 
-*** KR3k0056 [[mandoku:ZB3k0056.org][ZB3k0056]] 御定駢字類編
+*** KR3k0056 御定駢字類編-清-吳士玉
 :PROPERTIES:
+:KR_ID: KR3k0056
 :CUSTOM_ID:  ZB3k0056
 :SOURCE:   四庫全書 文淵閣版, V994.1, p1 - V1004.1
 :EXTENT: 240 卷
@@ -1459,8 +1515,9 @@
      :BOOK:   (210)
      :END:
 
-*** KR3k0057 [[mandoku:ZB3k0057.org][ZB3k0057]] 御定分類字錦
+*** KR3k0057 御定分類字錦-清-何焯
 :PROPERTIES:
+:KR_ID: KR3k0057
 :CUSTOM_ID:  ZB3k0057
 :SOURCE:   四庫全書 文淵閣版, V1005.1, p1 - V1007.1
 :EXTENT: 64 卷
@@ -1491,8 +1548,9 @@
      :BOOK:   (60)
      :END:
 
-*** KR3k0058 [[mandoku:ZB3k0058.org][ZB3k0058]] 御定子史精華
+*** KR3k0058 御定子史精華-清-吳士玉
 :PROPERTIES:
+:KR_ID: KR3k0058
 :CUSTOM_ID:  ZB3k0058
 :SOURCE:   四庫全書 文淵閣版, V1008.1, p1 - V1010.1
 :EXTENT: 160 卷
@@ -1527,8 +1585,9 @@
      :BOOK:   (54)
      :END:
 
-*** KR3k0059 [[mandoku:ZB3k0059.org][ZB3k0059]] 御定佩文韻府
+*** KR3k0059 御定佩文韻府-清-張玉書
 :PROPERTIES:
+:KR_ID: KR3k0059
 :CUSTOM_ID:  ZB3k0059
 :SOURCE:   四庫全書 文淵閣版, V1011.1, p1 - V1028.1
 :EXTENT: 444 卷
@@ -1557,8 +1616,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0060 [[mandoku:ZB3k0060.org][ZB3k0060]] 御定韻府拾遺
+*** KR3k0060 御定韻府拾遺-清-聖祖玄燁
 :PROPERTIES:
+:KR_ID: KR3k0060
 :CUSTOM_ID:  ZB3k0060
 :SOURCE:   四庫全書 文淵閣版, V1029.1, p1 - V1030.1
 :EXTENT: 112 卷
@@ -1576,8 +1636,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0061 [[mandoku:ZB3k0061.org][ZB3k0061]] 格致鏡原
+*** KR3k0061 格致鏡原-清-陳元龍
 :PROPERTIES:
+:KR_ID: KR3k0061
 :CUSTOM_ID:  ZB3k0061
 :SOURCE:   四庫全書 文淵閣版, V1031.1, p1 - V1032.1
 :EXTENT: 100 卷
@@ -1594,8 +1655,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0062 [[mandoku:ZB3k0062.org][ZB3k0062]] 讀書紀數略
+*** KR3k0062 讀書紀數略-清-宮夢仁
 :PROPERTIES:
+:KR_ID: KR3k0062
 :CUSTOM_ID:  ZB3k0062
 :SOURCE:   四庫全書 文淵閣版, V1033.1, p1
 :EXTENT: 54 卷
@@ -1612,8 +1674,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0063 [[mandoku:ZB3k0063.org][ZB3k0063]] 花木鳥獸集類
+*** KR3k0063 花木鳥獸集類-清-吳寶芝
 :PROPERTIES:
+:KR_ID: KR3k0063
 :CUSTOM_ID:  ZB3k0063
 :SOURCE:   四庫全書 文淵閣版, V1034.1, p1
 :EXTENT: 3 卷
@@ -1629,8 +1692,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0064 [[mandoku:ZB3k0064.org][ZB3k0064]] 別號錄
+*** KR3k0064 別號錄-清-葛萬里
 :PROPERTIES:
+:KR_ID: KR3k0064
 :CUSTOM_ID:  ZB3k0064
 :SOURCE:   四庫全書 文淵閣版, V1034.2, p113
 :EXTENT: 9 卷
@@ -1646,8 +1710,9 @@
 
 **** 版本
 ***** WYG
-*** KR3k0065 [[mandoku:ZB3k0065.org][ZB3k0065]] 宋稗類鈔
+*** KR3k0065 宋稗類鈔-清-潘永因
 :PROPERTIES:
+:KR_ID: KR3k0065
 :CUSTOM_ID:  ZB3k0065
 :SOURCE:   四庫全書 文淵閣版, V1034.3, p215
 :EXTENT: 36 卷

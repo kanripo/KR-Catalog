@@ -1,14 +1,16 @@
 #-*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID
 ** KR1j ZB1j 小學類
-*** KR1j0001 [[at:text/chant/H16-28-0100/H16-28-0100_001.txt][H16-28-0100]] 爾雅(正文)
+*** KR1j0001 爾雅(正文)--
     :PROPERTIES:
+:KR_ID: KR1j0001
     :_RESP:    
     :CUSTOM_ID: H16-28-0100
     :SOURCE:   正文據《四部叢刊》影海鹽張氏涉園藏明鈔本。
     :END:
-*** KR1j0002 SB11n013 爾雅
+*** KR1j0002 爾雅-晉-
 :PROPERTIES:
+:KR_ID: KR1j0002
 :TYPE:  text
 :CUSTOM_ID: SB11n013
 :EXTENT: 三卷
@@ -40,8 +42,9 @@
 
 **** 电子版
 [[krpimg:sbck/SB1/SB11n013/SB11n013_001-002.tif][冊 1]]
-*** KR1j0003 SB21n326 爾雅疏
+*** KR1j0003 爾雅疏-宋-邢昺
 :PROPERTIES:
+:KR_ID: KR1j0003
 :EXTENT: 十卷
 :_RESP:    （宋）邢昺
 :CUSTOM_ID: SB21n326
@@ -60,8 +63,9 @@
 :EDITION: 宋刊本
 :END:
 
-*** KR1j0004 ZB1j0001 爾雅注疏
+*** KR1j0004 爾雅注疏-晉-郭璞
 :PROPERTIES:
+:KR_ID: KR1j0004
 :CUSTOM_ID:  ZB1j0001
 :SOURCE:   四庫全書 文淵閣版, V221.1, p1
 :EXTENT: 11 卷
@@ -103,8 +107,9 @@
      :FUNCTION: 撰
      :END:
 
-*** KR1j0005 ZB1j0002 爾雅註
+*** KR1j0005 爾雅註-宋-鄭樵
 :PROPERTIES:
+:KR_ID: KR1j0005
 :CUSTOM_ID:  ZB1j0002
 :SOURCE:   四庫全書 文淵閣版, V221.2, p237
 :EXTENT: 3 卷
@@ -121,8 +126,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0006 ZB1j0003 輶軒使者絕代語釋別國方言
+*** KR1j0006 輶軒使者絕代語釋別國方言-漢-揚雄
 :PROPERTIES:
+:KR_ID: KR1j0006
 :CUSTOM_ID:  ZB1j0003
 :SOURCE:   四庫全書 文淵閣版, V221.3, p281
 :EXTENT: 13 卷
@@ -145,8 +151,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0007 ZB1j0004 釋名
+*** KR1j0007 釋名-漢-劉熙
 :PROPERTIES:
+:KR_ID: KR1j0007
 :CUSTOM_ID:  ZB1j0004
 :SOURCE:   四庫全書 文淵閣版, V221.4, p383
 :EXTENT: 8 卷
@@ -163,8 +170,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0008 ZB1j0005 廣雅
+*** KR1j0008 廣雅-魏-張揖
 :PROPERTIES:
+:KR_ID: KR1j0008
 :CUSTOM_ID:  ZB1j0005
 :SOURCE:   四庫全書 文淵閣版, V221.5, p425
 :EXTENT: 10 卷
@@ -181,8 +189,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0009 ZB1j0006 匡謬正俗
+*** KR1j0009 匡謬正俗-唐-顏師古
 :PROPERTIES:
+:KR_ID: KR1j0009
 :CUSTOM_ID:  ZB1j0006
 :SOURCE:   四庫全書 文淵閣版, V221.6, p471
 :EXTENT: 8 卷
@@ -199,8 +208,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0010 ZB1j0007 羣經音辨
+*** KR1j0010 羣經音辨-宋-賈昌朝
 :PROPERTIES:
+:KR_ID: KR1j0010
 :CUSTOM_ID:  ZB1j0007
 :SOURCE:   四庫全書 文淵閣版, V222.1, p1
 :EXTENT: 7 卷
@@ -217,8 +227,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0011 ZB1j0008 埤雅
+*** KR1j0011 埤雅-宋-陸佃
 :PROPERTIES:
+:KR_ID: KR1j0011
 :CUSTOM_ID:  ZB1j0008
 :SOURCE:   四庫全書 文淵閣版, V222.2, p59
 :EXTENT: 20 卷
@@ -242,8 +253,9 @@
      :BOOK:   (6)
      :END:
 
-*** KR1j0012 ZB1j0009 爾雅翼
+*** KR1j0012 爾雅翼-宋-羅願
 :PROPERTIES:
+:KR_ID: KR1j0012
 :CUSTOM_ID:  ZB1j0009
 :SOURCE:   四庫全書 文淵閣版, V222.3, p239
 :EXTENT: 32 卷
@@ -266,8 +278,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0013 ZB1j0010 駢雅
+*** KR1j0013 駢雅-明-朱謀㙔
 :PROPERTIES:
+:KR_ID: KR1j0013
 :CUSTOM_ID:  ZB1j0010
 :SOURCE:   四庫全書 文淵閣版, V222.4, p515
 :EXTENT: 7 卷
@@ -284,8 +297,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0014 ZB1j0011 字詁
+*** KR1j0014 字詁-清-黃生
 :PROPERTIES:
+:KR_ID: KR1j0014
 :CUSTOM_ID:  ZB1j0011
 :SOURCE:   四庫全書 文淵閣版, V222.5, p549
 :EXTENT: 1 卷
@@ -302,8 +316,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0015 ZB1j0012 續方言
+*** KR1j0015 續方言-清-杭世駿
 :PROPERTIES:
+:KR_ID: KR1j0015
 :CUSTOM_ID:  ZB1j0012
 :SOURCE:   四庫全書 文淵閣版, V222.6, p585
 :EXTENT: 2 卷
@@ -320,8 +335,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0016 ZB1j0013 別雅
+*** KR1j0016 別雅-清-吳玉搢
 :PROPERTIES:
+:KR_ID: KR1j0016
 :CUSTOM_ID:  ZB1j0013
 :SOURCE:   四庫全書 文淵閣版, V222.7, p607
 :EXTENT: 5 卷
@@ -338,8 +354,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0017 ZB1j0014 急就篇
+*** KR1j0017 急就篇-漢-史游
 :PROPERTIES:
+:KR_ID: KR1j0017
 :CUSTOM_ID:  ZB1j0014
 :SOURCE:   四庫全書 文淵閣版, V223.1, p1
 :EXTENT: 4 卷
@@ -368,8 +385,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0018 ZB1j0015 說文解字
+*** KR1j0018 說文解字-漢-許愼
 :PROPERTIES:
+:KR_ID: KR1j0018
 :CUSTOM_ID:  ZB1j0015
 :SOURCE:   四庫全書 文淵閣版, V223.2, p63
 :EXTENT: 30 卷
@@ -392,8 +410,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0019 ZB1j0016 說文繫傳
+*** KR1j0019 說文繫傳-南唐-徐鍇
 :PROPERTIES:
+:KR_ID: KR1j0019
 :CUSTOM_ID:  ZB1j0016
 :SOURCE:   四庫全書 文淵閣版, V223.3, p385
 :EXTENT: 40 卷
@@ -416,8 +435,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0020 ZB1j0017 說文繫傳考異
+*** KR1j0020 說文繫傳考異-清-汪憲
 :PROPERTIES:
+:KR_ID: KR1j0020
 :CUSTOM_ID:  ZB1j0017
 :SOURCE:   四庫全書 文淵閣版, V223.4, p791
 :EXTENT: 4 卷
@@ -441,8 +461,9 @@
      :BOOK:   (2)
      :END:
 
-*** KR1j0021 ZB1j0018 說文解字篆韻譜
+*** KR1j0021 說文解字篆韻譜-南唐-徐鍇
 :PROPERTIES:
+:KR_ID: KR1j0021
 :CUSTOM_ID:  ZB1j0018
 :SOURCE:   四庫全書 文淵閣版, V223.5, p849
 :EXTENT: 5 卷
@@ -459,8 +480,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0022 ZB1j0019 重修玉篇
+*** KR1j0022 重修玉篇-梁-顧野王
 :PROPERTIES:
+:KR_ID: KR1j0022
 :CUSTOM_ID:  ZB1j0019
 :SOURCE:   四庫全書 文淵閣版, V224.1, p1
 :EXTENT: 30 卷
@@ -515,8 +537,9 @@
      :BOOK:   (6)
      :END:
 
-*** KR1j0023 ZB1j0020 千祿字書
+*** KR1j0023 千祿字書-唐-顏元孫
 :PROPERTIES:
+:KR_ID: KR1j0023
 :CUSTOM_ID:  ZB1j0020
 :SOURCE:   四庫全書 文淵閣版, V224.2, p243
 :EXTENT: 1 卷
@@ -533,8 +556,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0024 ZB1j0021 五經文字
+*** KR1j0024 五經文字-唐-張參
 :PROPERTIES:
+:KR_ID: KR1j0024
 :CUSTOM_ID:  ZB1j0021
 :SOURCE:   四庫全書 文淵閣版, V224.3, p251
 :EXTENT: 3 卷
@@ -551,8 +575,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0025 ZB1j0022 九經字樣
+*** KR1j0025 九經字樣-唐-唐玄度
 :PROPERTIES:
+:KR_ID: KR1j0025
 :CUSTOM_ID:  ZB1j0022
 :SOURCE:   四庫全書 文淵閣版, V224.4, p295
 :EXTENT: 1 卷
@@ -569,8 +594,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0026 ZB1j0023 汗簡
+*** KR1j0026 汗簡-宋-郭忠恕
 :PROPERTIES:
+:KR_ID: KR1j0026
 :CUSTOM_ID:  ZB1j0023
 :SOURCE:   四庫全書 文淵閣版, V224.5, p307
 :EXTENT: 3 卷
@@ -594,8 +620,9 @@
      :BOOK:   (3)
      :END:
 
-*** KR1j0027 ZB1j0024 佩觽
+*** KR1j0027 佩觽-宋-郭忠恕
 :PROPERTIES:
+:KR_ID: KR1j0027
 :CUSTOM_ID:  ZB1j0024
 :SOURCE:   四庫全書 文淵閣版, V224.6, p377
 :EXTENT: 3 卷
@@ -612,8 +639,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0028 ZB1j0025 古文四聲韻
+*** KR1j0028 古文四聲韻-宋-夏竦
 :PROPERTIES:
+:KR_ID: KR1j0028
 :CUSTOM_ID:  ZB1j0025
 :SOURCE:   四庫全書 文淵閣版, V224.7, p413
 :EXTENT: 5 卷
@@ -630,8 +658,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0029 ZB1j0026 類篇
+*** KR1j0029 類篇-宋-司馬光
 :PROPERTIES:
+:KR_ID: KR1j0029
 :CUSTOM_ID:  ZB1j0026
 :SOURCE:   四庫全書 文淵閣版, V225.1, p1
 :EXTENT: 45 卷
@@ -648,8 +677,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0030 ZB1j0027 歷代鐘鼎彝器款識法帖
+*** KR1j0030 歷代鐘鼎彝器款識法帖-宋-薛尚功
 :PROPERTIES:
+:KR_ID: KR1j0030
 :CUSTOM_ID:  ZB1j0027
 :SOURCE:   四庫全書 文淵閣版, V225.2, p503
 :EXTENT: 20 卷
@@ -666,8 +696,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0031 ZB1j0028 復古編
+*** KR1j0031 復古編-宋-張有
 :PROPERTIES:
+:KR_ID: KR1j0031
 :CUSTOM_ID:  ZB1j0028
 :SOURCE:   四庫全書 文淵閣版, V225.3, p679
 :EXTENT: 11 卷
@@ -684,8 +715,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0032 ZB1j0029 班馬字類
+*** KR1j0032 班馬字類-宋-婁機
 :PROPERTIES:
+:KR_ID: KR1j0032
 :CUSTOM_ID:  ZB1j0029
 :SOURCE:   四庫全書 文淵閣版, V225.4, p749
 :EXTENT: 5 卷
@@ -702,8 +734,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0033 ZB1j0030 漢隸字源
+*** KR1j0033 漢隸字源-宋-婁機
 :PROPERTIES:
+:KR_ID: KR1j0033
 :CUSTOM_ID:  ZB1j0030
 :SOURCE:   四庫全書 文淵閣版, V225.5, p791
 :EXTENT: 6 卷
@@ -720,8 +753,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0034 ZB1j0031 六書故
+*** KR1j0034 六書故-宋-戴侗
 :PROPERTIES:
+:KR_ID: KR1j0034
 :CUSTOM_ID:  ZB1j0031
 :SOURCE:   四庫全書 文淵閣版, V226.1, p1
 :EXTENT: 33 卷
@@ -745,8 +779,9 @@
      :BOOK:   (12)
      :END:
 
-*** KR1j0035 ZB1j0032 字通
+*** KR1j0035 字通-宋-李從周
 :PROPERTIES:
+:KR_ID: KR1j0035
 :CUSTOM_ID:  ZB1j0032
 :SOURCE:   四庫全書 文淵閣版, V226.2, p619
 :EXTENT: 2 卷
@@ -762,8 +797,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0036 ZB1j0033 龍龕手鑑
+*** KR1j0036 龍龕手鑑-遼-釋行均
 :PROPERTIES:
+:KR_ID: KR1j0036
 :CUSTOM_ID:  ZB1j0033
 :SOURCE:   四庫全書 文淵閣版, V226.3, p647
 :EXTENT: 4 卷
@@ -780,8 +816,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0037 ZB1j0034 六書統
+*** KR1j0037 六書統-元-楊桓
 :PROPERTIES:
+:KR_ID: KR1j0037
 :CUSTOM_ID:  ZB1j0034
 :SOURCE:   四庫全書 文淵閣版, V227.1, p1
 :EXTENT: 20 卷
@@ -797,8 +834,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0038 ZB1j0035 周秦刻石釋音
+*** KR1j0038 周秦刻石釋音-元-吾丘衍
 :PROPERTIES:
+:KR_ID: KR1j0038
 :CUSTOM_ID:  ZB1j0035
 :SOURCE:   四庫全書 文淵閣版, V228.1, p1
 :EXTENT: 1 卷
@@ -815,8 +853,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0039 ZB1j0036 字鑑
+*** KR1j0039 字鑑-元-李文仲
 :PROPERTIES:
+:KR_ID: KR1j0039
 :CUSTOM_ID:  ZB1j0036
 :SOURCE:   四庫全書 文淵閣版, V228.2, p17
 :EXTENT: 5 卷
@@ -833,8 +872,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0040 ZB1j0037 說文字原
+*** KR1j0040 說文字原-元-周伯琦
 :PROPERTIES:
+:KR_ID: KR1j0040
 :CUSTOM_ID:  ZB1j0037
 :SOURCE:   四庫全書 文淵閣版, V228.3, p75
 :EXTENT: 1 卷
@@ -851,8 +891,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0041 ZB1j0037a 六書正譌
+*** KR1j0041 六書正譌-元-周伯琦
 :PROPERTIES:
+:KR_ID: KR1j0041
 :SOURCE:   四庫全書 文淵閣版, V228.4, p106
 :EXTENT: 5 卷
 :BOOK:   2
@@ -869,8 +910,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0042 ZB1j0038 漢隸分韻
+*** KR1j0042 漢隸分韻--闕名
 :PROPERTIES:
+:KR_ID: KR1j0042
 :CUSTOM_ID:  ZB1j0038
 :SOURCE:   四庫全書 文淵閣版, V228.5, p183
 :EXTENT: 7 卷
@@ -885,8 +927,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0043 ZB1j0039 六書本義
+*** KR1j0043 六書本義-明-趙撝謙
 :PROPERTIES:
+:KR_ID: KR1j0043
 :CUSTOM_ID:  ZB1j0039
 :SOURCE:   四庫全書 文淵閣版, V228.6, p285
 :EXTENT: 12 卷
@@ -916,8 +959,9 @@
      :BOOK:   (4)
      :END:
 
-*** KR1j0044 ZB1j0040 奇字韻
+*** KR1j0044 奇字韻-明-楊愼
 :PROPERTIES:
+:KR_ID: KR1j0044
 :CUSTOM_ID:  ZB1j0040
 :SOURCE:   四庫全書 文淵閣版, V228.7, p375
 :EXTENT: 5 卷
@@ -934,8 +978,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0045 ZB1j0041 古音駢字
+*** KR1j0045 古音駢字-明-楊愼
 :PROPERTIES:
+:KR_ID: KR1j0045
 :CUSTOM_ID:  ZB1j0041
 :SOURCE:   四庫全書 文淵閣版, V228.8, p399
 :EXTENT: 2 卷
@@ -971,8 +1016,9 @@
      :FUNCTION: 撰
      :END:
 
-*** KR1j0046 ZB1j0042 俗書刋誤
+*** KR1j0046 俗書刋誤-明-焦竑
 :PROPERTIES:
+:KR_ID: KR1j0046
 :CUSTOM_ID:  ZB1j0042
 :SOURCE:   四庫全書 文淵閣版, V228.9, p539
 :EXTENT: 12 卷
@@ -989,8 +1035,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0047 ZB1j0043 字㝈
+*** KR1j0047 字㝈-明-葉秉敬
 :PROPERTIES:
+:KR_ID: KR1j0047
 :CUSTOM_ID:  ZB1j0043
 :SOURCE:   四庫全書 文淵閣版, V228.10, p587
 :EXTENT: 2 卷
@@ -1006,8 +1053,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0048 ZB1j0044 御定康熙字典
+*** KR1j0048 御定康熙字典-清-張玉書
 :PROPERTIES:
+:KR_ID: KR1j0048
 :CUSTOM_ID:  ZB1j0044
 :SOURCE:   四庫全書 文淵閣版, V229.1, p1 - V231.1
 :EXTENT: 36 卷
@@ -1073,8 +1121,9 @@
      :BOOK:   (40)
      :END:
 
-*** KR1j0049 ZB1j0045 御製增訂清文鑑
+*** KR1j0049 御製增訂清文鑑-清-傅恒
 :PROPERTIES:
+:KR_ID: KR1j0049
 :CUSTOM_ID:  ZB1j0045
 :SOURCE:   四庫全書 文淵閣版, V232.1, p1 - V233.1
 :EXTENT: 32 卷
@@ -1113,8 +1162,9 @@
      :BOOK:   (41)
      :END:
 
-*** KR1j0050 ZB1j0046 御製滿珠蒙古漢字三合切音清文鑑
+*** KR1j0050 御製滿珠蒙古漢字三合切音清文鑑-清-阿桂
 :PROPERTIES:
+:KR_ID: KR1j0050
 :CUSTOM_ID:  ZB1j0046
 :SOURCE:   四庫全書 文淵閣版, V234.1, p1
 :EXTENT: 31 卷
@@ -1132,8 +1182,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0051 ZB1j0047 欽定西域同文志
+*** KR1j0051 欽定西域同文志-清-傅恒
 :PROPERTIES:
+:KR_ID: KR1j0051
 :CUSTOM_ID:  ZB1j0047
 :SOURCE:   四庫全書 文淵閣版, V235.1, p1
 :EXTENT: 24 卷
@@ -1151,8 +1202,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0052 ZB1j0048 隸辨
+*** KR1j0052 隸辨-清-顧藹吉
 :PROPERTIES:
+:KR_ID: KR1j0052
 :CUSTOM_ID:  ZB1j0048
 :SOURCE:   四庫全書 文淵閣版, V235.2, p431
 :EXTENT: 8 卷
@@ -1169,8 +1221,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0053 ZB1j0049 篆隸考異
+*** KR1j0053 篆隸考異-清-周靖
 :PROPERTIES:
+:KR_ID: KR1j0053
 :CUSTOM_ID:  ZB1j0049
 :SOURCE:   四庫全書 文淵閣版, V235.3, p845
 :EXTENT: 4 卷
@@ -1187,8 +1240,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0054 ZB1j0050 原本廣韻
+*** KR1j0054 原本廣韻--闕名
 :PROPERTIES:
+:KR_ID: KR1j0054
 :CUSTOM_ID:  ZB1j0050
 :SOURCE:   四庫全書 文淵閣版, V236.1, p1
 :EXTENT: 5 卷
@@ -1203,8 +1257,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0055 ZB1j0051 重修廣韻
+*** KR1j0055 重修廣韻-宋-陳彭年
 :PROPERTIES:
+:KR_ID: KR1j0055
 :CUSTOM_ID:  ZB1j0051
 :SOURCE:   四庫全書 文淵閣版, V236.2, p223
 :EXTENT: 5 卷
@@ -1227,8 +1282,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0056 SB11n024 大廣益會玉篇
+*** KR1j0056 大廣益會玉篇-宋-
 :PROPERTIES:
+:KR_ID: KR1j0056
 :TYPE:  text
 :CUSTOM_ID: SB11n024
 :EXTENT: 三十卷
@@ -1255,8 +1311,9 @@
 [[krpimg:sbck/SB1/SB11n024/SB11n024_001-002.tif][冊 1]]
 [[krpimg:sbck/SB1/SB11n024/SB11n024_002-002.tif][冊 2]]
 [[krpimg:sbck/SB1/SB11n024/SB11n024_003-002.tif][冊 3]]
-*** KR1j0057 ZB1j0052 集韻
+*** KR1j0057 集韻-宋-丁度
 :PROPERTIES:
+:KR_ID: KR1j0057
 :CUSTOM_ID:  ZB1j0052
 :SOURCE:   四庫全書 文淵閣版, V236.3, p433
 :EXTENT: 10 卷
@@ -1279,8 +1336,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0058 ZB1j0053 切韻指掌圖
+*** KR1j0058 切韻指掌圖-宋-司馬光
 :PROPERTIES:
+:KR_ID: KR1j0058
 :CUSTOM_ID:  ZB1j0053
 :SOURCE:   四庫全書 文淵閣版, V237.1, p1
 :EXTENT: 3 卷
@@ -1310,8 +1368,9 @@
      :FUNCTION: 撰
      :END:
 
-*** KR1j0059 ZB1j0054 韻補
+*** KR1j0059 韻補-宋-吳棫
 :PROPERTIES:
+:KR_ID: KR1j0059
 :CUSTOM_ID:  ZB1j0054
 :SOURCE:   四庫全書 文淵閣版, V237.2, p55
 :EXTENT: 5 卷
@@ -1328,8 +1387,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0060 ZB1j0055 附釋文互註禮部韻略
+*** KR1j0060 附釋文互註禮部韻略-宋-丁度
 :PROPERTIES:
+:KR_ID: KR1j0060
 :CUSTOM_ID:  ZB1j0055
 :SOURCE:   四庫全書 文淵閣版, V237.3, p133
 :EXTENT: 5 卷
@@ -1353,8 +1413,9 @@
      :BOOK:   1
      :END:
 
-*** KR1j0061 ZB1j0056 增修互註禮部韻略
+*** KR1j0061 增修互註禮部韻略-宋-毛晃
 :PROPERTIES:
+:KR_ID: KR1j0061
 :CUSTOM_ID:  ZB1j0056
 :SOURCE:   四庫全書 文淵閣版, V237.4, p333
 :EXTENT: 5 卷
@@ -1377,8 +1438,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0062 ZB1j0057 增修校正押韻釋疑
+*** KR1j0062 增修校正押韻釋疑-宋-歐陽德隆
 :PROPERTIES:
+:KR_ID: KR1j0062
 :CUSTOM_ID:  ZB1j0057
 :SOURCE:   四庫全書 文淵閣版, V237.5, p587
 :EXTENT: 5 卷
@@ -1408,8 +1470,9 @@
      :BOOK:   (5)
      :END:
 
-*** KR1j0063 ZB1j0058 九經補韻
+*** KR1j0063 九經補韻-宋-楊伯嵒
 :PROPERTIES:
+:KR_ID: KR1j0063
 :CUSTOM_ID:  ZB1j0058
 :SOURCE:   四庫全書 文淵閣版, V237.6, p767
 :EXTENT: 1 卷
@@ -1425,8 +1488,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0064 ZB1j0059 五音集韻
+*** KR1j0064 五音集韻-金-韓道昭
 :PROPERTIES:
+:KR_ID: KR1j0064
 :CUSTOM_ID:  ZB1j0059
 :SOURCE:   四庫全書 文淵閣版, V238.1, p1
 :EXTENT: 15 卷
@@ -1443,8 +1507,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0065 ZB1j0060 古今韻會擧要
+*** KR1j0065 古今韻會擧要-元-黃公紹
 :PROPERTIES:
+:KR_ID: KR1j0065
 :CUSTOM_ID:  ZB1j0060
 :SOURCE:   四庫全書 文淵閣版, V238.2, p357
 :EXTENT: 30 卷
@@ -1473,8 +1538,9 @@
      :BOOK:   (12)
      :END:
 
-*** KR1j0066 ZB1j0061 四聲全形等子
+*** KR1j0066 四聲全形等子--闕名
 :PROPERTIES:
+:KR_ID: KR1j0066
 :CUSTOM_ID:  ZB1j0061
 :SOURCE:   四庫全書 文淵閣版, V238.3, p837
 :EXTENT: 1 卷
@@ -1489,8 +1555,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0067 ZB1j0062 經史正音切韻指南
+*** KR1j0067 經史正音切韻指南-元-劉鑑
 :PROPERTIES:
+:KR_ID: KR1j0067
 :CUSTOM_ID:  ZB1j0062
 :SOURCE:   四庫全書 文淵閣版, V238.4, p853
 :EXTENT: 1 卷
@@ -1507,8 +1574,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0068 ZB1j0063 洪武正韻
+*** KR1j0068 洪武正韻-明-樂韶鳳
 :PROPERTIES:
+:KR_ID: KR1j0068
 :CUSTOM_ID:  ZB1j0063
 :SOURCE:   四庫全書 文淵閣版, V239.1, p1
 :EXTENT: 16 卷
@@ -1531,8 +1599,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0069 ZB1j0064 古音叢目
+*** KR1j0069 古音叢目-明-楊愼
 :PROPERTIES:
+:KR_ID: KR1j0069
 :CUSTOM_ID:  ZB1j0064
 :SOURCE:   四庫全書 文淵閣版, V239.2, p241
 :EXTENT: 5 卷
@@ -1570,8 +1639,9 @@
      :BOOK:   (3)
      :END:
 
-*** KR1j0070 ZB1j0065 古音略例
+*** KR1j0070 古音略例-明-楊愼
 :PROPERTIES:
+:KR_ID: KR1j0070
 :CUSTOM_ID:  ZB1j0065
 :SOURCE:   四庫全書 文淵閣版, V239.3, p333
 :EXTENT: 1 卷
@@ -1588,8 +1658,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0071 ZB1j0066 轉注古音略
+*** KR1j0071 轉注古音略-明-楊愼
 :PROPERTIES:
+:KR_ID: KR1j0071
 :CUSTOM_ID:  ZB1j0066
 :SOURCE:   四庫全書 文淵閣版, V239.4, p349
 :EXTENT: 5 卷
@@ -1606,8 +1677,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0072 ZB1j0067 毛詩古音考
+*** KR1j0072 毛詩古音考-明-陳第
 :PROPERTIES:
+:KR_ID: KR1j0072
 :CUSTOM_ID:  ZB1j0067
 :SOURCE:   四庫全書 文淵閣版, V239.5, p403
 :EXTENT: 4 卷
@@ -1624,8 +1696,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0073 ZB1j0068 屈宋古音義
+*** KR1j0073 屈宋古音義-明-陳第
 :PROPERTIES:
+:KR_ID: KR1j0073
 :CUSTOM_ID:  ZB1j0068
 :SOURCE:   四庫全書 文淵閣版, V239.6, p519
 :EXTENT: 3 卷
@@ -1642,8 +1715,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0074 ZB1j0069 御定音韻闡微
+*** KR1j0074 御定音韻闡微-清-李光地
 :PROPERTIES:
+:KR_ID: KR1j0074
 :CUSTOM_ID:  ZB1j0069
 :SOURCE:   四庫全書 文淵閣版, V240.1, p1
 :EXTENT: 18 卷
@@ -1668,8 +1742,9 @@
      :BOOK:   (12)
      :END:
 
-*** KR1j0075 ZB1j0070 欽定同文韻統
+*** KR1j0075 欽定同文韻統-清-允祿
 :PROPERTIES:
+:KR_ID: KR1j0075
 :CUSTOM_ID:  ZB1j0070
 :SOURCE:   四庫全書 文淵閣版, V240.2, p359
 :EXTENT: 6 卷
@@ -1692,8 +1767,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0076 ZB1j0071 欽定叶韻彙輯
+*** KR1j0076 欽定叶韻彙輯-清-梁詩正
 :PROPERTIES:
+:KR_ID: KR1j0076
 :CUSTOM_ID:  ZB1j0071
 :SOURCE:   四庫全書 文淵閣版, V240.3, p449
 :EXTENT: 58 卷
@@ -1716,8 +1792,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0077 ZB1j0072 欽定音韻述微
+*** KR1j0077 欽定音韻述微-清-梁國治
 :PROPERTIES:
+:KR_ID: KR1j0077
 :CUSTOM_ID:  ZB1j0072
 :SOURCE:   四庫全書 文淵閣版, V240.4, p853
 :EXTENT: 30 卷
@@ -1735,8 +1812,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0078 ZB1j0073 音論
+*** KR1j0078 音論-清-顧炎武
 :PROPERTIES:
+:KR_ID: KR1j0078
 :CUSTOM_ID:  ZB1j0073
 :SOURCE:   四庫全書 文淵閣版, V241.1, p1
 :EXTENT: 3 卷
@@ -1753,8 +1831,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0079 ZB1j0074 詩本音
+*** KR1j0079 詩本音-清-顧炎武
 :PROPERTIES:
+:KR_ID: KR1j0079
 :CUSTOM_ID:  ZB1j0074
 :SOURCE:   四庫全書 文淵閣版, V241.2, p33
 :EXTENT: 10 卷
@@ -1771,8 +1850,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0080 ZB1j0075 易音
+*** KR1j0080 易音-清-顧炎武
 :PROPERTIES:
+:KR_ID: KR1j0080
 :CUSTOM_ID:  ZB1j0075
 :SOURCE:   四庫全書 文淵閣版, V241.3, p143
 :EXTENT: 3 卷
@@ -1789,8 +1869,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0081 ZB1j0076 唐韻正
+*** KR1j0081 唐韻正-清-顧炎武
 :PROPERTIES:
+:KR_ID: KR1j0081
 :CUSTOM_ID:  ZB1j0076
 :SOURCE:   四庫全書 文淵閣版, V241.4, p167
 :EXTENT: 20 卷
@@ -1807,8 +1888,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0082 ZB1j0077 古音表
+*** KR1j0082 古音表-清-顧炎武
 :PROPERTIES:
+:KR_ID: KR1j0082
 :CUSTOM_ID:  ZB1j0077
 :SOURCE:   四庫全書 文淵閣版, V241.5, p521
 :EXTENT: 2 卷
@@ -1825,8 +1907,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0083 ZB1j0078 韻補正
+*** KR1j0083 韻補正-清-顧炎武
 :PROPERTIES:
+:KR_ID: KR1j0083
 :CUSTOM_ID:  ZB1j0078
 :SOURCE:   四庫全書 文淵閣版, V241.6, p535
 :EXTENT: 1 卷
@@ -1843,8 +1926,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0084 ZB1j0079 古今通韻
+*** KR1j0084 古今通韻-清-毛奇齡
 :PROPERTIES:
+:KR_ID: KR1j0084
 :CUSTOM_ID:  ZB1j0079
 :SOURCE:   四庫全書 文淵閣版, V242.1, p1
 :EXTENT: 12 卷
@@ -1861,8 +1945,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0085 ZB1j0080 易韻
+*** KR1j0085 易韻-清-毛奇齡
 :PROPERTIES:
+:KR_ID: KR1j0085
 :CUSTOM_ID:  ZB1j0080
 :SOURCE:   四庫全書 文淵閣版, V242.2, p297
 :EXTENT: 4 卷
@@ -1879,8 +1964,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0086 ZB1j0081 孫氏唐韻考
+*** KR1j0086 孫氏唐韻考-清-紀容舒
 :PROPERTIES:
+:KR_ID: KR1j0086
 :CUSTOM_ID:  ZB1j0081
 :SOURCE:   四庫全書 文淵閣版, V242.3, p337
 :EXTENT: 5 卷
@@ -1897,8 +1983,9 @@
 
 **** 版本
 ***** WYG
-*** KR1j0087 ZB1j0082 古韻標準
+*** KR1j0087 古韻標準-清-江永
 :PROPERTIES:
+:KR_ID: KR1j0087
 :CUSTOM_ID:  ZB1j0082
 :SOURCE:   四庫全書 文淵閣版, V242.4, p483
 :EXTENT: 4 卷
@@ -1922,8 +2009,9 @@
      :BOOK:   (2)
      :END:
 
-*** KR1j0088 ZB1j0083 六藝綱目
+*** KR1j0088 六藝綱目-元-舒天民
 :PROPERTIES:
+:KR_ID: KR1j0088
 :CUSTOM_ID:  ZB1j0083
 :SOURCE:   四庫全書 文淵閣版, V242.5, p581
 :EXTENT: 2 卷

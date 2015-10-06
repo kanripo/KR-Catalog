@@ -1,7 +1,8 @@
 #-*- mode: org; -*-
 ** KR6t 續諸宗
-*** KR6t0001 T70n2306 三論名教抄
+*** KR6t0001 三論名教抄--珍海
 :PROPERTIES:
+:KR_ID: KR6t0001
 :EXTRA_ID: T:T70n2306
 :GENRE: 諸宗
 :lang@ja-rom: SANROM MYŌKYŌ SHŌ
@@ -14,8 +15,9 @@
 :PROPERTIES:
 :lang@ja-rom: Chinkai
 :END:
-*** KR6t0002 T70n2307A 三論興縁
+*** KR6t0002 三論興縁--聖守
 :PROPERTIES:
+:KR_ID: KR6t0002
 :EXTRA_ID: T:T70n2307A
 :GENRE: 諸宗
 :lang@ja-rom: SANRON KŌEN
@@ -28,8 +30,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shōshu
 :END:
-*** KR6t0003 T70n2307B 三論宗濫觴
+*** KR6t0003 三論宗濫觴--
 :PROPERTIES:
+:KR_ID: KR6t0003
 :EXTRA_ID: T:T70n2307B
 :GENRE: 諸宗
 :lang@ja-rom: SANRONSHŪ RANSHŌ
@@ -37,8 +40,9 @@
 :EXTENT: I
 :END:
 [[img:T/T70/08/T70-0838.tif][T70, p.838]]
-*** KR6t0004 T70n2308 三論宗初心初學鈔
+*** KR6t0004 三論宗初心初學鈔--實慶
 :PROPERTIES:
+:KR_ID: KR6t0004
 :EXTRA_ID: T:T70n2308
 :GENRE: 諸宗
 :lang@ja-rom: SANRONSHŪ SHOSHIN SHOGAKU SHŌ
@@ -51,8 +55,9 @@
 :PROPERTIES:
 :lang@ja-rom: Jikkei
 :END:
-*** KR6t0005 T71n2309 大乘法相研神章
+*** KR6t0005 大乘法相研神章--護命
 :PROPERTIES:
+:KR_ID: KR6t0005
 :EXTRA_ID: T:T71n2309
 :GENRE: 諸宗
 :lang@ja-rom: DAIJŌ HOSSŌ KENJINSHŌ
@@ -65,8 +70,9 @@
 :PROPERTIES:
 :lang@ja-rom: Gomyō
 :END:
-*** KR6t0006 T71n2310 法相燈明記
+*** KR6t0006 法相燈明記--慚安
 :PROPERTIES:
+:KR_ID: KR6t0006
 :EXTRA_ID: T:T71n2310
 :GENRE: 諸宗
 :lang@ja-rom: HOSSHŌ TŌMYŌKI
@@ -79,8 +85,9 @@
 :PROPERTIES:
 :lang@ja-rom: Zaṇan
 :END:
-*** KR6t0007 T71n2311 心要鈔
+*** KR6t0007 心要鈔--貞慶
 :PROPERTIES:
+:KR_ID: KR6t0007
 :EXTRA_ID: T:T71n2311
 :GENRE: 諸宗
 :lang@ja-rom: SHIṄYŌ SHŌ
@@ -93,8 +100,9 @@
 :PROPERTIES:
 :lang@ja-rom: Jōkei
 :END:
-*** KR6t0008 T71n2312 觀心覺夢鈔
+*** KR6t0008 觀心覺夢鈔--良遍
 :PROPERTIES:
+:KR_ID: KR6t0008
 :EXTRA_ID: T:T71n2312
 :GENRE: 諸宗
 :lang@ja-rom: KANJIN KAKUMU SHŌ
@@ -107,8 +115,9 @@
 :PROPERTIES:
 :lang@ja-rom: Ryōhen
 :END:
-*** KR6t0009 T71n2313 眞心要決
+*** KR6t0009 眞心要決--良遍
 :PROPERTIES:
+:KR_ID: KR6t0009
 :EXTRA_ID: T:T71n2313
 :GENRE: 諸宗
 :lang@ja-rom: SHINSHIN YŌKETSU
@@ -121,8 +130,9 @@
 :PROPERTIES:
 :lang@ja-rom: Ryōhen
 :END:
-*** KR6t0010 T71n2314 二卷鈔
+*** KR6t0010 二卷鈔--良遍
 :PROPERTIES:
+:KR_ID: KR6t0010
 :EXTRA_ID: T:T71n2314
 :GENRE: 諸宗
 :lang@ja-rom: NIKAN SHŌ
@@ -135,8 +145,9 @@
 :PROPERTIES:
 :lang@ja-rom: Ryōhen
 :END:
-*** KR6t0011 T71n2315 略述法相義
+*** KR6t0011 略述法相義--聞證
 :PROPERTIES:
+:KR_ID: KR6t0011
 :EXTRA_ID: T:T71n2315
 :GENRE: 諸宗
 :lang@ja-rom: RYAKUJUTSU HOSSŌGI
@@ -149,8 +160,9 @@
 :PROPERTIES:
 :lang@ja-rom: Monshō
 :END:
-*** KR6t0012 T71n2316 大乘一切法相玄論
+*** KR6t0012 大乘一切法相玄論--基辧
 :PROPERTIES:
+:KR_ID: KR6t0012
 :EXTRA_ID: T:T71n2316
 :GENRE: 諸宗
 :lang@ja-rom: DAIJŌ ISSAI HOSSŌ GENRON
@@ -163,8 +175,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kiben
 :END:
-*** KR6t0013 T71n2317 法苑義鏡
+*** KR6t0013 法苑義鏡--善珠
 :PROPERTIES:
+:KR_ID: KR6t0013
 :EXTRA_ID: T:T71n2317
 :RELATED: T45n1861-11@諸宗, T45n1861-2@諸宗, T45n1861-4@諸宗, T45n1861-7@諸宗, T45n1861-8@諸宗, T45n1861-9@諸宗, T71n2318@諸宗, T71n2320@諸宗, T71n2323@諸宗
 :GENRE: 諸宗
@@ -178,8 +191,9 @@
 :PROPERTIES:
 :lang@ja-rom: Zenju
 :END:
-*** KR6t0014 T71n2318 五心義略記
+*** KR6t0014 五心義略記--清範
 :PROPERTIES:
+:KR_ID: KR6t0014
 :EXTRA_ID: T:T71n2318
 :RELATED: T45n1861-2@諸宗, T71n2317-1@諸宗, T71n2323@諸宗
 :GENRE: 諸宗
@@ -193,8 +207,9 @@
 :PROPERTIES:
 :lang@ja-rom: Seihan
 :END:
-*** KR6t0015 T71n2319 唯識義私記
+*** KR6t0015 唯識義私記--眞興
 :PROPERTIES:
+:KR_ID: KR6t0015
 :EXTRA_ID: T:T71n2319
 :RELATED: T45n1861-3@諸宗, T71n2323@諸宗
 :GENRE: 諸宗
@@ -208,8 +223,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shinkō
 :END:
-*** KR6t0016 T71n2320 法相宗賢聖義略問答卷第四
+*** KR6t0016 法相宗賢聖義略問答卷第四--仲算
 :PROPERTIES:
+:KR_ID: KR6t0016
 :EXTRA_ID: T:T71n2320
 :RELATED: T45n1861-7@諸宗, T71n2317-3@諸宗, T71n2323@諸宗
 :GENRE: 諸宗
@@ -223,8 +239,9 @@
 :PROPERTIES:
 :lang@ja-rom: Chūzan
 :END:
-*** KR6t0017 T71n2321 唯識分量決
+*** KR6t0017 唯識分量決--善珠
 :PROPERTIES:
+:KR_ID: KR6t0017
 :EXTRA_ID: T:T71n2321
 :GENRE: 諸宗
 :lang@ja-rom: YUISHIKI BUNRYŌ KETSU
@@ -237,8 +254,9 @@
 :PROPERTIES:
 :lang@ja-rom: Zenju
 :END:
-*** KR6t0018 T71n2322 四分義極略私記
+*** KR6t0018 四分義極略私記--忠算
 :PROPERTIES:
+:KR_ID: KR6t0018
 :EXTRA_ID: T:T71n2322
 :GENRE: 諸宗
 :lang@ja-rom: SHIBUNGI GOKURYAKU SHIKI
@@ -251,8 +269,9 @@
 :PROPERTIES:
 :lang@ja-rom: Chūzan
 :END:
-*** KR6t0019 T71n2323 大乘法苑義林章師子吼鈔
+*** KR6t0019 大乘法苑義林章師子吼鈔--基辧
 :PROPERTIES:
+:KR_ID: KR6t0019
 :EXTRA_ID: T:T71n2323
 :RELATED: T45n1861@諸宗, T71n2317@諸宗, T71n2318@諸宗, T71n2319@諸宗, T71n2320@諸宗
 :GENRE: 諸宗
@@ -266,8 +285,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kiben
 :END:
-*** KR6t0020 T71n2324 七十五法名目
+*** KR6t0020 七十五法名目--
 :PROPERTIES:
+:KR_ID: KR6t0020
 :EXTRA_ID: T:T71n2324
 :GENRE: 諸宗
 :lang@ja-rom: SHICHIJŪGOHŌ MYŌMOKU
@@ -275,8 +295,9 @@
 :EXTENT: I
 :END:
 [[img:T/T71/08/T71-0888.tif][T71, p.888]]
-*** KR6t0021 T71n2325 有宗七十五法記
+*** KR6t0021 有宗七十五法記--宗禎
 :PROPERTIES:
+:KR_ID: KR6t0021
 :EXTRA_ID: T:T71n2325
 :GENRE: 諸宗
 :lang@ja-rom: USHŪ SHICHIJŪGOHŌ KI
@@ -289,8 +310,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shūtei
 :END:
-*** KR6t0022 T72n2326 華嚴宗一乘開心論
+*** KR6t0022 華嚴宗一乘開心論--普機
 :PROPERTIES:
+:KR_ID: KR6t0022
 :EXTRA_ID: T:T72n2326
 :GENRE: 諸宗
 :lang@ja-rom: KEGONSHŪ ICHIJŌ KAISHI RON
@@ -303,8 +325,9 @@
 :PROPERTIES:
 :lang@ja-rom: Fuki
 :END:
-*** KR6t0023 T72n2327 華嚴一乘義私記
+*** KR6t0023 華嚴一乘義私記--増春
 :PROPERTIES:
+:KR_ID: KR6t0023
 :EXTRA_ID: T:T72n2327
 :GENRE: 諸宗
 :lang@ja-rom: KEGOṄ ICHIJŌGI SHIKI
@@ -317,8 +340,9 @@
 :PROPERTIES:
 :lang@ja-rom: Zōshun
 :END:
-*** KR6t0024 T72n2328 華嚴宗種性義抄
+*** KR6t0024 華嚴宗種性義抄--親圓
 :PROPERTIES:
+:KR_ID: KR6t0024
 :EXTRA_ID: T:T72n2328
 :GENRE: 諸宗
 :lang@ja-rom: KEGONSHŪ SHUSHŌGI SHŌ
@@ -331,8 +355,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shiṇen
 :END:
-*** KR6t0025 T72n2329 華嚴論草
+*** KR6t0025 華嚴論草--景雅
 :PROPERTIES:
+:KR_ID: KR6t0025
 :EXTRA_ID: T:T72n2329
 :GENRE: 諸宗
 :lang@ja-rom: KEGON RONSŌ
@@ -345,8 +370,9 @@
 :PROPERTIES:
 :lang@ja-rom: Keiga
 :END:
-*** KR6t0026 T72n2330 華嚴信種義
+*** KR6t0026 華嚴信種義--高辧
 :PROPERTIES:
+:KR_ID: KR6t0026
 :EXTRA_ID: T:T72n2330
 :GENRE: 諸宗
 :lang@ja-rom: KEGON SHINSHUGI
@@ -359,8 +385,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kōben
 :END:
-*** KR6t0027 T72n2331 華嚴修禪觀照入解脱門義
+*** KR6t0027 華嚴修禪觀照入解脱門義--高辧
 :PROPERTIES:
+:KR_ID: KR6t0027
 :EXTRA_ID: T:T72n2331
 :GENRE: 諸宗
 :lang@ja-rom: KEGON SHUZENKANSHŌ NYŪGEDATSUMON GI
@@ -373,8 +400,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kōben
 :END:
-*** KR6t0028 T72n2332 華嚴佛光三昧觀祕寶藏
+*** KR6t0028 華嚴佛光三昧觀祕寶藏--高辧
 :PROPERTIES:
+:KR_ID: KR6t0028
 :EXTRA_ID: T:T72n2332
 :GENRE: 諸宗
 :lang@ja-rom: KEGON BUKKŌZAMMAI KANHIHŌZŌ
@@ -387,8 +415,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kōben
 :END:
-*** KR6t0029 T72n2333 華嚴宗香薫抄
+*** KR6t0029 華嚴宗香薫抄--宗性
 :PROPERTIES:
+:KR_ID: KR6t0029
 :EXTRA_ID: T:T72n2333
 :GENRE: 諸宗
 :lang@ja-rom: KEGONSHŪ KŌKUNSHŌ
@@ -401,8 +430,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shūshō
 :END:
-*** KR6t0030 T72n2334 華嚴宗大要抄
+*** KR6t0030 華嚴宗大要抄--實弘
 :PROPERTIES:
+:KR_ID: KR6t0030
 :EXTRA_ID: T:T72n2334
 :GENRE: 諸宗
 :lang@ja-rom: KEGONSHŪ TAIYŌ SHŌ
@@ -415,8 +445,9 @@
 :PROPERTIES:
 :lang@ja-rom: Jikkō
 :END:
-*** KR6t0031 T72n2335 華嚴宗要義
+*** KR6t0031 華嚴宗要義--凝然
 :PROPERTIES:
+:KR_ID: KR6t0031
 :EXTRA_ID: T:T72n2335
 :GENRE: 諸宗
 :lang@ja-rom: KEGONSHŪ　YŌGI
@@ -429,8 +460,9 @@
 :PROPERTIES:
 :lang@ja-rom: Gyōnen
 :END:
-*** KR6t0032 T72n2336 華嚴宗所立五教十宗大意略抄
+*** KR6t0032 華嚴宗所立五教十宗大意略抄--
 :PROPERTIES:
+:KR_ID: KR6t0032
 :EXTRA_ID: T:T72n2336
 :GENRE: 諸宗
 :lang@ja-rom: KEGONSHŪ SHORYŪ GOKYŌ JISSHŪ TAII RYAKUSHŌ
@@ -438,8 +470,9 @@
 :EXTENT: I
 :END:
 [[img:T/T72/01/T72-0197.tif][T72, p.197]]
-*** KR6t0033 T72n2337 華嚴五教章指事
+*** KR6t0033 華嚴五教章指事--壽靈
 :PROPERTIES:
+:KR_ID: KR6t0033
 :EXTRA_ID: T:T72n2337
 :RELATED: T45n1866@諸宗, T72n2338@諸宗, T72n2339@諸宗, T72n2340@諸宗, T73n2341@諸宗, T73n2342@諸宗, T73n2343@諸宗, T73n2344@諸宗, T73n2345@諸宗
 :GENRE: 諸宗
@@ -453,8 +486,9 @@
 :PROPERTIES:
 :lang@ja-rom: Juryō
 :END:
-*** KR6t0034 T72n2338 華嚴五教章名目
+*** KR6t0034 華嚴五教章名目--喜海
 :PROPERTIES:
+:KR_ID: KR6t0034
 :EXTRA_ID: T:T72n2338
 :RELATED: T45n1866@諸宗, T72n2337@諸宗, T72n2339@諸宗, T72n2340@諸宗, T73n2341@諸宗, T73n2342@諸宗, T73n2343@諸宗, T73n2344@諸宗, T73n2345@諸宗
 :GENRE: 諸宗
@@ -468,8 +502,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kikai
 :END:
-*** KR6t0035 T72n2339 五教章通路記
+*** KR6t0035 五教章通路記--凝然
 :PROPERTIES:
+:KR_ID: KR6t0035
 :EXTRA_ID: T:T72n2339
 :RELATED: T45n1866@諸宗, T72n2337@諸宗, T72n2338@諸宗, T72n2340@諸宗, T73n2341@諸宗, T73n2342@諸宗, T73n2343@諸宗, T73n2344@諸宗, T73n2345@諸宗
 :GENRE: 諸宗
@@ -483,8 +518,9 @@
 :PROPERTIES:
 :lang@ja-rom: Gyōnen
 :END:
-*** KR6t0036 T72n2340 華嚴五教章問答抄
+*** KR6t0036 華嚴五教章問答抄--審乘
 :PROPERTIES:
+:KR_ID: KR6t0036
 :EXTRA_ID: T:T72n2340
 :RELATED: T45n1866@諸宗, T72n2337@諸宗, T72n2338@諸宗, T72n2339@諸宗, T73n2341@諸宗, T73n2342@諸宗, T73n2343@諸宗, T73n2344@諸宗, T73n2345@諸宗
 :GENRE: 諸宗
@@ -499,8 +535,9 @@
 :lang@ja-rom: Shinjō
 :END:
 
-*** KR6t0037 T73n2341 華嚴五教章深意鈔
+*** KR6t0037 華嚴五教章深意鈔--聖詮
 :PROPERTIES:
+:KR_ID: KR6t0037
 :EXTRA_ID: T:T73n2341
 :RELATED: T45n1866@諸宗, T72n2337@諸宗, T72n2338@諸宗, T72n2339@諸宗, T72n2340@諸宗, T73n2342@諸宗, T73n2343@諸宗, T73n2344@諸宗, T73n2345@諸宗
 :GENRE: 諸宗
@@ -514,8 +551,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shōsen
 :END:
-*** KR6t0038 T73n2342 華嚴五教章見聞鈔
+*** KR6t0038 華嚴五教章見聞鈔--靈波
 :PROPERTIES:
+:KR_ID: KR6t0038
 :EXTRA_ID: T:T73n2342
 :RELATED: T45n1866@諸宗, T72n2337@諸宗, T72n2338@諸宗, T72n2339@諸宗, T72n2340@諸宗, T73n2341@諸宗, T73n2343@諸宗, T73n2344@諸宗, T73n2345@諸宗
 :GENRE: 諸宗
@@ -529,8 +567,9 @@
 :PROPERTIES:
 :lang@ja-rom: Ryōha
 :END:
-*** KR6t0039 T73n2343 華嚴五教章不審
+*** KR6t0039 華嚴五教章不審--實英
 :PROPERTIES:
+:KR_ID: KR6t0039
 :EXTRA_ID: T:T73n2343
 :RELATED: T45n1866@諸宗, T72n2337@諸宗, T72n2338@諸宗, T72n2339@諸宗, T72n2340@諸宗, T73n2341@諸宗, T73n2342@諸宗, T73n2344@諸宗, T73n2345@諸宗
 :GENRE: 諸宗
@@ -544,8 +583,9 @@
 :PROPERTIES:
 :lang@ja-rom: Jitsuei
 :END:
-*** KR6t0040 T73n2344 華嚴五教章匡眞鈔
+*** KR6t0040 華嚴五教章匡眞鈔--鳳潭
 :PROPERTIES:
+:KR_ID: KR6t0040
 :EXTRA_ID: T:T73n2344
 :RELATED: T45n1866@諸宗, T72n2337@諸宗, T72n2338@諸宗, T72n2339@諸宗, T72n2340@諸宗, T73n2341@諸宗, T73n2342@諸宗, T73n2343@諸宗, T73n2345@諸宗
 :GENRE: 諸宗
@@ -559,8 +599,9 @@
 :PROPERTIES:
 :lang@ja-rom: Hōtan
 :END:
-*** KR6t0041 T73n2345A 華嚴五教章衍祕鈔
+*** KR6t0041 華嚴五教章衍祕鈔--普寂
 :PROPERTIES:
+:KR_ID: KR6t0041
 :EXTRA_ID: T:T73n2345A
 :RELATED: T45n1866@諸宗, T72n2337@諸宗, T72n2338@諸宗, T72n2339@諸宗, T72n2340@諸宗, T73n2341@諸宗, T73n2342@諸宗, T73n2343@諸宗, T73n2344@諸宗
 :GENRE: 諸宗
@@ -574,8 +615,9 @@
 :PROPERTIES:
 :lang@ja-rom: Fujaku
 :END:
-*** KR6t0042 T73n2345B 華嚴五教章科
+*** KR6t0042 華嚴五教章科--
 :PROPERTIES:
+:KR_ID: KR6t0042
 :EXTRA_ID: T:T73n2345B
 :RELATED: T45n1866@諸宗, T72n2337@諸宗, T72n2338@諸宗, T72n2339@諸宗, T72n2340@諸宗, T73n2341@諸宗, T73n2342@諸宗, T73n2343@諸宗, T73n2344@諸宗
 :GENRE: 諸宗
@@ -584,8 +626,9 @@
 :EXTENT: I
 :END:
 [[img:T/T73/07/T73-0712.tif][T73, p.712]]
-*** KR6t0043 T73n2346 金師子章勘文
+*** KR6t0043 金師子章勘文--景雅
 :PROPERTIES:
+:KR_ID: KR6t0043
 :EXTRA_ID: T:T73n2346
 :GENRE: 諸宗
 :lang@ja-rom: KONJISHISHŌ KAMMON
@@ -599,8 +642,9 @@
 :lang@ja-rom: Keiga
 :END:
 
-*** KR6t0044 T74n2347 戒律傳來記
+*** KR6t0044 戒律傳來記--豐安
 :PROPERTIES:
+:KR_ID: KR6t0044
 :EXTRA_ID: T:T74n2347
 :GENRE: 諸宗
 :lang@ja-rom: KAIRITSU DENRAI KI
@@ -613,8 +657,9 @@
 :PROPERTIES:
 :lang@ja-rom: Buan
 :END:
-*** KR6t0045 T74n2348 律宗綱要
+*** KR6t0045 律宗綱要--凝然
 :PROPERTIES:
+:KR_ID: KR6t0045
 :EXTRA_ID: T:T74n2348
 :GENRE: 諸宗
 :lang@ja-rom: RISSHŪ KŌYŌ
@@ -627,8 +672,9 @@
 :PROPERTIES:
 :lang@ja-rom: Gyōnen
 :END:
-*** KR6t0046 T74n2349 東大寺受戒方軌
+*** KR6t0046 東大寺受戒方軌--法進
 :PROPERTIES:
+:KR_ID: KR6t0046
 :EXTRA_ID: T:T74n2349
 :GENRE: 諸宗
 :lang@ja-rom: TŌDAIJI JUKAI HŌKI
@@ -641,8 +687,9 @@
 :PROPERTIES:
 :lang@ja-rom: Hōshin
 :END:
-*** KR6t0047 T74n2350 東大寺戒壇院受戒式
+*** KR6t0047 東大寺戒壇院受戒式--實範
 :PROPERTIES:
+:KR_ID: KR6t0047
 :EXTRA_ID: T:T74n2350
 :GENRE: 諸宗
 :lang@ja-rom: TŌDAIJI KAIDAṄIN JUKAI SHIKI
@@ -655,8 +702,9 @@
 :PROPERTIES:
 :lang@ja-rom: Jippan
 :END:
-*** KR6t0048 T74n2351 唐招提寺戒壇別受戒式
+*** KR6t0048 唐招提寺戒壇別受戒式--惠光
 :PROPERTIES:
+:KR_ID: KR6t0048
 :EXTRA_ID: T:T74n2351
 :GENRE: 諸宗
 :lang@ja-rom: TŌSHŌDAIJI KAIDAN BETSUJUKAI SHIKI
@@ -669,8 +717,9 @@
 :PROPERTIES:
 :lang@ja-rom: Ekō
 :END:
-*** KR6t0049 T74n2352 菩薩戒本宗要雜文集
+*** KR6t0049 菩薩戒本宗要雜文集--覺盛
 :PROPERTIES:
+:KR_ID: KR6t0049
 :EXTRA_ID: T:T74n2352
 :RELATED: T45n1906@諸宗, T74n2356@諸宗
 :GENRE: 諸宗
@@ -684,8 +733,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakujō
 :END:
-*** KR6t0050 T74n2353 菩薩戒通受遣疑鈔
+*** KR6t0050 菩薩戒通受遣疑鈔--覺盛
 :PROPERTIES:
+:KR_ID: KR6t0050
 :EXTRA_ID: T:T74n2353
 :GENRE: 諸宗
 :lang@ja-rom: BOSATSUKAI TSŪJU KENGI SHŌ
@@ -698,8 +748,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakujō
 :END:
-*** KR6t0051 T74n2354 菩薩戒通別二受鈔
+*** KR6t0051 菩薩戒通別二受鈔--覺盛
 :PROPERTIES:
+:KR_ID: KR6t0051
 :EXTRA_ID: T:T74n2354
 :GENRE: 諸宗
 :lang@ja-rom: BOSATSUKAI TSŪBETSU NIJU SHŌ
@@ -712,8 +763,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakujō
 :END:
-*** KR6t0052 T74n2355 通受比丘懺悔兩寺不同記
+*** KR6t0052 通受比丘懺悔兩寺不同記--凝然
 :PROPERTIES:
+:KR_ID: KR6t0052
 :EXTRA_ID: T:T74n2355
 :GENRE: 諸宗
 :lang@ja-rom: TSŪJU BIKU SANGE RYŌJI FUDŌ KI
@@ -726,8 +778,9 @@
 :PROPERTIES:
 :lang@ja-rom: Gyōnen
 :END:
-*** KR6t0053 T74n2356 菩薩戒本宗要輔行文集
+*** KR6t0053 菩薩戒本宗要輔[補]行文集--叡尊
 :PROPERTIES:
+:KR_ID: KR6t0053
 :EXTRA_ID: T:T74n2356
 :ALT_TITLE: 菩薩戒本宗要補行文集
 :RELATED: T45n1906@諸宗, T74n2352@諸宗
@@ -742,8 +795,9 @@
 :PROPERTIES:
 :lang@ja-rom: Eizon
 :END:
-*** KR6t0054 T74n2357 應理宗戒圖釋文鈔
+*** KR6t0054 應理宗戒圖釋文鈔--叡尊
 :PROPERTIES:
+:KR_ID: KR6t0054
 :EXTRA_ID: T:T74n2357
 :GENRE: 諸宗
 :lang@ja-rom: ŌRISHŪ KAIZU SHAKUMON SHŌ
@@ -756,8 +810,9 @@
 :PROPERTIES:
 :lang@ja-rom: Eizon
 :END:
-*** KR6t0055 T74n2358A 菩薩戒問答洞義抄
+*** KR6t0055 菩薩戒問答洞義抄--英心
 :PROPERTIES:
+:KR_ID: KR6t0055
 :EXTRA_ID: T:T74n2358A
 :GENRE: 諸宗
 :lang@ja-rom: BOSATSUKAI MONDŌ TŌGI SHŌ
@@ -770,8 +825,9 @@
 :PROPERTIES:
 :lang@ja-rom: Eishin
 :END:
-*** KR6t0056 T74n2358B 菩薩戒綱要鈔
+*** KR6t0056 菩薩戒綱要鈔--
 :PROPERTIES:
+:KR_ID: KR6t0056
 :EXTRA_ID: T:T74n2358B
 :GENRE: 諸宗
 :lang@ja-rom: BOSATSUKAI KŌYŌ SHŌ
@@ -779,8 +835,9 @@
 :EXTENT: I
 :END:
 [[img:T/T74/00/T74-0098.tif][T74, p.98]]
-*** KR6t0057 T74n2359 律宗行事目心鈔
+*** KR6t0057 律宗行事目心鈔--忍仙
 :PROPERTIES:
+:KR_ID: KR6t0057
 :EXTRA_ID: T:T74n2359
 :GENRE: 諸宗
 :lang@ja-rom: RISSHŪ GYŌJI MOKUSHIN SHŌ
@@ -793,8 +850,9 @@
 :PROPERTIES:
 :lang@ja-rom: Ninsen
 :END:
-*** KR6t0058 T74n2360 大乘圓戒顯正論
+*** KR6t0058 大乘圓戒顯正論--宗覺
 :PROPERTIES:
+:KR_ID: KR6t0058
 :EXTRA_ID: T:T74n2360
 :GENRE: 諸宗
 :lang@ja-rom: DAIJŌ ENKAI KENSHŌ RON
@@ -807,8 +865,9 @@
 :PROPERTIES:
 :lang@ja-rom: Sōkaku
 :END:
-*** KR6t0059 T74n2361 願文
+*** KR6t0059 願文--最澄
 :PROPERTIES:
+:KR_ID: KR6t0059
 :EXTRA_ID: T:T74n2361
 :GENRE: 諸宗
 :lang@ja-rom: GAMMON
@@ -821,8 +880,9 @@
 :PROPERTIES:
 :lang@ja-rom: Saichō
 :END:
-*** KR6t0060 T74n2362 守護國界章
+*** KR6t0060 守護國界章--最澄
 :PROPERTIES:
+:KR_ID: KR6t0060
 :EXTRA_ID: T:T74n2362
 :GENRE: 諸宗
 :lang@ja-rom: SHUGO KOKKAI SHŌ
@@ -835,8 +895,9 @@
 :PROPERTIES:
 :lang@ja-rom: Saichō
 :END:
-*** KR6t0061 T74n2363 法華長講會式
+*** KR6t0061 法華長講會式--最澄
 :PROPERTIES:
+:KR_ID: KR6t0061
 :EXTRA_ID: T:T74n2363
 :GENRE: 諸宗
 :lang@ja-rom: HOKKE CHŌKŌ ESHIKI
@@ -849,8 +910,9 @@
 :PROPERTIES:
 :lang@ja-rom: Saichō
 :END:
-*** KR6t0062 T74n2364 長講金光明經會式
+*** KR6t0062 長講金光明經會式--最澄
 :PROPERTIES:
+:KR_ID: KR6t0062
 :EXTRA_ID: T:T74n2364
 :GENRE: 諸宗
 :lang@ja-rom: CHŌKŌ KONKŌMYŌKYŌ ESHIKI
@@ -863,8 +925,9 @@
 :PROPERTIES:
 :lang@ja-rom: Saichō
 :END:
-*** KR6t0063 T74n2365 長講仁王般若經會式
+*** KR6t0063 長講仁王般若經會式--最澄
 :PROPERTIES:
+:KR_ID: KR6t0063
 :EXTRA_ID: T:T74n2365
 :GENRE: 諸宗
 :lang@ja-rom: CHŌKŌ NINNŌHANNYAKYŌ ESHIKI
@@ -877,8 +940,9 @@
 :PROPERTIES:
 :lang@ja-rom: Saichō
 :END:
-*** KR6t0064 T74n2366 天台法華宗義集
+*** KR6t0064 天台法華宗義集--義眞
 :PROPERTIES:
+:KR_ID: KR6t0064
 :EXTRA_ID: T:T74n2366
 :GENRE: 諸宗
 :lang@ja-rom: TENDAI HOKKE SHŪGI SHŪ
@@ -891,8 +955,9 @@
 :PROPERTIES:
 :lang@ja-rom: Gishin
 :END:
-*** KR6t0065 T74n2367 授決集
+*** KR6t0065 授決集--圓珍
 :PROPERTIES:
+:KR_ID: KR6t0065
 :EXTRA_ID: T:T74n2367
 :GENRE: 諸宗
 :lang@ja-rom: JUKES SHŪ
@@ -905,8 +970,9 @@
 :PROPERTIES:
 :lang@ja-rom: Enchin
 :END:
-*** KR6t0066 T74n2368 諸家教相同異集
+*** KR6t0066 諸家教相同異集--圓珍
 :PROPERTIES:
+:KR_ID: KR6t0066
 :EXTRA_ID: T:T74n2368
 :GENRE: 諸宗
 :lang@ja-rom: SHOKE KYŌSŌ DŌI SHŪ
@@ -919,8 +985,9 @@
 :PROPERTIES:
 :lang@ja-rom: Enchin
 :END:
-*** KR6t0067 T74n2369 定宗論
+*** KR6t0067 定宗論--蓮剛
 :PROPERTIES:
+:KR_ID: KR6t0067
 :EXTRA_ID: T:T74n2369
 :GENRE: 諸宗
 :lang@ja-rom: JŌSHŪ RON
@@ -933,8 +1000,9 @@
 :PROPERTIES:
 :lang@ja-rom: Rengō
 :END:
-*** KR6t0068 T74n2370 一乘要決
+*** KR6t0068 一乘要決--源信
 :PROPERTIES:
+:KR_ID: KR6t0068
 :EXTRA_ID: T:T74n2370
 :GENRE: 諸宗
 :lang@ja-rom: ICHIJŌ YŌKETSU
@@ -947,8 +1015,9 @@
 :PROPERTIES:
 :lang@ja-rom: Genshin
 :END:
-*** KR6t0069 T74n2371 漢光類聚
+*** KR6t0069 漢光類聚--忠尋
 :PROPERTIES:
+:KR_ID: KR6t0069
 :EXTRA_ID: T:T74n2371
 :GENRE: 諸宗
 :lang@ja-rom: KANKŌ RUIJŪ
@@ -961,8 +1030,9 @@
 :PROPERTIES:
 :lang@ja-rom: Chūjin
 :END:
-*** KR6t0070 T74n2372 天台眞言二宗同異章
+*** KR6t0070 天台眞言二宗同異章--證眞
 :PROPERTIES:
+:KR_ID: KR6t0070
 :EXTRA_ID: T:T74n2372
 :GENRE: 諸宗
 :lang@ja-rom: TENDAI SHINGON NISHŪ DŌI SHŌ
@@ -975,8 +1045,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shōshin
 :END:
-*** KR6t0071 T74n2373 圓密宗二教名目
+*** KR6t0071 圓密宗二教名目--惠鎭
 :PROPERTIES:
+:KR_ID: KR6t0071
 :EXTRA_ID: T:T74n2373
 :GENRE: 諸宗
 :lang@ja-rom: EMMITSUSHŪ NIKYŌ MYŌMOKU
@@ -989,8 +1060,9 @@
 :PROPERTIES:
 :lang@ja-rom: Echin
 :END:
-*** KR6t0072 T74n2374 宗要柏原案立
+*** KR6t0072 宗要柏原案立--貞舜
 :PROPERTIES:
+:KR_ID: KR6t0072
 :EXTRA_ID: T:T74n2374
 :GENRE: 諸宗
 :lang@ja-rom: SHŪYŌ KASHIWABARA ANRYŪ
@@ -1003,8 +1075,9 @@
 :PROPERTIES:
 :lang@ja-rom: Teishun
 :END:
-*** KR6t0073 T74n2375 天台圓宗四教五時西谷名目
+*** KR6t0073 天台圓宗四教五時西谷名目--
 :PROPERTIES:
+:KR_ID: KR6t0073
 :EXTRA_ID: T:T74n2375
 :GENRE: 諸宗
 :lang@ja-rom: TENDAI ENSHŪ SHIKYŌ GOJI NISHIDANI MYŌMOKU
@@ -1017,8 +1090,9 @@
 :PROPERTIES:
 :lang@ja-rom: An.
 :END:
-*** KR6t0074 T74n2376 顯戒論
+*** KR6t0074 顯戒論--最澄
 :PROPERTIES:
+:KR_ID: KR6t0074
 :EXTRA_ID: T:T74n2376
 :GENRE: 諸宗
 :lang@ja-rom: KENKAI RON
@@ -1031,8 +1105,9 @@
 :PROPERTIES:
 :lang@ja-rom: Saichō
 :END:
-*** KR6t0075 T74n2377 山家學生式
+*** KR6t0075 山家學生式--最澄
 :PROPERTIES:
+:KR_ID: KR6t0075
 :EXTRA_ID: T:T74n2377
 :GENRE: 諸宗
 :lang@ja-rom: SANGE GAKUSHŌ SHIKI
@@ -1045,8 +1120,9 @@
 :PROPERTIES:
 :lang@ja-rom: Saichō
 :END:
-*** KR6t0076 T74n2378 授菩薩戒儀
+*** KR6t0076 授菩薩戒儀--
 :PROPERTIES:
+:KR_ID: KR6t0076
 :EXTRA_ID: T:T74n2378
 :GENRE: 諸宗
 :lang@ja-rom: JU BOSAKKAI GI
@@ -1054,8 +1130,9 @@
 :EXTENT: I
 :END:
 [[img:T/T74/06/T74-0625.tif][T74, p.625]]
-*** KR6t0077 T74n2379 傳述一心戒文
+*** KR6t0077 傳述一心戒文--光定
 :PROPERTIES:
+:KR_ID: KR6t0077
 :EXTRA_ID: T:T74n2379
 :GENRE: 諸宗
 :lang@ja-rom: DENJUTSU ISSHIN KAIMON
@@ -1068,8 +1145,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kōjō
 :END:
-*** KR6t0078 T74n2380 顯揚大戒論
+*** KR6t0078 顯揚大戒論--圓仁
 :PROPERTIES:
+:KR_ID: KR6t0078
 :EXTRA_ID: T:T74n2380
 :GENRE: 諸宗
 :lang@ja-rom: KENNYŌ DAIKAI RON
@@ -1082,8 +1160,9 @@
 :PROPERTIES:
 :lang@ja-rom: Ennin
 :END:
-*** KR6t0079 T74n2381 普通授菩薩戒廣釋
+*** KR6t0079 普通授菩薩戒廣釋--安然
 :PROPERTIES:
+:KR_ID: KR6t0079
 :EXTRA_ID: T:T74n2381
 :GENRE: 諸宗
 :lang@ja-rom: FUTSŪ JU BOSATSUKAI KŌSHAKU
@@ -1096,8 +1175,9 @@
 :PROPERTIES:
 :lang@ja-rom: Annen
 :END:
-*** KR6t0080 T74n2382 新學菩薩行要抄
+*** KR6t0080 新學菩薩行要抄--仁空
 :PROPERTIES:
+:KR_ID: KR6t0080
 :EXTRA_ID: T:T74n2382
 :GENRE: 諸宗
 :lang@ja-rom: SHINGAKU BOSATSUGYŌ YŌSHŌ
@@ -1110,8 +1190,9 @@
 :PROPERTIES:
 :lang@ja-rom: Ninkū
 :END:
-*** KR6t0081 T74n2383 菩薩圓頓授戒灌頂記
+*** KR6t0081 菩薩圓頓授戒灌頂記--惟賢
 :PROPERTIES:
+:KR_ID: KR6t0081
 :EXTRA_ID: T:T74n2383
 :GENRE: 諸宗
 :lang@ja-rom: BOSATSU ENDON JUKAI KANJŌ KI
@@ -1124,8 +1205,9 @@
 :PROPERTIES:
 :lang@ja-rom: Yuiken
 :END:
-*** KR6t0082 T74n2384 圓戒指掌
+*** KR6t0082 圓戒指掌--敬光
 :PROPERTIES:
+:KR_ID: KR6t0082
 :EXTRA_ID: T:T74n2384
 :GENRE: 諸宗
 :lang@ja-rom: ENKAI SHISHŌ
@@ -1139,8 +1221,9 @@
 :lang@ja-rom: Kyōkō
 :END:
 
-*** KR6t0083 T75n2385 胎藏界虚心記
+*** KR6t0083 胎藏界虚心記--圓仁
 :PROPERTIES:
+:KR_ID: KR6t0083
 :EXTRA_ID: T:T75n2385
 :GENRE: 諸宗
 :lang@ja-rom: TAIZŌKAI KOSHIN KI
@@ -1153,8 +1236,9 @@
 :PROPERTIES:
 :lang@ja-rom: Ennin
 :END:
-*** KR6t0084 T75n2386 金剛界淨地記
+*** KR6t0084 金剛界淨地記--圓仁
 :PROPERTIES:
+:KR_ID: KR6t0084
 :EXTRA_ID: T:T75n2386
 :GENRE: 諸宗
 :lang@ja-rom: KONGŌKAI JŌJI KI
@@ -1167,8 +1251,9 @@
 :PROPERTIES:
 :lang@ja-rom: Ennin
 :END:
-*** KR6t0085 T75n2387 蘇悉地妙心大
+*** KR6t0085 蘇悉地妙心大--圓仁
 :PROPERTIES:
+:KR_ID: KR6t0085
 :EXTRA_ID: T:T75n2387
 :GENRE: 諸宗
 :lang@ja-rom: SOSHICCHI MYŌSHINDAI
@@ -1181,8 +1266,9 @@
 :PROPERTIES:
 :lang@ja-rom: Ennin
 :END:
-*** KR6t0086 T75n2388 妙成就記
+*** KR6t0086 妙成就記--圓仁
 :PROPERTIES:
+:KR_ID: KR6t0086
 :EXTRA_ID: T:T75n2388
 :GENRE: 諸宗
 :lang@ja-rom: MYŌ JŌJU KI
@@ -1195,8 +1281,9 @@
 :PROPERTIES:
 :lang@ja-rom: Ennin
 :END:
-*** KR6t0087 T75n2389 眞言所立三身問答
+*** KR6t0087 眞言所立三身問答--圓仁
 :PROPERTIES:
+:KR_ID: KR6t0087
 :EXTRA_ID: T:T75n2389
 :GENRE: 諸宗
 :lang@ja-rom: SHINGON SHORYŪ SANJIM MONDŌ
@@ -1209,8 +1296,9 @@
 :PROPERTIES:
 :lang@ja-rom: Ennin
 :END:
-*** KR6t0088 T75n2390 胎藏界大法對受記
+*** KR6t0088 胎藏界大法對受記--安然
 :PROPERTIES:
+:KR_ID: KR6t0088
 :EXTRA_ID: T:T75n2390
 :GENRE: 諸宗
 :lang@ja-rom: TAIZŌKAI DAIHŌ TAIJU KI
@@ -1223,8 +1311,9 @@
 :PROPERTIES:
 :lang@ja-rom: Annen
 :END:
-*** KR6t0089 T75n2391 金剛界大法對受記
+*** KR6t0089 金剛界大法對受記--安然
 :PROPERTIES:
+:KR_ID: KR6t0089
 :EXTRA_ID: T:T75n2391
 :GENRE: 諸宗
 :lang@ja-rom: KONGŌKAI DAIHŌ TAIJU KI
@@ -1237,8 +1326,9 @@
 :PROPERTIES:
 :lang@ja-rom: Annen
 :END:
-*** KR6t0090 T75n2392 蘇悉地對受記
+*** KR6t0090 蘇悉地對受記--安然
 :PROPERTIES:
+:KR_ID: KR6t0090
 :EXTRA_ID: T:T75n2392
 :GENRE: 諸宗
 :lang@ja-rom: SOSHICCHI TAIJU KI
@@ -1251,8 +1341,9 @@
 :PROPERTIES:
 :lang@ja-rom: Annen
 :END:
-*** KR6t0091 T75n2393 觀中院撰定事業灌頂具足支分
+*** KR6t0091 觀中院撰定事業灌頂具足支分--安然
 :PROPERTIES:
+:KR_ID: KR6t0091
 :EXTRA_ID: T:T75n2393
 :GENRE: 諸宗
 :lang@ja-rom: KANCHŪIN SENJŌ JIGŌ KANJŌ GUSOKU SHIBUN
@@ -1265,8 +1356,9 @@
 :PROPERTIES:
 :lang@ja-rom: Annen
 :END:
-*** KR6t0092 T75n2394 大日經供養持誦不同
+*** KR6t0092 大日經供養持誦不同--安然
 :PROPERTIES:
+:KR_ID: KR6t0092
 :EXTRA_ID: T:T75n2394
 :GENRE: 諸宗
 :lang@ja-rom: DAINICHIKYŌ KUYŌ JIJU FUDŌ
@@ -1279,8 +1371,9 @@
 :PROPERTIES:
 :lang@ja-rom: Annen
 :END:
-*** KR6t0093 T75n2395A 教時諍
+*** KR6t0093 教時諍--安然
 :PROPERTIES:
+:KR_ID: KR6t0093
 :EXTRA_ID: T:T75n2395A
 :GENRE: 諸宗
 :lang@ja-rom: KYŌJI JŌ
@@ -1293,8 +1386,9 @@
 :PROPERTIES:
 :lang@ja-rom: Annen
 :END:
-*** KR6t0094 T75n2395B 教時諍論
+*** KR6t0094 教時諍論--安然
 :PROPERTIES:
+:KR_ID: KR6t0094
 :EXTRA_ID: T:T75n2395B
 :GENRE: 諸宗
 :lang@ja-rom: KYŌJI JŌ RON
@@ -1307,8 +1401,9 @@
 :PROPERTIES:
 :lang@ja-rom: Annen
 :END:
-*** KR6t0095 T75n2396 眞言宗教時義
+*** KR6t0095 眞言宗教時義--安然
 :PROPERTIES:
+:KR_ID: KR6t0095
 :EXTRA_ID: T:T75n2396
 :GENRE: 諸宗
 :lang@ja-rom: SHINGONSHŪ KYŌJI GI
@@ -1321,8 +1416,9 @@
 :PROPERTIES:
 :lang@ja-rom: Annen
 :END:
-*** KR6t0096 T75n2397 胎藏金剛菩提心義略問答抄
+*** KR6t0096 胎藏金剛菩提心義略問答抄--安然
 :PROPERTIES:
+:KR_ID: KR6t0096
 :EXTRA_ID: T:T75n2397
 :GENRE: 諸宗
 :lang@ja-rom: TAIZŌ KONGŌ BODAISHIN GI RYAKU MONDŌ SHŌ
@@ -1335,8 +1431,9 @@
 :PROPERTIES:
 :lang@ja-rom: Annen
 :END:
-*** KR6t0097 T75n2398 胎藏三密抄
+*** KR6t0097 胎藏三密抄--覺超
 :PROPERTIES:
+:KR_ID: KR6t0097
 :EXTRA_ID: T:T75n2398
 :GENRE: 諸宗
 :lang@ja-rom: TAIZŌ SAMMITSU SHŌ
@@ -1349,8 +1446,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakuchō
 :END:
-*** KR6t0098 T75n2399 三密抄料簡
+*** KR6t0098 三密抄料簡--覺超
 :PROPERTIES:
+:KR_ID: KR6t0098
 :EXTRA_ID: T:T75n2399
 :GENRE: 諸宗
 :lang@ja-rom: SAMMITSUSHŌ RYŌKEN
@@ -1363,8 +1461,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakuchō
 :END:
-*** KR6t0099 T75n2400 金剛三密抄
+*** KR6t0099 金剛三密抄--覺超
 :PROPERTIES:
+:KR_ID: KR6t0099
 :EXTRA_ID: T:T75n2400
 :GENRE: 諸宗
 :lang@ja-rom: KONGŌ SAMMITSU SHŌ
@@ -1377,8 +1476,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakuchō
 :END:
-*** KR6t0100 T75n2401 東曼荼羅抄
+*** KR6t0100 東曼荼羅抄--覺超
 :PROPERTIES:
+:KR_ID: KR6t0100
 :EXTRA_ID: T:T75n2401
 :GENRE: 諸宗
 :lang@ja-rom: TŌ MANDARA SHŌ
@@ -1391,8 +1491,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakuchō
 :END:
-*** KR6t0101 T75n2402 西曼荼羅集
+*** KR6t0101 西曼荼羅集--覺超
 :PROPERTIES:
+:KR_ID: KR6t0101
 :EXTRA_ID: T:T75n2402
 :GENRE: 諸宗
 :lang@ja-rom: SAIMONDARA SHŪ
@@ -1405,8 +1506,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakuchō
 :END:
-*** KR6t0102 T75n2403 五相成身私記
+*** KR6t0102 五相成身私記--覺超
 :PROPERTIES:
+:KR_ID: KR6t0102
 :EXTRA_ID: T:T75n2403
 :GENRE: 諸宗
 :lang@ja-rom: GOSŌJŌSHIN SHIKI
@@ -1419,8 +1521,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakuchō
 :END:
-*** KR6t0103 T75n2404 胎藏界生起
+*** KR6t0103 胎藏界生起--覺超
 :PROPERTIES:
+:KR_ID: KR6t0103
 :EXTRA_ID: T:T75n2404
 :GENRE: 諸宗
 :lang@ja-rom: TAIZŌKAI SHŌKI
@@ -1433,8 +1536,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakuchō
 :END:
-*** KR6t0104 T75n2405 祕密壇都法大阿闍梨常念誦生起
+*** KR6t0104 祕密壇都法大阿闍梨常念誦生起--
 :PROPERTIES:
+:KR_ID: KR6t0104
 :EXTRA_ID: T:T75n2405
 :GENRE: 諸宗
 :lang@ja-rom: HIMITSU DANTOHŌ DAIAJARI JŌNENJU SHŌKI
@@ -1442,8 +1546,9 @@
 :EXTENT: I
 :END:
 [[img:T/T75/08/T75-0807.tif][T75, p.807]]
-*** KR6t0105 T75n2406A 金剛界次第生起
+*** KR6t0105 金剛界次第生起--最圓
 :PROPERTIES:
+:KR_ID: KR6t0105
 :EXTRA_ID: T:T75n2406A
 :GENRE: 諸宗
 :lang@ja-rom: KONGŌKAI SHIDAI SHŌKI
@@ -1456,8 +1561,9 @@
 :PROPERTIES:
 :lang@ja-rom: Saien
 :END:
-*** KR6t0106 T75n2406B 謹答金剛界疑問總來十條
+*** KR6t0106 謹答金剛界疑問總來十條--
 :PROPERTIES:
+:KR_ID: KR6t0106
 :EXTRA_ID: T:T75n2406B
 :GENRE: 諸宗
 :lang@ja-rom: KINTŌ KONGŌKAI GIMON SŌRAI JŪJŌ
@@ -1465,8 +1571,9 @@
 :EXTENT: I
 :END:
 [[img:T/T75/08/T75-0811.tif][T75, p.811]]
-*** KR6t0107 T75n2407 隨要記
+*** KR6t0107 隨要記--皇慶
 :PROPERTIES:
+:KR_ID: KR6t0107
 :EXTRA_ID: T:T75n2407
 :GENRE: 諸宗
 :lang@ja-rom: ZUIYŌ KI
@@ -1479,8 +1586,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kōgei
 :END:
-*** KR6t0108 T75n2408 四十帖決
+*** KR6t0108 四十帖決--長宴
 :PROPERTIES:
+:KR_ID: KR6t0108
 :EXTRA_ID: T:T75n2408
 :GENRE: 諸宗
 :lang@ja-rom: SHIJŪJŌ KETSU
@@ -1494,8 +1602,9 @@
 :lang@ja-rom: Jōen
 :END:
 
-*** KR6t0109 T76n2409 行林抄
+*** KR6t0109 行林抄--靜然
 :PROPERTIES:
+:KR_ID: KR6t0109
 :EXTRA_ID: T:T76n2409
 :GENRE: 諸宗
 :lang@ja-rom: GYŌRIN SHŌ
@@ -1508,8 +1617,9 @@
 :PROPERTIES:
 :lang@ja-rom: Jōnen
 :END:
-*** KR6t0110 T76n2410 溪嵐拾葉集
+*** KR6t0110 溪嵐拾葉集--光宗
 :PROPERTIES:
+:KR_ID: KR6t0110
 :EXTRA_ID: T:T76n2410
 :GENRE: 諸宗
 :lang@ja-rom: KEIRAN SHŪYŌ SHŪ
@@ -1523,8 +1633,9 @@
 :lang@ja-rom: Kōshū
 :END:
 
-*** KR6t0111 T77n2411 三昧流口傳集
+*** KR6t0111 三昧流口傳集--良祐
 :PROPERTIES:
+:KR_ID: KR6t0111
 :EXTRA_ID: T:T77n2411
 :GENRE: 諸宗
 :lang@ja-rom: SAMMAIRYŪ KUDEN SHŪ
@@ -1537,8 +1648,9 @@
 :PROPERTIES:
 :lang@ja-rom: Ryōyū
 :END:
-*** KR6t0112 T77n2412 總持抄
+*** KR6t0112 總持抄--澄豪
 :PROPERTIES:
+:KR_ID: KR6t0112
 :EXTRA_ID: T:T77n2412
 :GENRE: 諸宗
 :lang@ja-rom: SŌJI SHŌ
@@ -1551,8 +1663,9 @@
 :PROPERTIES:
 :lang@ja-rom: Chōgō
 :END:
-*** KR6t0113 T77n2413 四度授法日記
+*** KR6t0113 四度授法日記--
 :PROPERTIES:
+:KR_ID: KR6t0113
 :EXTRA_ID: T:T77n2413
 :GENRE: 諸宗
 :lang@ja-rom: SHIDO JUHŌ NIKKI
@@ -1560,8 +1673,9 @@
 :EXTENT: IV
 :END:
 [[img:T/T77/00/T77-0095.tif][T77, p. 95]]
-*** KR6t0114 T77n2414 了因決
+*** KR6t0114 了因決--了惠
 :PROPERTIES:
+:KR_ID: KR6t0114
 :EXTRA_ID: T:T77n2414
 :GENRE: 諸宗
 :lang@ja-rom: RYŌIN KETSU
@@ -1574,8 +1688,9 @@
 :PROPERTIES:
 :lang@ja-rom: Ryōe
 :END:
-*** KR6t0115 T77n2415 灌頂私見聞
+*** KR6t0115 灌頂私見聞--了翁
 :PROPERTIES:
+:KR_ID: KR6t0115
 :EXTRA_ID: T:T77n2415
 :GENRE: 諸宗
 :lang@ja-rom: KANJŌ SHIKEMMON
@@ -1588,8 +1703,9 @@
 :PROPERTIES:
 :lang@ja-rom: Ryōō
 :END:
-*** KR6t0116 T77n2416 遮那業案立草
+*** KR6t0116 遮那業案立草--仁空
 :PROPERTIES:
+:KR_ID: KR6t0116
 :EXTRA_ID: T:T77n2416
 :GENRE: 諸宗
 :lang@ja-rom: SHANAGŌ ANRYŪ SŌ
@@ -1602,8 +1718,9 @@
 :PROPERTIES:
 :lang@ja-rom: Ninkū
 :END:
-*** KR6t0117 T77n2417 法華懺法
+*** KR6t0117 法華懺法--
 :PROPERTIES:
+:KR_ID: KR6t0117
 :EXTRA_ID: T:T77n2417
 :GENRE: 諸宗
 :lang@ja-rom: HOKKE SEMPŌ
@@ -1611,8 +1728,9 @@
 :EXTENT: I
 :END:
 [[img:T/T77/02/T77-0265.tif][T77, p.265]]
-*** KR6t0118 T77n2418 例時作法
+*** KR6t0118 例時作法--
 :PROPERTIES:
+:KR_ID: KR6t0118
 :EXTRA_ID: T:T77n2418
 :GENRE: 諸宗
 :lang@ja-rom: REIJI SAHŌ
@@ -1620,8 +1738,9 @@
 :EXTENT: I
 :END:
 [[img:T/T77/02/T77-0269.tif][T77, p.269]]
-*** KR6t0119 T77n2419 遮那業學則
+*** KR6t0119 遮那業學則--覺千
 :PROPERTIES:
+:KR_ID: KR6t0119
 :EXTRA_ID: T:T77n2419
 :GENRE: 諸宗
 :lang@ja-rom: SHANAGŌ GAKUSOKU
@@ -1634,8 +1753,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakusen
 :END:
-*** KR6t0120 T77n2420 奏進法語
+*** KR6t0120 奏進法語--眞盛
 :PROPERTIES:
+:KR_ID: KR6t0120
 :EXTRA_ID: T:T77n2420
 :GENRE: 諸宗
 :lang@ja-rom: SŌSHIN HŌGO
@@ -1648,8 +1768,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shinzei
 :END:
-*** KR6t0121 T77n2421 念佛三昧法語
+*** KR6t0121 念佛三昧法語--眞盛
 :PROPERTIES:
+:KR_ID: KR6t0121
 :EXTRA_ID: T:T77n2421
 :GENRE: 諸宗
 :lang@ja-rom: NEMBUTSUZAMMAI HŌGO
@@ -1662,8 +1783,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shinzei
 :END:
-*** KR6t0122 T77n2422 眞迢上人法語
+*** KR6t0122 眞迢上人法語--
 :PROPERTIES:
+:KR_ID: KR6t0122
 :EXTRA_ID: T:T77n2422
 :GENRE: 諸宗
 :lang@ja-rom: SHINCHŌSHŌNIN HŌGO
@@ -1671,8 +1793,9 @@
 :EXTENT: I
 :END:
 [[img:T/T77/02/T77-0280.tif][T77, p.280]]
-*** KR6t0123 T77n2423 眞荷上人法語
+*** KR6t0123 眞荷上人法語--
 :PROPERTIES:
+:KR_ID: KR6t0123
 :EXTRA_ID: T:T77n2423
 :GENRE: 諸宗
 :lang@ja-rom: SHINKASHŌNIN HŌGO
@@ -1680,8 +1803,9 @@
 :EXTENT: I
 :END:
 [[img:T/T77/03/T77-0301.tif][T77, p.301]]
-*** KR6t0124 T77n2424 眞朗上人法語
+*** KR6t0124 眞朗上人法語--
 :PROPERTIES:
+:KR_ID: KR6t0124
 :EXTRA_ID: T:T77n2424
 :GENRE: 諸宗
 :lang@ja-rom: SHINRŌSHŌNIN HŌGO
@@ -1689,8 +1813,9 @@
 :EXTENT: I
 :END:
 [[img:T/T77/03/T77-0301.tif][T77, p.301]]
-*** KR6t0125 T77n2425 祕密曼荼羅十住心論
+*** KR6t0125 祕密曼荼羅十住心論--空海
 :PROPERTIES:
+:KR_ID: KR6t0125
 :EXTRA_ID: T:T77n2425
 :RELATED: T77n2443@諸宗, T77n2444@諸宗, T77n2454@諸宗
 :GENRE: 諸宗
@@ -1704,8 +1829,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kūkai
 :END:
-*** KR6t0126 T77n2426 祕藏寶鑰
+*** KR6t0126 祕藏寶鑰--空海
 :PROPERTIES:
+:KR_ID: KR6t0126
 :EXTRA_ID: T:T77n2426
 :GENRE: 諸宗
 :lang@ja-rom: HIZŌ HŌYAKU
@@ -1718,8 +1844,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kūkai
 :END:
-*** KR6t0127 T77n2427 辧顯密二教論
+*** KR6t0127 辧顯密二教論--空海
 :PROPERTIES:
+:KR_ID: KR6t0127
 :EXTRA_ID: T:T77n2427
 :RELATED: T77n2434@諸宗
 :GENRE: 諸宗
@@ -1733,8 +1860,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kūkai
 :END:
-*** KR6t0128 T77n2428A 即身成佛義
+*** KR6t0128 即身成佛義--空海
 :PROPERTIES:
+:KR_ID: KR6t0128
 :EXTRA_ID: T:T77n2428A
 :GENRE: 諸宗
 :lang@ja-rom: SOKUSHIN JŌBUTSU GI
@@ -1747,8 +1875,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kūkai
 :END:
-*** KR6t0129 T77n2428B 眞言宗即身成佛義問答
+*** KR6t0129 眞言宗即身成佛義問答--
 :PROPERTIES:
+:KR_ID: KR6t0129
 :EXTRA_ID: T:T77n2428B
 :GENRE: 諸宗
 :lang@ja-rom: SHINGONSHŪ SOKUSHIN JŌBUTSU GI MONDŌ
@@ -1756,8 +1885,9 @@
 :EXTENT: I
 :END:
 [[img:T/T77/03/T77-0384.tif][T77, p.384]]
-*** KR6t0130 T77n2428C 即身成佛義
+*** KR6t0130 即身成佛義--
 :PROPERTIES:
+:KR_ID: KR6t0130
 :EXTRA_ID: T:T77n2428C
 :GENRE: 諸宗
 :lang@ja-rom: SOKUSHIN JŌBUTSU GI
@@ -1765,8 +1895,9 @@
 :EXTENT: I
 :END:
 [[img:T/T77/03/T77-0385.tif][T77, p.385]]
-*** KR6t0131 T77n2428D 眞言宗即身成佛義
+*** KR6t0131 眞言宗即身成佛義--
 :PROPERTIES:
+:KR_ID: KR6t0131
 :EXTRA_ID: T:T77n2428D
 :GENRE: 諸宗
 :lang@ja-rom: SHINGONSHŪ SOKUSHIN JŌBUTSU GI MONDŌ
@@ -1774,8 +1905,9 @@
 :EXTENT: I
 :END:
 [[img:T/T77/03/T77-0387.tif][T77, p.387]]
-*** KR6t0132 T77n2428E 即身成佛義
+*** KR6t0132 即身成佛義--
 :PROPERTIES:
+:KR_ID: KR6t0132
 :EXTRA_ID: T:T77n2428E
 :GENRE: 諸宗
 :lang@ja-rom: SOKUSHIN JŌBUTSU GI
@@ -1783,8 +1915,9 @@
 :EXTENT: I
 :END:
 [[img:T/T77/03/T77-0391.tif][T77, p.391]]
-*** KR6t0133 T77n2428F 即身成佛義
+*** KR6t0133 即身成佛義--
 :PROPERTIES:
+:KR_ID: KR6t0133
 :EXTRA_ID: T:T77n2428F
 :GENRE: 諸宗
 :lang@ja-rom: SOKUSHIN JŌBUTSU GI
@@ -1792,8 +1925,9 @@
 :EXTENT: I
 :END:
 [[img:T/T77/03/T77-0395.tif][T77, p.395]]
-*** KR6t0134 T77n2428G 眞言宗即身成佛義問答
+*** KR6t0134 眞言宗即身成佛義問答--
 :PROPERTIES:
+:KR_ID: KR6t0134
 :EXTRA_ID: T:T77n2428G
 :GENRE: 諸宗
 :lang@ja-rom: SHINGONSHŪ SOKUSHIN JŌBUTSU GI MONDŌ
@@ -1801,8 +1935,9 @@
 :EXTENT: I
 :END:
 [[img:T/T77/03/T77-0399.tif][T77, p.399]]
-*** KR6t0135 T77n2429 聲字實相義
+*** KR6t0135 聲字實相義--空海
 :PROPERTIES:
+:KR_ID: KR6t0135
 :EXTRA_ID: T:T77n2429
 :GENRE: 諸宗
 :lang@ja-rom: SHŌJI JISSŌ GI
@@ -1815,8 +1950,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kūkai
 :END:
-*** KR6t0136 T77n2430 吽字義
+*** KR6t0136 吽字義--空海
 :PROPERTIES:
+:KR_ID: KR6t0136
 :EXTRA_ID: T:T77n2430
 :GENRE: 諸宗
 :lang@ja-rom: UNJI GI
@@ -1829,8 +1965,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kūkai
 :END:
-*** KR6t0137 T77n2431 御遺告
+*** KR6t0137 御遺告--空海
 :PROPERTIES:
+:KR_ID: KR6t0137
 :EXTRA_ID: T:T77n2431
 :GENRE: 諸宗
 :lang@ja-rom: GOYUIGŌ
@@ -1843,8 +1980,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kūkai
 :END:
-*** KR6t0138 T77n2432 阿字觀用心口決
+*** KR6t0138 阿字觀用心口決--實慧
 :PROPERTIES:
+:KR_ID: KR6t0138
 :EXTRA_ID: T:T77n2432
 :GENRE: 諸宗
 :lang@ja-rom: AJIKAṄ YŌJIN KUKETSU
@@ -1857,8 +1995,9 @@
 :PROPERTIES:
 :lang@ja-rom: Jichie
 :END:
-*** KR6t0139 T77n2433 眞言付法纂要抄
+*** KR6t0139 眞言付法纂要抄--成尊
 :PROPERTIES:
+:KR_ID: KR6t0139
 :EXTRA_ID: T:T77n2433
 :GENRE: 諸宗
 :lang@ja-rom: SHINGON FUHŌ SANNYŌ SHŌ
@@ -1871,8 +2010,9 @@
 :PROPERTIES:
 :lang@ja-rom: Seison
 :END:
-*** KR6t0140 T77n2434 辧顯密二教論懸鏡抄
+*** KR6t0140 辧顯密二教論懸鏡抄--濟暹
 :PROPERTIES:
+:KR_ID: KR6t0140
 :EXTRA_ID: T:T77n2434
 :RELATED: T77n2427@諸宗
 :GENRE: 諸宗
@@ -1886,8 +2026,9 @@
 :PROPERTIES:
 :lang@ja-rom: Saisen
 :END:
-*** KR6t0141 T77n2435 顯密差別問答
+*** KR6t0141 顯密差別問答--濟暹
 :PROPERTIES:
+:KR_ID: KR6t0141
 :EXTRA_ID: T:T77n2435
 :GENRE: 諸宗
 :lang@ja-rom: KEMMITSU SHABETSU MONDŌ
@@ -1900,8 +2041,9 @@
 :PROPERTIES:
 :lang@ja-rom: Saisen
 :END:
-*** KR6t0142 T77n2436 四種法身義
+*** KR6t0142 四種法身義--濟暹
 :PROPERTIES:
+:KR_ID: KR6t0142
 :EXTRA_ID: T:T77n2436
 :GENRE: 諸宗
 :lang@ja-rom: SHISHU HOSSHIN GI
@@ -1914,8 +2056,9 @@
 :PROPERTIES:
 :lang@ja-rom: Saisen
 :END:
-*** KR6t0143 T77n2437 住心決疑抄
+*** KR6t0143 住心決疑抄--
 :PROPERTIES:
+:KR_ID: KR6t0143
 :EXTRA_ID: T:T77n2437
 :GENRE: 諸宗
 :lang@ja-rom: JŪSHIN KETSUGI SHŌ
@@ -1923,8 +2066,9 @@
 :EXTENT: I
 :END:
 [[img:T/T77/05/T77-0512.tif][T77, p.512]]
-*** KR6t0144 T77n2438 阿字義
+*** KR6t0144 阿字義--實範
 :PROPERTIES:
+:KR_ID: KR6t0144
 :EXTRA_ID: T:T77n2438
 :GENRE: 諸宗
 :lang@ja-rom: AJI GI
@@ -1937,8 +2081,9 @@
 :PROPERTIES:
 :lang@ja-rom: Jippan
 :END:
-*** KR6t0145 T77n2439 阿字要略觀
+*** KR6t0145 阿字要略觀--實範
 :PROPERTIES:
+:KR_ID: KR6t0145
 :EXTRA_ID: T:T77n2439
 :GENRE: 諸宗
 :lang@ja-rom: AJI YŌRYAK KAN
@@ -1951,8 +2096,9 @@
 :PROPERTIES:
 :lang@ja-rom: Jippan
 :END:
-*** KR6t0146 T77n2440 zhu
+*** KR6t0146 zhu--
 :PROPERTIES:
+:KR_ID: KR6t0146
 :EXTRA_ID: T:T77n2440
 :GENRE: 諸宗
 :lang@ja-rom: DAIKYŌ YŌGI SHŌ CHŪKAI
@@ -1960,8 +2106,9 @@
 :EXTENT: jie) 大經要義抄注解 I
 :END:
 [[img:T/T77/05/T77-0553.tif][T77, p.553]]
-*** KR6t0147 T77n2441 祕宗教相鈔
+*** KR6t0147 祕宗教相鈔--重譽
 :PROPERTIES:
+:KR_ID: KR6t0147
 :EXTRA_ID: T:T77n2441
 :GENRE: 諸宗
 :lang@ja-rom: HISHŪ KYŌSŌ SHŌ
@@ -1974,8 +2121,9 @@
 :PROPERTIES:
 :lang@ja-rom: Chōyo
 :END:
-*** KR6t0148 T77n2442 十住心論鈔
+*** KR6t0148 十住心論鈔--重譽
 :PROPERTIES:
+:KR_ID: KR6t0148
 :EXTRA_ID: T:T77n2442
 :RELATED: T77n2425@諸宗, T77n2443@諸宗, T77n2444@諸宗
 :GENRE: 諸宗
@@ -1989,8 +2137,9 @@
 :PROPERTIES:
 :lang@ja-rom: Chōyo
 :END:
-*** KR6t0149 T77n2443 十住心論打聞集
+*** KR6t0149 十住心論打聞集--
 :PROPERTIES:
+:KR_ID: KR6t0149
 :EXTRA_ID: T:T77n2443
 :RELATED: T77n2425@諸宗, T77n2442@諸宗, T77n2444@諸宗
 :GENRE: 諸宗
@@ -1999,8 +2148,9 @@
 :EXTENT: I
 :END:
 [[img:T/T77/06/T77-0673.tif][T77, p.673]]
-*** KR6t0150 T77n2444 十住遮難抄
+*** KR6t0150 十住遮難抄--
 :PROPERTIES:
+:KR_ID: KR6t0150
 :EXTRA_ID: T:T77n2444
 :RELATED: T77n2425@諸宗, T77n2442@諸宗, T77n2443@諸宗
 :GENRE: 諸宗
@@ -2009,8 +2159,9 @@
 :EXTENT: I
 :END:
 [[img:T/T77/06/T77-0685.tif][T77, p.685]]
-*** KR6t0151 T77n2445 眞言教主問答抄
+*** KR6t0151 眞言教主問答抄--經尋
 :PROPERTIES:
+:KR_ID: KR6t0151
 :EXTRA_ID: T:T77n2445
 :GENRE: 諸宗
 :lang@ja-rom: SHINGON KYŌSHU MONDŌ SHŌ
@@ -2023,8 +2174,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kyōjin
 :END:
-*** KR6t0152 T77n2446 千輻輪相顯密集
+*** KR6t0152 千輻輪相顯密集--興然
 :PROPERTIES:
+:KR_ID: KR6t0152
 :EXTRA_ID: T:T77n2446
 :GENRE: 諸宗
 :lang@ja-rom: SEMPUKURINSŌ KEMMITSU SHŪ
@@ -2037,8 +2189,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kōzen
 :END:
-*** KR6t0153 T77n2447 貞應抄
+*** KR6t0153 貞應抄--道範
 :PROPERTIES:
+:KR_ID: KR6t0153
 :EXTRA_ID: T:T77n2447
 :GENRE: 諸宗
 :lang@ja-rom: TEIŌ SHŌ
@@ -2051,8 +2204,9 @@
 :PROPERTIES:
 :lang@ja-rom: Dōhan
 :END:
-*** KR6t0154 T77n2448 諸法分別抄
+*** KR6t0154 諸法分別抄--頼寶
 :PROPERTIES:
+:KR_ID: KR6t0154
 :EXTRA_ID: T:T77n2448
 :GENRE: 諸宗
 :lang@ja-rom: SHOHŌ FUMBETSU SHŌ
@@ -2065,8 +2219,9 @@
 :PROPERTIES:
 :lang@ja-rom: Raihō
 :END:
-*** KR6t0155 T77n2449 眞言名目
+*** KR6t0155 眞言名目--頼寶
 :PROPERTIES:
+:KR_ID: KR6t0155
 :EXTRA_ID: T:T77n2449
 :GENRE: 諸宗
 :lang@ja-rom: SHINGOM MYŌMOKU
@@ -2079,8 +2234,9 @@
 :PROPERTIES:
 :lang@ja-rom: Raihō
 :END:
-*** KR6t0156 T77n2450 開心抄
+*** KR6t0156 開心抄--杲寶
 :PROPERTIES:
+:KR_ID: KR6t0156
 :EXTRA_ID: T:T77n2450
 :GENRE: 諸宗
 :lang@ja-rom: KAISHIN SHŌ
@@ -2093,8 +2249,9 @@
 :PROPERTIES:
 :lang@ja-rom: Gōhō
 :END:
-*** KR6t0157 T77n2451 金剛頂宗綱概
+*** KR6t0157 金剛頂宗綱概--杲寶
 :PROPERTIES:
+:KR_ID: KR6t0157
 :EXTRA_ID: T:T77n2451
 :GENRE: 諸宗
 :lang@ja-rom: KONGŌCHŌSHŪ KŌGAI
@@ -2107,8 +2264,9 @@
 :PROPERTIES:
 :lang@ja-rom: Gōhō
 :END:
-*** KR6t0158 T77n2452 大日經教主本地加持分別
+*** KR6t0158 大日經教主本地加持分別--杲寶
 :PROPERTIES:
+:KR_ID: KR6t0158
 :EXTRA_ID: T:T77n2452
 :GENRE: 諸宗
 :lang@ja-rom: DAINICHIKYŌ  KYŌSHU HONJI KAJI FUMBETSU
@@ -2121,8 +2279,9 @@
 :PROPERTIES:
 :lang@ja-rom: Gōhō
 :END:
-*** KR6t0159 T77n2453 寶册鈔
+*** KR6t0159 寶册鈔--
 :PROPERTIES:
+:KR_ID: KR6t0159
 :EXTRA_ID: T:T77n2453
 :GENRE: 諸宗
 :lang@ja-rom: HŌSAKU SHŌ
@@ -2130,8 +2289,9 @@
 :EXTENT: X
 :END:
 [[img:T/T77/07/T77-0786.tif][T77, p.786]]
-*** KR6t0160 T77n2454 十住心義林
+*** KR6t0160 十住心義林--宥快
 :PROPERTIES:
+:KR_ID: KR6t0160
 :EXTRA_ID: T:T77n2454
 :RELATED: T77n2425@諸宗
 :GENRE: 諸宗
@@ -2145,8 +2305,9 @@
 :PROPERTIES:
 :lang@ja-rom: Yūkai
 :END:
-*** KR6t0161 T77n2455 大日經主異義事
+*** KR6t0161 大日經主異義事--宥快
 :PROPERTIES:
+:KR_ID: KR6t0161
 :EXTRA_ID: T:T77n2455
 :GENRE: 諸宗
 :lang@ja-rom: DAINICHIKYŌ  SHU IGI NO KOTO
@@ -2159,8 +2320,9 @@
 :PROPERTIES:
 :lang@ja-rom: Yūkai
 :END:
-*** KR6t0162 T77n2456 寶鏡鈔
+*** KR6t0162 寶鏡鈔--宥快
 :PROPERTIES:
+:KR_ID: KR6t0162
 :EXTRA_ID: T:T77n2456
 :GENRE: 諸宗
 :lang@ja-rom: HŌKYŌ SHŌ
@@ -2173,8 +2335,9 @@
 :PROPERTIES:
 :lang@ja-rom: Yūkai
 :END:
-*** KR6t0163 T77n2457 大日經教主義
+*** KR6t0163 大日經教主義--曇寂
 :PROPERTIES:
+:KR_ID: KR6t0163
 :EXTRA_ID: T:T77n2457
 :GENRE: 諸宗
 :lang@ja-rom: DAINICHIKYŌ  KYŌSHU GI
@@ -2187,8 +2350,9 @@
 :PROPERTIES:
 :lang@ja-rom: Donjaku
 :END:
-*** KR6t0164 T77n2458 眞言宗未決文
+*** KR6t0164 眞言宗未決文--徳一
 :PROPERTIES:
+:KR_ID: KR6t0164
 :EXTRA_ID: T:T77n2458
 :RELATED: T77n2459@諸宗
 :GENRE: 諸宗
@@ -2202,8 +2366,9 @@
 :PROPERTIES:
 :lang@ja-rom: Tokuichi
 :END:
-*** KR6t0165 T77n2459 未決答決
+*** KR6t0165 未決答決--房覺
 :PROPERTIES:
+:KR_ID: KR6t0165
 :EXTRA_ID: T:T77n2459
 :RELATED: T77n2458@諸宗
 :GENRE: 諸宗
@@ -2217,8 +2382,9 @@
 :PROPERTIES:
 :lang@ja-rom: Bōkaku
 :END:
-*** KR6t0166 T77n2460 徳一未決答釋
+*** KR6t0166 徳一未決答釋--杲寶
 :PROPERTIES:
+:KR_ID: KR6t0166
 :EXTRA_ID: T:T77n2460
 :GENRE: 諸宗
 :lang@ja-rom: TOKUICHI MIKETTŌ SHAKU
@@ -2232,8 +2398,9 @@
 :lang@ja-rom: Gōhō
 :END:
 
-*** KR6t0167 T78n2461 大和尚奉爲平安城太上天皇灌頂文
+*** KR6t0167 大和尚奉爲平安城太上天皇灌頂文--空海
 :PROPERTIES:
+:KR_ID: KR6t0167
 :EXTRA_ID: T:T78n2461
 :GENRE: 諸宗
 :lang@ja-rom: DAIWAJŌ HŌI HEIANJŌ DAIJŌTENNŌ KANJŌ MON
@@ -2246,8 +2413,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kūkai
 :END:
-*** KR6t0168 T78n2462 三昧耶戒序
+*** KR6t0168 三昧耶戒序--空海
 :PROPERTIES:
+:KR_ID: KR6t0168
 :EXTRA_ID: T:T78n2462
 :GENRE: 諸宗
 :lang@ja-rom: SAMMAYA KAI JO
@@ -2260,8 +2428,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kūkai
 :END:
-*** KR6t0169 T78n2463 祕密三昧耶佛戒儀
+*** KR6t0169 祕密三昧耶佛戒儀--空海
 :PROPERTIES:
+:KR_ID: KR6t0169
 :EXTRA_ID: T:T78n2463
 :GENRE: 諸宗
 :lang@ja-rom: HIMITSU SAMMAYABUTSUKAI GI
@@ -2274,8 +2443,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kūkai
 :END:
-*** KR6t0170 T78n2464 五部陀羅尼問答偈讃宗祕論
+*** KR6t0170 五部陀羅尼問答偈讃宗祕論--空海
 :PROPERTIES:
+:KR_ID: KR6t0170
 :EXTRA_ID: T:T78n2464
 :GENRE: 諸宗
 :lang@ja-rom: GOBU DARANI MONDŌ GESAN SHŪHI RON
@@ -2288,8 +2458,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kūkai
 :END:
-*** KR6t0171 T78n2465 檜尾口訣
+*** KR6t0171 檜尾口訣--實慧
 :PROPERTIES:
+:KR_ID: KR6t0171
 :EXTRA_ID: T:T78n2465
 :GENRE: 諸宗
 :lang@ja-rom: HINOO KUKETSU
@@ -2302,8 +2473,9 @@
 :PROPERTIES:
 :lang@ja-rom: Jichie
 :END:
-*** KR6t0172 T78n2466 高雄口訣
+*** KR6t0172 高雄口訣--眞濟
 :PROPERTIES:
+:KR_ID: KR6t0172
 :EXTRA_ID: T:T78n2466
 :GENRE: 諸宗
 :lang@ja-rom: TAKAO KUKETSU
@@ -2316,8 +2488,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shinzei
 :END:
-*** KR6t0173 T78n2467 五部肝心記
+*** KR6t0173 五部肝心記--眞濟
 :PROPERTIES:
+:KR_ID: KR6t0173
 :EXTRA_ID: T:T78n2467
 :GENRE: 諸宗
 :lang@ja-rom: GOBU KANJIN KI
@@ -2330,8 +2503,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shinzei
 :END:
-*** KR6t0174 T78n2468 要尊道場觀
+*** KR6t0174 要尊道場觀--淳祐
 :PROPERTIES:
+:KR_ID: KR6t0174
 :EXTRA_ID: T:T78n2468
 :GENRE: 諸宗
 :lang@ja-rom: YŌSON DŌJŌ KAN
@@ -2344,8 +2518,9 @@
 :PROPERTIES:
 :lang@ja-rom: Junnyū
 :END:
-*** KR6t0175 T78n2469 不灌鈴等記
+*** KR6t0175 不灌鈴等記--
 :PROPERTIES:
+:KR_ID: KR6t0175
 :EXTRA_ID: T:T78n2469
 :GENRE: 諸宗
 :lang@ja-rom: FUKANREI TŌ KI
@@ -2353,8 +2528,9 @@
 :EXTENT: I
 :END:
 [[img:T/T78/00/T78-0065.tif][T78, p. 65]]
-*** KR6t0176 T78n2470 具支灌頂儀式
+*** KR6t0176 具支灌頂儀式--元杲
 :PROPERTIES:
+:KR_ID: KR6t0176
 :EXTRA_ID: T:T78n2470
 :GENRE: 諸宗
 :lang@ja-rom: GUSHI KANJŌ GISHIKI
@@ -2367,8 +2543,9 @@
 :PROPERTIES:
 :lang@ja-rom: Gengō
 :END:
-*** KR6t0177 T78n2471 金剛界九會密記
+*** KR6t0177 金剛界九會密記--元杲
 :PROPERTIES:
+:KR_ID: KR6t0177
 :EXTRA_ID: T:T78n2471
 :GENRE: 諸宗
 :lang@ja-rom: KONGŌKAI KUEMIK KI
@@ -2381,8 +2558,9 @@
 :PROPERTIES:
 :lang@ja-rom: Gengō
 :END:
-*** KR6t0178 T78n2472 胎藏界三部祕釋
+*** KR6t0178 胎藏界三部祕釋--元杲
 :PROPERTIES:
+:KR_ID: KR6t0178
 :EXTRA_ID: T:T78n2472
 :GENRE: 諸宗
 :lang@ja-rom: TAIZŌKAI SAMBU HISHAKU
@@ -2395,8 +2573,9 @@
 :PROPERTIES:
 :lang@ja-rom: Gengō
 :END:
-*** KR6t0179 T78n2473 小野六帖
+*** KR6t0179 小野六帖--仁海
 :PROPERTIES:
+:KR_ID: KR6t0179
 :EXTRA_ID: T:T78n2473
 :GENRE: 諸宗
 :lang@ja-rom: ONO ROKUJŌ
@@ -2409,8 +2588,9 @@
 :PROPERTIES:
 :lang@ja-rom: Ninkai
 :END:
-*** KR6t0180 T78n2474 五相成身義問答抄
+*** KR6t0180 五相成身義問答抄--濟暹
 :PROPERTIES:
+:KR_ID: KR6t0180
 :EXTRA_ID: T:T78n2474
 :GENRE: 諸宗
 :lang@ja-rom: GOSŌJŌSHIN GI MONDŌ SHŌ
@@ -2423,8 +2603,9 @@
 :PROPERTIES:
 :lang@ja-rom: Saisen
 :END:
-*** KR6t0181 T78n2475 十八契印義釋生起
+*** KR6t0181 十八契印義釋生起--定深
 :PROPERTIES:
+:KR_ID: KR6t0181
 :EXTRA_ID: T:T78n2475
 :GENRE: 諸宗
 :lang@ja-rom: JŪHACHIGEIIN GISHAKU SHŌKI
@@ -2437,8 +2618,9 @@
 :PROPERTIES:
 :lang@ja-rom: Jōjin
 :END:
-*** KR6t0182 T78n2476 別行
+*** KR6t0182 別行--寛助
 :PROPERTIES:
+:KR_ID: KR6t0182
 :EXTRA_ID: T:T78n2476
 :GENRE: 諸宗
 :lang@ja-rom: BETSUGYŌ
@@ -2451,8 +2633,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kanjo
 :END:
-*** KR6t0183 T78n2477 柿袋
+*** KR6t0183 柿袋--眞譽
 :PROPERTIES:
+:KR_ID: KR6t0183
 :EXTRA_ID: T:T78n2477
 :GENRE: 諸宗
 :lang@ja-rom: KAKI BUKURO
@@ -2465,8 +2648,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shiṇyo
 :END:
-*** KR6t0184 T78n2478 要尊法
+*** KR6t0184 要尊法--永嚴
 :PROPERTIES:
+:KR_ID: KR6t0184
 :EXTRA_ID: T:T78n2478
 :GENRE: 諸宗
 :lang@ja-rom: YŌSON BŌ
@@ -2479,8 +2663,9 @@
 :PROPERTIES:
 :lang@ja-rom: Yōgen
 :END:
-*** KR6t0185 T78n2479 勝語集
+*** KR6t0185 勝語集--
 :PROPERTIES:
+:KR_ID: KR6t0185
 :EXTRA_ID: T:T78n2479
 :GENRE: 諸宗
 :lang@ja-rom: SHŌGO SHŪ
@@ -2488,8 +2673,9 @@
 :EXTENT: II
 :END:
 [[img:T/T78/02/T78-0209.tif][T78, p.209]]
-*** KR6t0186 T78n2480 事相料簡
+*** KR6t0186 事相料簡--覺印
 :PROPERTIES:
+:KR_ID: KR6t0186
 :EXTRA_ID: T:T78n2480
 :GENRE: 諸宗
 :lang@ja-rom: JISŌ RYŌKEN
@@ -2502,8 +2688,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakuin
 :END:
-*** KR6t0187 T78n2481 轉非命業抄
+*** KR6t0187 轉非命業抄--賢覺
 :PROPERTIES:
+:KR_ID: KR6t0187
 :EXTRA_ID: T:T78n2481
 :GENRE: 諸宗
 :lang@ja-rom: TEMPI MYŌGŌ SHŌ
@@ -2516,8 +2703,9 @@
 :PROPERTIES:
 :lang@ja-rom: Genkaku
 :END:
-*** KR6t0188 T78n2482 傳受集
+*** KR6t0188 傳受集--寛信
 :PROPERTIES:
+:KR_ID: KR6t0188
 :EXTRA_ID: T:T78n2482
 :GENRE: 諸宗
 :lang@ja-rom: DENJU SHŪ
@@ -2530,8 +2718,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kanjin
 :END:
-*** KR6t0189 T78n2483 厚造[雙]紙
+*** KR6t0189 厚造紙--元海
 :PROPERTIES:
+:KR_ID: KR6t0189
 :EXTRA_ID: T:T78n2483
 :GENRE: 諸宗
 :lang@ja-rom: ATSU ZŌSHI
@@ -2544,8 +2733,9 @@
 :PROPERTIES:
 :lang@ja-rom: Genkai
 :END:
-*** KR6t0190 T78n2484 諸尊要抄
+*** KR6t0190 諸尊要抄--實運
 :PROPERTIES:
+:KR_ID: KR6t0190
 :EXTRA_ID: T:T78n2484
 :GENRE: 諸宗
 :lang@ja-rom: SHOSONN YŌSHŌ
@@ -2558,8 +2748,9 @@
 :PROPERTIES:
 :lang@ja-rom: Jichiun
 :END:
-*** KR6t0191 T78n2485 祕藏金寶鈔
+*** KR6t0191 祕藏金寶鈔--實運
 :PROPERTIES:
+:KR_ID: KR6t0191
 :EXTRA_ID: T:T78n2485
 :GENRE: 諸宗
 :lang@ja-rom: HIZŌ KOMPŌ SHŌ
@@ -2572,8 +2763,9 @@
 :PROPERTIES:
 :lang@ja-rom: Jichiun
 :END:
-*** KR6t0192 T78n2486 玄祕抄
+*** KR6t0192 玄祕抄--實運
 :PROPERTIES:
+:KR_ID: KR6t0192
 :EXTRA_ID: T:T78n2486
 :GENRE: 諸宗
 :lang@ja-rom: GEMPI SHŌ
@@ -2586,8 +2778,9 @@
 :PROPERTIES:
 :lang@ja-rom: Jichiun
 :END:
-*** KR6t0193 T78n2487 治承記
+*** KR6t0193 治承記--勝賢
 :PROPERTIES:
+:KR_ID: KR6t0193
 :EXTRA_ID: T:T78n2487
 :GENRE: 諸宗
 :lang@ja-rom: JISHŌ KI
@@ -2600,8 +2793,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shōken
 :END:
-*** KR6t0194 T78n2488 澤鈔
+*** KR6t0194 澤鈔--
 :PROPERTIES:
+:KR_ID: KR6t0194
 :EXTRA_ID: T:T78n2488
 :GENRE: 諸宗
 :lang@ja-rom: TAKU SHŌ
@@ -2609,8 +2803,9 @@
 :EXTENT: X
 :END:
 [[img:T/T78/04/T78-0423.tif][T78, p.423]]
-*** KR6t0195 T78n2489 祕鈔
+*** KR6t0195 祕鈔--
 :PROPERTIES:
+:KR_ID: KR6t0195
 :EXTRA_ID: T:T78n2489
 :RELATED: T79n2536@諸宗
 :GENRE: 諸宗
@@ -2619,8 +2814,9 @@
 :EXTENT: XVIII
 :END:
 [[img:T/T78/04/T78-0483.tif][T78, p.483]]
-*** KR6t0196 T78n2490 異尊抄
+*** KR6t0196 異尊抄--
 :PROPERTIES:
+:KR_ID: KR6t0196
 :EXTRA_ID: T:T78n2490
 :GENRE: 諸宗
 :lang@ja-rom: ISON SHŌ
@@ -2628,8 +2824,9 @@
 :EXTENT: II
 :END:
 [[img:T/T78/05/T78-0584.tif][T78, p.584]]
-*** KR6t0197 T78n2491 右記
+*** KR6t0197 右記--
 :PROPERTIES:
+:KR_ID: KR6t0197
 :EXTRA_ID: T:T78n2491
 :GENRE: 諸宗
 :lang@ja-rom: U KI
@@ -2637,8 +2834,9 @@
 :EXTENT: I
 :END:
 [[img:T/T78/06/T78-0601.tif][T78, p.601]]
-*** KR6t0198 T78n2492 左記
+*** KR6t0198 左記--
 :PROPERTIES:
+:KR_ID: KR6t0198
 :EXTRA_ID: T:T78n2492
 :GENRE: 諸宗
 :lang@ja-rom: SA KI
@@ -2646,8 +2844,9 @@
 :EXTENT: I
 :END:
 [[img:T/T78/06/T78-0607.tif][T78, p.607]]
-*** KR6t0199 T78n2493 御記
+*** KR6t0199 御記--
 :PROPERTIES:
+:KR_ID: KR6t0199
 :EXTRA_ID: T:T78n2493
 :GENRE: 諸宗
 :lang@ja-rom: GYOKI
@@ -2655,8 +2854,9 @@
 :EXTENT: I
 :END:
 [[img:T/T78/06/T78-0610.tif][T78, p.610]]
-*** KR6t0200 T78n2494 追記
+*** KR6t0200 追記--
 :PROPERTIES:
+:KR_ID: KR6t0200
 :EXTRA_ID: T:T78n2494
 :GENRE: 諸宗
 :lang@ja-rom: TSUIKI
@@ -2664,8 +2864,9 @@
 :EXTENT: I
 :END:
 [[img:T/T78/06/T78-0617.tif][T78, p.617]]
-*** KR6t0201 T78n2495 薄雙紙
+*** KR6t0201 薄雙紙--成賢
 :PROPERTIES:
+:KR_ID: KR6t0201
 :EXTRA_ID: T:T78n2495
 :RELATED: T79n2535@諸宗
 :GENRE: 諸宗
@@ -2679,8 +2880,9 @@
 :PROPERTIES:
 :lang@ja-rom: Seigen
 :END:
-*** KR6t0202 T78n2496 遍口鈔
+*** KR6t0202 遍口鈔--
 :PROPERTIES:
+:KR_ID: KR6t0202
 :EXTRA_ID: T:T78n2496
 :GENRE: 諸宗
 :lang@ja-rom: HENKU SHŌ
@@ -2688,8 +2890,9 @@
 :EXTENT: VI
 :END:
 [[img:T/T78/06/T78-0691.tif][T78, p.691]]
-*** KR6t0203 T78n2497 實歸鈔
+*** KR6t0203 實歸鈔--深賢
 :PROPERTIES:
+:KR_ID: KR6t0203
 :EXTRA_ID: T:T78n2497
 :GENRE: 諸宗
 :lang@ja-rom: JIKKI SHŌ
@@ -2702,8 +2905,9 @@
 :PROPERTIES:
 :lang@ja-rom: Jinken
 :END:
-*** KR6t0204 T78n2498 幸心鈔
+*** KR6t0204 幸心鈔--
 :PROPERTIES:
+:KR_ID: KR6t0204
 :EXTRA_ID: T:T78n2498
 :GENRE: 諸宗
 :lang@ja-rom: KŌSHIN SHŌ
@@ -2711,8 +2915,9 @@
 :EXTENT: V
 :END:
 [[img:T/T78/07/T78-0717.tif][T78, p.717]]
-*** KR6t0205 T78n2499 傳法灌頂私記
+*** KR6t0205 傳法灌頂私記--教舜
 :PROPERTIES:
+:KR_ID: KR6t0205
 :EXTRA_ID: T:T78n2499
 :GENRE: 諸宗
 :lang@ja-rom: DEMBŌ KANJŌ SHIKI
@@ -2725,8 +2930,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kyōshun
 :END:
-*** KR6t0206 T78n2500 四卷
+*** KR6t0206 四卷--興然
 :PROPERTIES:
+:KR_ID: KR6t0206
 :EXTRA_ID: T:T78n2500
 :GENRE: 諸宗
 :lang@ja-rom: SHIKAN
@@ -2739,8 +2945,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kōzen
 :END:
-*** KR6t0207 T78n2501 師口
+*** KR6t0207 師口--榮然
 :PROPERTIES:
+:KR_ID: KR6t0207
 :EXTRA_ID: T:T78n2501
 :GENRE: 諸宗
 :lang@ja-rom: SHIKU
@@ -2753,8 +2960,9 @@
 :PROPERTIES:
 :lang@ja-rom: Yōzen
 :END:
-*** KR6t0208 T78n2502 行法肝葉鈔
+*** KR6t0208 行法肝葉鈔--道範
 :PROPERTIES:
+:KR_ID: KR6t0208
 :EXTRA_ID: T:T78n2502
 :GENRE: 諸宗
 :lang@ja-rom: GYŌBŌ KANNYŌ SHŌ
@@ -2767,8 +2975,9 @@
 :PROPERTIES:
 :lang@ja-rom: Dōhan
 :END:
-*** KR6t0209 T78n2503 授寶性院宥快記
+*** KR6t0209 授寶性院宥快記--興雅
 :PROPERTIES:
+:KR_ID: KR6t0209
 :EXTRA_ID: T:T78n2503
 :GENRE: 諸宗
 :lang@ja-rom: JUHŌSHŌIṄ YŪKAI KI
@@ -2781,8 +2990,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kōga
 :END:
-*** KR6t0210 T78n2504 中院流四度口傳
+*** KR6t0210 中院流四度口傳--宥快
 :PROPERTIES:
+:KR_ID: KR6t0210
 :EXTRA_ID: T:T78n2504
 :GENRE: 諸宗
 :lang@ja-rom: CHŪINRYŪ SHIDO KUDEN
@@ -2795,8 +3005,9 @@
 :PROPERTIES:
 :lang@ja-rom: Yūkai
 :END:
-*** KR6t0211 T78n2505 中院流事
+*** KR6t0211 中院流事--
 :PROPERTIES:
+:KR_ID: KR6t0211
 :EXTRA_ID: T:T78n2505
 :GENRE: 諸宗
 :lang@ja-rom: CHŪINRYŪ NO KOTO
@@ -2804,8 +3015,9 @@
 :EXTENT: I
 :END:
 [[img:T/T78/09/T78-0911.tif][T78, p.911]]
-*** KR6t0212 T78n2506 中院流大事聞書
+*** KR6t0212 中院流大事聞書--
 :PROPERTIES:
+:KR_ID: KR6t0212
 :EXTRA_ID: T:T78n2506
 :GENRE: 諸宗
 :lang@ja-rom: CHŪINRYŪ DAIJI KIKIGAKI
@@ -2813,8 +3025,9 @@
 :EXTENT: I
 :END:
 [[img:T/T78/09/T78-0912.tif][T78, p.912]]
-*** KR6t0213 T78n2507 傳屍病口傳
+*** KR6t0213 傳屍病口傳--
 :PROPERTIES:
+:KR_ID: KR6t0213
 :EXTRA_ID: T:T78n2507
 :GENRE: 諸宗
 :lang@ja-rom: DENSHIBYŌ KUDEN
@@ -2822,8 +3035,9 @@
 :EXTENT: I
 :END:
 [[img:T/T78/09/T78-0915.tif][T78, p.915]]
-*** KR6t0214 T78n2508 傳屍病灸治
+*** KR6t0214 傳屍病灸治--
 :PROPERTIES:
+:KR_ID: KR6t0214
 :EXTRA_ID: T:T78n2508
 :GENRE: 諸宗
 :lang@ja-rom: DENSHIBYŌ KYŪJI
@@ -2831,8 +3045,9 @@
 :EXTENT: I
 :END:
 [[img:T/T78/09/T78-0915.tif][T78, p.915]]
-*** KR6t0215 T78n2509 僞書論
+*** KR6t0215 僞書論--恭畏
 :PROPERTIES:
+:KR_ID: KR6t0215
 :EXTRA_ID: T:T78n2509
 :GENRE: 諸宗
 :lang@ja-rom: GISHO RON
@@ -2846,8 +3061,9 @@
 :lang@ja-rom: Kyōi
 :END:
 
-*** KR6t0216 T79n2510 顯密不同頌
+*** KR6t0216 顯密不同頌--覺鑁
 :PROPERTIES:
+:KR_ID: KR6t0216
 :EXTRA_ID: T:T79n2510
 :GENRE: 諸宗
 :lang@ja-rom: KEMMITSU FUDŌ JU
@@ -2860,8 +3076,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakuban
 :END:
-*** KR6t0217 T79n2511 眞言宗即身成佛義章
+*** KR6t0217 眞言宗即身成佛義章--覺鑁
 :PROPERTIES:
+:KR_ID: KR6t0217
 :EXTRA_ID: T:T79n2511
 :GENRE: 諸宗
 :lang@ja-rom: SHINGONSHŪ SOKUSHINJŌBUTSUGI SHŌ
@@ -2874,8 +3091,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakuban
 :END:
-*** KR6t0218 T79n2512 　字祕釋
+*** KR6t0218 字祕釋--覺鑁
 :PROPERTIES:
+:KR_ID: KR6t0218
 :EXTRA_ID: T:T79n2512
 :GENRE: 諸宗
 :lang@ja-rom: AJI HISHAKU
@@ -2888,8 +3106,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakuban
 :END:
-*** KR6t0219 T79n2513 　字義
+*** KR6t0219 字義--覺鑁
 :PROPERTIES:
+:KR_ID: KR6t0219
 :EXTRA_ID: T:T79n2513
 :GENRE: 諸宗
 :lang@ja-rom: BANJI GI
@@ -2902,8 +3121,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakuban
 :END:
-*** KR6t0220 T79n2514 五輪九字明祕密釋
+*** KR6t0220 五輪九字明祕密釋--覺鑁
 :PROPERTIES:
+:KR_ID: KR6t0220
 :EXTRA_ID: T:T79n2514
 :GENRE: 諸宗
 :lang@ja-rom: GORIN KUJIMYŌ HIMITSU SHAKU
@@ -2916,8 +3136,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakuban
 :END:
-*** KR6t0221 T79n2515 密嚴淨土略觀
+*** KR6t0221 密嚴淨土略觀--覺鑁
 :PROPERTIES:
+:KR_ID: KR6t0221
 :EXTRA_ID: T:T79n2515
 :RELATED: T83n2617@諸宗
 :GENRE: 諸宗
@@ -2931,8 +3152,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakuban
 :END:
-*** KR6t0222 T79n2516 祕密莊嚴傳法灌頂一異義
+*** KR6t0222 祕密莊嚴傳法灌頂一異義--覺鑁
 :PROPERTIES:
+:KR_ID: KR6t0222
 :EXTRA_ID: T:T79n2516
 :RELATED: T83n2617@諸宗
 :GENRE: 諸宗
@@ -2946,8 +3168,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakuban
 :END:
-*** KR6t0223 T79n2517 十八道沙汰
+*** KR6t0223 十八道沙汰--覺鑁
 :PROPERTIES:
+:KR_ID: KR6t0223
 :EXTRA_ID: T:T79n2517
 :GENRE: 諸宗
 :lang@ja-rom: JŪHACHIDŌ SATA
@@ -2960,8 +3183,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakuban
 :END:
-*** KR6t0224 T79n2518 金剛頂經蓮華部心念誦次第沙汰
+*** KR6t0224 金剛頂經蓮華部心念誦次第沙汰--覺鑁
 :PROPERTIES:
+:KR_ID: KR6t0224
 :EXTRA_ID: T:T79n2518
 :GENRE: 諸宗
 :lang@ja-rom: KONGŌCHŌKYŌ RENGEBU SHINNENJU SHIDAI SATA
@@ -2974,8 +3198,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakuban
 :END:
-*** KR6t0225 T79n2519 胎藏界沙汰
+*** KR6t0225 胎藏界沙汰--覺鑁
 :PROPERTIES:
+:KR_ID: KR6t0225
 :EXTRA_ID: T:T79n2519
 :GENRE: 諸宗
 :lang@ja-rom: TAIZŌKAI SATA
@@ -2988,8 +3213,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakuban
 :END:
-*** KR6t0226 T79n2520 心月輪祕釋
+*** KR6t0226 心月輪祕釋--覺鑁
 :PROPERTIES:
+:KR_ID: KR6t0226
 :EXTRA_ID: T:T79n2520
 :GENRE: 諸宗
 :lang@ja-rom: SHINGACHIRIN HISHAKU
@@ -3002,8 +3228,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakuban
 :END:
-*** KR6t0227 T79n2521 眞言淨菩提心私記
+*** KR6t0227 眞言淨菩提心私記--覺鑁
 :PROPERTIES:
+:KR_ID: KR6t0227
 :EXTRA_ID: T:T79n2521
 :GENRE: 諸宗
 :lang@ja-rom: SHINGON JŌBODAISHIN SHIKI
@@ -3016,8 +3243,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakuban
 :END:
-*** KR6t0228 T79n2522 阿彌陀祕釋
+*** KR6t0228 阿彌陀祕釋--覺鑁
 :PROPERTIES:
+:KR_ID: KR6t0228
 :EXTRA_ID: T:T79n2522
 :GENRE: 諸宗
 :lang@ja-rom: AMIDA HISHAKU
@@ -3030,8 +3258,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakuban
 :END:
-*** KR6t0229 T79n2523 眞言宗義
+*** KR6t0229 眞言宗義--覺鑁
 :PROPERTIES:
+:KR_ID: KR6t0229
 :EXTRA_ID: T:T79n2523
 :GENRE: 諸宗
 :lang@ja-rom: SHINGON SHŪGI
@@ -3044,8 +3273,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakuban
 :END:
-*** KR6t0230 T79n2524 祕密莊嚴不二義章
+*** KR6t0230 祕密莊嚴不二義章--覺鑁
 :PROPERTIES:
+:KR_ID: KR6t0230
 :EXTRA_ID: T:T79n2524
 :GENRE: 諸宗
 :lang@ja-rom: HIMITSU SHŌGON FUNIGI SHŌ
@@ -3058,8 +3288,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakuban
 :END:
-*** KR6t0231 T79n2525 眞言三密修行問答
+*** KR6t0231 眞言三密修行問答--覺鑁
 :PROPERTIES:
+:KR_ID: KR6t0231
 :EXTRA_ID: T:T79n2525
 :GENRE: 諸宗
 :lang@ja-rom: SHINGON SAMMITSU SHUGYŌ MONDŌ
@@ -3072,8 +3303,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakuban
 :END:
-*** KR6t0232 T79n2526 勸發頌
+*** KR6t0232 勸發頌--覺鑁
 :PROPERTIES:
+:KR_ID: KR6t0232
 :EXTRA_ID: T:T79n2526
 :GENRE: 諸宗
 :lang@ja-rom: KAMPOTSU JU
@@ -3086,8 +3318,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakuban
 :END:
-*** KR6t0233 T79n2527 密嚴院發露懺悔文
+*** KR6t0233 密嚴院發露懺悔文--覺鑁
 :PROPERTIES:
+:KR_ID: KR6t0233
 :EXTRA_ID: T:T79n2527
 :GENRE: 諸宗
 :lang@ja-rom: MITSUGOṄIN HOTSURO SANGE MON
@@ -3100,8 +3333,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakuban
 :END:
-*** KR6t0234 T79n2528 諸宗教理同異釋
+*** KR6t0234 諸宗教理同異釋--頼瑜
 :PROPERTIES:
+:KR_ID: KR6t0234
 :EXTRA_ID: T:T79n2528
 :GENRE: 諸宗
 :lang@ja-rom: SHOSHŪ KYŌRI DŌI SHAKU
@@ -3114,8 +3348,9 @@
 :PROPERTIES:
 :lang@ja-rom: Raiyu
 :END:
-*** KR6t0235 T79n2529 十八道口決
+*** KR6t0235 十八道口決--頼瑜
 :PROPERTIES:
+:KR_ID: KR6t0235
 :EXTRA_ID: T:T79n2529
 :GENRE: 諸宗
 :lang@ja-rom: JŪHACHIDŌ KUKETSU
@@ -3128,8 +3363,9 @@
 :PROPERTIES:
 :lang@ja-rom: Raiyu
 :END:
-*** KR6t0236 T79n2530 野金口決鈔
+*** KR6t0236 野金口決鈔--
 :PROPERTIES:
+:KR_ID: KR6t0236
 :EXTRA_ID: T:T79n2530
 :GENRE: 諸宗
 :lang@ja-rom: YAKON KUKETSU SHŌ
@@ -3137,8 +3373,9 @@
 :EXTENT: I
 :END:
 [[img:T/T79/00/T79-0072.tif][T79, p. 72]]
-*** KR6t0237 T79n2531 野胎口決鈔
+*** KR6t0237 野胎口決鈔--頼瑜
 :PROPERTIES:
+:KR_ID: KR6t0237
 :EXTRA_ID: T:T79n2531
 :GENRE: 諸宗
 :lang@ja-rom: YATAI KUKETSU SHŌ
@@ -3151,8 +3388,9 @@
 :PROPERTIES:
 :lang@ja-rom: Raiyu
 :END:
-*** KR6t0238 T79n2532 護摩口決
+*** KR6t0238 護摩口決--頼瑜
 :PROPERTIES:
+:KR_ID: KR6t0238
 :EXTRA_ID: T:T79n2532
 :GENRE: 諸宗
 :lang@ja-rom: GOMA KUKETSU
@@ -3165,8 +3403,9 @@
 :PROPERTIES:
 :lang@ja-rom: Raiyu
 :END:
-*** KR6t0239 T79n2533 金界發惠抄
+*** KR6t0239 金界發惠抄--頼瑜
 :PROPERTIES:
+:KR_ID: KR6t0239
 :EXTRA_ID: T:T79n2533
 :GENRE: 諸宗
 :lang@ja-rom: KONKAI HOTSUE SHŌ
@@ -3179,8 +3418,9 @@
 :PROPERTIES:
 :lang@ja-rom: Raiyu
 :END:
-*** KR6t0240 T79n2534 胎藏入理鈔
+*** KR6t0240 胎藏入理鈔--頼瑜
 :PROPERTIES:
+:KR_ID: KR6t0240
 :EXTRA_ID: T:T79n2534
 :GENRE: 諸宗
 :lang@ja-rom: TAIZŌ NYŪRI SHŌ
@@ -3193,8 +3433,9 @@
 :PROPERTIES:
 :lang@ja-rom: Raiyu
 :END:
-*** KR6t0241 T79n2535 薄草子口決
+*** KR6t0241 薄草子口決--頼瑜
 :PROPERTIES:
+:KR_ID: KR6t0241
 :EXTRA_ID: T:T79n2535
 :RELATED: T78n2495@諸宗
 :GENRE: 諸宗
@@ -3208,8 +3449,9 @@
 :PROPERTIES:
 :lang@ja-rom: Raiyu
 :END:
-*** KR6t0242 T79n2536 祕鈔問答
+*** KR6t0242 祕鈔問答--頼瑜
 :PROPERTIES:
+:KR_ID: KR6t0242
 :EXTRA_ID: T:T79n2536
 :RELATED: T78n2489@諸宗
 :GENRE: 諸宗
@@ -3223,8 +3465,9 @@
 :PROPERTIES:
 :lang@ja-rom: Raiyu
 :END:
-*** KR6t0243 T79n2537 釋摩訶衍論第十廣短册
+*** KR6t0243 釋摩訶衍論第十廣短册--順繼
 :PROPERTIES:
+:KR_ID: KR6t0243
 :EXTRA_ID: T:T79n2537
 :GENRE: 諸宗
 :lang@ja-rom: SHAKUMAKAENRON DAIJŪKŌ TANJAKU
@@ -3237,8 +3480,9 @@
 :PROPERTIES:
 :lang@ja-rom: Junkei
 :END:
-*** KR6t0244 T79n2538 大疏百條第三重
+*** KR6t0244 大疏百條第三重--聖憲
 :PROPERTIES:
+:KR_ID: KR6t0244
 :EXTRA_ID: T:T79n2538
 :GENRE: 諸宗
 :lang@ja-rom: DAISHO HYAKUJŌ DAISANJŪ
@@ -3251,8 +3495,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shōken
 :END:
-*** KR6t0245 T79n2539 自證説法
+*** KR6t0245 自證説法--聖憲
 :PROPERTIES:
+:KR_ID: KR6t0245
 :EXTRA_ID: T:T79n2539
 :GENRE: 諸宗
 :lang@ja-rom: JISHŌ SEPPŌ
@@ -3265,8 +3510,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shōken
 :END:
-*** KR6t0246 T79n2540 大疏談義
+*** KR6t0246 大疏談義--運敞
 :PROPERTIES:
+:KR_ID: KR6t0246
 :EXTRA_ID: T:T79n2540
 :GENRE: 諸宗
 :lang@ja-rom: DAISHO DANGI
@@ -3279,8 +3525,9 @@
 :PROPERTIES:
 :lang@ja-rom: Unshō
 :END:
-*** KR6t0247 T79n2541 祕密因縁管絃相成義
+*** KR6t0247 祕密因縁管絃相成義--法住
 :PROPERTIES:
+:KR_ID: KR6t0247
 :EXTRA_ID: T:T79n2541
 :GENRE: 諸宗
 :lang@ja-rom: HIMITSU INNEN KANGEN SŌJŌGI
@@ -3293,8 +3540,9 @@
 :PROPERTIES:
 :lang@ja-rom: Hōjū
 :END:
-*** KR6t0248 T79n2542 讀書二十二則
+*** KR6t0248 讀書二十二則--戒定
 :PROPERTIES:
+:KR_ID: KR6t0248
 :EXTRA_ID: T:T79n2542
 :GENRE: 諸宗
 :lang@ja-rom: DOKUSHO NIJŪNI SOKU
@@ -3308,8 +3556,9 @@
 :lang@ja-rom: Kaijō
 :END:
 
-*** KR6t0249 T80n2543 興禪護國論
+*** KR6t0249 興禪護國論--榮西
 :PROPERTIES:
+:KR_ID: KR6t0249
 :EXTRA_ID: T:T80n2543
 :GENRE: 諸宗
 :lang@ja-rom: KŌZEN GOKOKU RON
@@ -3322,8 +3571,9 @@
 :PROPERTIES:
 :lang@ja-rom: Eisai
 :END:
-*** KR6t0250 T80n2544 聖一國師語録
+*** KR6t0250 聖一國師語録--
 :PROPERTIES:
+:KR_ID: KR6t0250
 :EXTRA_ID: T:T80n2544
 :GENRE: 諸宗
 :lang@ja-rom: SHŌICHIKOKUSHI GOROKU
@@ -3331,8 +3581,9 @@
 :EXTENT: I
 :END:
 [[img:T/T80/00/T80-0017.tif][T80, p. 17]]
-*** KR6t0251 T80n2545 寶覺禪師語録
+*** KR6t0251 寶覺禪師語録--
 :PROPERTIES:
+:KR_ID: KR6t0251
 :EXTRA_ID: T:T80n2545
 :GENRE: 諸宗
 :lang@ja-rom: HŌKAKUZENJI GOROKU
@@ -3340,8 +3591,9 @@
 :EXTENT: I
 :END:
 [[img:T/T80/00/T80-0023.tif][T80, p. 23]]
-*** KR6t0252 T80n2546 佛照禪師語録
+*** KR6t0252 佛照禪師語録--
 :PROPERTIES:
+:KR_ID: KR6t0252
 :EXTRA_ID: T:T80n2546
 :GENRE: 諸宗
 :lang@ja-rom: BUSSHŌZENJI GOROKU
@@ -3349,8 +3601,9 @@
 :EXTENT: II
 :END:
 [[img:T/T80/00/T80-0027.tif][T80, p. 27]]
-*** KR6t0253 T80n2547 大覺禪師語録
+*** KR6t0253 大覺禪師語録--
 :PROPERTIES:
+:KR_ID: KR6t0253
 :EXTRA_ID: T:T80n2547
 :GENRE: 諸宗
 :lang@ja-rom: DAIKAKUZENJI GOROKU
@@ -3358,8 +3611,9 @@
 :EXTENT: III
 :END:
 [[img:T/T80/00/T80-0046.tif][T80, p. 46]]
-*** KR6t0254 T80n2548 圓通大應國師語録
+*** KR6t0254 圓通大應國師語録--
 :PROPERTIES:
+:KR_ID: KR6t0254
 :EXTRA_ID: T:T80n2548
 :GENRE: 諸宗
 :lang@ja-rom: ENTSŪ DAIŌKOKUSHI GOROKU
@@ -3367,8 +3621,9 @@
 :EXTENT: II
 :END:
 [[img:T/T80/00/T80-0094.tif][T80, p. 94]]
-*** KR6t0255 T80n2549 佛光國師語録
+*** KR6t0255 佛光國師語録--
 :PROPERTIES:
+:KR_ID: KR6t0255
 :EXTRA_ID: T:T80n2549
 :GENRE: 諸宗
 :lang@ja-rom: BUKKŌKOKUSHI GOROKU
@@ -3376,8 +3631,9 @@
 :EXTENT: X
 :END:
 [[img:T/T80/01/T80-0129.tif][T80, p.129]]
-*** KR6t0256 T80n2550 圓鑑國師語録
+*** KR6t0256 圓鑑國師語録--
 :PROPERTIES:
+:KR_ID: KR6t0256
 :EXTRA_ID: T:T80n2550
 :GENRE: 諸宗
 :lang@ja-rom: ENKANKOKUSHI GOROKU
@@ -3385,8 +3641,9 @@
 :EXTENT: I
 :END:
 [[img:T/T80/02/T80-0250.tif][T80, p.250]]
-*** KR6t0257 T80n2551 佛國禪師語録
+*** KR6t0257 佛國禪師語録--
 :PROPERTIES:
+:KR_ID: KR6t0257
 :EXTRA_ID: T:T80n2551
 :GENRE: 諸宗
 :lang@ja-rom: BUKKOKUZENJI GOROKU
@@ -3394,8 +3651,9 @@
 :EXTENT: II
 :END:
 [[img:T/T80/02/T80-0257.tif][T80, p.257]]
-*** KR6t0258 T80n2552 南院國師語録
+*** KR6t0258 南院國師語録--
 :PROPERTIES:
+:KR_ID: KR6t0258
 :EXTRA_ID: T:T80n2552
 :GENRE: 諸宗
 :lang@ja-rom: NAṄINKOKUSHI GOROKU
@@ -3403,8 +3661,9 @@
 :EXTENT: III
 :END:
 [[img:T/T80/02/T80-0285.tif][T80, p.285]]
-*** KR6t0259 T80n2553 一山國師語録
+*** KR6t0259 一山國師語録--
 :PROPERTIES:
+:KR_ID: KR6t0259
 :EXTRA_ID: T:T80n2553
 :GENRE: 諸宗
 :lang@ja-rom: ISSANKOKUSHI GOROKU
@@ -3412,8 +3671,9 @@
 :EXTENT: II
 :END:
 [[img:T/T80/03/T80-0311.tif][T80, p.311]]
-*** KR6t0260 T80n2554 竺僊和尚語録
+*** KR6t0260 竺僊和尚語録--
 :PROPERTIES:
+:KR_ID: KR6t0260
 :EXTRA_ID: T:T80n2554
 :GENRE: 諸宗
 :lang@ja-rom: CHIKUSEṄOSHŌ GOROKU
@@ -3421,8 +3681,9 @@
 :EXTENT: IV
 :END:
 [[img:T/T80/03/T80-0334.tif][T80, p.334]]
-*** KR6t0261 T80n2555 夢√國師語録
+*** KR6t0261 夢√國師語録--
 :PROPERTIES:
+:KR_ID: KR6t0261
 :EXTRA_ID: T:T80n2555
 :GENRE: 諸宗
 :lang@ja-rom: MUSŌKOKUSHI GOROKU
@@ -3430,8 +3691,9 @@
 :EXTENT: III
 :END:
 [[img:T/T80/04/T80-0449.tif][T80, p.449]]
-*** KR6t0262 T80n2556 義堂和尚語録
+*** KR6t0262 義堂和尚語録--
 :PROPERTIES:
+:KR_ID: KR6t0262
 :EXTRA_ID: T:T80n2556
 :GENRE: 諸宗
 :lang@ja-rom: GIDŌOSHŌ GOROKU
@@ -3439,8 +3701,9 @@
 :EXTENT: IV
 :END:
 [[img:T/T80/05/T80-0508.tif][T80, p.508]]
-*** KR6t0263 T80n2557 閻浮集
+*** KR6t0263 閻浮集--
 :PROPERTIES:
+:KR_ID: KR6t0263
 :EXTRA_ID: T:T80n2557
 :GENRE: 諸宗
 :lang@ja-rom: EMBU SHŪ
@@ -3448,8 +3711,9 @@
 :EXTENT: I
 :END:
 [[img:T/T80/05/T80-0544.tif][T80, p.544]]
-*** KR6t0264 T80n2558 鹽山抜隊和尚語録
+*** KR6t0264 鹽山抜隊和尚語録--
 :PROPERTIES:
+:KR_ID: KR6t0264
 :EXTRA_ID: T:T80n2558
 :GENRE: 諸宗
 :lang@ja-rom: ENZAN BASSUIOSHŌ GOROKU
@@ -3457,8 +3721,9 @@
 :EXTENT: VI
 :END:
 [[img:T/T80/05/T80-0563.tif][T80, p.563]]
-*** KR6t0265 T80n2559 無文禪師語録
+*** KR6t0265 無文禪師語録--
 :PROPERTIES:
+:KR_ID: KR6t0265
 :EXTRA_ID: T:T80n2559
 :GENRE: 諸宗
 :lang@ja-rom: MUMONZENJI GOROKU
@@ -3466,8 +3731,9 @@
 :EXTENT: I
 :END:
 [[img:T/T80/06/T80-0615.tif][T80, p.615]]
-*** KR6t0266 T80n2560 知覺普明國師語録
+*** KR6t0266 知覺普明國師語録--
 :PROPERTIES:
+:KR_ID: KR6t0266
 :EXTRA_ID: T:T80n2560
 :GENRE: 諸宗
 :lang@ja-rom: CHIKAKUFUMYŌKOKUSHI GOROKU
@@ -3475,8 +3741,9 @@
 :EXTENT: VIII
 :END:
 [[img:T/T80/06/T80-0632.tif][T80, p.632]]
-*** KR6t0267 T80n2561 絶海和尚語録
+*** KR6t0267 絶海和尚語録--
 :PROPERTIES:
+:KR_ID: KR6t0267
 :EXTRA_ID: T:T80n2561
 :GENRE: 諸宗
 :lang@ja-rom: ZEKKAIOSHŌ GOROKU
@@ -3485,8 +3752,9 @@
 :END:
 [[img:T/T80/07/T80-0749.tif][T80, p.749]]
 
-*** KR6t0268 T81n2562 常光國師語録
+*** KR6t0268 常光國師語録--
 :PROPERTIES:
+:KR_ID: KR6t0268
 :EXTRA_ID: T:T81n2562
 :GENRE: 諸宗
 :lang@ja-rom: JŌKŌKOKUSHI GOROKU
@@ -3494,8 +3762,9 @@
 :EXTENT: II
 :END:
 [[img:T/T81/00/T81-0001.tif][T81, p. 1]]
-*** KR6t0269 T81n2563 大通禪師語録
+*** KR6t0269 大通禪師語録--
 :PROPERTIES:
+:KR_ID: KR6t0269
 :EXTRA_ID: T:T81n2563
 :GENRE: 諸宗
 :lang@ja-rom: DAITSŪZENJI GOROKU
@@ -3503,8 +3772,9 @@
 :EXTENT: VI
 :END:
 [[img:T/T81/00/T81-0046.tif][T81, p. 46]]
-*** KR6t0270 T81n2564 永源寂室和尚語録
+*** KR6t0270 永源寂室和尚語録--
 :PROPERTIES:
+:KR_ID: KR6t0270
 :EXTRA_ID: T:T81n2564
 :GENRE: 諸宗
 :lang@ja-rom: EIGEN JAKUSHITSUOSHŌ GOROKU
@@ -3512,8 +3782,9 @@
 :EXTENT: II
 :END:
 [[img:T/T81/01/T81-0101.tif][T81, p.101]]
-*** KR6t0271 T81n2565 佛頂國師語録
+*** KR6t0271 佛頂國師語録--
 :PROPERTIES:
+:KR_ID: KR6t0271
 :EXTRA_ID: T:T81n2565
 :GENRE: 諸宗
 :lang@ja-rom: BUCCHŌKOKUSHI GOROKU
@@ -3521,8 +3792,9 @@
 :EXTENT: V
 :END:
 [[img:T/T81/01/T81-0136.tif][T81, p.136]]
-*** KR6t0272 T81n2566 大燈國師語録
+*** KR6t0272 大燈國師語録--
 :PROPERTIES:
+:KR_ID: KR6t0272
 :EXTRA_ID: T:T81n2566
 :GENRE: 諸宗
 :lang@ja-rom: DAITŌKOKUSHI GOROKU
@@ -3530,8 +3802,9 @@
 :EXTENT: III
 :END:
 [[img:T/T81/01/T81-0191.tif][T81, p.191]]
-*** KR6t0273 T81n2567 徹翁和尚語録
+*** KR6t0273 徹翁和尚語録--
 :PROPERTIES:
+:KR_ID: KR6t0273
 :EXTRA_ID: T:T81n2567
 :GENRE: 諸宗
 :lang@ja-rom: TETSUŌOSHŌ GOROKU
@@ -3539,8 +3812,9 @@
 :EXTENT: II
 :END:
 [[img:T/T81/02/T81-0242.tif][T81, p.242]]
-*** KR6t0274 T81n2568 雪江和尚語録
+*** KR6t0274 雪江和尚語録--
 :PROPERTIES:
+:KR_ID: KR6t0274
 :EXTRA_ID: T:T81n2568
 :GENRE: 諸宗
 :lang@ja-rom: SEKKŌOSHŌ GOROKU
@@ -3548,8 +3822,9 @@
 :EXTENT: I
 :END:
 [[img:T/T81/02/T81-0271.tif][T81, p.271]]
-*** KR6t0275 T81n2569 景川和尚語録
+*** KR6t0275 景川和尚語録--
 :PROPERTIES:
+:KR_ID: KR6t0275
 :EXTRA_ID: T:T81n2569
 :GENRE: 諸宗
 :lang@ja-rom: KEISEṄOSHŌ GOROKU
@@ -3557,8 +3832,9 @@
 :EXTENT: II
 :END:
 [[img:T/T81/02/T81-0286.tif][T81, p.286]]
-*** KR6t0276 T81n2570 虎穴録
+*** KR6t0276 虎穴録--
 :PROPERTIES:
+:KR_ID: KR6t0276
 :EXTRA_ID: T:T81n2570
 :GENRE: 諸宗
 :lang@ja-rom: KOKETSU ROKU
@@ -3566,8 +3842,9 @@
 :EXTENT: II
 :END:
 [[img:T/T81/03/T81-0313.tif][T81, p.313]]
-*** KR6t0277 T81n2571 少林無孔笛
+*** KR6t0277 少林無孔笛--
 :PROPERTIES:
+:KR_ID: KR6t0277
 :EXTRA_ID: T:T81n2571
 :GENRE: 諸宗
 :lang@ja-rom: SHŌRIM MUKUTEKI
@@ -3575,8 +3852,9 @@
 :EXTENT: VI
 :END:
 [[img:T/T81/03/T81-0347.tif][T81, p.347]]
-*** KR6t0278 T81n2572 見桃録
+*** KR6t0278 見桃録--
 :PROPERTIES:
+:KR_ID: KR6t0278
 :EXTRA_ID: T:T81n2572
 :GENRE: 諸宗
 :lang@ja-rom: KENTŌ ROKU
@@ -3584,8 +3862,9 @@
 :EXTENT: IV
 :END:
 [[img:T/T81/04/T81-0412.tif][T81, p.412]]
-*** KR6t0279 T81n2573 西源徳芳和尚語録
+*** KR6t0279 西源徳芳和尚語録--
 :PROPERTIES:
+:KR_ID: KR6t0279
 :EXTRA_ID: T:T81n2573
 :GENRE: 諸宗
 :lang@ja-rom: SEIGEN TOKUHŌOSHŌ GOROKU
@@ -3593,8 +3872,9 @@
 :EXTENT: III
 :END:
 [[img:T/T81/04/T81-0479.tif][T81, p.479]]
-*** KR6t0280 T81n2574 槐安國語
+*** KR6t0280 槐安國語--
 :PROPERTIES:
+:KR_ID: KR6t0280
 :EXTRA_ID: T:T81n2574
 :GENRE: 諸宗
 :lang@ja-rom: KAIANKOKU GO
@@ -3602,8 +3882,9 @@
 :EXTENT: VII
 :END:
 [[img:T/T81/05/T81-0511.tif][T81, p.511]]
-*** KR6t0281 T81n2575 宗門無盡燈論
+*** KR6t0281 宗門無盡燈論--
 :PROPERTIES:
+:KR_ID: KR6t0281
 :EXTRA_ID: T:T81n2575
 :GENRE: 諸宗
 :lang@ja-rom: SHŪMOM MUJINTŌ RON
@@ -3611,8 +3892,9 @@
 :EXTENT: II
 :END:
 [[img:T/T81/05/T81-0581.tif][T81, p.581]]
-*** KR6t0282 T81n2576 五家參祥要路門
+*** KR6t0282 五家參祥要路門--
 :PROPERTIES:
+:KR_ID: KR6t0282
 :EXTRA_ID: T:T81n2576
 :GENRE: 諸宗
 :lang@ja-rom: GOKE SANSHŌ YŌRO MON
@@ -3620,8 +3902,9 @@
 :EXTENT: V
 :END:
 [[img:T/T81/06/T81-0605.tif][T81, p.605]]
-*** KR6t0283 T81n2577 大鑑清規
+*** KR6t0283 大鑑清規--
 :PROPERTIES:
+:KR_ID: KR6t0283
 :EXTRA_ID: T:T81n2577
 :GENRE: 諸宗
 :lang@ja-rom: DAIKAN SHINGI
@@ -3629,8 +3912,9 @@
 :EXTENT: I
 :END:
 [[img:T/T81/06/T81-0619.tif][T81, p.619]]
-*** KR6t0284 T81n2578 諸囘[var.廻]向清規
+*** KR6t0284 諸廻向清規--
 :PROPERTIES:
+:KR_ID: KR6t0284
 :EXTRA_ID: T:T81n2578
 :GENRE: 諸宗
 :lang@ja-rom: SHOEKŌ SHINGI
@@ -3638,8 +3922,9 @@
 :EXTENT:  V
 :END:
 [[img:T/T81/06/T81-0624.tif][T81, p.624]]
-*** KR6t0285 T81n2579 小叢林清規
+*** KR6t0285 小叢林清規--
 :PROPERTIES:
+:KR_ID: KR6t0285
 :EXTRA_ID: T:T81n2579
 :GENRE: 諸宗
 :lang@ja-rom: SHŌSŌRIN SHINGI
@@ -3648,8 +3933,9 @@
 :END:
 [[img:T/T81/06/T81-0688.tif][T81, p.688]]
 
-*** KR6t0286 T82n2580 普勸坐禪儀
+*** KR6t0286 普勸坐禪儀--道元
 :PROPERTIES:
+:KR_ID: KR6t0286
 :EXTRA_ID: T:T82n2580
 :GENRE: 諸宗
 :lang@ja-rom: FUKAN ZAZEN GI
@@ -3662,8 +3948,9 @@
 :PROPERTIES:
 :lang@ja-rom: Dōgen
 :END:
-*** KR6t0287 T82n2581 學道用心集
+*** KR6t0287 學道用心集--道元
 :PROPERTIES:
+:KR_ID: KR6t0287
 :EXTRA_ID: T:T82n2581
 :GENRE: 諸宗
 :lang@ja-rom: GAKUDŌ YŌJIN SHŪ
@@ -3676,8 +3963,9 @@
 :PROPERTIES:
 :lang@ja-rom: Dōgen
 :END:
-*** KR6t0288 T82n2582 正法眼藏
+*** KR6t0288 正法眼藏--道元
 :PROPERTIES:
+:KR_ID: KR6t0288
 :EXTRA_ID: T:T82n2582
 :GENRE: 諸宗
 :lang@ja-rom: SHŌBŌ GENZŌ
@@ -3690,8 +3978,9 @@
 :PROPERTIES:
 :lang@ja-rom: Dōgen
 :END:
-*** KR6t0289 T82n2583 永平元和尚頌古
+*** KR6t0289 永平元和尚頌古--
 :PROPERTIES:
+:KR_ID: KR6t0289
 :EXTRA_ID: T:T82n2583
 :GENRE: 諸宗
 :lang@ja-rom: EIHEI GEṄOSHŌ JUKO
@@ -3699,8 +3988,9 @@
 :EXTENT: I
 :END:
 [[img:T/T82/03/T82-0311.tif][T82, p.311]]
-*** KR6t0290 T82n2584 永平清規
+*** KR6t0290 永平清規--道元
 :PROPERTIES:
+:KR_ID: KR6t0290
 :EXTRA_ID: T:T82n2584
 :GENRE: 諸宗
 :lang@ja-rom: EIHEI SHINGI
@@ -3713,8 +4003,9 @@
 :PROPERTIES:
 :lang@ja-rom: Dōgen
 :END:
-*** KR6t0291 T82n2585 傳光録
+*** KR6t0291 傳光録--
 :PROPERTIES:
+:KR_ID: KR6t0291
 :EXTRA_ID: T:T82n2585
 :GENRE: 諸宗
 :lang@ja-rom: DENKŌ ROKU
@@ -3722,8 +4013,9 @@
 :EXTENT: II
 :END:
 [[img:T/T82/03/T82-0343.tif][T82, p.343]]
-*** KR6t0292 T82n2586 坐禪用心記
+*** KR6t0292 坐禪用心記--
 :PROPERTIES:
+:KR_ID: KR6t0292
 :EXTRA_ID: T:T82n2586
 :GENRE: 諸宗
 :lang@ja-rom: ZAZEṄ YŌJIN KI
@@ -3731,8 +4023,9 @@
 :EXTENT: I
 :END:
 [[img:T/T82/04/T82-0412.tif][T82, p.412]]
-*** KR6t0293 T82n2587 信心銘拈提
+*** KR6t0293 信心銘拈提--
 :PROPERTIES:
+:KR_ID: KR6t0293
 :EXTRA_ID: T:T82n2587
 :GENRE: 諸宗
 :lang@ja-rom: SHINJIMMEI NENTEI
@@ -3740,8 +4033,9 @@
 :EXTENT: I
 :END:
 [[img:T/T82/04/T82-0414.tif][T82, p.414]]
-*** KR6t0294 T82n2588 十種勅問奏對集
+*** KR6t0294 十種勅問奏對集--
 :PROPERTIES:
+:KR_ID: KR6t0294
 :EXTRA_ID: T:T82n2588
 :GENRE: 諸宗
 :lang@ja-rom: JUSSHU CHOKUMON SŌTAI SHŪ
@@ -3749,8 +4043,9 @@
 :EXTENT: I
 :END:
 [[img:T/T82/04/T82-0422.tif][T82, p.422]]
-*** KR6t0295 T82n2589 瑩山清規
+*** KR6t0295 瑩山清規--
 :PROPERTIES:
+:KR_ID: KR6t0295
 :EXTRA_ID: T:T82n2589
 :GENRE: 諸宗
 :lang@ja-rom: KEIZAN SHINGI
@@ -3758,8 +4053,9 @@
 :EXTENT: II
 :END:
 [[img:T/T82/04/T82-0423.tif][T82, p.423]]
-*** KR6t0296 T82n2590 光明藏三昧
+*** KR6t0296 光明藏三昧--
 :PROPERTIES:
+:KR_ID: KR6t0296
 :EXTRA_ID: T:T82n2590
 :GENRE: 諸宗
 :lang@ja-rom: KŌMYŌZŌ SAMMAI
@@ -3767,8 +4063,9 @@
 :EXTENT: I
 :END:
 [[img:T/T82/04/T82-0453.tif][T82, p.453]]
-*** KR6t0297 T82n2591 義雲和尚語録
+*** KR6t0297 義雲和尚語録--
 :PROPERTIES:
+:KR_ID: KR6t0297
 :EXTRA_ID: T:T82n2591
 :GENRE: 諸宗
 :lang@ja-rom: GIUṄOSHŌ GOROKU
@@ -3776,8 +4073,9 @@
 :EXTENT: II
 :END:
 [[img:T/T82/04/T82-0460.tif][T82, p.460]]
-*** KR6t0298 T82n2592 通幻靈禪師漫録
+*** KR6t0298 通幻靈禪師漫録--
 :PROPERTIES:
+:KR_ID: KR6t0298
 :EXTRA_ID: T:T82n2592
 :GENRE: 諸宗
 :lang@ja-rom: TSŪGENREIZENJI MANROKU
@@ -3785,8 +4083,9 @@
 :EXTENT: II
 :END:
 [[img:T/T82/04/T82-0478.tif][T82, p.478]]
-*** KR6t0299 T82n2593 實峰禪師語録
+*** KR6t0299 實峰禪師語録--
 :PROPERTIES:
+:KR_ID: KR6t0299
 :EXTRA_ID: T:T82n2593
 :GENRE: 諸宗
 :lang@ja-rom: JIPPŌZENJI GOROKU
@@ -3794,8 +4093,9 @@
 :EXTENT: I
 :END:
 [[img:T/T82/04/T82-0487.tif][T82, p.487]]
-*** KR6t0300 T82n2594 普濟和尚語録
+*** KR6t0300 普濟和尚語録--
 :PROPERTIES:
+:KR_ID: KR6t0300
 :EXTRA_ID: T:T82n2594
 :GENRE: 諸宗
 :lang@ja-rom: FUSAIOSHŌ GOROKU
@@ -3803,8 +4103,9 @@
 :EXTENT: III
 :END:
 [[img:T/T82/04/T82-0498.tif][T82, p.498]]
-*** KR6t0301 T82n2595 月坡禪師語録
+*** KR6t0301 月坡禪師語録--
 :PROPERTIES:
+:KR_ID: KR6t0301
 :EXTRA_ID: T:T82n2595
 :GENRE: 諸宗
 :lang@ja-rom: GEPPAZENJI GOROKU
@@ -3812,8 +4113,9 @@
 :EXTENT: IV
 :END:
 [[img:T/T82/05/T82-0521.tif][T82, p.521]]
-*** KR6t0302 T82n2596 月舟和尚遺録
+*** KR6t0302 月舟和尚遺録--
 :PROPERTIES:
+:KR_ID: KR6t0302
 :EXTRA_ID: T:T82n2596
 :GENRE: 諸宗
 :lang@ja-rom: GESSHŪOSHŌ IROKU
@@ -3821,8 +4123,9 @@
 :EXTENT: II
 :END:
 [[img:T/T82/05/T82-0549.tif][T82, p.549]]
-*** KR6t0303 T82n2597 獨菴獨語
+*** KR6t0303 獨菴獨語--
 :PROPERTIES:
+:KR_ID: KR6t0303
 :EXTRA_ID: T:T82n2597
 :GENRE: 諸宗
 :lang@ja-rom: DOKUAN DOKUGO
@@ -3830,8 +4133,9 @@
 :EXTENT: I
 :END:
 [[img:T/T82/05/T82-0559.tif][T82, p.559]]
-*** KR6t0304 T82n2598 東林語録
+*** KR6t0304 東林語録--
 :PROPERTIES:
+:KR_ID: KR6t0304
 :EXTRA_ID: T:T82n2598
 :GENRE: 諸宗
 :lang@ja-rom: TŌRIN GOROKU
@@ -3839,8 +4143,9 @@
 :EXTENT: IV
 :END:
 [[img:T/T82/05/T82-0571.tif][T82, p.571]]
-*** KR6t0305 T82n2599 禪戒訣
+*** KR6t0305 禪戒訣--
 :PROPERTIES:
+:KR_ID: KR6t0305
 :EXTRA_ID: T:T82n2599
 :GENRE: 諸宗
 :lang@ja-rom: ZENKAI KETSU
@@ -3848,8 +4153,9 @@
 :EXTENT: I
 :END:
 [[img:T/T82/06/T82-0615.tif][T82, p.615]]
-*** KR6t0306 T82n2600 報恩編
+*** KR6t0306 報恩編--
 :PROPERTIES:
+:KR_ID: KR6t0306
 :EXTRA_ID: T:T82n2600
 :GENRE: 諸宗
 :lang@ja-rom: HŌON HEN
@@ -3857,8 +4163,9 @@
 :EXTENT: III
 :END:
 [[img:T/T82/06/T82-0618.tif][T82, p.618]]
-*** KR6t0307 T82n2601 禪戒鈔
+*** KR6t0307 禪戒鈔--
 :PROPERTIES:
+:KR_ID: KR6t0307
 :EXTRA_ID: T:T82n2601
 :GENRE: 諸宗
 :lang@ja-rom: ZENKAI SHŌ
@@ -3866,8 +4173,9 @@
 :EXTENT: I
 :END:
 [[img:T/T82/06/T82-0646.tif][T82, p.646]]
-*** KR6t0308 T82n2602 心學典論
+*** KR6t0308 心學典論--
 :PROPERTIES:
+:KR_ID: KR6t0308
 :EXTRA_ID: T:T82n2602
 :GENRE: 諸宗
 :lang@ja-rom: SHINGAKU TENRON
@@ -3875,8 +4183,9 @@
 :EXTENT: IV
 :END:
 [[img:T/T82/06/T82-0656.tif][T82, p.656]]
-*** KR6t0309 T82n2603 荒田隨筆
+*** KR6t0309 荒田隨筆--慧印
 :PROPERTIES:
+:KR_ID: KR6t0309
 :EXTRA_ID: T:T82n2603
 :GENRE: 諸宗
 :lang@ja-rom: KŌDEN ZUIHITSU
@@ -3889,8 +4198,9 @@
 :PROPERTIES:
 :lang@ja-rom: Ein
 :END:
-*** KR6t0310 T82n2604 建康普説
+*** KR6t0310 建康普説--
 :PROPERTIES:
+:KR_ID: KR6t0310
 :EXTRA_ID: T:T82n2604
 :GENRE: 諸宗
 :lang@ja-rom: KENGŌ FUSETSU
@@ -3898,8 +4208,9 @@
 :EXTENT: I
 :END:
 [[img:T/T82/07/T82-0721.tif][T82, p.721]]
-*** KR6t0311 T82n2605 普照國師語録
+*** KR6t0311 普照國師語録--
 :PROPERTIES:
+:KR_ID: KR6t0311
 :EXTRA_ID: T:T82n2605
 :RELATED: T82n2606@諸宗
 :GENRE: 諸宗
@@ -3908,8 +4219,9 @@
 :EXTENT: III
 :END:
 [[img:T/T82/07/T82-0739.tif][T82, p.739]]
-*** KR6t0312 T82n2606 普照國師法語
+*** KR6t0312 普照國師法語--
 :PROPERTIES:
+:KR_ID: KR6t0312
 :EXTRA_ID: T:T82n2606
 :RELATED: T82n2605@諸宗
 :GENRE: 諸宗
@@ -3918,8 +4230,9 @@
 :EXTENT: II
 :END:
 [[img:T/T82/07/T82-0755.tif][T82, p.755]]
-*** KR6t0313 T82n2607 黄檗清規
+*** KR6t0313 黄檗清規--
 :PROPERTIES:
+:KR_ID: KR6t0313
 :EXTRA_ID: T:T82n2607
 :GENRE: 諸宗
 :lang@ja-rom: ŌBAKU SHINGI
@@ -3928,8 +4241,9 @@
 :END:
 [[img:T/T82/07/T82-0766.tif][T82, p.766]]
 
-*** KR6t0314 T83n2608 選擇本願念佛集
+*** KR6t0314 選擇本願念佛集--源空
 :PROPERTIES:
+:KR_ID: KR6t0314
 :EXTRA_ID: T:T83n2608
 :RELATED: T83n2609@諸宗, T83n2610@諸宗, T83n2620@諸宗
 :GENRE: 諸宗
@@ -3943,8 +4257,9 @@
 :PROPERTIES:
 :lang@ja-rom: Genkū
 :END:
-*** KR6t0315 T83n2609 徹選擇本願念佛集
+*** KR6t0315 徹選擇本願念佛集--
 :PROPERTIES:
+:KR_ID: KR6t0315
 :EXTRA_ID: T:T83n2609
 :RELATED: T83n2608@諸宗, T83n2610@諸宗
 :GENRE: 諸宗
@@ -3953,8 +4268,9 @@
 :EXTENT: II
 :END:
 [[img:T/T83/00/T83-0020.tif][T83, p. 20]]
-*** KR6t0316 T83n2610 選擇傳弘決疑鈔
+*** KR6t0316 選擇傳弘決疑鈔--良忠
 :PROPERTIES:
+:KR_ID: KR6t0316
 :EXTRA_ID: T:T83n2610
 :RELATED: T83n2608@諸宗, T83n2609@諸宗
 :GENRE: 諸宗
@@ -3968,8 +4284,9 @@
 :PROPERTIES:
 :lang@ja-rom: Ryōchū
 :END:
-*** KR6t0317 T83n2611 黒谷上人語燈録
+*** KR6t0317 黒谷上人語燈録--
 :PROPERTIES:
+:KR_ID: KR6t0317
 :EXTRA_ID: T:T83n2611
 :RELATED: T83n2612@諸宗
 :GENRE: 諸宗
@@ -3978,8 +4295,9 @@
 :EXTENT: XV
 :END:
 [[img:T/T83/01/T83-0105.tif][T83, p.105]]
-*** KR6t0318 T83n2612 拾遺黒谷上人語燈録
+*** KR6t0318 拾遺黒谷上人語燈録--
 :PROPERTIES:
+:KR_ID: KR6t0318
 :EXTRA_ID: T:T83n2612
 :RELATED: T83n2611@諸宗
 :GENRE: 諸宗
@@ -3988,8 +4306,9 @@
 :EXTENT: III
 :END:
 [[img:T/T83/02/T83-0239.tif][T83, p.239]]
-*** KR6t0319 T83n2613 末代念佛授手印
+*** KR6t0319 末代念佛授手印--
 :PROPERTIES:
+:KR_ID: KR6t0319
 :EXTRA_ID: T:T83n2613
 :GENRE: 諸宗
 :lang@ja-rom: MATSUDAI NEMBUTSU JUSHUIN
@@ -3997,8 +4316,9 @@
 :EXTENT: I
 :END:
 [[img:T/T83/02/T83-0269.tif][T83, p.269]]
-*** KR6t0320 T83n2614 淨土二藏二教略頌
+*** KR6t0320 淨土二藏二教略頌--
 :PROPERTIES:
+:KR_ID: KR6t0320
 :EXTRA_ID: T:T83n2614
 :GENRE: 諸宗
 :lang@ja-rom: JŌDO NIZŌ NIKYŌ RYAKUJU
@@ -4006,8 +4326,9 @@
 :EXTENT: I
 :END:
 [[img:T/T83/02/T83-0274.tif][T83, p.274]]
-*** KR6t0321 T83n2615 歸命本願抄
+*** KR6t0321 歸命本願抄--
 :PROPERTIES:
+:KR_ID: KR6t0321
 :EXTRA_ID: T:T83n2615
 :RELATED: T83n2616@諸宗, T83n2617@諸宗
 :GENRE: 諸宗
@@ -4016,8 +4337,9 @@
 :EXTENT: III
 :END:
 [[img:T/T83/02/T83-0278.tif][T83, p.278]]
-*** KR6t0322 T83n2616 西要抄
+*** KR6t0322 西要抄--
 :PROPERTIES:
+:KR_ID: KR6t0322
 :EXTRA_ID: T:T83n2616
 :RELATED: T83n2615@諸宗, T83n2617@諸宗
 :GENRE: 諸宗
@@ -4026,8 +4348,9 @@
 :EXTENT: II
 :END:
 [[img:T/T83/02/T83-0292.tif][T83, p.292]]
-*** KR6t0323 T83n2617 父子相迎
+*** KR6t0323 父子相迎--
 :PROPERTIES:
+:KR_ID: KR6t0323
 :EXTRA_ID: T:T83n2617
 :RELATED: T79n2515@諸宗, T79n2516@諸宗
 :GENRE: 諸宗
@@ -4036,8 +4359,9 @@
 :EXTENT: II
 :END:
 [[img:T/T83/03/T83-0304.tif][T83, p.304]]
-*** KR6t0324 T83n2618 大原談義聞書鈔
+*** KR6t0324 大原談義聞書鈔--聖覺
 :PROPERTIES:
+:KR_ID: KR6t0324
 :EXTRA_ID: T:T83n2618
 :GENRE: 諸宗
 :lang@ja-rom: ŌHARA DANGI KIKIGAKI SHŌ
@@ -4050,8 +4374,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shōkaku
 :END:
-*** KR6t0325 T83n2619 蓮門學則
+*** KR6t0325 蓮門學則--大玄
 :PROPERTIES:
+:KR_ID: KR6t0325
 :EXTRA_ID: T:T83n2619
 :GENRE: 諸宗
 :lang@ja-rom: REMMON GAKUSHOKU
@@ -4064,8 +4389,9 @@
 :PROPERTIES:
 :lang@ja-rom: Daigen
 :END:
-*** KR6t0326 T83n2620 撰擇密要決
+*** KR6t0326 撰擇密要決--證空
 :PROPERTIES:
+:KR_ID: KR6t0326
 :EXTRA_ID: T:T83n2620
 :RELATED: T83n2608@諸宗
 :GENRE: 諸宗
@@ -4079,8 +4405,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shōkū
 :END:
-*** KR6t0327 T83n2621 修業要決
+*** KR6t0327 修業要決--證空
 :PROPERTIES:
+:KR_ID: KR6t0327
 :EXTRA_ID: T:T83n2621
 :GENRE: 諸宗
 :lang@ja-rom: SHUGYŌ YŌKETSU
@@ -4093,8 +4420,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shōkū
 :END:
-*** KR6t0328 T83n2622 當麻曼荼羅供式
+*** KR6t0328 當麻曼荼羅供式--證空
 :PROPERTIES:
+:KR_ID: KR6t0328
 :EXTRA_ID: T:T83n2622
 :GENRE: 諸宗
 :lang@ja-rom: TAIMA MANDARA KUSHIKI
@@ -4107,8 +4435,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shōkū
 :END:
-*** KR6t0329 T83n2623 曼荼羅八講論義抄
+*** KR6t0329 曼荼羅八講論義抄--證空
 :PROPERTIES:
+:KR_ID: KR6t0329
 :EXTRA_ID: T:T83n2623
 :GENRE: 諸宗
 :lang@ja-rom: MANDARA HAKKŌ RONGI SHŌ
@@ -4121,8 +4450,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shōkū
 :END:
-*** KR6t0330 T83n2624 女院御書
+*** KR6t0330 女院御書--證空
 :PROPERTIES:
+:KR_ID: KR6t0330
 :EXTRA_ID: T:T83n2624
 :GENRE: 諸宗
 :lang@ja-rom: NYOIN GOSHO
@@ -4135,8 +4465,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shōkū
 :END:
-*** KR6t0331 T83n2625 鎭勸用心
+*** KR6t0331 鎭勸用心--證空
 :PROPERTIES:
+:KR_ID: KR6t0331
 :EXTRA_ID: T:T83n2625
 :GENRE: 諸宗
 :lang@ja-rom: CHINKAṄ YŌJIN
@@ -4149,8 +4480,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shōkū
 :END:
-*** KR6t0332 T83n2626 流祖上人箇條名目
+*** KR6t0332 流祖上人箇條名目--證空
 :PROPERTIES:
+:KR_ID: KR6t0332
 :EXTRA_ID: T:T83n2626
 :GENRE: 諸宗
 :lang@ja-rom: RYŪSOSHŌNIN KAJŌ MYŌMOKU
@@ -4163,8 +4495,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shōkū
 :END:
-*** KR6t0333 T83n2627 觀經名目證據十七箇條
+*** KR6t0333 觀經名目證據十七箇條--淨音
 :PROPERTIES:
+:KR_ID: KR6t0333
 :EXTRA_ID: T:T83n2627
 :GENRE: 諸宗
 :lang@ja-rom: KANGYŌ MYŌMOKU SHŌKO JŪSHICHIKAJŌ
@@ -4177,8 +4510,9 @@
 :PROPERTIES:
 :lang@ja-rom: Jōon
 :END:
-*** KR6t0334 T83n2628 西山口決傳密鈔
+*** KR6t0334 西山口決傳密鈔--淨音
 :PROPERTIES:
+:KR_ID: KR6t0334
 :EXTRA_ID: T:T83n2628
 :GENRE: 諸宗
 :lang@ja-rom: SEIZAN KUKETSU DEM MISSHŌ
@@ -4191,8 +4525,9 @@
 :PROPERTIES:
 :lang@ja-rom: Jōon
 :END:
-*** KR6t0335 T83n2629 淨土宗要集
+*** KR6t0335 淨土宗要集--
 :PROPERTIES:
+:KR_ID: KR6t0335
 :EXTRA_ID: T:T83n2629
 :GENRE: 諸宗
 :lang@ja-rom: JŌDO SHŪYŌ SHŪ
@@ -4200,8 +4535,9 @@
 :EXTENT: III
 :END:
 [[img:T/T83/04/T83-0425.tif][T83, p.425]]
-*** KR6t0336 T83n2630 竹林鈔
+*** KR6t0336 竹林鈔--
 :PROPERTIES:
+:KR_ID: KR6t0336
 :EXTRA_ID: T:T83n2630
 :GENRE: 諸宗
 :lang@ja-rom: CHIKURIN SHŌ
@@ -4209,8 +4545,9 @@
 :EXTENT: II
 :END:
 [[img:T/T83/04/T83-0462.tif][T83, p.462]]
-*** KR6t0337 T83n2631 菩薩藏頓教一乘海義決
+*** KR6t0337 菩薩藏頓教一乘海義決--
 :PROPERTIES:
+:KR_ID: KR6t0337
 :EXTRA_ID: T:T83n2631
 :GENRE: 諸宗
 :lang@ja-rom: BOSATSUZŌ TONGYŌ ICHIJŌKAI GIKETSU
@@ -4218,8 +4555,9 @@
 :EXTENT: I
 :END:
 [[img:T/T83/04/T83-0479.tif][T83, p.479]]
-*** KR6t0338 T83n2632 難易二道血脈圖論
+*** KR6t0338 難易二道血脈圖論--
 :PROPERTIES:
+:KR_ID: KR6t0338
 :EXTRA_ID: T:T83n2632
 :GENRE: 諸宗
 :lang@ja-rom: NAṄI NIDŌ KECHIMYAKU ZU RON
@@ -4227,8 +4565,9 @@
 :EXTENT: I
 :END:
 [[img:T/T83/04/T83-0488.tif][T83, p.488]]
-*** KR6t0339 T83n2633 華山院家四十八問答
+*** KR6t0339 華山院家四十八問答--
 :PROPERTIES:
+:KR_ID: KR6t0339
 :EXTRA_ID: T:T83n2633
 :GENRE: 諸宗
 :lang@ja-rom: KAZAṄINKE SHIJŪHACHIMONDŌ
@@ -4236,8 +4575,9 @@
 :EXTENT: I
 :END:
 [[img:T/T83/04/T83-0490.tif][T83, p.490]]
-*** KR6t0340 T83n2634 觀經四品知識義
+*** KR6t0340 觀經四品知識義--
 :PROPERTIES:
+:KR_ID: KR6t0340
 :EXTRA_ID: T:T83n2634
 :GENRE: 諸宗
 :lang@ja-rom: KANGYŌ SHIBON CHISHIKI GI
@@ -4245,8 +4585,9 @@
 :EXTENT: I
 :END:
 [[img:T/T83/04/T83-0495.tif][T83, p.495]]
-*** KR6t0341 T83n2635 仙洞三心義問答記
+*** KR6t0341 仙洞三心義問答記--
 :PROPERTIES:
+:KR_ID: KR6t0341
 :EXTRA_ID: T:T83n2635
 :GENRE: 諸宗
 :lang@ja-rom: SENTŌ SANJIN GI MONDŌ KI
@@ -4254,8 +4595,9 @@
 :EXTENT: I
 :END:
 [[img:T/T83/04/T83-0498.tif][T83, p.498]]
-*** KR6t0342 T83n2636 淨土宗建立私記
+*** KR6t0342 淨土宗建立私記--
 :PROPERTIES:
+:KR_ID: KR6t0342
 :EXTRA_ID: T:T83n2636
 :GENRE: 諸宗
 :lang@ja-rom: JŌDOSHŪ KONRYŪ SHIKI
@@ -4263,8 +4605,9 @@
 :EXTENT: I
 :END:
 [[img:T/T83/05/T83-0507.tif][T83, p.507]]
-*** KR6t0343 T83n2637 淨土童蒙指歸名目
+*** KR6t0343 淨土童蒙指歸名目--
 :PROPERTIES:
+:KR_ID: KR6t0343
 :EXTRA_ID: T:T83n2637
 :GENRE: 諸宗
 :lang@ja-rom: JŌDO DŌMŌ SHIKI MYŌMOKU
@@ -4272,8 +4615,9 @@
 :EXTENT: I
 :END:
 [[img:T/T83/05/T83-0509.tif][T83, p.509]]
-*** KR6t0344 T83n2638 淨土宗法門大圖
+*** KR6t0344 淨土宗法門大圖--
 :PROPERTIES:
+:KR_ID: KR6t0344
 :EXTRA_ID: T:T83n2638
 :GENRE: 諸宗
 :lang@ja-rom: JŌDOSHŪ HŌMON DAIZU
@@ -4281,8 +4625,9 @@
 :EXTENT: I
 :END:
 [[img:T/T83/05/T83-0512.tif][T83, p.512]]
-*** KR6t0345 T83n2639 淨土法門大圖名目
+*** KR6t0345 淨土法門大圖名目--
 :PROPERTIES:
+:KR_ID: KR6t0345
 :EXTRA_ID: T:T83n2639
 :GENRE: 諸宗
 :lang@ja-rom: JŌDO HŌMON DAIZU MYŌMOKU
@@ -4290,8 +4635,9 @@
 :EXTENT: I
 :END:
 [[img:T/T83/05/T83-0514.tif][T83, p.514]]
-*** KR6t0346 T83n2640 淨土口決集
+*** KR6t0346 淨土口決集--
 :PROPERTIES:
+:KR_ID: KR6t0346
 :EXTRA_ID: T:T83n2640
 :GENRE: 諸宗
 :lang@ja-rom: JŌDO KUKES SHŪ
@@ -4299,8 +4645,9 @@
 :EXTENT: I
 :END:
 [[img:T/T83/05/T83-0520.tif][T83, p.520]]
-*** KR6t0347 T83n2641 座右鈔
+*** KR6t0347 座右鈔--
 :PROPERTIES:
+:KR_ID: KR6t0347
 :EXTRA_ID: T:T83n2641
 :GENRE: 諸宗
 :lang@ja-rom: ZAU SHŌ
@@ -4308,8 +4655,9 @@
 :EXTENT: I
 :END:
 [[img:T/T83/05/T83-0528.tif][T83, p.528]]
-*** KR6t0348 T83n2642 初心行護鈔
+*** KR6t0348 初心行護鈔--
 :PROPERTIES:
+:KR_ID: KR6t0348
 :EXTRA_ID: T:T83n2642
 :GENRE: 諸宗
 :lang@ja-rom: SHOSHIN GYŌGO SHŌ
@@ -4317,8 +4665,9 @@
 :EXTENT: I
 :END:
 [[img:T/T83/05/T83-0532.tif][T83, p.532]]
-*** KR6t0349 T83n2643 講院學堂通規
+*** KR6t0349 講院學堂通規--
 :PROPERTIES:
+:KR_ID: KR6t0349
 :EXTRA_ID: T:T83n2643
 :GENRE: 諸宗
 :lang@ja-rom: KŌIN GAKUDŌ TSŪKI
@@ -4326,8 +4675,9 @@
 :EXTENT: I
 :END:
 [[img:T/T83/05/T83-0534.tif][T83, p.534]]
-*** KR6t0350 T83n2644 愚要鈔
+*** KR6t0350 愚要鈔--
 :PROPERTIES:
+:KR_ID: KR6t0350
 :EXTRA_ID: T:T83n2644
 :GENRE: 諸宗
 :lang@ja-rom: GUYŌ SHŌ
@@ -4335,8 +4685,9 @@
 :EXTENT: III
 :END:
 [[img:T/T83/05/T83-0535.tif][T83, p.535]]
-*** KR6t0351 T83n2645 西山復古篇
+*** KR6t0351 西山復古篇--
 :PROPERTIES:
+:KR_ID: KR6t0351
 :EXTRA_ID: T:T83n2645
 :GENRE: 諸宗
 :lang@ja-rom: SEIZAN FUKKO HEN
@@ -4344,8 +4695,9 @@
 :EXTENT: I
 :END:
 [[img:T/T83/05/T83-0576.tif][T83, p.576]]
-*** KR6t0352 T83n2646 顯淨土眞實教行證文類
+*** KR6t0352 顯淨土眞實教行證文類--親鸞
 :PROPERTIES:
+:KR_ID: KR6t0352
 :EXTRA_ID: T:T83n2646
 :GENRE: 諸宗
 :lang@ja-rom: KEN JŌDO SHINJITSUKYŌGYŌSHŌ MONRUI
@@ -4358,8 +4710,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shinran
 :END:
-*** KR6t0353 T83n2647 淨土文類聚鈔
+*** KR6t0353 淨土文類聚鈔--親鸞
 :PROPERTIES:
+:KR_ID: KR6t0353
 :EXTRA_ID: T:T83n2647
 :GENRE: 諸宗
 :lang@ja-rom: JŌDO MONRUI JŪSHŌ
@@ -4372,8 +4725,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shinran
 :END:
-*** KR6t0354 T83n2648 愚禿鈔
+*** KR6t0354 愚禿鈔--親鸞
 :PROPERTIES:
+:KR_ID: KR6t0354
 :EXTRA_ID: T:T83n2648
 :GENRE: 諸宗
 :lang@ja-rom: GUTOKU SHŌ
@@ -4386,8 +4740,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shinran
 :END:
-*** KR6t0355 T83n2649 入出二門偈頌
+*** KR6t0355 入出二門偈頌--親鸞
 :PROPERTIES:
+:KR_ID: KR6t0355
 :EXTRA_ID: T:T83n2649
 :GENRE: 諸宗
 :lang@ja-rom: NYŪSHUTSU NIMON GEJU
@@ -4400,8 +4755,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shinran
 :END:
-*** KR6t0356 T83n2650 淨土和讃
+*** KR6t0356 淨土和讃--親鸞
 :PROPERTIES:
+:KR_ID: KR6t0356
 :EXTRA_ID: T:T83n2650
 :GENRE: 諸宗
 :lang@ja-rom: JŌDO WASAN
@@ -4414,8 +4770,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shinran
 :END:
-*** KR6t0357 T83n2651 淨土高僧和讃
+*** KR6t0357 淨土高僧和讃--親鸞
 :PROPERTIES:
+:KR_ID: KR6t0357
 :EXTRA_ID: T:T83n2651
 :GENRE: 諸宗
 :lang@ja-rom: JŌDO KŌSŌ WASAN
@@ -4428,8 +4785,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shinran
 :END:
-*** KR6t0358 T83n2652 正像末法和讃
+*** KR6t0358 正像末法和讃--親鸞
 :PROPERTIES:
+:KR_ID: KR6t0358
 :EXTRA_ID: T:T83n2652
 :GENRE: 諸宗
 :lang@ja-rom: SHŌZŌMAPPŌ WASAN
@@ -4442,8 +4800,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shinran
 :END:
-*** KR6t0359 T83n2653A 皇太子聖徳奉讃
+*** KR6t0359 皇太子聖徳奉讃--親鸞
 :PROPERTIES:
+:KR_ID: KR6t0359
 :EXTRA_ID: T:T83n2653A
 :GENRE: 諸宗
 :lang@ja-rom: KŌTAISHI SHŌTOKU HŌSAN
@@ -4456,8 +4815,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shinran
 :END:
-*** KR6t0360 T83n2653B 皇太子聖徳奉讃
+*** KR6t0360 皇太子聖徳奉讃--
 :PROPERTIES:
+:KR_ID: KR6t0360
 :EXTRA_ID: T:T83n2653B
 :GENRE: 諸宗
 :lang@ja-rom: KŌTAISHI SHŌTOKU HŌSAN
@@ -4465,8 +4825,9 @@
 :EXTENT: I
 :END:
 [[img:T/T83/06/T83-0669.tif][T83, p.669]]
-*** KR6t0361 T83n2654A 淨土三經往生文類
+*** KR6t0361 淨土三經往生文類--親鸞
 :PROPERTIES:
+:KR_ID: KR6t0361
 :EXTRA_ID: T:T83n2654A
 :GENRE: 諸宗
 :lang@ja-rom: JŌDO SANGYŌ ŌJŌ MONRUI
@@ -4479,8 +4840,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shinran
 :END:
-*** KR6t0362 T83n2654B 淨土三經往生文類
+*** KR6t0362 淨土三經往生文類--
 :PROPERTIES:
+:KR_ID: KR6t0362
 :EXTRA_ID: T:T83n2654B
 :GENRE: 諸宗
 :lang@ja-rom: JŌDO SANGYŌ ŌJŌ MONRUI
@@ -4488,8 +4850,9 @@
 :EXTENT: I
 :END:
 [[img:T/T83/06/T83-0674.tif][T83, p.674]]
-*** KR6t0363 T83n2655A 如來二種廻向文
+*** KR6t0363 如來二種廻向文--親鸞
 :PROPERTIES:
+:KR_ID: KR6t0363
 :EXTRA_ID: T:T83n2655A
 :GENRE: 諸宗
 :lang@ja-rom: NYORAI NISHU EKŌ MON
@@ -4502,8 +4865,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shinran
 :END:
-*** KR6t0364 T83n2655B 往相廻向還相廻向文類
+*** KR6t0364 往相廻向還相廻向文類--
 :PROPERTIES:
+:KR_ID: KR6t0364
 :EXTRA_ID: T:T83n2655B
 :GENRE: 諸宗
 :lang@ja-rom: ŌSŌ EKŌ GENSŌ EKŌ MONRUI
@@ -4511,8 +4875,9 @@
 :EXTENT: I
 :END:
 [[img:T/T83/06/T83-0677.tif][T83, p.677]]
-*** KR6t0365 T83n2656A 尊號眞像銘文
+*** KR6t0365 尊號眞像銘文--親鸞
 :PROPERTIES:
+:KR_ID: KR6t0365
 :EXTRA_ID: T:T83n2656A
 :GENRE: 諸宗
 :lang@ja-rom: SONGŌ SHINZŌ MEIMON
@@ -4525,8 +4890,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shinran
 :END:
-*** KR6t0366 T83n2656B 尊號眞像銘文
+*** KR6t0366 尊號眞像銘文--
 :PROPERTIES:
+:KR_ID: KR6t0366
 :EXTRA_ID: T:T83n2656B
 :GENRE: 諸宗
 :lang@ja-rom: SONGŌ SHINZŌ MEIMON
@@ -4534,8 +4900,9 @@
 :EXTENT: I
 :END:
 [[img:T/T83/06/T83-0688.tif][T83, p.688]]
-*** KR6t0367 T83n2657 一念多念文意
+*** KR6t0367 一念多念文意--親鸞
 :PROPERTIES:
+:KR_ID: KR6t0367
 :EXTRA_ID: T:T83n2657
 :RELATED: T83n2677@諸宗
 :GENRE: 諸宗
@@ -4549,8 +4916,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shinran
 :END:
-*** KR6t0368 T83n2658A 唯信鈔文意
+*** KR6t0368 唯信鈔文意--親鸞
 :PROPERTIES:
+:KR_ID: KR6t0368
 :EXTRA_ID: T:T83n2658A
 :RELATED: T83n2675@諸宗
 :GENRE: 諸宗
@@ -4564,8 +4932,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shinran
 :END:
-*** KR6t0369 T83n2658B 唯信鈔文意
+*** KR6t0369 唯信鈔文意--
 :PROPERTIES:
+:KR_ID: KR6t0369
 :EXTRA_ID: T:T83n2658B
 :RELATED: T83n2675@諸宗
 :GENRE: 諸宗
@@ -4574,8 +4943,9 @@
 :EXTENT: I
 :END:
 [[img:T/T83/07/T83-0705.tif][T83, p.705]]
-*** KR6t0370 T83n2659 末燈鈔
+*** KR6t0370 末燈鈔--從覺
 :PROPERTIES:
+:KR_ID: KR6t0370
 :EXTRA_ID: T:T83n2659
 :GENRE: 諸宗
 :lang@ja-rom: MATTŌ SHŌ
@@ -4588,8 +4958,9 @@
 :PROPERTIES:
 :lang@ja-rom: Jūkaku
 :END:
-*** KR6t0371 T83n2660 親鸞聖人御消息集
+*** KR6t0371 親鸞聖人御消息集--
 :PROPERTIES:
+:KR_ID: KR6t0371
 :EXTRA_ID: T:T83n2660
 :GENRE: 諸宗
 :lang@ja-rom: SHINRANSHŌNIN GOSHŌSOKU SHŪ
@@ -4597,8 +4968,9 @@
 :EXTENT: I
 :END:
 [[img:T/T83/07/T83-0722.tif][T83, p.722]]
-*** KR6t0372 T83n2661 歎異抄
+*** KR6t0372 歎異抄--
 :PROPERTIES:
+:KR_ID: KR6t0372
 :EXTRA_ID: T:T83n2661
 :GENRE: 諸宗
 :lang@ja-rom: TANNI SHŌ
@@ -4606,8 +4978,9 @@
 :EXTENT: I
 :END:
 [[img:T/T83/07/T83-0728.tif][T83, p.728]]
-*** KR6t0373 T83n2662 執持鈔
+*** KR6t0373 執持鈔--
 :PROPERTIES:
+:KR_ID: KR6t0373
 :EXTRA_ID: T:T83n2662
 :GENRE: 諸宗
 :lang@ja-rom: SHŪJI SHŌ
@@ -4615,8 +4988,9 @@
 :EXTENT: I
 :END:
 [[img:T/T83/07/T83-0735.tif][T83, p.735]]
-*** KR6t0374 T83n2663 口傳鈔
+*** KR6t0374 口傳鈔--
 :PROPERTIES:
+:KR_ID: KR6t0374
 :EXTRA_ID: T:T83n2663
 :GENRE: 諸宗
 :lang@ja-rom: KUDEN SHŌ
@@ -4624,8 +4998,9 @@
 :EXTENT: III
 :END:
 [[img:T/T83/07/T83-0738.tif][T83, p.738]]
-*** KR6t0375 T83n2664 本願寺聖人親鸞傳繪
+*** KR6t0375 本願寺聖人親鸞傳繪--
 :PROPERTIES:
+:KR_ID: KR6t0375
 :EXTRA_ID: T:T83n2664
 :GENRE: 諸宗
 :lang@ja-rom: HONGANJI SHŌNIN SHINRAN DENNE
@@ -4633,8 +5008,9 @@
 :EXTENT: II
 :END:
 [[img:T/T83/07/T83-0750.tif][T83, p.750]]
-*** KR6t0376 T83n2665 報恩講式記
+*** KR6t0376 報恩講式記--
 :PROPERTIES:
+:KR_ID: KR6t0376
 :EXTRA_ID: T:T83n2665
 :ALT_TITLE: 報恩講式記
 :GENRE: 諸宗
@@ -4643,8 +5019,9 @@
 :EXTENT:  I
 :END:
 [[img:T/T83/07/T83-0755.tif][T83, p.755]]
-*** KR6t0377 T83n2666 歎徳文
+*** KR6t0377 歎徳文--
 :PROPERTIES:
+:KR_ID: KR6t0377
 :EXTRA_ID: T:T83n2666
 :GENRE: 諸宗
 :lang@ja-rom: TANDOKU MON
@@ -4652,8 +5029,9 @@
 :EXTENT: II
 :END:
 [[img:T/T83/07/T83-0757.tif][T83, p.757]]
-*** KR6t0378 T83n2667 淨土眞要鈔
+*** KR6t0378 淨土眞要鈔--
 :PROPERTIES:
+:KR_ID: KR6t0378
 :EXTRA_ID: T:T83n2667
 :GENRE: 諸宗
 :lang@ja-rom: JŌDO SHINNYŌ SHŌ
@@ -4661,8 +5039,9 @@
 :EXTENT: II
 :END:
 [[img:T/T83/07/T83-0758.tif][T83, p.758]]
-*** KR6t0379 T83n2668 蓮如上人御文
+*** KR6t0379 蓮如上人御文--
 :PROPERTIES:
+:KR_ID: KR6t0379
 :EXTRA_ID: T:T83n2668
 :GENRE: 諸宗
 :lang@ja-rom: RENNYOSHŌNIṄ OFUMI
@@ -4670,8 +5049,9 @@
 :EXTENT: V
 :END:
 [[img:T/T83/07/T83-0771.tif][T83, p.771]]
-*** KR6t0380 T83n2669 蓮如上人御一代記聞書
+*** KR6t0380 蓮如上人御一代記聞書--
 :PROPERTIES:
+:KR_ID: KR6t0380
 :EXTRA_ID: T:T83n2669
 :GENRE: 諸宗
 :lang@ja-rom: RENNYOSHŌNIN GOICHIDAI KI KIKIGAKI
@@ -4681,8 +5061,9 @@
 :EXTENT: I
 :END:
 [[img:T/T83/08/T83-0809.tif][T83, p.809]]
-*** KR6t0381 T83n2670 御俗姓御文
+*** KR6t0381 御俗姓御文--
 :PROPERTIES:
+:KR_ID: KR6t0381
 :EXTRA_ID: T:T83n2670
 :GENRE: 諸宗
 :lang@ja-rom: GOZOKUSHŌ OFUMI
@@ -4690,8 +5071,9 @@
 :EXTENT: I
 :END:
 [[img:T/T83/08/T83-0832.tif][T83, p.832]]
-*** KR6t0382 T83n2671 大名目
+*** KR6t0382 大名目--顯智
 :PROPERTIES:
+:KR_ID: KR6t0382
 :EXTRA_ID: T:T83n2671
 :GENRE: 諸宗
 :lang@ja-rom: DAI MYŌMOKU
@@ -4704,8 +5086,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kenchi
 :END:
-*** KR6t0383 T83n2672 自要集
+*** KR6t0383 自要集--定專
 :PROPERTIES:
+:KR_ID: KR6t0383
 :EXTRA_ID: T:T83n2672
 :GENRE: 諸宗
 :lang@ja-rom: JIYŌ SHŪ
@@ -4718,8 +5101,9 @@
 :PROPERTIES:
 :lang@ja-rom: Jōsen
 :END:
-*** KR6t0384 T83n2673 顯正流義鈔
+*** KR6t0384 顯正流義鈔--眞慧
 :PROPERTIES:
+:KR_ID: KR6t0384
 :EXTRA_ID: T:T83n2673
 :GENRE: 諸宗
 :lang@ja-rom: KEN SHŌRYŪGI SHŌ
@@ -4732,8 +5116,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shiṇe
 :END:
-*** KR6t0385 T83n2674 西方指南鈔
+*** KR6t0385 西方指南鈔--親鸞]
 :PROPERTIES:
+:KR_ID: KR6t0385
 :EXTRA_ID: T:T83n2674
 :GENRE: 諸宗
 :lang@ja-rom: SAIHŌ SHINAN SHŌ
@@ -4746,8 +5131,9 @@
 :PROPERTIES:
 :lang@ja-rom: [Shinran
 :END:
-*** KR6t0386 T83n2675 唯信抄
+*** KR6t0386 唯信抄--聖覺
 :PROPERTIES:
+:KR_ID: KR6t0386
 :EXTRA_ID: T:T83n2675
 :RELATED: T83n2658@諸宗
 :GENRE: 諸宗
@@ -4761,8 +5147,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shōkaku
 :END:
-*** KR6t0387 T83n2676 後世物語聞書
+*** KR6t0387 後世物語聞書--
 :PROPERTIES:
+:KR_ID: KR6t0387
 :EXTRA_ID: T:T83n2676
 :GENRE: 諸宗
 :lang@ja-rom: GOSE MONOGATARI KIKIGAKI
@@ -4772,8 +5159,9 @@
 :EXTENT: I
 :END:
 [[img:T/T83/09/T83-0916.tif][T83, p.916]]
-*** KR6t0388 T83n2677 一念多念分別事
+*** KR6t0388 一念多念分別事--隆寛
 :PROPERTIES:
+:KR_ID: KR6t0388
 :EXTRA_ID: T:T83n2677
 :RELATED: T83n2657@諸宗
 :GENRE: 諸宗
@@ -4787,8 +5175,9 @@
 :PROPERTIES:
 :lang@ja-rom: Ryūkan
 :END:
-*** KR6t0389 T83n2678 自力他力事
+*** KR6t0389 自力他力事--隆寛
 :PROPERTIES:
+:KR_ID: KR6t0389
 :EXTRA_ID: T:T83n2678
 :GENRE: 諸宗
 :lang@ja-rom: JIRIKI TARIKI NO KOTO
@@ -4801,8 +5190,9 @@
 :PROPERTIES:
 :lang@ja-rom: Ryūkan
 :END:
-*** KR6t0390 T83n2679 安心決定鈔
+*** KR6t0390 安心決定鈔--
 :PROPERTIES:
+:KR_ID: KR6t0390
 :EXTRA_ID: T:T83n2679
 :GENRE: 諸宗
 :lang@ja-rom: ANJIN KETSUJŌ SHŌ
@@ -4811,8 +5201,9 @@
 :END:
 [[img:T/T83/09/T83-0921.tif][T83, p.921]]
 
-*** KR6t0391 T84n2680 融通圓門章
+*** KR6t0391 融通圓門章--
 :PROPERTIES:
+:KR_ID: KR6t0391
 :EXTRA_ID: T:T84n2680
 :GENRE: 諸宗
 :lang@ja-rom: YŪZŪ EMMON SHŌ
@@ -4820,8 +5211,9 @@
 :EXTENT: I
 :END:
 [[img:T/T84/00/T84-0001.tif][T84, p. 1]]
-*** KR6t0392 T84n2681 器朴論
+*** KR6t0392 器朴論--託何
 :PROPERTIES:
+:KR_ID: KR6t0392
 :EXTRA_ID: T:T84n2681
 :GENRE: 諸宗
 :lang@ja-rom: KIBOKU RON
@@ -4834,8 +5226,9 @@
 :PROPERTIES:
 :lang@ja-rom: Takuga
 :END:
-*** KR6t0393 T84n2682 往生要集
+*** KR6t0393 往生要集--源信
 :PROPERTIES:
+:KR_ID: KR6t0393
 :EXTRA_ID: T:T84n2682
 :GENRE: 諸宗
 :lang@ja-rom: ŌJŌ YŌSHŪ
@@ -4848,8 +5241,9 @@
 :PROPERTIES:
 :lang@ja-rom: Genshin
 :END:
-*** KR6t0394 T84n2683 往生拾因
+*** KR6t0394 往生拾因--永觀
 :PROPERTIES:
+:KR_ID: KR6t0394
 :EXTRA_ID: T:T84n2683
 :GENRE: 諸宗
 :lang@ja-rom: ŌJŌ JŪIN
@@ -4862,8 +5256,9 @@
 :PROPERTIES:
 :lang@ja-rom: Eikan
 :END:
-*** KR6t0395 T84n2684 決定往生集
+*** KR6t0395 決定往生集--珍海
 :PROPERTIES:
+:KR_ID: KR6t0395
 :EXTRA_ID: T:T84n2684
 :GENRE: 諸宗
 :lang@ja-rom: KETSUJŌ ŌJŌ SHŪ
@@ -4876,8 +5271,9 @@
 :PROPERTIES:
 :lang@ja-rom: Chinkai
 :END:
-*** KR6t0396 T84n2685 安養知足相對抄
+*** KR6t0396 安養知足相對抄--珍海
 :PROPERTIES:
+:KR_ID: KR6t0396
 :EXTRA_ID: T:T84n2685
 :GENRE: 諸宗
 :lang@ja-rom: ANNYŌ CHISOKU SŌTAI SHŌ
@@ -4890,8 +5286,9 @@
 :PROPERTIES:
 :lang@ja-rom: Chinkai
 :END:
-*** KR6t0397 T84n2686 安養抄
+*** KR6t0397 安養抄--11e-12es
 :PROPERTIES:
+:KR_ID: KR6t0397
 :EXTRA_ID: T:T84n2686
 :GENRE: 諸宗
 :lang@ja-rom: ANNYŌ SHŌ
@@ -4904,8 +5301,9 @@
 :PROPERTIES:
 :lang@ja-rom: An.
 :END:
-*** KR6t0398 T84n2687 淨土法門源流章
+*** KR6t0398 淨土法門源流章--凝然
 :PROPERTIES:
+:KR_ID: KR6t0398
 :EXTRA_ID: T:T84n2687
 :GENRE: 諸宗
 :lang@ja-rom: JŌDO HŌMON GENRYŪ SHŌ
@@ -4918,8 +5316,9 @@
 :PROPERTIES:
 :lang@ja-rom: Gyōnen
 :END:
-*** KR6t0399 T84n2688 立正安國論
+*** KR6t0399 立正安國論--日蓮
 :PROPERTIES:
+:KR_ID: KR6t0399
 :EXTRA_ID: T:T84n2688
 :GENRE: 諸宗
 :lang@ja-rom: RISSHŌ ANKOKU RON
@@ -4932,8 +5331,9 @@
 :PROPERTIES:
 :lang@ja-rom: Nichiren
 :END:
-*** KR6t0400 T84n2689 開目抄
+*** KR6t0400 開目抄--日蓮
 :PROPERTIES:
+:KR_ID: KR6t0400
 :EXTRA_ID: T:T84n2689
 :GENRE: 諸宗
 :lang@ja-rom: KAIMOKU SHŌ
@@ -4946,8 +5346,9 @@
 :PROPERTIES:
 :lang@ja-rom: Nichiren
 :END:
-*** KR6t0401 T84n2690 撰時抄
+*** KR6t0401 撰時抄--日蓮
 :PROPERTIES:
+:KR_ID: KR6t0401
 :EXTRA_ID: T:T84n2690
 :GENRE: 諸宗
 :lang@ja-rom: SENJI SHŌ
@@ -4960,8 +5361,9 @@
 :PROPERTIES:
 :lang@ja-rom: Nichiren
 :END:
-*** KR6t0402 T84n2691 報恩抄
+*** KR6t0402 報恩抄--日蓮
 :PROPERTIES:
+:KR_ID: KR6t0402
 :EXTRA_ID: T:T84n2691
 :GENRE: 諸宗
 :lang@ja-rom: HŌON SHŌ
@@ -4974,8 +5376,9 @@
 :PROPERTIES:
 :lang@ja-rom: Nichiren
 :END:
-*** KR6t0403 T84n2692 觀心本尊抄
+*** KR6t0403 觀心本尊抄--日蓮
 :PROPERTIES:
+:KR_ID: KR6t0403
 :EXTRA_ID: T:T84n2692
 :GENRE: 諸宗
 :lang@ja-rom: KANJIN HONZON SHŌ
@@ -4988,8 +5391,9 @@
 :PROPERTIES:
 :lang@ja-rom: Nichiren
 :END:
-*** KR6t0404 T84n2693 法華取要抄
+*** KR6t0404 法華取要抄--日蓮
 :PROPERTIES:
+:KR_ID: KR6t0404
 :EXTRA_ID: T:T84n2693
 :GENRE: 諸宗
 :lang@ja-rom: HOKKE SHUYŌ SHŌ
@@ -5002,8 +5406,9 @@
 :PROPERTIES:
 :lang@ja-rom: Nichiren
 :END:
-*** KR6t0405 T84n2694 太田禪門許御書
+*** KR6t0405 太田禪門許御書--日蓮
 :PROPERTIES:
+:KR_ID: KR6t0405
 :EXTRA_ID: T:T84n2694
 :GENRE: 諸宗
 :lang@ja-rom: ŌTA ZEMMOM MOTO GOSHO
@@ -5016,8 +5421,9 @@
 :PROPERTIES:
 :lang@ja-rom: Nichiren
 :END:
-*** KR6t0406 T84n2695 三大祕法抄
+*** KR6t0406 三大祕法抄--日蓮
 :PROPERTIES:
+:KR_ID: KR6t0406
 :EXTRA_ID: T:T84n2695
 :GENRE: 諸宗
 :lang@ja-rom: SANDAI HIHŌ SHŌ
@@ -5030,8 +5436,9 @@
 :PROPERTIES:
 :lang@ja-rom: Nichiren
 :END:
-*** KR6t0407 T84n2696 四信五品鈔
+*** KR6t0407 四信五品鈔--日蓮
 :PROPERTIES:
+:KR_ID: KR6t0407
 :EXTRA_ID: T:T84n2696
 :GENRE: 諸宗
 :lang@ja-rom: SHISHIN GOHON SHŌ
@@ -5044,8 +5451,9 @@
 :PROPERTIES:
 :lang@ja-rom: Nichiren
 :END:
-*** KR6t0408 T84n2697 如説修行抄
+*** KR6t0408 如説修行抄--日蓮
 :PROPERTIES:
+:KR_ID: KR6t0408
 :EXTRA_ID: T:T84n2697
 :GENRE: 諸宗
 :lang@ja-rom: NYOSETSU SHUGYŌ SHŌ
@@ -5058,8 +5466,9 @@
 :PROPERTIES:
 :lang@ja-rom: Nichiren
 :END:
-*** KR6t0409 T84n2698 種種御振舞御書
+*** KR6t0409 種種御振舞御書--日蓮
 :PROPERTIES:
+:KR_ID: KR6t0409
 :EXTRA_ID: T:T84n2698
 :GENRE: 諸宗
 :lang@ja-rom: SHUJU ONFURUMAI GOSHO
@@ -5072,8 +5481,9 @@
 :PROPERTIES:
 :lang@ja-rom: Nichiren
 :END:
-*** KR6t0410 T84n2699 御義口傳
+*** KR6t0410 御義口傳--日興
 :PROPERTIES:
+:KR_ID: KR6t0410
 :EXTRA_ID: T:T84n2699
 :GENRE: 諸宗
 :lang@ja-rom: ONGI KUDEN
@@ -5086,8 +5496,9 @@
 :PROPERTIES:
 :lang@ja-rom: Nichikō
 :END:
-*** KR6t0411 T84n2700 御講聞書
+*** KR6t0411 御講聞書--日向
 :PROPERTIES:
+:KR_ID: KR6t0411
 :EXTRA_ID: T:T84n2700
 :GENRE: 諸宗
 :lang@ja-rom: ONKŌ KIKIGAKI
@@ -5100,8 +5511,9 @@
 :PROPERTIES:
 :lang@ja-rom: Nikō
 :END:
-*** KR6t0412 T84n2701 梵字悉曇字母釋義
+*** KR6t0412 梵字悉曇字母釋義--空海
 :PROPERTIES:
+:KR_ID: KR6t0412
 :EXTRA_ID: T:T84n2701
 :GENRE: 諸宗
 :lang@ja-rom: BONJI SHITTAN JIMO SHAKUGI
@@ -5114,8 +5526,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kūkai
 :END:
-*** KR6t0413 T84n2702 悉曇藏
+*** KR6t0413 悉曇藏--安然
 :PROPERTIES:
+:KR_ID: KR6t0413
 :EXTRA_ID: T:T84n2702
 :GENRE: 諸宗
 :lang@ja-rom: SHITTANZŌ
@@ -5128,8 +5541,9 @@
 :PROPERTIES:
 :lang@ja-rom: Annen
 :END:
-*** KR6t0414 T84n2703 悉曇十二例
+*** KR6t0414 悉曇十二例--安然
 :PROPERTIES:
+:KR_ID: KR6t0414
 :EXTRA_ID: T:T84n2703
 :GENRE: 諸宗
 :lang@ja-rom: SHITTAN JŪNIREI
@@ -5142,8 +5556,9 @@
 :PROPERTIES:
 :lang@ja-rom: Annen
 :END:
-*** KR6t0415 T84n2704 悉曇略記
+*** KR6t0415 悉曇略記--玄昭
 :PROPERTIES:
+:KR_ID: KR6t0415
 :EXTRA_ID: T:T84n2704
 :GENRE: 諸宗
 :lang@ja-rom: SHITTAN RYAKKI
@@ -5156,8 +5571,9 @@
 :PROPERTIES:
 :lang@ja-rom: Genshō
 :END:
-*** KR6t0416 T84n2705 悉曇集記
+*** KR6t0416 悉曇集記--淳祐
 :PROPERTIES:
+:KR_ID: KR6t0416
 :EXTRA_ID: T:T84n2705
 :GENRE: 諸宗
 :lang@ja-rom: SHITTAN JUKKI
@@ -5170,8 +5586,9 @@
 :PROPERTIES:
 :lang@ja-rom: Junnyū
 :END:
-*** KR6t0417 T84n2706 悉曇要訣
+*** KR6t0417 悉曇要訣--明覺
 :PROPERTIES:
+:KR_ID: KR6t0417
 :EXTRA_ID: T:T84n2706
 :GENRE: 諸宗
 :lang@ja-rom: SHITTAṄ YŌKETSU
@@ -5184,8 +5601,9 @@
 :PROPERTIES:
 :lang@ja-rom: Myōkaku
 :END:
-*** KR6t0418 T84n2707 多羅葉記
+*** KR6t0418 多羅葉記--心覺
 :PROPERTIES:
+:KR_ID: KR6t0418
 :EXTRA_ID: T:T84n2707
 :GENRE: 諸宗
 :lang@ja-rom: TARAYŌ KI
@@ -5198,8 +5616,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shinkaku
 :END:
-*** KR6t0419 T84n2708 悉曇祕傳記
+*** KR6t0419 悉曇祕傳記--信範
 :PROPERTIES:
+:KR_ID: KR6t0419
 :EXTRA_ID: T:T84n2708
 :GENRE: 諸宗
 :lang@ja-rom: SHITTAN HIDEN KI
@@ -5212,8 +5631,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shinhan
 :END:
-*** KR6t0420 T84n2709 悉曇輪略圖抄
+*** KR6t0420 悉曇輪略圖抄--了尊
 :PROPERTIES:
+:KR_ID: KR6t0420
 :EXTRA_ID: T:T84n2709
 :GENRE: 諸宗
 :lang@ja-rom: SHITTANRIN RYAKUZU SHŌ
@@ -5226,8 +5646,9 @@
 :PROPERTIES:
 :lang@ja-rom: Ryōson
 :END:
-*** KR6t0421 T84n2710 　　[var.悉曇]三密鈔
+*** KR6t0421 悉曇三密鈔--淨嚴
 :PROPERTIES:
+:KR_ID: KR6t0421
 :EXTRA_ID: T:T84n2710
 :GENRE: 諸宗
 :lang@ja-rom: SHITTAN SAMMITSU SHŌ
@@ -5240,8 +5661,9 @@
 :PROPERTIES:
 :lang@ja-rom: Jōgon
 :END:
-*** KR6t0422 T84n2711 梵學津梁總目録
+*** KR6t0422 梵學津梁總目録--
 :PROPERTIES:
+:KR_ID: KR6t0422
 :EXTRA_ID: T:T84n2711
 :GENRE: 諸宗
 :lang@ja-rom: BONGAKU SHINRYŌ SŌMOKUROKU
@@ -5249,8 +5671,9 @@
 :EXTENT: I
 :END:
 [[img:T/T84/08/T84-0810.tif][T84, p.810]]
-*** KR6t0423 T84n2712 魚山聲明集
+*** KR6t0423 魚山聲明集--
 :PROPERTIES:
+:KR_ID: KR6t0423
 :EXTRA_ID: T:T84n2712
 :GENRE: 諸宗
 :lang@ja-rom: GYOSAN SHŌMYŌ SHŪ
@@ -5258,8 +5681,9 @@
 :EXTENT: I
 :END:
 [[img:T/T84/08/T84-0813.tif][T84, p.813]]
-*** KR6t0424 T84n2713 魚山私鈔
+*** KR6t0424 魚山私鈔--長惠
 :PROPERTIES:
+:KR_ID: KR6t0424
 :EXTRA_ID: T:T84n2713
 :GENRE: 諸宗
 :lang@ja-rom: GYOSAN SHISHŌ
@@ -5272,8 +5696,9 @@
 :PROPERTIES:
 :lang@ja-rom: Chōe
 :END:
-*** KR6t0425 T84n2714 魚山目録
+*** KR6t0425 魚山目録--宗快
 :PROPERTIES:
+:KR_ID: KR6t0425
 :EXTRA_ID: T:T84n2714
 :GENRE: 諸宗
 :lang@ja-rom: GYOSAM MOKUROKU
@@ -5286,8 +5711,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shūkai
 :END:
-*** KR6t0426 T84n2715 大原聲明博士圖
+*** KR6t0426 大原聲明博士圖--
 :PROPERTIES:
+:KR_ID: KR6t0426
 :EXTRA_ID: T:T84n2715
 :GENRE: 諸宗
 :lang@ja-rom: ŌHARA SHŌMYŌ HAKASE ZU
@@ -5295,8 +5721,9 @@
 :EXTENT: I
 :END:
 [[img:T/T84/08/T84-0849.tif][T84, p.849]]
-*** KR6t0427 T84n2716 音律菁花[var. 頼驗]集
+*** KR6t0427 頼驗]集--
 :PROPERTIES:
+:KR_ID: KR6t0427
 :EXTRA_ID: T:T84n2716
 :GENRE: 諸宗
 :lang@ja-rom: ONRITSU SENKE[var. RAIKEN] SHŪ
@@ -5304,8 +5731,9 @@
 :EXTENT: I
 :END:
 [[img:T/T84/08/T84-0853.tif][T84, p.853]]
-*** KR6t0428 T84n2717 聲明口傳
+*** KR6t0428 聲明口傳--聖尊
 :PROPERTIES:
+:KR_ID: KR6t0428
 :EXTRA_ID: T:T84n2717
 :GENRE: 諸宗
 :lang@ja-rom: SHŌMYŌ KUDEN
@@ -5318,8 +5746,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shōson
 :END:
-*** KR6t0429 T84n2718 大阿闍梨聲明系圖
+*** KR6t0429 大阿闍梨聲明系圖--
 :PROPERTIES:
+:KR_ID: KR6t0429
 :EXTRA_ID: T:T84n2718
 :GENRE: 諸宗
 :lang@ja-rom: DAIAJARI SHŌMYŌ KEIZU
@@ -5327,8 +5756,9 @@
 :EXTENT: I
 :END:
 [[img:T/T84/08/T84-0859.tif][T84, p.859]]
-*** KR6t0430 T84n2719 十二調子事
+*** KR6t0430 十二調子事--
 :PROPERTIES:
+:KR_ID: KR6t0430
 :EXTRA_ID: T:T84n2719
 :GENRE: 諸宗
 :lang@ja-rom: JŪNICHŌSHI NO KOTO
@@ -5336,8 +5766,9 @@
 :EXTENT: I
 :END:
 [[img:T/T84/08/T84-0860.tif][T84, p.860]]
-*** KR6t0431 T84n2720 聲明源流記
+*** KR6t0431 聲明源流記--凝然
 :PROPERTIES:
+:KR_ID: KR6t0431
 :EXTRA_ID: T:T84n2720
 :GENRE: 諸宗
 :lang@ja-rom: SHŌMYŌ GENRYŪ KI
@@ -5350,8 +5781,9 @@
 :PROPERTIES:
 :lang@ja-rom: Gyōnen
 :END:
-*** KR6t0432 T84n2721 音曲祕要抄
+*** KR6t0432 音曲祕要抄--凝然
 :PROPERTIES:
+:KR_ID: KR6t0432
 :EXTRA_ID: T:T84n2721
 :GENRE: 諸宗
 :lang@ja-rom: ONKYOKU HIYŌ SHŌ
@@ -5364,8 +5796,9 @@
 :PROPERTIES:
 :lang@ja-rom: Gyōnen
 :END:
-*** KR6t0433 T84n2722 藥師如來講式
+*** KR6t0433 藥師如來講式--最澄
 :PROPERTIES:
+:KR_ID: KR6t0433
 :EXTRA_ID: T:T84n2722
 :GENRE: 諸宗
 :lang@ja-rom: YAKUSHINYORAI KŌSHIKI
@@ -5378,8 +5811,9 @@
 :PROPERTIES:
 :lang@ja-rom: Saichō
 :END:
-*** KR6t0434 T84n2723 横川首楞嚴院二十五三昧式
+*** KR6t0434 横川首楞嚴院二十五三昧式--源信
 :PROPERTIES:
+:KR_ID: KR6t0434
 :EXTRA_ID: T:T84n2723
 :GENRE: 諸宗
 :lang@ja-rom: YOKAWA SHURYŌGOṄIN NIJŪGOSAMMAI SHIKI
@@ -5392,8 +5826,9 @@
 :PROPERTIES:
 :lang@ja-rom: Genshin
 :END:
-*** KR6t0435 T84n2724 横川首楞嚴院二十五三昧起請
+*** KR6t0435 横川首楞嚴院二十五三昧起請--源信
 :PROPERTIES:
+:KR_ID: KR6t0435
 :EXTRA_ID: T:T84n2724
 :GENRE: 諸宗
 :lang@ja-rom: YOKAWA SHURYŌGOṄIN NIJŪGOSAMMAI KISHŌ
@@ -5406,8 +5841,9 @@
 :PROPERTIES:
 :lang@ja-rom: Genshin
 :END:
-*** KR6t0436 T84n2725 往生講式
+*** KR6t0436 往生講式--永觀
 :PROPERTIES:
+:KR_ID: KR6t0436
 :EXTRA_ID: T:T84n2725
 :GENRE: 諸宗
 :lang@ja-rom: ŌJŌKŌ SHIKI
@@ -5420,8 +5856,9 @@
 :PROPERTIES:
 :lang@ja-rom: Eikan
 :END:
-*** KR6t0437 T84n2726 愛染王講式
+*** KR6t0437 愛染王講式--覺鑁
 :PROPERTIES:
+:KR_ID: KR6t0437
 :EXTRA_ID: T:T84n2726
 :GENRE: 諸宗
 :lang@ja-rom: AIZEṄŌKŌ SHIKI
@@ -5434,8 +5871,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakuban
 :END:
-*** KR6t0438 T84n2727 求聞持表白
+*** KR6t0438 求聞持表白--覺鑁
 :PROPERTIES:
+:KR_ID: KR6t0438
 :EXTRA_ID: T:T84n2727
 :GENRE: 諸宗
 :lang@ja-rom: GUMONJI HYŌBYAKU
@@ -5448,8 +5886,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakuban
 :END:
-*** KR6t0439 T84n2728 觀音講式
+*** KR6t0439 觀音講式--貞慶
 :PROPERTIES:
+:KR_ID: KR6t0439
 :EXTRA_ID: T:T84n2728
 :GENRE: 諸宗
 :lang@ja-rom: KANNONKŌ SHIKI
@@ -5462,8 +5901,9 @@
 :PROPERTIES:
 :lang@ja-rom: Jōkei
 :END:
-*** KR6t0440 T84n2729 彌勒講式
+*** KR6t0440 彌勒講式--貞慶
 :PROPERTIES:
+:KR_ID: KR6t0440
 :EXTRA_ID: T:T84n2729
 :GENRE: 諸宗
 :lang@ja-rom: MIROKUKŌ SHIKI
@@ -5476,8 +5916,9 @@
 :PROPERTIES:
 :lang@ja-rom: Jōkei
 :END:
-*** KR6t0441 T84n2730 如法經現修作法
+*** KR6t0441 如法經現修作法--宗快
 :PROPERTIES:
+:KR_ID: KR6t0441
 :EXTRA_ID: T:T84n2730
 :GENRE: 諸宗
 :lang@ja-rom: NYOHŌKYŌ GENSHU SAHŌ
@@ -5490,8 +5931,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shūkai
 :END:
-*** KR6t0442 T84n2731 四座講式
+*** KR6t0442 四座講式--高辧
 :PROPERTIES:
+:KR_ID: KR6t0442
 :EXTRA_ID: T:T84n2731
 :lang@ja-rom: SHIZA KŌSHIKI
 :lang@zh-py: (Si zuo jiang shi)

@@ -1,8 +1,9 @@
 #-*- mode: org; -*-
 ** KR5i ZB5i 清代道教文獻
 # 『道藏輯要』藏外文獻
-*** KR5i0001 元始大洞玉經
+*** KR5i0001 元始大洞玉經--
    :PROPERTIES:
+:KR_ID: KR5i0001
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY006
    :END:
@@ -20,8 +21,9 @@ DZJY: [[dzjy:JY006/JY006_01.txt][JY006 元始大洞玉經]]
 ****** Comments
 
 
-*** KR5i0002 洞經示讀
+*** KR5i0002 洞經示讀--
    :PROPERTIES:
+:KR_ID: KR5i0002
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY007
    :END:
@@ -39,8 +41,9 @@ DZJY: [[dzjy:JY007/JY007_01.txt][JY007 洞經示讀]]
 ****** Comments
 
 
-*** KR5i0003 元始大洞玉經
+*** KR5i0003 元始大洞玉經--
    :PROPERTIES:
+:KR_ID: KR5i0003
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY008
    :END:
@@ -58,8 +61,9 @@ DZJY: [[dzjy:JY008/JY008_01.txt][JY008 元始大洞玉經]]
 ****** Comments
 
 
-*** KR5i0004 元始上帝毘盧遮耶說大洞救劫尊經
+*** KR5i0004 元始上帝毘盧遮耶說大洞救劫尊經--
    :PROPERTIES:
+:KR_ID: KR5i0004
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY013
    :END:
@@ -77,8 +81,9 @@ DZJY: [[dzjy:JY013/JY013_01.txt][JY013 元始上帝毘盧遮耶說大洞救劫�
 ****** Comments
 
 
-*** KR5i0005 太上玄元道德經解
+*** KR5i0005 太上玄元道德經解--
    :PROPERTIES:
+:KR_ID: KR5i0005
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY045
    :END:
@@ -96,8 +101,9 @@ DZJY: [[dzjy:JY045/JY045_01.txt][JY045 太上玄元道德經解]]
 ****** Comments
 
 
-*** KR5i0006 太上道德寶章翼
+*** KR5i0006 太上道德寶章翼--
    :PROPERTIES:
+:KR_ID: KR5i0006
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY047
    :END:
@@ -115,8 +121,9 @@ DZJY: [[dzjy:JY047/JY047_01.txt][JY047 太上道德寶章翼]]
 ****** Comments
 
 
-*** KR5i0007 道德經釋辭
+*** KR5i0007 道德經釋辭--
    :PROPERTIES:
+:KR_ID: KR5i0007
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY052
    :END:
@@ -134,8 +141,9 @@ DZJY: [[dzjy:JY052/JY052_01.txt][JY052 道德經釋辭]]
 ****** Comments
 
 
-*** KR5i0008 太上老君說常清靜真經
+*** KR5i0008 太上老君說常清靜真經--
    :PROPERTIES:
+:KR_ID: KR5i0008
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY054
    :END:
@@ -153,8 +161,9 @@ DZJY: [[dzjy:JY054/JY054_01.txt][JY054 太上老君說常清靜真經]]
 ****** Comments
 
 
-*** KR5i0009 太上道德大天尊說道元一氣經
+*** KR5i0009 太上道德大天尊說道元一氣經--
    :PROPERTIES:
+:KR_ID: KR5i0009
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY056
    :END:
@@ -172,8 +181,9 @@ DZJY: [[dzjy:JY056/JY056_01.txt][JY056 太上道德大天尊說道元一氣經]]
 ****** Comments
 
 
-*** KR5i0010 太上黃庭內景玉經
+*** KR5i0010 太上黃庭內景玉經--
    :PROPERTIES:
+:KR_ID: KR5i0010
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY074
    :END:
@@ -191,8 +201,9 @@ DZJY: [[dzjy:JY074/JY074_01.txt][JY074 太上黃庭內景玉經]]
 ****** Comments
 
 
-*** KR5i0011 黃庭內景經
+*** KR5i0011 黃庭內景經--
    :PROPERTIES:
+:KR_ID: KR5i0011
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY075
    :END:
@@ -210,8 +221,9 @@ DZJY: [[dzjy:JY075/JY075_01.txt][JY075 黃庭內景經]]
 ****** Comments
 
 
-*** KR5i0012 黃庭外景經
+*** KR5i0012 黃庭外景經--
    :PROPERTIES:
+:KR_ID: KR5i0012
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY076
    :END:
@@ -229,8 +241,9 @@ DZJY: [[dzjy:JY076/JY076_01.txt][JY076 黃庭外景經]]
 ****** Comments
 
 
-*** KR5i0013 太上感應篇箋注
+*** KR5i0013 太上感應篇箋注--
    :PROPERTIES:
+:KR_ID: KR5i0013
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY081
    :END:
@@ -255,8 +268,9 @@ KX077_p0304_01	重刊道藏輯要
 KX077_p0304_02	太上感應篇
 
 
-*** KR5i0014 太上感應篇集注
+*** KR5i0014 太上感應篇集注--
    :PROPERTIES:
+:KR_ID: KR5i0014
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY082
    :END:
@@ -274,8 +288,9 @@ DZJY: [[dzjy:JY082/JY082_01.txt][JY082 太上感應篇集注]]
 ****** Comments
 
 
-*** KR5i0015 高上玉皇本行集經
+*** KR5i0015 高上玉皇本行集經--
    :PROPERTIES:
+:KR_ID: KR5i0015
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY087
    :END:
@@ -297,8 +312,9 @@ DZJY: [[dzjy:JY087/JY087_01.txt][JY087 高上玉皇本行集經]]
 ****** Comments
 
 
-*** KR5i0016 太上洞玄靈寶紫微金格高上玉皇本行集經闡微
+*** KR5i0016 太上洞玄靈寶紫微金格高上玉皇本行集經闡微--
    :PROPERTIES:
+:KR_ID: KR5i0016
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY090
    :END:
@@ -321,8 +337,9 @@ DZJY: [[dzjy:JY090/JY090_01.txt][JY090 太上洞玄靈寶紫微金格高上玉�
 ****** Comments
 
 
-*** KR5i0017 高上玉皇心印妙經
+*** KR5i0017 高上玉皇心印妙經--
    :PROPERTIES:
+:KR_ID: KR5i0017
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY091
    :END:
@@ -340,8 +357,9 @@ DZJY: [[dzjy:JY091/JY091_01.txt][JY091 高上玉皇心印妙經]]
 ****** Comments
 
 
-*** KR5i0018 終南八祖說心印妙經解
+*** KR5i0018 終南八祖說心印妙經解--
    :PROPERTIES:
+:KR_ID: KR5i0018
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY092
    :END:
@@ -359,8 +377,9 @@ DZJY: [[dzjy:JY092/JY092_01.txt][JY092 終南八祖說心印妙經解]]
 ****** Comments
 
 
-*** KR5i0019 高上玉皇心印經
+*** KR5i0019 高上玉皇心印經--
    :PROPERTIES:
+:KR_ID: KR5i0019
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY093
    :END:
@@ -378,8 +397,9 @@ DZJY: [[dzjy:JY093/JY093_01.txt][JY093 高上玉皇心印經]]
 ****** Comments
 
 
-*** KR5i0020 玉皇心印經
+*** KR5i0020 玉皇心印經--
    :PROPERTIES:
+:KR_ID: KR5i0020
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY094
    :END:
@@ -397,8 +417,9 @@ DZJY: [[dzjy:JY094/JY094_01.txt][JY094 玉皇心印經]]
 ****** Comments
 
 
-*** KR5i0021 玉清贊化九天演政心印集經
+*** KR5i0021 玉清贊化九天演政心印集經--
    :PROPERTIES:
+:KR_ID: KR5i0021
    :BASEEDITION: YPP
    :EXTRA_ID: DZJY:JY098
    :END:
@@ -416,8 +437,9 @@ DZJY: [[dzjy:JY098/JY098_01.txt][JY098 玉清贊化九天演政心印集經 ]]
 ****** Comments
 
 
-*** KR5i0022 玉清贊化九天演政心印寶懺
+*** KR5i0022 玉清贊化九天演政心印寶懺--
    :PROPERTIES:
+:KR_ID: KR5i0022
    :BASEEDITION: YPP
    :EXTRA_ID: DZJY:JY099
    :END:
@@ -435,8 +457,9 @@ DZJY: [[dzjy:JY099/JY099_01.txt][JY099 玉清贊化九天演政心印寶懺]]
 ****** Comments
 
 
-*** KR5i0023 先天斗帝敕演無上玄功靈妙真經
+*** KR5i0023 先天斗帝敕演無上玄功靈妙真經--
    :PROPERTIES:
+:KR_ID: KR5i0023
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY100
    :END:
@@ -454,8 +477,9 @@ DZJY: [[dzjy:JY100/JY100_01.txt][JY100 先天斗帝敕演無上玄功靈妙真�
 ****** Comments
 
 
-*** KR5i0024 九皇斗姥戒殺延生真經
+*** KR5i0024 九皇斗姥戒殺延生真經--
    :PROPERTIES:
+:KR_ID: KR5i0024
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY101
    :END:
@@ -479,8 +503,9 @@ KX096_p0028_01	九皇斗姥說延生保命心咒
 KX097_p0029_01	九皇斗姥說戒殺延生眞經
 
 
-*** KR5i0025 觀音大士蓮船經
+*** KR5i0025 觀音大士蓮船經--
    :PROPERTIES:
+:KR_ID: KR5i0025
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY102
    :END:
@@ -519,8 +544,9 @@ KX103_p0077_04	出迷津
 KX103_p0077_05	䶻䶻志心皈命禮
 
 
-*** KR5i0026 九皇新經註解
+*** KR5i0026 九皇新經註解--
    :PROPERTIES:
+:KR_ID: KR5i0026
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY109
    :END:
@@ -538,8 +564,9 @@ DZJY: [[dzjy:JY109/JY109_01.txt][JY109 九皇新經註解]]
 ****** Comments
 
 
-*** KR5i0027 玄宗正旨
+*** KR5i0027 玄宗正旨--
    :PROPERTIES:
+:KR_ID: KR5i0027
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY110
    :END:
@@ -557,8 +584,9 @@ DZJY: [[dzjy:JY110/JY110_01.txt][JY110 玄宗正旨]]
 ****** Comments
 
 
-*** KR5i0028 浮黎鼻祖金華祕訣
+*** KR5i0028 浮黎鼻祖金華祕訣--
    :PROPERTIES:
+:KR_ID: KR5i0028
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY111
    :END:
@@ -576,8 +604,9 @@ DZJY: [[dzjy:JY111/JY111_01.txt][JY111 浮黎鼻祖金華祕訣]]
 ****** Comments
 
 
-*** KR5i0029 金碧古文龍虎上經
+*** KR5i0029 金碧古文龍虎上經--
    :PROPERTIES:
+:KR_ID: KR5i0029
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY113
    :END:
@@ -595,8 +624,9 @@ DZJY: [[dzjy:JY113/JY113_01.txt][JY113 金碧古文龍虎上經]]
 ****** Comments
 
 
-*** KR5i0030 唱道真言
+*** KR5i0030 唱道真言--
    :PROPERTIES:
+:KR_ID: KR5i0030
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY114
    :END:
@@ -614,8 +644,9 @@ DZJY: [[dzjy:JY114/JY114_01.txt][JY114 唱道真言]]
 ****** Comments
 
 
-*** KR5i0031 黃帝陰符經
+*** KR5i0031 黃帝陰符經--
    :PROPERTIES:
+:KR_ID: KR5i0031
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY116
    :END:
@@ -633,8 +664,9 @@ DZJY: [[dzjy:JY116/JY116_01.txt][JY116 黃帝陰符經]]
 ****** Comments
 
 
-*** KR5i0032 黃帝陰符經
+*** KR5i0032 黃帝陰符經--
    :PROPERTIES:
+:KR_ID: KR5i0032
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY118
    :END:
@@ -652,8 +684,9 @@ DZJY: [[dzjy:JY118/JY118_01.txt][JY118 黃帝陰符經]]
 ****** Comments
 
 
-*** KR5i0033 陰符玄解
+*** KR5i0033 陰符玄解--
    :PROPERTIES:
+:KR_ID: KR5i0033
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY120
    :END:
@@ -671,8 +704,9 @@ DZJY: [[dzjy:JY120/JY120_01.txt][JY120 陰符玄解]]
 ****** Comments
 
 
-*** KR5i0034 五百靈官爵位姓氏總錄
+*** KR5i0034 五百靈官爵位姓氏總錄--
    :PROPERTIES:
+:KR_ID: KR5i0034
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY130
    :END:
@@ -690,8 +724,9 @@ DZJY: [[dzjy:JY130/JY130_01.txt][JY130 五百靈官爵位姓氏總錄]]
 ****** Comments
 
 
-*** KR5i0035 玉樞寶經
+*** KR5i0035 玉樞寶經--
    :PROPERTIES:
+:KR_ID: KR5i0035
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY131
    :END:
@@ -709,8 +744,9 @@ DZJY: [[dzjy:JY131/JY131_01.txt][JY131 玉樞寶經]]
 ****** Comments
 
 
-*** KR5i0036 南華真經註疏
+*** KR5i0036 南華真經註疏--
    :PROPERTIES:
+:KR_ID: KR5i0036
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY133
    :END:
@@ -734,8 +770,9 @@ DZJY: [[dzjy:JY133/JY133_01.txt][JY133 南華真經註疏]]
 ****** Comments
 
 
-*** KR5i0037 參同契闡幽
+*** KR5i0037 參同契闡幽--
    :PROPERTIES:
+:KR_ID: KR5i0037
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY139
    :END:
@@ -753,8 +790,9 @@ DZJY: [[dzjy:JY139/JY139_01.txt][JY139 參同契闡幽]]
 ****** Comments
 
 
-*** KR5i0038 參同契分章註
+*** KR5i0038 參同契分章註--
    :PROPERTIES:
+:KR_ID: KR5i0038
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY140
    :END:
@@ -772,8 +810,9 @@ DZJY: [[dzjy:JY140/JY140_01.txt][JY140 參同契分章註]]
 ****** Comments
 
 
-*** KR5i0039 入藥鏡
+*** KR5i0039 入藥鏡--
    :PROPERTIES:
+:KR_ID: KR5i0039
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY142
    :END:
@@ -791,8 +830,9 @@ DZJY: [[dzjy:JY142/JY142_01.txt][JY142 入藥鏡]]
 ****** Comments
 
 
-*** KR5i0040 銅符鐵券
+*** KR5i0040 銅符鐵券--
    :PROPERTIES:
+:KR_ID: KR5i0040
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY150
    :END:
@@ -817,8 +857,9 @@ DZJY: [[dzjy:JY150/JY150_01.txt][JY150 銅符鐵券]]
 ****** Comments
 
 
-*** KR5i0041 太上靈寶淨明宗教錄
+*** KR5i0041 太上靈寶淨明宗教錄--
    :PROPERTIES:
+:KR_ID: KR5i0041
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY152
    :END:
@@ -844,8 +885,9 @@ JY152_Xu* DZ0559
 ****** Comments
 
 
-*** KR5i0042 化書
+*** KR5i0042 化書--
    :PROPERTIES:
+:KR_ID: KR5i0042
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY153
    :END:
@@ -871,6 +913,7 @@ DZJY: [[dzjy:JY153/JY153_01.txt][JY153 化書]]
 
 *** KR5i0043 葛仙翁太極沖玄至道心傳
    :PROPERTIES:
+:KR_ID: KR5i0043
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY154
    :END:
@@ -888,8 +931,9 @@ DZJY: [[dzjy:JY154/JY154_01.txt][JY154 葛仙翁太極沖玄至道心傳]]
 ****** Comments
 
 
-*** KR5i0044 十六品經
+*** KR5i0044 十六品經--
    :PROPERTIES:
+:KR_ID: KR5i0044
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY159
    :END:
@@ -907,8 +951,9 @@ DZJY: [[dzjy:JY159/JY159_01.txt][JY159 十六品經]]
 ****** Comments
 
 
-*** KR5i0045 呂祖本傳
+*** KR5i0045 呂祖本傳--
    :PROPERTIES:
+:KR_ID: KR5i0045
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY160
    :END:
@@ -926,8 +971,9 @@ DZJY: [[dzjy:JY160/JY160_01.txt][JY160 呂祖本傳]]
 ****** Comments
 
 
-*** KR5i0046 金華宗旨
+*** KR5i0046 金華宗旨--
    :PROPERTIES:
+:KR_ID: KR5i0046
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY161
    :END:
@@ -945,8 +991,9 @@ DZJY: [[dzjy:JY161/JY161_01.txt][JY161 金華宗旨]]
 ****** Comments
 
 
-*** KR5i0047 同參經
+*** KR5i0047 同參經--
    :PROPERTIES:
+:KR_ID: KR5i0047
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY162
    :END:
@@ -964,8 +1011,9 @@ DZJY: [[dzjy:JY162/JY162_01.txt][JY162 同參經]]
 ****** Comments
 
 
-*** KR5i0048 五經合編
+*** KR5i0048 五經合編--
    :PROPERTIES:
+:KR_ID: KR5i0048
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY163
    :END:
@@ -983,8 +1031,9 @@ DZJY: [[dzjy:JY163/JY163_01.txt][JY163 五經合編]]
 ****** Comments
 
 
-*** KR5i0049 呂帝文集
+*** KR5i0049 呂帝文集--
    :PROPERTIES:
+:KR_ID: KR5i0049
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY164
    :END:
@@ -1002,8 +1051,9 @@ DZJY: [[dzjy:JY164/JY164_01.txt][JY164 呂帝文集]]
 ****** Comments
 
 
-*** KR5i0050 呂帝詩集
+*** KR5i0050 呂帝詩集--
    :PROPERTIES:
+:KR_ID: KR5i0050
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY165
    :END:
@@ -1021,8 +1071,9 @@ DZJY: [[dzjy:JY165/JY165_01.txt][JY165 呂帝詩集]]
 ****** Comments
 
 
-*** KR5i0051 純陽三書
+*** KR5i0051 純陽三書--
    :PROPERTIES:
+:KR_ID: KR5i0051
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY166
    :END:
@@ -1040,8 +1091,9 @@ DZJY: [[dzjy:JY166/JY166_01.txt][JY166 純陽三書]]
 ****** Comments
 
 
-*** KR5i0052 易說
+*** KR5i0052 易說--
    :PROPERTIES:
+:KR_ID: KR5i0052
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY167
    :END:
@@ -1059,8 +1111,9 @@ DZJY: [[dzjy:JY167/JY167_01.txt][JY167 易說]]
 ****** Comments
 
 
-*** KR5i0053 語錄大觀
+*** KR5i0053 語錄大觀--
    :PROPERTIES:
+:KR_ID: KR5i0053
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY168
    :END:
@@ -1086,8 +1139,9 @@ KX168_p0390_02	䶻語錄大觀
 KX168_p0390_03	孚佑上帝純陽吕祖天師著
 
 
-*** KR5i0054 微言摘要
+*** KR5i0054 微言摘要--
    :PROPERTIES:
+:KR_ID: KR5i0054
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY169
    :END:
@@ -1105,8 +1159,9 @@ DZJY: [[dzjy:JY169/JY169_01.txt][JY169 微言摘要]]
 ****** Comments
 
 
-*** KR5i0055 呂帝聖蹟紀要
+*** KR5i0055 呂帝聖蹟紀要--
    :PROPERTIES:
+:KR_ID: KR5i0055
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY170
    :END:
@@ -1124,8 +1179,9 @@ DZJY: [[dzjy:JY170/JY170_01.txt][JY170 呂帝聖蹟紀要]]
 ****** Comments
 
 
-*** KR5i0056 天仙金丹心法
+*** KR5i0056 天仙金丹心法--
    :PROPERTIES:
+:KR_ID: KR5i0056
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY171
    :END:
@@ -1143,8 +1199,9 @@ DZJY: [[dzjy:JY171/JY171_01.txt][JY171 天仙金丹心法]]
 ****** Comments
 
 
-*** KR5i0057 東園語錄
+*** KR5i0057 東園語錄--
    :PROPERTIES:
+:KR_ID: KR5i0057
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY172
    :END:
@@ -1162,8 +1219,9 @@ DZJY: [[dzjy:JY172/JY172_01.txt][JY172 東園語錄]]
 ****** Comments
 
 
-*** KR5i0058 金丹四百字
+*** KR5i0058 金丹四百字--
    :PROPERTIES:
+:KR_ID: KR5i0058
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY178
    :END:
@@ -1181,8 +1239,9 @@ DZJY: [[dzjy:JY178/JY178_01.txt][JY178 金丹四百字]]
 ****** Comments
 
 
-*** KR5i0059 悟真篇闡幽
+*** KR5i0059 悟真篇闡幽--
    :PROPERTIES:
+:KR_ID: KR5i0059
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY180
    :END:
@@ -1200,8 +1259,9 @@ DZJY: [[dzjy:JY180/JY180_01.txt][JY180 悟真篇闡幽]]
 ****** Comments
 
 
-*** KR5i0060 瓊琯白真人集
+*** KR5i0060 瓊琯白真人集--
    :PROPERTIES:
+:KR_ID: KR5i0060
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY185
    :END:
@@ -1219,8 +1279,9 @@ DZJY: [[dzjy:JY185/JY185_01.txt][JY185 瓊琯白真人集]]
 ****** Comments
 
 
-*** KR5i0061 太公陰符經
+*** KR5i0061 太公陰符經--
    :PROPERTIES:
+:KR_ID: KR5i0061
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY192
    :END:
@@ -1238,8 +1299,9 @@ DZJY: [[dzjy:JY192/JY192_01.txt][JY192 太公陰符經]]
 ****** Comments
 
 
-*** KR5i0062 五篇靈文
+*** KR5i0062 五篇靈文--
    :PROPERTIES:
+:KR_ID: KR5i0062
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY193
    :END:
@@ -1264,8 +1326,9 @@ DZJY: [[dzjy:JY193/JY193_01.txt][JY193 五篇靈文]]
 ****** Comments
 
 
-*** KR5i0063 孫不二元君法語
+*** KR5i0063 孫不二元君法語--
    :PROPERTIES:
+:KR_ID: KR5i0063
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY203
    :END:
@@ -1283,8 +1346,9 @@ DZJY: [[dzjy:JY203/JY203_01.txt][JY203 孫不二元君法語]]
 ****** Comments
 
 
-*** KR5i0064 孫不二元君傳述丹道祕書三卷
+*** KR5i0064 孫不二元君傳述丹道祕書三卷--
    :PROPERTIES:
+:KR_ID: KR5i0064
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY204
    :END:
@@ -1302,8 +1366,9 @@ DZJY: [[dzjy:JY204/JY204_01.txt][JY204 孫不二元君傳述丹道祕書三卷]]
 ****** Comments
 
 
-*** KR5i0065 金液還丹印證圖詩
+*** KR5i0065 金液還丹印證圖詩--
    :PROPERTIES:
+:KR_ID: KR5i0065
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY208
    :END:
@@ -1321,8 +1386,9 @@ DZJY: [[dzjy:JY208/JY208_01.txt][JY208 金液還丹印證圖詩]]
 ****** Comments
 
 
-*** KR5i0066 仙佛合宗語錄
+*** KR5i0066 仙佛合宗語錄--
    :PROPERTIES:
+:KR_ID: KR5i0066
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY231
    :END:
@@ -1340,8 +1406,9 @@ DZJY: [[dzjy:JY231/JY231_01.txt][JY231 仙佛合宗語錄]]
 ****** Comments
 
 
-*** KR5i0067 天仙正理直論
+*** KR5i0067 天仙正理直論--
    :PROPERTIES:
+:KR_ID: KR5i0067
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY232
    :END:
@@ -1360,8 +1427,9 @@ DZJY: [[dzjy:JY232/JY232_01.txt][JY232 天仙正理直論]]
 ****** Comments
 
 
-*** KR5i0068 天仙正理直論淺說
+*** KR5i0068 天仙正理直論淺說--
    :PROPERTIES:
+:KR_ID: KR5i0068
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY233
    :END:
@@ -1379,8 +1447,9 @@ DZJY: [[dzjy:JY233/JY233_01.txt][JY233 天仙正理直論淺說]]
 ****** Comments
 
 
-*** KR5i0069 金丹要訣
+*** KR5i0069 金丹要訣--
    :PROPERTIES:
+:KR_ID: KR5i0069
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY234
    :END:
@@ -1398,8 +1467,9 @@ DZJY: [[dzjy:JY234/JY234_01.txt][JY234 金丹要訣]]
 ****** Comments
 
 
-*** KR5i0070 伍真人丹道九篇
+*** KR5i0070 伍真人丹道九篇--
    :PROPERTIES:
+:KR_ID: KR5i0070
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY235
    :END:
@@ -1417,8 +1487,9 @@ DZJY: [[dzjy:JY235/JY235_01.txt][JY235 伍真人丹道九篇]]
 ****** Comments
 
 
-*** KR5i0071 張三丰先生全集
+*** KR5i0071 張三丰先生全集--
    :PROPERTIES:
+:KR_ID: KR5i0071
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY236
    :END:
@@ -1436,8 +1507,9 @@ DZJY: [[dzjy:JY236/JY236_01.txt][JY236 張三丰先生全集]]
 ****** Comments
 
 
-*** KR5i0072 養真集
+*** KR5i0072 養真集--
    :PROPERTIES:
+:KR_ID: KR5i0072
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY241
    :END:
@@ -1455,8 +1527,9 @@ DZJY: [[dzjy:JY241/JY241_01.txt][JY241 養真集]]
 ****** Comments
 
 
-*** KR5i0073 玉詮
+*** KR5i0073 玉詮--
    :PROPERTIES:
+:KR_ID: KR5i0073
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY243
    :END:
@@ -1474,8 +1547,9 @@ DZJY: [[dzjy:JY243/JY243_01.txt][JY243 玉詮]]
 ****** Comments
 
 
-*** KR5i0074 真詮
+*** KR5i0074 真詮--
    :PROPERTIES:
+:KR_ID: KR5i0074
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY244
    :END:
@@ -1493,8 +1567,9 @@ DZJY: [[dzjy:JY244/JY244_01.txt][JY244 真詮]]
 ****** Comments
 
 
-*** KR5i0075 心傳述證錄
+*** KR5i0075 心傳述證錄--
    :PROPERTIES:
+:KR_ID: KR5i0075
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY245
    :END:
@@ -1512,8 +1587,9 @@ DZJY: [[dzjy:JY245/JY245_01.txt][JY245 心傳述證錄]]
 ****** Comments
 
 
-*** KR5i0076 懺法大觀
+*** KR5i0076 懺法大觀--
    :PROPERTIES:
+:KR_ID: KR5i0076
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY246
    :END:
@@ -1531,8 +1607,9 @@ DZJY: [[dzjy:JY246/JY246_01.txt][JY246 懺法大觀]]
 ****** Comments
 
 
-*** KR5i0077 三寶萬靈法懺
+*** KR5i0077 三寶萬靈法懺--
    :PROPERTIES:
+:KR_ID: KR5i0077
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY247
    :END:
@@ -1550,8 +1627,9 @@ DZJY: [[dzjy:JY247/JY247_01.txt][JY247 三寶萬靈法懺]]
 ****** Comments
 
 
-*** KR5i0078 漢丞相諸葛忠武侯集
+*** KR5i0078 漢丞相諸葛忠武侯集--
    :PROPERTIES:
+:KR_ID: KR5i0078
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY249
    :END:
@@ -1569,8 +1647,9 @@ DZJY: [[dzjy:JY249/JY249_01.txt][JY249 漢丞相諸葛忠武侯集]]
 ****** Comments
 
 
-*** KR5i0079 太極圖說
+*** KR5i0079 太極圖說--
    :PROPERTIES:
+:KR_ID: KR5i0079
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY250
    :END:
@@ -1588,8 +1667,9 @@ DZJY: [[dzjy:JY250/JY250_01.txt][JY250 太極圖說]]
 ****** Comments
 
 
-*** KR5i0080 通書
+*** KR5i0080 通書--
    :PROPERTIES:
+:KR_ID: KR5i0080
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY251
    :END:
@@ -1607,8 +1687,9 @@ DZJY: [[dzjy:JY251/JY251_01.txt][JY251 通書]]
 ****** Comments
 
 
-*** KR5i0081 皇極經世書
+*** KR5i0081 皇極經世書--
    :PROPERTIES:
+:KR_ID: KR5i0081
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY252
    :END:
@@ -1626,8 +1707,9 @@ DZJY: [[dzjy:JY252/JY252_01.txt][JY252 皇極經世書]]
 ****** Comments
 
 
-*** KR5i0082 擊壤集
+*** KR5i0082 擊壤集--
    :PROPERTIES:
+:KR_ID: KR5i0082
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY253
    :END:
@@ -1648,8 +1730,9 @@ DZJY: [[dzjy:JY253/JY253_01.txt][JY253 擊壤集]]
 ****** Comments
 
 
-*** KR5i0083 文昌帝君本傳
+*** KR5i0083 文昌帝君本傳--
    :PROPERTIES:
+:KR_ID: KR5i0083
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY254
    :END:
@@ -1667,8 +1750,9 @@ DZJY: [[dzjy:JY254/JY254_01.txt][JY254 文昌帝君本傳]]
 ****** Comments
 
 
-*** KR5i0084 文帝孝經
+*** KR5i0084 文帝孝經--
    :PROPERTIES:
+:KR_ID: KR5i0084
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY256
    :END:
@@ -1686,8 +1770,9 @@ DZJY: [[dzjy:JY256/JY256_01.txt][JY256 文帝孝經]]
 ****** Comments
 
 
-*** KR5i0085 元皇大道真君救劫寶經
+*** KR5i0085 元皇大道真君救劫寶經--
    :PROPERTIES:
+:KR_ID: KR5i0085
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY257
    :END:
@@ -1705,8 +1790,9 @@ DZJY: [[dzjy:JY257/JY257_01.txt][JY257 元皇大道真君救劫寶經]]
 ****** Comments
 
 
-*** KR5i0086 文昌延嗣經
+*** KR5i0086 文昌延嗣經--
    :PROPERTIES:
+:KR_ID: KR5i0086
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY258
    :END:
@@ -1724,8 +1810,9 @@ DZJY: [[dzjy:JY258/JY258_01.txt][JY258 文昌延嗣經]]
 ****** Comments
 
 
-*** KR5i0087 陰騭文註
+*** KR5i0087 陰騭文註--
    :PROPERTIES:
+:KR_ID: KR5i0087
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY259
    :END:
@@ -1743,8 +1830,9 @@ DZJY: [[dzjy:JY259/JY259_01.txt][JY259 陰騭文註]]
 ****** Comments
 
 
-*** KR5i0088 關帝忠孝忠義經/三界伏魔關聖帝君忠孝忠義真經
+*** KR5i0088 關帝忠孝忠義經/三界伏魔關聖帝君忠孝忠義真經--
    :PROPERTIES:
+:KR_ID: KR5i0088
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY260
    :END:
@@ -1762,8 +1850,9 @@ DZJY: [[dzjy:JY260/JY260_01.txt][JY260 關帝忠孝忠義經/三界伏魔關聖�
 ****** Comments
 
 
-*** KR5i0089 關聖帝君本傳
+*** KR5i0089 關聖帝君本傳--
    :PROPERTIES:
+:KR_ID: KR5i0089
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY261
    :END:
@@ -1781,8 +1870,9 @@ DZJY: [[dzjy:JY261/JY261_01.txt][JY261 關聖帝君本傳]]
 ****** Comments
 
 
-*** KR5i0090 清微宏範道門功課
+*** KR5i0090 清微宏範道門功課--
    :PROPERTIES:
+:KR_ID: KR5i0090
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY262
    :END:
@@ -1800,8 +1890,9 @@ DZJY: [[dzjy:JY262/JY262_01.txt][JY262 清微宏範道門功課]]
 ****** Comments
 
 
-*** KR5i0091 太上玄門功課經
+*** KR5i0091 太上玄門功課經--
    :PROPERTIES:
+:KR_ID: KR5i0091
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY263
    :END:
@@ -1819,8 +1910,9 @@ DZJY: [[dzjy:JY263/JY263_01.txt][JY263 太上玄門功課經]]
 ****** Comments
 
 
-*** KR5i0092 靈寶文檢
+*** KR5i0092 靈寶文檢--
    :PROPERTIES:
+:KR_ID: KR5i0092
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY265
    :END:
@@ -1838,8 +1930,9 @@ DZJY: [[dzjy:JY265/JY265_01.txt][JY265 靈寶文檢]]
 ****** Comments
 
 
-*** KR5i0093 心香妙語
+*** KR5i0093 心香妙語--
    :PROPERTIES:
+:KR_ID: KR5i0093
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY266
    :END:
@@ -1857,8 +1950,9 @@ DZJY: [[dzjy:JY266/JY266_01.txt][JY266 心香妙語]]
 ****** Comments
 
 
-*** KR5i0094 雅宜集
+*** KR5i0094 雅宜集--
    :PROPERTIES:
+:KR_ID: KR5i0094
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY267
    :END:
@@ -1876,8 +1970,9 @@ DZJY: [[dzjy:JY267/JY267_01.txt][JY267 雅宜集]]
 ****** Comments
 
 
-*** KR5i0095 十戒功過格
+*** KR5i0095 十戒功過格--
    :PROPERTIES:
+:KR_ID: KR5i0095
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY278
    :END:
@@ -1895,8 +1990,9 @@ DZJY: [[dzjy:JY278/JY278_01.txt][JY278 十戒功過格]]
 ****** Comments
 
 
-*** KR5i0096 警世功過格
+*** KR5i0096 警世功過格--
    :PROPERTIES:
+:KR_ID: KR5i0096
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY279
    :END:
@@ -1914,8 +2010,9 @@ DZJY: [[dzjy:JY279/JY279_01.txt][JY279 警世功過格]]
 ****** Comments
 
 
-*** KR5i0097 三壇圓滿天仙大戒略說
+*** KR5i0097 三壇圓滿天仙大戒略說--
    :PROPERTIES:
+:KR_ID: KR5i0097
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY285
    :END:
@@ -1933,8 +2030,9 @@ DZJY: [[dzjy:JY285/JY285_01.txt][JY285 三壇圓滿天仙大戒略說]]
 ****** Comments
 
 
-*** KR5i0098 初真戒律
+*** KR5i0098 初真戒律--
    :PROPERTIES:
+:KR_ID: KR5i0098
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY286
    :END:
@@ -1952,8 +2050,9 @@ DZJY: [[dzjy:JY286/JY286_01.txt][JY286 初真戒律]]
 ****** Comments
 
 
-*** KR5i0099 中極戒
+*** KR5i0099 中極戒--
    :PROPERTIES:
+:KR_ID: KR5i0099
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY287
    :END:
@@ -1971,8 +2070,9 @@ DZJY: [[dzjy:JY287/JY287_01.txt][JY287 中極戒]]
 ****** Comments
 
 
-*** KR5i0100 二仙菴碑記
+*** KR5i0100 二仙菴碑記--
    :PROPERTIES:
+:KR_ID: KR5i0100
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY293
    :END:
@@ -1990,8 +2090,9 @@ DZJY: [[dzjy:JY293/JY293_01.txt][JY293 二仙菴碑記]]
 ****** Comments
 
 
-*** KR5i0101 青羊宮碑記
+*** KR5i0101 青羊宮碑記--
    :PROPERTIES:
+:KR_ID: KR5i0101
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY294
    :END:
@@ -2009,8 +2110,9 @@ DZJY: [[dzjy:JY294/JY294_01.txt][JY294 青羊宮碑記]]
 ****** Comments
 
 
-*** KR5i0102 華蓋山三仙真經
+*** KR5i0102 華蓋山三仙真經--
    :PROPERTIES:
+:KR_ID: KR5i0102
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY297
    :END:
@@ -2028,8 +2130,9 @@ DZJY: [[dzjy:JY297/JY297_01.txt][JY297 華蓋山三仙真經]]
 ****** Comments
 
 
-*** KR5i0103 青城山記
+*** KR5i0103 青城山記--
    :PROPERTIES:
+:KR_ID: KR5i0103
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY308
    :END:
@@ -2047,8 +2150,9 @@ DZJY: [[dzjy:JY308/JY308_01.txt][JY308 青城山記]]
 ****** Comments
 
 
-*** KR5i0104 太上無極大道延壽集福消切寶懺
+*** KR5i0104 太上無極大道延壽集福消切寶懺--
    :PROPERTIES:
+:KR_ID: KR5i0104
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY309
    :END:
@@ -2069,8 +2173,9 @@ DZJY: [[dzjy:JY309/JY309_01.txt][JY309 太上無極大道延壽集福消切寶�
 ****** Comments
 
 
-*** KR5i0105 天下名山記
+*** KR5i0105 天下名山記--
    :PROPERTIES:
+:KR_ID: KR5i0105
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:JY310
    :END:
@@ -2088,8 +2193,9 @@ DZJY: [[dzjy:JY310/JY310_01.txt][JY310 天下名山記]]
 ****** Comments
 
 
-*** KR5i0106 青玄濟煉鐵貫斛食
+*** KR5i0106 青玄濟煉鐵貫斛食--
    :PROPERTIES:
+:KR_ID: KR5i0106
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:EX001
    :END:
@@ -2108,8 +2214,9 @@ DZJY: [[dzjy:CK_EX01/CK_EX01.txt][CK_EX01 青玄濟煉鐵貫斛食]]
 ****** Comments
 
 
-*** KR5i0107 太上無極大道三十六部尊經 (啟請科儀)
+*** KR5i0107 (啟請科儀)--
    :PROPERTIES:
+:KR_ID: KR5i0107
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:EX002
    :END:
@@ -2131,8 +2238,9 @@ DZJY: [[dzjy:EX002/EX002.txt][CK_EX02 太上無極大道三十六部尊經 ]]
 ****** Comments
 
 
-*** KR5i0108 太上無極太道三十六部尊經註解
+*** KR5i0108 太上無極太道三十六部尊經註解--
    :PROPERTIES:
+:KR_ID: KR5i0108
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:EX003
    :END:
@@ -2156,8 +2264,9 @@ DZJY: [[dzjy:EX003/EX003.txt][EX003 太上無極太道三十六部尊經註解]]
 	
 ****** Comments
 
-*** KR5i0109 女丹合編
+*** KR5i0109 女丹合編--
    :PROPERTIES:
+:KR_ID: KR5i0109
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:EX004
    :END:
@@ -2176,8 +2285,9 @@ DZJY: [[dzjy:CK_EX04/CK_EX04.txt][CK_EX04 女丹合編]]
 ****** Comments
 
 
-*** KR5i0110 太上洞玄靈寶玉樞調元應顯尊經
+*** KR5i0110 太上洞玄靈寶玉樞調元應顯尊經--
    :PROPERTIES:
+:KR_ID: KR5i0110
    :BASEEDITION: CK-KZ
    :EXTRA_ID: DZJY:EX005
    :END:

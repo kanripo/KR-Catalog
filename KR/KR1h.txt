@@ -2,15 +2,17 @@
 #+COLUMNS: %30ITEM %15CUSTOM_ID %15EXTENT %30_RESP
 
 ** KR1h ZB1h 四書類
-*** KR1h0001 [[at:text/chant/H15-21-0080/H15-21-0080_001.txt][H15-21-0080]] 孟子(正文)
+*** KR1h0001 孟子(正文)--
     :PROPERTIES:
+:KR_ID: KR1h0001
     :CUSTOM_ID: H15-21-0080
     :SOURCE:   據清嘉慶二十年(1816)江西南昌府學重刊之宋本《孟子注疏》。
     :_RESP:    
     :END:
 
-*** KR1h0002 SB11n012 孟子
+*** KR1h0002 孟子-漢-
 :PROPERTIES:
+:KR_ID: KR1h0002
 :TYPE:  text
 :CUSTOM_ID: SB11n012
 :EXTENT: 十四卷
@@ -38,8 +40,9 @@
 [[krpimg:sbck/SB1/SB11n012/SB11n012_001-002.tif][冊 1]]
 [[krpimg:sbck/SB1/SB11n012/SB11n012_002-002.tif][冊 2]]
 [[krpimg:sbck/SB1/SB11n012/SB11n012_003-002.tif][冊 3]]
-*** KR1h0003 ZB1h0001 孟子注疏
+*** KR1h0003 孟子注疏-漢-趙岐
 :PROPERTIES:
+:KR_ID: KR1h0003
 :CUSTOM_ID:  ZB1h0001
 :SOURCE:   四庫全書 文淵閣版, V195.1, p1
 :EXTENT: 14 卷
@@ -76,15 +79,17 @@
      :FUNCTION: 撰
      :END:
 
-*** KR1h0004 [[at:text/chant/H15-21-0081/H15-21-0081_001.txt][H15-21-0081]] 論語(正文)
+*** KR1h0004 論語(正文)--
     :PROPERTIES:
+:KR_ID: KR1h0004
     :CUSTOM_ID: H15-21-0081
     :SOURCE:   據清嘉慶二十年(1816)江西南昌府學重刊之宋本《論語注疏》。
     :_RESP:    
     :END:
 
-*** KR1h0005 SB11n011 論語
+*** KR1h0005 論語-魏-
 :PROPERTIES:
+:KR_ID: KR1h0005
 :TYPE:  text
 :CUSTOM_ID: SB11n011
 :EXTENT: 十卷
@@ -110,8 +115,9 @@
 **** 电子版
 [[krpimg:sbck/SB1/SB11n011/SB11n011_001-002.tif][冊 1]]
 [[krpimg:sbck/SB1/SB11n011/SB11n011_002-002.tif][冊 2]]
-*** KR1h0006 ZB1h0002 論語集解義疏
+*** KR1h0006 論語集解義疏-魏-何晏
 :PROPERTIES:
+:KR_ID: KR1h0006
 :CUSTOM_ID:  ZB1h0002
 :SOURCE:   四庫全書 文淵閣版, V195.2, p333
 :EXTENT: 10 卷
@@ -134,8 +140,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0007 ZB1h0003 論語注疏
+*** KR1h0007 論語注疏-魏-何晏
 :PROPERTIES:
+:KR_ID: KR1h0007
 :CUSTOM_ID:  ZB1h0003
 :SOURCE:   四庫全書 文淵閣版, V195.3, p525
 :EXTENT: 20 卷
@@ -183,8 +190,9 @@
      :FUNCTION: 撰
      :END:
 
-*** KR1h0008 ZB1h0004 論語筆解
+*** KR1h0008 論語筆解-唐-韓愈
 :PROPERTIES:
+:KR_ID: KR1h0008
 :CUSTOM_ID:  ZB1h0004
 :SOURCE:   四庫全書 文淵閣版, V196.1, p1
 :EXTENT: 2 卷
@@ -207,8 +215,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0009 ZB1h0005 孟子音義
+*** KR1h0009 孟子音義-宋-孫奭
 :PROPERTIES:
+:KR_ID: KR1h0009
 :CUSTOM_ID:  ZB1h0005
 :SOURCE:   四庫全書 文淵閣版, V196.2, p29
 :EXTENT: 2 卷
@@ -225,8 +234,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0010 ZB1h0006 論語拾遺
+*** KR1h0010 論語拾遺-宋-蘇轍
 :PROPERTIES:
+:KR_ID: KR1h0010
 :CUSTOM_ID:  ZB1h0006
 :SOURCE:   四庫全書 文淵閣版, V196.3, p45
 :EXTENT: 1 卷
@@ -243,8 +253,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0011 ZB1h0007 孟子解
+*** KR1h0011 孟子解-宋-蘇轍
 :PROPERTIES:
+:KR_ID: KR1h0011
 :CUSTOM_ID:  ZB1h0007
 :SOURCE:   四庫全書 文淵閣版, V196.4, p53
 :EXTENT: 1 卷
@@ -261,8 +272,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0012 ZB1h0008 論語全解
+*** KR1h0012 論語全解-宋-陳祥道
 :PROPERTIES:
+:KR_ID: KR1h0012
 :CUSTOM_ID:  ZB1h0008
 :SOURCE:   四庫全書 文淵閣版, V196.5, p63
 :EXTENT: 10 卷
@@ -279,8 +291,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0013 ZB1h0009 孟子傳
+*** KR1h0013 孟子傳-宋-張九成
 :PROPERTIES:
+:KR_ID: KR1h0013
 :CUSTOM_ID:  ZB1h0009
 :SOURCE:   四庫全書 文淵閣版, V196.6, p229
 :EXTENT: 29 卷
@@ -297,8 +310,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0014 ZB1h0010 尊孟辨
+*** KR1h0014 尊孟辨-宋-余允文
 :PROPERTIES:
+:KR_ID: KR1h0014
 :CUSTOM_ID:  ZB1h0010
 :SOURCE:   四庫全書 文淵閣版, V196.7, p517
 :EXTENT: 3 卷
@@ -330,8 +344,9 @@
      :BOOK:   (1)
      :END:
 
-*** KR1h0015 ZB1h0011 大學
+*** KR1h0015 大學-宋-朱熹
 :PROPERTIES:
+:KR_ID: KR1h0015
 :CUSTOM_ID:  ZB1h0011
 :SOURCE:   四庫全書 文淵閣版, V197.1, p1
 :EXTENT: 19 卷
@@ -372,8 +387,9 @@
      :BOOK:   (#6)
      :END:
 
-*** KR1h0016 ZB1h0012 四書或問
+*** KR1h0016 四書或問-宋-朱熹
 :PROPERTIES:
+:KR_ID: KR1h0016
 :CUSTOM_ID:  ZB1h0012
 :SOURCE:   四庫全書 文淵閣版, V197.2, p215
 :EXTENT: 39 卷
@@ -390,8 +406,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0017 ZB1h0013 論孟精義
+*** KR1h0017 論孟精義-宋-朱熹
 :PROPERTIES:
+:KR_ID: KR1h0017
 :CUSTOM_ID:  ZB1h0013
 :SOURCE:   四庫全書 文淵閣版, V198.1, p1
 :EXTENT: 34 卷
@@ -427,8 +444,9 @@
      :BOOK:   (3)
      :END:
 
-*** KR1h0018 ZB1h0014 中庸輯略
+*** KR1h0018 中庸輯略-宋-石𡼖
 :PROPERTIES:
+:KR_ID: KR1h0018
 :CUSTOM_ID:  ZB1h0014
 :SOURCE:   四庫全書 文淵閣版, V198.2, p555
 :EXTENT: 2 卷
@@ -451,8 +469,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0019 ZB1h0015 石鼓論語答問
+*** KR1h0019 石鼓論語答問-宋-戴溪
 :PROPERTIES:
+:KR_ID: KR1h0019
 :CUSTOM_ID:  ZB1h0015
 :SOURCE:   四庫全書 文淵閣版, V199.1, p1
 :EXTENT: 3 卷
@@ -469,8 +488,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0020 ZB1h0016 論語意原
+*** KR1h0020 論語意原-宋-鄭汝諧
 :PROPERTIES:
+:KR_ID: KR1h0020
 :CUSTOM_ID:  ZB1h0016
 :SOURCE:   四庫全書 文淵閣版, V199.2, p111
 :EXTENT: 4 卷
@@ -487,8 +507,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0021 ZB1h0017 癸巳論語解
+*** KR1h0021 癸巳論語解-宋-張栻
 :PROPERTIES:
+:KR_ID: KR1h0021
 :CUSTOM_ID:  ZB1h0017
 :SOURCE:   四庫全書 文淵閣版, V199.3, p189
 :EXTENT: 10 卷
@@ -505,8 +526,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0022 ZB1h0018 癸巳孟子說
+*** KR1h0022 癸巳孟子說-宋-張栻
 :PROPERTIES:
+:KR_ID: KR1h0022
 :CUSTOM_ID:  ZB1h0018
 :SOURCE:   四庫全書 文淵閣版, V199.4, p321
 :EXTENT: 7 卷
@@ -523,8 +545,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0023 ZB1h0019 蒙齋中庸講義
+*** KR1h0023 蒙齋中庸講義-宋-袁甫
 :PROPERTIES:
+:KR_ID: KR1h0023
 :CUSTOM_ID:  ZB1h0019
 :SOURCE:   四庫全書 文淵閣版, V199.5, p553
 :EXTENT: 4 卷
@@ -541,8 +564,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0024 ZB1h0020 四書集編
+*** KR1h0024 四書集編-宋-眞德秀
 :PROPERTIES:
+:KR_ID: KR1h0024
 :CUSTOM_ID:  ZB1h0020
 :SOURCE:   四庫全書 文淵閣版, V200.1, p1
 :EXTENT: 29 卷
@@ -589,8 +613,9 @@
      :BOOK:   (4)
      :END:
 
-*** KR1h0025 ZB1h0021 孟子集疏
+*** KR1h0025 孟子集疏-宋-蔡模
 :PROPERTIES:
+:KR_ID: KR1h0025
 :CUSTOM_ID:  ZB1h0021
 :SOURCE:   四庫全書 文淵閣版, V200.2, p383
 :EXTENT: 14 卷
@@ -607,8 +632,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0026 ZB1h0022 論語集說
+*** KR1h0026 論語集說-宋-蔡節
 :PROPERTIES:
+:KR_ID: KR1h0026
 :CUSTOM_ID:  ZB1h0022
 :SOURCE:   四庫全書 文淵閣版, V200.3, p557
 :EXTENT: 10 卷
@@ -624,8 +650,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0027 ZB1h0023 中庸指歸
+*** KR1h0027 中庸指歸-宋-黎立武
 :PROPERTIES:
+:KR_ID: KR1h0027
 :CUSTOM_ID:  ZB1h0023
 :SOURCE:   四庫全書 文淵閣版, V200.4, p713
 :EXTENT: 1 卷
@@ -663,8 +690,9 @@
      :BOOK:   (1)
      :END:
 
-*** KR1h0028 ZB1h0024 四書纂疏
+*** KR1h0028 四書纂疏-宋-趙順孫
 :PROPERTIES:
+:KR_ID: KR1h0028
 :CUSTOM_ID:  ZB1h0024
 :SOURCE:   四庫全書 文淵閣版, V201.1, p1
 :EXTENT: 28 卷
@@ -704,8 +732,9 @@
      :BOOK:   (7)
      :END:
 
-*** KR1h0029 ZB1h0025 大學疏義
+*** KR1h0029 大學疏義-宋-金履祥
 :PROPERTIES:
+:KR_ID: KR1h0029
 :CUSTOM_ID:  ZB1h0025
 :SOURCE:   四庫全書 文淵閣版, V202.1, p1
 :EXTENT: 1 卷
@@ -722,8 +751,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0030 ZB1h0026 論孟集註考證
+*** KR1h0030 論孟集註考證-宋-金履祥
 :PROPERTIES:
+:KR_ID: KR1h0030
 :CUSTOM_ID:  ZB1h0026
 :SOURCE:   四庫全書 文淵閣版, V202.2, p35
 :EXTENT: 17 卷
@@ -752,8 +782,9 @@
      :BOOK:   (3)
      :END:
 
-*** KR1h0031 ZB1h0027 四書集義精要
+*** KR1h0031 四書集義精要-元-劉因
 :PROPERTIES:
+:KR_ID: KR1h0031
 :CUSTOM_ID:  ZB1h0027
 :SOURCE:   四庫全書 文淵閣版, V202.3, p149
 :EXTENT: 28 卷
@@ -770,8 +801,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0032 ZB1h0028 四書辨疑
+*** KR1h0032 四書辨疑-元-陳天祥
 :PROPERTIES:
+:KR_ID: KR1h0032
 :CUSTOM_ID:  ZB1h0028
 :SOURCE:   四庫全書 文淵閣版, V202.4, p331
 :EXTENT: 15 卷
@@ -795,8 +827,9 @@
      :BOOK:   (6)
      :END:
 
-*** KR1h0033 ZB1h0029 讀四書叢說
+*** KR1h0033 讀四書叢說-元-許謙
 :PROPERTIES:
+:KR_ID: KR1h0033
 :CUSTOM_ID:  ZB1h0029
 :SOURCE:   四庫全書 文淵閣版, V202.5, p529
 :EXTENT: 4 卷
@@ -813,8 +846,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0034 ZB1h0030 四書通
+*** KR1h0034 四書通-元-胡炳文
 :PROPERTIES:
+:KR_ID: KR1h0034
 :CUSTOM_ID:  ZB1h0030
 :SOURCE:   四庫全書 文淵閣版, V203.1, p1
 :EXTENT: 28 卷
@@ -855,8 +889,9 @@
      :BOOK:   (6)
      :END:
 
-*** KR1h0035 ZB1h0031 四書通證
+*** KR1h0035 四書通證-元-張存中
 :PROPERTIES:
+:KR_ID: KR1h0035
 :CUSTOM_ID:  ZB1h0031
 :SOURCE:   四庫全書 文淵閣版, V203.2, p637
 :EXTENT: 6 卷
@@ -896,8 +931,9 @@
      :BOOK:   (#1)
      :END:
 
-*** KR1h0036 ZB1h0032 四書疑節
+*** KR1h0036 四書疑節-元-袁俊翁
 :PROPERTIES:
+:KR_ID: KR1h0036
 :CUSTOM_ID:  ZB1h0032
 :SOURCE:   四庫全書 文淵閣版, V203.3, p745
 :EXTENT: 12 卷
@@ -913,8 +949,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0037 ZB1h0033 四書經疑貫通
+*** KR1h0037 四書經疑貫通-元-王充耘
 :PROPERTIES:
+:KR_ID: KR1h0037
 :CUSTOM_ID:  ZB1h0033
 :SOURCE:   四庫全書 文淵閣版, V203.4, p891
 :EXTENT: 8 卷
@@ -931,8 +968,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0038 ZB1h0034 四書纂箋
+*** KR1h0038 四書纂箋-元-詹道傳
 :PROPERTIES:
+:KR_ID: KR1h0038
 :CUSTOM_ID:  ZB1h0034
 :SOURCE:   四庫全書 文淵閣版, V204.1, p1
 :EXTENT: 28 卷
@@ -972,8 +1010,9 @@
      :BOOK:   (5)
      :END:
 
-*** KR1h0039 ZB1h0035 四書通旨
+*** KR1h0039 四書通旨-元-朱公遷
 :PROPERTIES:
+:KR_ID: KR1h0039
 :CUSTOM_ID:  ZB1h0035
 :SOURCE:   四庫全書 文淵閣版, V204.2, p507
 :EXTENT: 6 卷
@@ -989,8 +1028,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0040 ZB1h0036 四書管窺
+*** KR1h0040 四書管窺-元-史伯璿
 :PROPERTIES:
+:KR_ID: KR1h0040
 :CUSTOM_ID:  ZB1h0036
 :SOURCE:   四庫全書 文淵閣版, V204.3, p675
 :EXTENT: 8 卷
@@ -1006,8 +1046,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0041 ZB1h0037 大學中庸集說啟蒙
+*** KR1h0041 大學中庸集說啟蒙-元-景星
 :PROPERTIES:
+:KR_ID: KR1h0041
 :CUSTOM_ID:  ZB1h0037
 :SOURCE:   四庫全書 文淵閣版, V204.4, p961
 :EXTENT: 8 卷
@@ -1035,8 +1076,9 @@
      :BOOK:   (2)
      :END:
 
-*** KR1h0042 SB31n405 中庸說殘
+*** KR1h0042 中庸說殘-宋-張九成
 :PROPERTIES:
+:KR_ID: KR1h0042
 :EXTENT: 三卷
 :CUSTOM_ID: SB31n405
 :_RESP:    （宋）張九成
@@ -1055,8 +1097,9 @@
 :EDITION: 海鹽張氏涉園照存京都東福寺藏宋槧本
 :END:
 
-*** KR1h0043 ZB1h0038 四書大全
+*** KR1h0043 四書大全-明-胡廣
 :PROPERTIES:
+:KR_ID: KR1h0043
 :CUSTOM_ID:  ZB1h0038
 :SOURCE:   四庫全書 文淵閣版, V205.1, p1
 :EXTENT: 40 卷
@@ -1109,8 +1152,9 @@
      :BOOK:   (2)
      :END:
 
-*** KR1h0044 ZB1h0039 四書蒙引
+*** KR1h0044 四書蒙引-明-蔡清
 :PROPERTIES:
+:KR_ID: KR1h0044
 :CUSTOM_ID:  ZB1h0039
 :SOURCE:   四庫全書 文淵閣版, V206.1, p1
 :EXTENT: 15 卷
@@ -1140,8 +1184,9 @@
      :FUNCTION: 編
      :END:
 
-*** KR1h0045 ZB1h0040 四書因問
+*** KR1h0045 四書因問-明-呂柟
 :PROPERTIES:
+:KR_ID: KR1h0045
 :CUSTOM_ID:  ZB1h0040
 :SOURCE:   四庫全書 文淵閣版, V206.2, p753
 :EXTENT: 6 卷
@@ -1158,8 +1203,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0046 ZB1h0041 問辨錄
+*** KR1h0046 問辨錄-明-高拱
 :PROPERTIES:
+:KR_ID: KR1h0046
 :CUSTOM_ID:  ZB1h0041
 :SOURCE:   四庫全書 文淵閣版, V207.1, p1
 :EXTENT: 10 卷
@@ -1176,8 +1222,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0047 ZB1h0042 論語類考
+*** KR1h0047 論語類考-明-陳士元
 :PROPERTIES:
+:KR_ID: KR1h0047
 :CUSTOM_ID:  ZB1h0042
 :SOURCE:   四庫全書 文淵閣版, V207.2, p97
 :EXTENT: 20 卷
@@ -1194,8 +1241,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0048 ZB1h0043 孟子雜記
+*** KR1h0048 孟子雜記-明-陳士元
 :PROPERTIES:
+:KR_ID: KR1h0048
 :CUSTOM_ID:  ZB1h0043
 :SOURCE:   四庫全書 文淵閣版, V207.3, p289
 :EXTENT: 4 卷
@@ -1212,8 +1260,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0049 ZB1h0044 學庸正說
+*** KR1h0049 學庸正說-明-趙南星
 :PROPERTIES:
+:KR_ID: KR1h0049
 :CUSTOM_ID:  ZB1h0044
 :SOURCE:   四庫全書 文淵閣版, V207.4, p357
 :EXTENT: 3 卷
@@ -1230,8 +1279,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0050 ZB1h0045 論語商
+*** KR1h0050 論語商-明-周宗建
 :PROPERTIES:
+:KR_ID: KR1h0050
 :CUSTOM_ID:  ZB1h0045
 :SOURCE:   四庫全書 文淵閣版, V207.5, p431
 :EXTENT: 2 卷
@@ -1248,8 +1298,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0051 ZB1h0046 論語學案
+*** KR1h0051 論語學案-明-劉宗周
 :PROPERTIES:
+:KR_ID: KR1h0051
 :CUSTOM_ID:  ZB1h0046
 :SOURCE:   四庫全書 文淵閣版, V207.6, p505
 :EXTENT: 10 卷
@@ -1266,8 +1317,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0052 ZB1h0047 四書留書
+*** KR1h0052 四書留書-明-章世純
 :PROPERTIES:
+:KR_ID: KR1h0052
 :CUSTOM_ID:  ZB1h0047
 :SOURCE:   四庫全書 文淵閣版, V207.7, p709
 :EXTENT: 6 卷
@@ -1283,8 +1335,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0053 ZB1h0048 日講四書解義
+*** KR1h0053 日講四書解義-清-喇沙里
 :PROPERTIES:
+:KR_ID: KR1h0053
 :CUSTOM_ID:  ZB1h0048
 :SOURCE:   四庫全書 文淵閣版, V208.1, p1
 :EXTENT: 26 卷
@@ -1300,8 +1353,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0054 ZB1h0049 四書近指
+*** KR1h0054 四書近指-清-孫奇逢
 :PROPERTIES:
+:KR_ID: KR1h0054
 :CUSTOM_ID:  ZB1h0049
 :SOURCE:   四庫全書 文淵閣版, V208.2, p649
 :EXTENT: 20 卷
@@ -1318,8 +1372,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0055 ZB1h0050 孟子師說
+*** KR1h0055 孟子師說-清-黃宗義
 :PROPERTIES:
+:KR_ID: KR1h0055
 :CUSTOM_ID:  ZB1h0050
 :SOURCE:   四庫全書 文淵閣版, V208.3, p831
 :EXTENT: 2 卷
@@ -1336,8 +1391,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0056 ZB1h0051 大學翼眞
+*** KR1h0056 大學翼眞-清-胡渭
 :PROPERTIES:
+:KR_ID: KR1h0056
 :CUSTOM_ID:  ZB1h0051
 :SOURCE:   四庫全書 文淵閣版, V208.4, p905
 :EXTENT: 7 卷
@@ -1354,8 +1410,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0057 ZB1h0052 四書講義困勉錄
+*** KR1h0057 四書講義困勉錄-清-陸隴其
 :PROPERTIES:
+:KR_ID: KR1h0057
 :CUSTOM_ID:  ZB1h0052
 :SOURCE:   四庫全書 文淵閣版, V209.1, p1
 :EXTENT: 37 卷
@@ -1372,8 +1429,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0058 ZB1h0053 松陽講義
+*** KR1h0058 松陽講義-清-陸隴其
 :PROPERTIES:
+:KR_ID: KR1h0058
 :CUSTOM_ID:  ZB1h0053
 :SOURCE:   四庫全書 文淵閣版, V209.2, p839
 :EXTENT: 12 卷
@@ -1390,8 +1448,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0059 ZB1h0054 榕村四書說
+*** KR1h0059 榕村四書說-清-李光地
 :PROPERTIES:
+:KR_ID: KR1h0059
 :CUSTOM_ID:  ZB1h0054
 :SOURCE:   四庫全書 文淵閣版, V210.1, p1
 :EXTENT: 7 卷
@@ -1438,8 +1497,9 @@
      :BOOK:   (1)
      :END:
 
-*** KR1h0060 ZB1h0055 論語稽求篇
+*** KR1h0060 論語稽求篇-清-毛奇齡
 :PROPERTIES:
+:KR_ID: KR1h0060
 :CUSTOM_ID:  ZB1h0055
 :SOURCE:   四庫全書 文淵閣版, V210.2, p133
 :EXTENT: 7 卷
@@ -1456,8 +1516,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0061 ZB1h0056 四書賸言
+*** KR1h0061 四書賸言-清-毛奇齡
 :PROPERTIES:
+:KR_ID: KR1h0061
 :CUSTOM_ID:  ZB1h0056
 :SOURCE:   四庫全書 文淵閣版, V210.3, p207
 :EXTENT: 4 卷
@@ -1487,8 +1548,9 @@
      :FUNCTION: 編
      :END:
 
-*** KR1h0062 ZB1h0057 大學證文
+*** KR1h0062 大學證文-清-毛奇齡
 :PROPERTIES:
+:KR_ID: KR1h0062
 :CUSTOM_ID:  ZB1h0057
 :SOURCE:   四庫全書 文淵閣版, V210.4, p277
 :EXTENT: 4 卷
@@ -1505,8 +1567,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0063 ZB1h0058 四書釋地
+*** KR1h0063 四書釋地-清-閻若璩
 :PROPERTIES:
+:KR_ID: KR1h0063
 :CUSTOM_ID:  ZB1h0058
 :SOURCE:   四庫全書 文淵閣版, V210.5, p315
 :EXTENT: 1 卷
@@ -1544,8 +1607,9 @@
      :BOOK:   (5)
      :END:
 
-*** KR1h0064 ZB1h0059 四書劄記
+*** KR1h0064 四書劄記-清-楊名時
 :PROPERTIES:
+:KR_ID: KR1h0064
 :CUSTOM_ID:  ZB1h0059
 :SOURCE:   四庫全書 文淵閣版, V210.6, p483
 :EXTENT: 4 卷
@@ -1562,8 +1626,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0065 ZB1h0060 此木軒四書說
+*** KR1h0065 此木軒四書說-清-焦袁熹
 :PROPERTIES:
+:KR_ID: KR1h0065
 :CUSTOM_ID:  ZB1h0060
 :SOURCE:   四庫全書 文淵閣版, V210.7, p521
 :EXTENT: 9 卷
@@ -1580,8 +1645,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0066 ZB1h0061 四書逸箋
+*** KR1h0066 四書逸箋-清-程大中
 :PROPERTIES:
+:KR_ID: KR1h0066
 :CUSTOM_ID:  ZB1h0061
 :SOURCE:   四庫全書 文淵閣版, V210.8, p657
 :EXTENT: 6 卷
@@ -1598,8 +1664,9 @@
 
 **** 版本
 ***** WYG
-*** KR1h0067 ZB1h0062 鄉黨圖考
+*** KR1h0067 鄉黨圖考-清-江永
 :PROPERTIES:
+:KR_ID: KR1h0067
 :CUSTOM_ID:  ZB1h0062
 :SOURCE:   四庫全書 文淵閣版, V210.9, p713
 :EXTENT: 10 卷

@@ -1,8 +1,9 @@
 #-*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID
 ** KR2o ZB2o 史評類
-*** KR2o0001 [[mandoku:ZB2o0001.org][ZB2o0001]] 史通
+*** KR2o0001 史通-唐-劉知幾
 :PROPERTIES:
+:KR_ID: KR2o0001
 :CUSTOM_ID:  ZB2o0001
 :SOURCE:   四庫全書 文淵閣版, V685.1, p1
 :EXTENT: 20 卷
@@ -18,8 +19,9 @@
 
 **** 版本
 ***** WYG
-*** KR2o0002 [[mandoku:ZB2o0002.org][ZB2o0002]] 史通通釋
+*** KR2o0002 史通通釋-清-浦起龍
 :PROPERTIES:
+:KR_ID: KR2o0002
 :CUSTOM_ID:  ZB2o0002
 :SOURCE:   四庫全書 文淵閣版, V685.2, p157
 :EXTENT: 20 卷
@@ -42,8 +44,9 @@
       :BOOK:   (10)
       :END:
 
-*** KR2o0003 [[mandoku:ZB2o0003.org][ZB2o0003]] 唐鑑
+*** KR2o0003 唐鑑-宋-范祖禹
 :PROPERTIES:
+:KR_ID: KR2o0003
 :CUSTOM_ID:  ZB2o0003
 :SOURCE:   四庫全書 文淵閣版, V685.3, p469
 :EXTENT: 24 卷
@@ -65,8 +68,9 @@
 
 **** 版本
 ***** WYG
-*** KR2o0004 [[mandoku:ZB2o0004.org][ZB2o0004]] 唐史論斷
+*** KR2o0004 唐史論斷-宋-孫甫
 :PROPERTIES:
+:KR_ID: KR2o0004
 :CUSTOM_ID:  ZB2o0004
 :SOURCE:   四庫全書 文淵閣版, V685.4, p639
 :EXTENT: 3 卷
@@ -89,8 +93,9 @@
       :BOOK:   (3)
       :END:
 
-*** KR2o0005 [[mandoku:ZB2o0005.org][ZB2o0005]] 唐書直筆
+*** KR2o0005 唐書直筆-宋-呂夏卿
 :PROPERTIES:
+:KR_ID: KR2o0005
 :CUSTOM_ID:  ZB2o0005
 :SOURCE:   四庫全書 文淵閣版, V685.5, p703
 :EXTENT: 4 卷
@@ -107,8 +112,9 @@
 
 **** 版本
 ***** WYG
-*** KR2o0006 [[mandoku:ZB2o0006.org][ZB2o0006]] 通鑑問疑
+*** KR2o0006 通鑑問疑-宋-劉羲仲
 :PROPERTIES:
+:KR_ID: KR2o0006
 :CUSTOM_ID:  ZB2o0006
 :SOURCE:   四庫全書 文淵閣版, V686.1, p1
 :EXTENT: 1 卷
@@ -123,8 +129,9 @@
 
 **** 版本
 ***** WYG
-*** KR2o0007 [[mandoku:ZB2o0007.org][ZB2o0007]] 三國雜事
+*** KR2o0007 三國雜事-宋-唐庚
 :PROPERTIES:
+:KR_ID: KR2o0007
 :CUSTOM_ID:  ZB2o0007
 :SOURCE:   四庫全書 文淵閣版, V686.2, p13
 :EXTENT: 2 卷
@@ -140,8 +147,9 @@
 
 **** 版本
 ***** WYG
-*** KR2o0008 [[mandoku:ZB2o0008.org][ZB2o0008]] 經幄管見
+*** KR2o0008 經幄管見-宋-曹彥約
 :PROPERTIES:
+:KR_ID: KR2o0008
 :CUSTOM_ID:  ZB2o0008
 :SOURCE:   四庫全書 文淵閣版, V686.3, p29
 :EXTENT: 4 卷
@@ -157,8 +165,9 @@
 
 **** 版本
 ***** WYG
-*** KR2o0009 [[mandoku:ZB2o0009.org][ZB2o0009]] 涉史隨筆
+*** KR2o0009 涉史隨筆-宋-葛洪
 :PROPERTIES:
+:KR_ID: KR2o0009
 :CUSTOM_ID:  ZB2o0009
 :SOURCE:   四庫全書 文淵閣版, V686.4, p75
 :EXTENT: 1 卷
@@ -174,8 +183,9 @@
 
 **** 版本
 ***** WYG
-*** KR2o0010 [[mandoku:ZB2o0010.org][ZB2o0010]] 六朝通鑑博議
+*** KR2o0010 六朝通鑑博議-宋-李燾
 :PROPERTIES:
+:KR_ID: KR2o0010
 :CUSTOM_ID:  ZB2o0010
 :SOURCE:   四庫全書 文淵閣版, V686.5, p95
 :EXTENT: 10 卷
@@ -191,8 +201,9 @@
 
 **** 版本
 ***** WYG
-*** KR2o0011 [[mandoku:ZB2o0011.org][ZB2o0011]] 宋大事記講義
+*** KR2o0011 宋大事記講義-宋-呂中
 :PROPERTIES:
+:KR_ID: KR2o0011
 :CUSTOM_ID:  ZB2o0011
 :SOURCE:   四庫全書 文淵閣版, V686.6, p185
 :EXTENT: 23 卷
@@ -207,8 +218,9 @@
 
 **** 版本
 ***** WYG
-*** KR2o0012 [[mandoku:ZB2o0012.org][ZB2o0012]] 兩漢筆記
+*** KR2o0012 兩漢筆記-宋-錢時
 :PROPERTIES:
+:KR_ID: KR2o0012
 :CUSTOM_ID:  ZB2o0012
 :SOURCE:   四庫全書 文淵閣版, V686.7, p413
 :EXTENT: 12 卷
@@ -223,8 +235,9 @@
 
 **** 版本
 ***** WYG
-*** KR2o0013 [[mandoku:ZB2o0013.org][ZB2o0013]] 舊聞證誤
+*** KR2o0013 舊聞證誤-宋-李心傳
 :PROPERTIES:
+:KR_ID: KR2o0013
 :CUSTOM_ID:  ZB2o0013
 :SOURCE:   四庫全書 文淵閣版, V686.8, p571
 :EXTENT: 4 卷
@@ -240,8 +253,9 @@
 
 **** 版本
 ***** WYG
-*** KR2o0014 [[mandoku:ZB2o0014.org][ZB2o0014]] 通鑑答問
+*** KR2o0014 通鑑答問-宋-王應麟
 :PROPERTIES:
+:KR_ID: KR2o0014
 :CUSTOM_ID:  ZB2o0014
 :SOURCE:   四庫全書 文淵閣版, V686.9, p617
 :EXTENT: 5 卷
@@ -257,8 +271,9 @@
 
 **** 版本
 ***** WYG
-*** KR2o0015 [[mandoku:ZB2o0015.org][ZB2o0015]] 歷代名賢確論
+*** KR2o0015 歷代名賢確論-宋-闕名
 :PROPERTIES:
+:KR_ID: KR2o0015
 :CUSTOM_ID:  ZB2o0015
 :SOURCE:   四庫全書 文淵閣版, V687.1, p1
 :EXTENT: 100 卷
@@ -273,8 +288,9 @@
 
 **** 版本
 ***** WYG
-*** KR2o0016 [[mandoku:ZB2o0016.org][ZB2o0016]] 歷代通略
+*** KR2o0016 歷代通略-元-陳櫟
 :PROPERTIES:
+:KR_ID: KR2o0016
 :CUSTOM_ID:  ZB2o0016
 :SOURCE:   四庫全書 文淵閣版, V688.1, p1
 :EXTENT: 4 卷
@@ -297,8 +313,9 @@
       :BOOK:   (4)
       :END:
 
-*** KR2o0017 [[mandoku:ZB2o0017.org][ZB2o0017]] 十七史纂古今通要
+*** KR2o0017 十七史纂古今通要-元-胡一桂
 :PROPERTIES:
+:KR_ID: KR2o0017
 :CUSTOM_ID:  ZB2o0017
 :SOURCE:   四庫全書 文淵閣版, V688.2, p111
 :EXTENT: 17 卷
@@ -313,8 +330,9 @@
 
 **** 版本
 ***** WYG
-*** KR2o0018 [[mandoku:ZB2o0018.org][ZB2o0018]] 學史
+*** KR2o0018 學史-明-邵寶
 :PROPERTIES:
+:KR_ID: KR2o0018
 :CUSTOM_ID:  ZB2o0018
 :SOURCE:   四庫全書 文淵閣版, V688.3, p337
 :EXTENT: 13 卷
@@ -330,8 +348,9 @@
 
 **** 版本
 ***** WYG
-*** KR2o0019 [[mandoku:ZB2o0019.org][ZB2o0019]] 史糾
+*** KR2o0019 史糾-明-朱明鎬
 :PROPERTIES:
+:KR_ID: KR2o0019
 :CUSTOM_ID:  ZB2o0019
 :SOURCE:   四庫全書 文淵閣版, V688.4, p451
 :EXTENT: 6 卷
@@ -347,8 +366,9 @@
 
 **** 版本
 ***** WYG
-*** KR2o0020 [[mandoku:ZB2o0020.org][ZB2o0020]] 御批資治通鑑綱目
+*** KR2o0020 御批資治通鑑綱目-宋-朱熹
 :PROPERTIES:
+:KR_ID: KR2o0020
 :CUSTOM_ID:  ZB2o0020
 :SOURCE:   四庫全書 文淵閣版, V689.1, p1 - V691.1
 :EXTENT: 59 卷
@@ -377,8 +397,9 @@
       :BOOK:   (66)
       :END:
 
-*** KR2o0021 [[mandoku:ZB2o0021.org][ZB2o0021]] 御批資治通鑑綱目前編
+*** KR2o0021 御批資治通鑑綱目前編-元-金履祥
 :PROPERTIES:
+:KR_ID: KR2o0021
 :CUSTOM_ID:  ZB2o0021
 :SOURCE:   四庫全書 文淵閣版, V692.1, p1
 :EXTENT: 18 卷
@@ -407,15 +428,16 @@
       :BOOK:   (16)
       :END:
 
-**** [[mandoku:ZB2o0021a.org][ZB2o0021a]] 舉要
+**** 舉要
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 3 卷
       :BOOK:   (16)
       :END:
 
-*** KR2o0022 [[mandoku:ZB2o0022.org][ZB2o0022]] 御批續資治通鑑綱目
+*** KR2o0022 御批續資治通鑑綱目-明-商輅
 :PROPERTIES:
+:KR_ID: KR2o0022
 :CUSTOM_ID:  ZB2o0022
 :SOURCE:   四庫全書 文淵閣版, V693.1, p1 - V694.1
 :EXTENT: 27 卷
@@ -449,8 +471,9 @@
 
 **** 版本
 ***** WYG
-*** KR2o0023 [[mandoku:ZB2o0023.org][ZB2o0023]] 評鑑闡要
+*** KR2o0023 評鑑闡要-清-高宗弘曆
 :PROPERTIES:
+:KR_ID: KR2o0023
 :CUSTOM_ID:  ZB2o0023
 :SOURCE:   四庫全書 文淵閣版, V694.2, p417
 :EXTENT: 12 卷
@@ -472,8 +495,9 @@
 
 **** 版本
 ***** WYG
-*** KR2o0024 [[mandoku:ZB2o0024.org][ZB2o0024]] 欽定古今儲貳金鑑
+*** KR2o0024 欽定古今儲貳金鑑-清-高宗弘曆
 :PROPERTIES:
+:KR_ID: KR2o0024
 :CUSTOM_ID:  ZB2o0024
 :SOURCE:   四庫全書 文淵閣版, V694.3, p583
 :EXTENT: 6 卷

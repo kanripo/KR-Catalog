@@ -1,13 +1,15 @@
-#-*- mode: org; -*-
+# -*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID %15EXTENT %30_RESP
 ** KR1d ZB1d 禮類
-*** KR1d0001 [[at:text/chant/H15-26-0092/H15-26-0092_001.txt][H15-26-0092]] 周禮(正文)
+*** KR1d0001 周禮(正文)--
     :PROPERTIES:
+:KR_ID: KR1d0001
     :_RESP:    
     :CUSTOM_ID: H15-26-0092
     :END:
-*** KR1d0002 SB11n004 周禮
+*** KR1d0002 周禮-漢-
 :PROPERTIES:
+:KR_ID: KR1d0002
 :TYPE:  text
 :CUSTOM_ID: SB11n004
 :EXTENT: 十二卷
@@ -44,8 +46,9 @@
 [[krpimg:sbck/SB1/SB11n004/SB11n004_005-002.tif][冊 5]]
 [[krpimg:sbck/SB1/SB11n004/SB11n004_006-002.tif][冊 6]]
 
-*** KR1d0003 [[mandoku:ZB1d0001.org][ZB1d0001]] 周禮注疏
+*** KR1d0003 周禮注疏-漢-鄭玄
 :PROPERTIES:
+:KR_ID: KR1d0003
 :CUSTOM_ID:  ZB1d0001
 :SOURCE:   四庫全書 文淵閣版, V90.1, p1
 :EXTENT: 42 卷
@@ -87,8 +90,9 @@
      :FUNCTION: 撰
      :END:
 
-*** KR1d0004 [[mandoku:ZB1d0002.org][ZB1d0002]] 周官新義
+*** KR1d0004 周官新義-宋-王安石
 :PROPERTIES:
+:KR_ID: KR1d0004
 :CUSTOM_ID:  ZB1d0002
 :SOURCE:   四庫全書 文淵閣版, V91.1, p1
 :EXTENT: 16 卷
@@ -124,8 +128,9 @@
      :FUNCTION: 輯
      :END:
 
-*** KR1d0005 [[mandoku:ZB1d0003.org][ZB1d0003]] 周禮詳解
+*** KR1d0005 周禮詳解-宋-王昭禹
 :PROPERTIES:
+:KR_ID: KR1d0005
 :CUSTOM_ID:  ZB1d0003
 :SOURCE:   四庫全書 文淵閣版, V91.2, p197
 :EXTENT: 40 卷
@@ -141,8 +146,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0006 [[mandoku:ZB1d0004.org][ZB1d0004]] 周禮復古編
+*** KR1d0006 周禮復古編-宋-兪庭椿
 :PROPERTIES:
+:KR_ID: KR1d0006
 :CUSTOM_ID:  ZB1d0004
 :SOURCE:   四庫全書 文淵閣版, V91.3, p603
 :EXTENT: 1 卷
@@ -158,8 +164,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0007 [[mandoku:ZB1d0005.org][ZB1d0005]] 禮經會元
+*** KR1d0007 禮經會元-宋-葉時
 :PROPERTIES:
+:KR_ID: KR1d0007
 :CUSTOM_ID:  ZB1d0005
 :SOURCE:   四庫全書 文淵閣版, V92.1, p1
 :EXTENT: 4 卷
@@ -176,8 +183,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0008 [[mandoku:ZB1d0006.org][ZB1d0006]] 太平經國書
+*** KR1d0008 太平經國書-宋-鄭伯謙
 :PROPERTIES:
+:KR_ID: KR1d0008
 :CUSTOM_ID:  ZB1d0006
 :SOURCE:   四庫全書 文淵閣版, V92.2, p185
 :EXTENT: 11 卷
@@ -194,8 +202,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0009 [[mandoku:ZB1d0007.org][ZB1d0007]] 周官總義
+*** KR1d0009 周官總義-宋-易祓
 :PROPERTIES:
+:KR_ID: KR1d0009
 :CUSTOM_ID:  ZB1d0007
 :SOURCE:   四庫全書 文淵閣版, V92.3, p261
 :EXTENT: 30 卷
@@ -211,8 +220,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0010 [[mandoku:ZB1d0008.org][ZB1d0008]] 周禮訂義
+*** KR1d0010 周禮訂義-宋-王與之
 :PROPERTIES:
+:KR_ID: KR1d0010
 :CUSTOM_ID:  ZB1d0008
 :SOURCE:   四庫全書 文淵閣版, V93.1, p1 - V94.1
 :EXTENT: 80 卷
@@ -228,8 +238,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0011 [[mandoku:ZB1d0009.org][ZB1d0009]] 鬳齋考工記解
+*** KR1d0011 鬳齋考工記解-宋-林希逸
 :PROPERTIES:
+:KR_ID: KR1d0011
 :CUSTOM_ID:  ZB1d0009
 :SOURCE:   四庫全書 文淵閣版, V95.1, p1
 :EXTENT: 2 卷
@@ -246,8 +257,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0012 [[mandoku:ZB1d0010.org][ZB1d0010]] 周禮句解
+*** KR1d0012 周禮句解-宋-朱申
 :PROPERTIES:
+:KR_ID: KR1d0012
 :CUSTOM_ID:  ZB1d0010
 :SOURCE:   四庫全書 文淵閣版, V95.2, p105
 :EXTENT: 12 卷
@@ -263,8 +275,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0013 [[mandoku:ZB1d0011.org][ZB1d0011]] 周禮集說
+*** KR1d0013 周禮集說-宋-闕名
 :PROPERTIES:
+:KR_ID: KR1d0013
 :CUSTOM_ID:  ZB1d0011
 :SOURCE:   四庫全書 文淵閣版, V95.3, p251
 :EXTENT: 10 卷
@@ -292,8 +305,9 @@
      :BOOK:   (12)
      :END:
 
-*** KR1d0014 [[mandoku:ZB1d0012.org][ZB1d0012]] 周官集傳
+*** KR1d0014 周官集傳-元-毛應龍
 :PROPERTIES:
+:KR_ID: KR1d0014
 :CUSTOM_ID:  ZB1d0012
 :SOURCE:   四庫全書 文淵閣版, V95.4, p761
 :EXTENT: 16 卷
@@ -309,8 +323,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0015 [[mandoku:ZB1d0013.org][ZB1d0013]] 周禮傳
+*** KR1d0015 周禮傳-明-王應電
 :PROPERTIES:
+:KR_ID: KR1d0015
 :CUSTOM_ID:  ZB1d0013
 :SOURCE:   四庫全書 文淵閣版, V96.1, p1
 :EXTENT: 10 卷
@@ -326,23 +341,24 @@
 
 **** 版本
 ***** WYG
-**** [[mandoku:ZB1d0013a.org][ZB1d0013a]] 周禮圖說
+**** 周禮圖說
      :PROPERTIES:
      :TYPE:   appendix
      :EXTENT: 2 卷
      :BOOK:   (12)
      :END:
 
-**** [[mandoku:ZB1d0013b.org][ZB1d0013b]] 周禮翼傳
+**** 周禮翼傳
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 2 卷
       :BOOK:   (12)
       :END:
 
-# *** [[mandoku:ZB1d0013c.org][ZB1d0013c]] 周禮之屬
-*** KR1d0016 [[mandoku:ZB1d0014.org][ZB1d0014]] 周禮全經釋原
+# *** 周禮之屬
+*** KR1d0016 周禮全經釋原-明-柯尚遷
 :PROPERTIES:
+:KR_ID: KR1d0016
 :CUSTOM_ID:  ZB1d0014
 :SOURCE:   四庫全書 文淵閣版, V96.2, p483
 :EXTENT: 13 卷
@@ -372,8 +388,9 @@
      :BOOK:   (12)
      :END:
 
-*** KR1d0017 [[mandoku:ZB1d0015.org][ZB1d0015]] 周禮註疏刪翼
+*** KR1d0017 周禮註疏刪翼-明-王志長
 :PROPERTIES:
+:KR_ID: KR1d0017
 :CUSTOM_ID:  ZB1d0015
 :SOURCE:   四庫全書 文淵閣版, V97.1, p1
 :EXTENT: 30 卷
@@ -389,8 +406,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0018 [[mandoku:ZB1d0016.org][ZB1d0016]] 欽定周官義疏
+*** KR1d0018 欽定周官義疏-清-高宗弘曆
 :PROPERTIES:
+:KR_ID: KR1d0018
 :CUSTOM_ID:  ZB1d0016
 :SOURCE:   四庫全書 文淵閣版, V98.1, p1 - V99.1
 :EXTENT: 48 卷
@@ -415,10 +433,11 @@
       :BOOK:   (34)
       :END:
 
-# *** [[mandoku:ZB1d0016a.org][ZB1d0016a]] 周禮之屬
-# *** [[mandoku:ZB1d0016b.org][ZB1d0016b]] 欽定周官義疏
-*** KR1d0019 [[mandoku:ZB1d0017.org][ZB1d0017]] 周禮述註
+# *** 周禮之屬
+# *** 欽定周官義疏
+*** KR1d0019 周禮述註-清-李光坡
 :PROPERTIES:
+:KR_ID: KR1d0019
 :CUSTOM_ID:  ZB1d0017
 :SOURCE:   四庫全書 文淵閣版, V100.1, p1
 :EXTENT: 24 卷
@@ -435,8 +454,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0020 [[mandoku:ZB1d0018.org][ZB1d0018]] 周禮纂訓
+*** KR1d0020 周禮纂訓-清-李鍾倫
 :PROPERTIES:
+:KR_ID: KR1d0020
 :CUSTOM_ID:  ZB1d0018
 :SOURCE:   四庫全書 文淵閣版, V100.2, p541
 :EXTENT: 21 卷
@@ -453,8 +473,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0021 [[mandoku:ZB1d0019.org][ZB1d0019]] 周官集注
+*** KR1d0021 周官集注-清-方苞
 :PROPERTIES:
+:KR_ID: KR1d0021
 :CUSTOM_ID:  ZB1d0019
 :SOURCE:   四庫全書 文淵閣版, V101.1, p1
 :EXTENT: 12 卷
@@ -471,8 +492,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0022 [[mandoku:ZB1d0020.org][ZB1d0020]] 禮說
+*** KR1d0022 禮說-清-惠士奇
 :PROPERTIES:
+:KR_ID: KR1d0022
 :CUSTOM_ID:  ZB1d0020
 :SOURCE:   四庫全書 文淵閣版, V101.2, p387
 :EXTENT: 14 卷
@@ -489,8 +511,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0023 [[mandoku:ZB1d0021.org][ZB1d0021]] 周官祿田考
+*** KR1d0023 周官祿田考-清-沈彤
 :PROPERTIES:
+:KR_ID: KR1d0023
 :CUSTOM_ID:  ZB1d0021
 :SOURCE:   四庫全書 文淵閣版, V101.3, p665
 :EXTENT: 3 卷
@@ -507,8 +530,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0024 [[mandoku:ZB1d0022.org][ZB1d0022]] 周禮疑義擧要
+*** KR1d0024 周禮疑義擧要-清-江永
 :PROPERTIES:
+:KR_ID: KR1d0024
 :CUSTOM_ID:  ZB1d0022
 :SOURCE:   四庫全書 文淵閣版, V101.4, p715
 :EXTENT: 7 卷
@@ -525,14 +549,16 @@
 
 **** 版本
 ***** WYG
-*** KR1d0025 [[at:text/chant/H15-26-0091/H15-26-0091_001.txt][H15-26-0091]] 儀禮(正文)
+*** KR1d0025 儀禮(正文)--
     :PROPERTIES:
+:KR_ID: KR1d0025
     :_RESP:    
     :CUSTOM_ID: H15-26-0091
     :SOURCE: 正文據清嘉慶二十年(1816)江西南昌府學重刊之宋本《儀禮注疏》。
     :END:
-*** KR1d0026 SB11n005 儀禮
+*** KR1d0026 儀禮-漢-
 :PROPERTIES:
+:KR_ID: KR1d0026
 :TYPE:  text
 :CUSTOM_ID: SB11n005
 :EXTENT: 十七卷
@@ -562,8 +588,9 @@
 [[krpimg:sbck/SB1/SB11n005/SB11n005_004-002.tif][冊 4]]
 [[krpimg:sbck/SB1/SB11n005/SB11n005_005-002.tif][冊 5]]
 
-*** KR1d0027 SB21n324 儀禮疏
+*** KR1d0027 儀禮疏-唐-賈公彥
 :PROPERTIES:
+:KR_ID: KR1d0027
 :EXTENT: 五十卷
 :_RESP:    （唐）賈公彥
 :CUSTOM_ID: SB21n324
@@ -582,8 +609,9 @@
 :EDITION: 汪閬原覆宋景刊本
 :END:
 
-*** KR1d0028 [[mandoku:ZB1d0023.org][ZB1d0023]] 儀禮注疏
+*** KR1d0028 儀禮注疏-漢-鄭玄
 :PROPERTIES:
+:KR_ID: KR1d0028
 :CUSTOM_ID:  ZB1d0023
 :SOURCE:   四庫全書 文淵閣版, V102.1, p1
 :EXTENT: 17 卷
@@ -640,8 +668,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0029 [[mandoku:ZB1d0024.org][ZB1d0024]] 儀禮識誤
+*** KR1d0029 儀禮識誤-宋-張淳
 :PROPERTIES:
+:KR_ID: KR1d0029
 :CUSTOM_ID:  ZB1d0024
 :SOURCE:   四庫全書 文淵閣版, V103.1, p1
 :EXTENT: 3 卷
@@ -658,8 +687,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0030 [[mandoku:ZB1d0025.org][ZB1d0025]] 儀禮集釋
+*** KR1d0030 儀禮集釋-宋-李如圭
 :PROPERTIES:
+:KR_ID: KR1d0030
 :CUSTOM_ID:  ZB1d0025
 :SOURCE:   四庫全書 文淵閣版, V103.2, p31
 :EXTENT: 30 卷
@@ -676,8 +706,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0031 [[mandoku:ZB1d0026.org][ZB1d0026]] 儀禮釋宮
+*** KR1d0031 儀禮釋宮-宋-李如圭
 :PROPERTIES:
+:KR_ID: KR1d0031
 :CUSTOM_ID:  ZB1d0026
 :SOURCE:   四庫全書 文淵閣版, V103.3, p521
 :EXTENT: 1 卷
@@ -694,8 +725,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0032 [[mandoku:ZB1d0027.org][ZB1d0027]] 儀禮圖
+*** KR1d0032 儀禮圖-宋-楊復
 :PROPERTIES:
+:KR_ID: KR1d0032
 :CUSTOM_ID:  ZB1d0027
 :SOURCE:   四庫全書 文淵閣版, V104.1, p1
 :EXTENT: 17 卷
@@ -719,8 +751,9 @@
      :BOOK:   (12)
      :END:
 
-*** KR1d0033 [[mandoku:ZB1d0028.org][ZB1d0028]] 儀禮要義
+*** KR1d0033 儀禮要義-宋-魏了翁
 :PROPERTIES:
+:KR_ID: KR1d0033
 :CUSTOM_ID:  ZB1d0028
 :SOURCE:   四庫全書 文淵閣版, V104.2, p341
 :EXTENT: 50 卷
@@ -737,8 +770,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0034 [[mandoku:ZB1d0029.org][ZB1d0029]] 儀禮逸經
+*** KR1d0034 儀禮逸經-元-吳澄
 :PROPERTIES:
+:KR_ID: KR1d0034
 :CUSTOM_ID:  ZB1d0029
 :SOURCE:   四庫全書 文淵閣版, V105.1, p1
 :EXTENT: 2 卷
@@ -755,8 +789,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0035 [[mandoku:ZB1d0030.org][ZB1d0030]] 儀禮集說
+*** KR1d0035 儀禮集說-元-敖繼公
 :PROPERTIES:
+:KR_ID: KR1d0035
 :CUSTOM_ID:  ZB1d0030
 :SOURCE:   四庫全書 文淵閣版, V105.2, p33
 :EXTENT: 17 卷
@@ -772,8 +807,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0036 [[mandoku:ZB1d0031.org][ZB1d0031]] 經禮補逸
+*** KR1d0036 經禮補逸-元-汪克寬
 :PROPERTIES:
+:KR_ID: KR1d0036
 :CUSTOM_ID:  ZB1d0031
 :SOURCE:   四庫全書 文淵閣版, V105.3, p635
 :EXTENT: 9 卷
@@ -797,8 +833,9 @@
      :BOOK:   (4)
      :END:
 
-*** KR1d0037 [[mandoku:ZB1d0032.org][ZB1d0032]] 欽定儀禮義疏
+*** KR1d0037 欽定儀禮義疏-清-高宗弘曆
 :PROPERTIES:
+:KR_ID: KR1d0037
 :CUSTOM_ID:  ZB1d0032
 :SOURCE:   四庫全書 文淵閣版, V106.1, p1 - V107.1
 :EXTENT: 48 卷
@@ -823,8 +860,9 @@
      :BOOK:   (50)
      :END:
 
-*** KR1d0038 [[mandoku:ZB1d0033.org][ZB1d0033]] 儀禮鄭註句讀
+*** KR1d0038 儀禮鄭註句讀-清-張爾岐
 :PROPERTIES:
+:KR_ID: KR1d0038
 :CUSTOM_ID:  ZB1d0033
 :SOURCE:   四庫全書 文淵閣版, V108.1, p1
 :EXTENT: 17 卷
@@ -855,8 +893,9 @@
      :BOOK:   (6)
      :END:
 
-*** KR1d0039 [[mandoku:ZB1d0034.org][ZB1d0034]] 儀禮商
+*** KR1d0039 儀禮商-清-萬斯大
 :PROPERTIES:
+:KR_ID: KR1d0039
 :CUSTOM_ID:  ZB1d0034
 :SOURCE:   四庫全書 文淵閣版, V108.2, p253
 :EXTENT: 2 卷
@@ -880,8 +919,9 @@
      :BOOK:   (1)
      :END:
 
-*** KR1d0040 [[mandoku:ZB1d0035.org][ZB1d0035]] 儀禮述註
+*** KR1d0040 儀禮述註-清-李光坡
 :PROPERTIES:
+:KR_ID: KR1d0040
 :CUSTOM_ID:  ZB1d0035
 :SOURCE:   四庫全書 文淵閣版, V108.3, p295
 :EXTENT: 17 卷
@@ -898,8 +938,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0041 [[mandoku:ZB1d0036.org][ZB1d0036]] 儀禮析疑
+*** KR1d0041 儀禮析疑-清-方苞
 :PROPERTIES:
+:KR_ID: KR1d0041
 :CUSTOM_ID:  ZB1d0036
 :SOURCE:   四庫全書 文淵閣版, V109.1, p1
 :EXTENT: 17 卷
@@ -916,8 +957,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0042 [[mandoku:ZB1d0037.org][ZB1d0037]] 儀禮章句
+*** KR1d0042 儀禮章句-清-吳廷華
 :PROPERTIES:
+:KR_ID: KR1d0042
 :CUSTOM_ID:  ZB1d0037
 :SOURCE:   四庫全書 文淵閣版, V109.2, p289
 :EXTENT: 17 卷
@@ -934,8 +976,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0043 [[mandoku:ZB1d0038.org][ZB1d0038]] 補饗禮
+*** KR1d0043 補饗禮-清-諸錦
 :PROPERTIES:
+:KR_ID: KR1d0043
 :CUSTOM_ID:  ZB1d0038
 :SOURCE:   四庫全書 文淵閣版, V109.3, p489
 :EXTENT: 1 卷
@@ -952,8 +995,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0044 [[mandoku:ZB1d0039.org][ZB1d0039]] 禮經本義
+*** KR1d0044 禮經本義-清-蔡德晉
 :PROPERTIES:
+:KR_ID: KR1d0044
 :CUSTOM_ID:  ZB1d0039
 :SOURCE:   四庫全書 文淵閣版, V109.4, p499
 :EXTENT: 17 卷
@@ -970,8 +1014,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0045 [[mandoku:ZB1d0040.org][ZB1d0040]] 宮室考
+*** KR1d0045 宮室考-清-任啟運
 :PROPERTIES:
+:KR_ID: KR1d0045
 :CUSTOM_ID:  ZB1d0040
 :SOURCE:   四庫全書 文淵閣版, V109.5, p801
 :EXTENT: 2 卷
@@ -988,8 +1033,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0046 [[mandoku:ZB1d0041.org][ZB1d0041]] 天子肆獻祼饋食禮
+*** KR1d0046 天子肆獻祼饋食禮-清-任啟運
 :PROPERTIES:
+:KR_ID: KR1d0046
 :CUSTOM_ID:  ZB1d0041
 :SOURCE:   四庫全書 文淵閣版, V109.6, p827
 :EXTENT: 3 卷
@@ -1006,8 +1052,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0047 [[mandoku:ZB1d0042.org][ZB1d0042]] 儀禮釋宮增注
+*** KR1d0047 儀禮釋宮增注-清-江永
 :PROPERTIES:
+:KR_ID: KR1d0047
 :CUSTOM_ID:  ZB1d0042
 :SOURCE:   四庫全書 文淵閣版, V109.7, p883
 :EXTENT: 1 卷
@@ -1024,8 +1071,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0048 [[mandoku:ZB1d0043.org][ZB1d0043]] 儀禮小疏
+*** KR1d0048 儀禮小疏-清-沈彤
 :PROPERTIES:
+:KR_ID: KR1d0048
 :CUSTOM_ID:  ZB1d0043
 :SOURCE:   四庫全書 文淵閣版, V109.8, p899
 :EXTENT: 7 卷
@@ -1042,8 +1090,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0049 [[mandoku:ZB1d0044.org][ZB1d0044]] 儀禮集編
+*** KR1d0049 儀禮集編-清-盛世佐
 :PROPERTIES:
+:KR_ID: KR1d0049
 :CUSTOM_ID:  ZB1d0044
 :SOURCE:   四庫全書 文淵閣版, V110.1, p1 - V111.1
 :EXTENT: 40 卷
@@ -1066,8 +1115,9 @@
      :BOOK:   (34)
      :END:
 
-*** KR1d0050 [[mandoku:ZB1d0045.org][ZB1d0045]] 內外服制通釋
+*** KR1d0050 內外服制通釋-宋-車垓
 :PROPERTIES:
+:KR_ID: KR1d0050
 :CUSTOM_ID:  ZB1d0045
 :SOURCE:   四庫全書 文淵閣版, V111.2, p709
 :EXTENT: 7 卷
@@ -1083,8 +1133,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0051 [[mandoku:ZB1d0046.org][ZB1d0046]] 讀禮通考
+*** KR1d0051 讀禮通考-清-徐乾學
 :PROPERTIES:
+:KR_ID: KR1d0051
 :CUSTOM_ID:  ZB1d0046
 :SOURCE:   四庫全書 文淵閣版, V112.1, p1 - V114.1
 :EXTENT: 120 卷
@@ -1101,14 +1152,16 @@
 
 **** 版本
 ***** WYG
-*** KR1d0052 [[at:text/chant/H15-26-0094/H15-26-0094_001.txt][H15-26-0094]] 禮記(正文)
+*** KR1d0052 禮記(正文)--
     :PROPERTIES:
+:KR_ID: KR1d0052
     :_RESP:    
     :CUSTOM_ID: H15-26-0094
     :SOURCE:   正文據清嘉慶二十年（1816）江西南昌府學重刊之宋本《禮記注疏》。
     :END:
-*** KR1d0053 [[mandoku:ZB1d0047.org][ZB1d0047]] 禮記注疏
+*** KR1d0053 禮記注疏-漢-鄭玄
 :PROPERTIES:
+:KR_ID: KR1d0053
 :CUSTOM_ID:  ZB1d0047
 :SOURCE:   四庫全書 文淵閣版, V115.1, p1 - V116.1
 :EXTENT: 63 卷
@@ -1153,8 +1206,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0054 SB11n006 纂圖互註禮記
+*** KR1d0054 纂圖互註禮記-漢-
 :PROPERTIES:
+:KR_ID: KR1d0054
 :TYPE:  text
 :CUSTOM_ID: SB11n006
 :EXTENT: 二十卷
@@ -1188,8 +1242,9 @@
 [[krpimg:sbck/SB1/SB11n006/SB11n006_003-002.tif][冊 3]]
 [[krpimg:sbck/SB1/SB11n006/SB11n006_004-002.tif][冊 4]]
 [[krpimg:sbck/SB1/SB11n006/SB11n006_005-002.tif][冊 5]]
-*** KR1d0055 SB21n330 禮記要義
+*** KR1d0055 禮記要義-宋-魏了翁
 :PROPERTIES:
+:KR_ID: KR1d0055
 :EXTENT: 三十三卷
 :_RESP:    （宋）魏了翁
 :CUSTOM_ID: SB21n330
@@ -1215,8 +1270,9 @@
 :EDITION: 宋刊本
 :END:
 
-*** KR1d0056 [[mandoku:ZB1d0048.org][ZB1d0048]] 月令解
+*** KR1d0056 月令解-宋-張虙
 :PROPERTIES:
+:KR_ID: KR1d0056
 :CUSTOM_ID:  ZB1d0048
 :SOURCE:   四庫全書 文淵閣版, V116.2, p537
 :EXTENT: 12 卷
@@ -1232,8 +1288,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0057 [[mandoku:ZB1d0049.org][ZB1d0049]] 禮記集說
+*** KR1d0057 禮記集說-宋-衞湜
 :PROPERTIES:
+:KR_ID: KR1d0057
 :CUSTOM_ID:  ZB1d0049
 :SOURCE:   四庫全書 文淵閣版, V117.1, p1 - V120.1
 :EXTENT: 160 卷
@@ -1249,8 +1306,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0058 [[mandoku:ZB1d0050.org][ZB1d0050]] 禮記纂言
+*** KR1d0058 禮記纂言-元-吳澄
 :PROPERTIES:
+:KR_ID: KR1d0058
 :CUSTOM_ID:  ZB1d0050
 :SOURCE:   四庫全書 文淵閣版, V121.1, p1
 :EXTENT: 36 卷
@@ -1267,8 +1325,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0059 [[mandoku:ZB1d0051.org][ZB1d0051]] 禮記集說
+*** KR1d0059 禮記集說-元-陳澔
 :PROPERTIES:
+:KR_ID: KR1d0059
 :CUSTOM_ID:  ZB1d0051
 :SOURCE:   四庫全書 文淵閣版, V121.2, p679
 :EXTENT: 10 卷
@@ -1285,8 +1344,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0060 [[mandoku:ZB1d0052.org][ZB1d0052]] 禮記大全
+*** KR1d0060 禮記大全-明-胡廣
 :PROPERTIES:
+:KR_ID: KR1d0060
 :CUSTOM_ID:  ZB1d0052
 :SOURCE:   四庫全書 文淵閣版, V122.1, p1
 :EXTENT: 30 卷
@@ -1303,8 +1363,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0061 SB31n400 禮記正義殘
+*** KR1d0061 禮記正義殘-唐-孔穎達
 :PROPERTIES:
+:KR_ID: KR1d0061
 :EXTENT: 九卷
 :_RESP:    （唐）孔穎達
 :CUSTOM_ID: SB21n400
@@ -1323,8 +1384,9 @@
 :EDITION: 日本景印舊鈔本及宋刊本
 :END:
 
-*** KR1d0062 [[mandoku:ZB1d0053.org][ZB1d0053]] 月令明義
+*** KR1d0062 月令明義-明-黃道周
 :PROPERTIES:
+:KR_ID: KR1d0062
 :CUSTOM_ID:  ZB1d0053
 :SOURCE:   四庫全書 文淵閣版, V122.2, p783
 :EXTENT: 4 卷
@@ -1348,8 +1410,9 @@
      :BOOK:   (2)
      :END:
 
-*** KR1d0063 [[mandoku:ZB1d0054.org][ZB1d0054]] 表記集傳
+*** KR1d0063 表記集傳-明-黃道周
 :PROPERTIES:
+:KR_ID: KR1d0063
 :CUSTOM_ID:  ZB1d0054
 :SOURCE:   四庫全書 文淵閣版, V122.3, p833
 :EXTENT: 2 卷
@@ -1373,8 +1436,9 @@
      :BOOK:   (2)
      :END:
 
-*** KR1d0064 [[mandoku:ZB1d0055.org][ZB1d0055]] 坊記集傳
+*** KR1d0064 坊記集傳-明-黃道周
 :PROPERTIES:
+:KR_ID: KR1d0064
 :CUSTOM_ID:  ZB1d0055
 :SOURCE:   四庫全書 文淵閣版, V122.4, p927
 :EXTENT: 2 卷
@@ -1398,8 +1462,9 @@
      :BOOK:   (2)
      :END:
 
-*** KR1d0065 [[mandoku:ZB1d0056.org][ZB1d0056]] 緇衣集傳
+*** KR1d0065 緇衣集傳-明-黃道周
 :PROPERTIES:
+:KR_ID: KR1d0065
 :CUSTOM_ID:  ZB1d0056
 :SOURCE:   四庫全書 文淵閣版, V122.5, p1013
 :EXTENT: 4 卷
@@ -1416,8 +1481,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0066 [[mandoku:ZB1d0057.org][ZB1d0057]] 儒行集傳
+*** KR1d0066 儒行集傳-明-黃道周
 :PROPERTIES:
+:KR_ID: KR1d0066
 :CUSTOM_ID:  ZB1d0057
 :SOURCE:   四庫全書 文淵閣版, V122.6, p1119
 :EXTENT: 2 卷
@@ -1434,8 +1500,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0067 [[mandoku:ZB1d0058.org][ZB1d0058]] 日講禮記解義
+*** KR1d0067 日講禮記解義-清-張廷玉
 :PROPERTIES:
+:KR_ID: KR1d0067
 :CUSTOM_ID:  ZB1d0058
 :SOURCE:   四庫全書 文淵閣版, V123.1, p1
 :EXTENT: 64 卷
@@ -1464,8 +1531,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0068 [[mandoku:ZB1d0059.org][ZB1d0059]] 欽定禮記義疏
+*** KR1d0068 欽定禮記義疏-清-高宗弘曆
 :PROPERTIES:
+:KR_ID: KR1d0068
 :CUSTOM_ID:  ZB1d0059
 :SOURCE:   四庫全書 文淵閣版, V124.1, p1 - V126.1
 :EXTENT: 82 卷
@@ -1490,8 +1558,9 @@
      :BOOK:   (62)
      :END:
 
-*** KR1d0069 [[mandoku:ZB1d0060.org][ZB1d0060]] 深衣考
+*** KR1d0069 深衣考-清-黃宗義
 :PROPERTIES:
+:KR_ID: KR1d0069
 :CUSTOM_ID:  ZB1d0060
 :SOURCE:   四庫全書 文淵閣版, V127.1, p1
 :EXTENT: 1 卷
@@ -1508,8 +1577,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0070 [[mandoku:ZB1d0061.org][ZB1d0061]] 陳氏禮記集說補正
+*** KR1d0070 陳氏禮記集說補正-清-納喇性德
 :PROPERTIES:
+:KR_ID: KR1d0070
 :CUSTOM_ID:  ZB1d0061
 :SOURCE:   四庫全書 文淵閣版, V127.2, p15
 :EXTENT: 38 卷
@@ -1526,8 +1596,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0071 [[mandoku:ZB1d0062.org][ZB1d0062]] 禮記述註
+*** KR1d0071 禮記述註-清-李光坡
 :PROPERTIES:
+:KR_ID: KR1d0071
 :CUSTOM_ID:  ZB1d0062
 :SOURCE:   四庫全書 文淵閣版, V127.3, p279
 :EXTENT: 28 卷
@@ -1544,8 +1615,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0072 [[mandoku:ZB1d0063.org][ZB1d0063]] 禮記析疑
+*** KR1d0072 禮記析疑-清-方苞
 :PROPERTIES:
+:KR_ID: KR1d0072
 :CUSTOM_ID:  ZB1d0063
 :SOURCE:   四庫全書 文淵閣版, V128.1, p1
 :EXTENT: 48 卷
@@ -1562,8 +1634,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0073 [[mandoku:ZB1d0064.org][ZB1d0064]] 檀弓疑問
+*** KR1d0073 檀弓疑問-清-邵泰衢
 :PROPERTIES:
+:KR_ID: KR1d0073
 :CUSTOM_ID:  ZB1d0064
 :SOURCE:   四庫全書 文淵閣版, V128.2, p273
 :EXTENT: 1 卷
@@ -1579,8 +1652,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0074 [[mandoku:ZB1d0065.org][ZB1d0065]] 禮記訓義擇言
+*** KR1d0074 禮記訓義擇言-清-江永
 :PROPERTIES:
+:KR_ID: KR1d0074
 :CUSTOM_ID:  ZB1d0065
 :SOURCE:   四庫全書 文淵閣版, V128.3, p287
 :EXTENT: 8 卷
@@ -1597,8 +1671,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0075 [[mandoku:ZB1d0066.org][ZB1d0066]] 深衣考誤
+*** KR1d0075 深衣考誤-清-江永
 :PROPERTIES:
+:KR_ID: KR1d0075
 :CUSTOM_ID:  ZB1d0066
 :SOURCE:   四庫全書 文淵閣版, V128.4, p389
 :EXTENT: 1 卷
@@ -1615,8 +1690,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0076 [[mandoku:ZB1d0067.org][ZB1d0067]] 大戴禮記
+*** KR1d0076 大戴禮記-漢-戴德
 :PROPERTIES:
+:KR_ID: KR1d0076
 :CUSTOM_ID:  ZB1d0067
 :SOURCE:   四庫全書 文淵閣版, V128.5, p399
 :EXTENT: 13 卷
@@ -1639,8 +1715,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0077 [[mandoku:ZB1d0068.org][ZB1d0068]] 夏小正戴氏傳
+*** KR1d0077 夏小正戴氏傳-宋-傅崧卿
 :PROPERTIES:
+:KR_ID: KR1d0077
 :CUSTOM_ID:  ZB1d0068
 :SOURCE:   四庫全書 文淵閣版, V128.6, p541
 :EXTENT: 4 卷
@@ -1657,8 +1734,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0078 [[mandoku:ZB1d0069.org][ZB1d0069]] 三禮圖集注
+*** KR1d0078 三禮圖集注-宋-聶崇義
 :PROPERTIES:
+:KR_ID: KR1d0078
 :CUSTOM_ID:  ZB1d0069
 :SOURCE:   四庫全書 文淵閣版, V129.1, p1
 :EXTENT: 20 卷
@@ -1675,8 +1753,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0079 [[mandoku:ZB1d0070.org][ZB1d0070]] 三禮圖
+*** KR1d0079 三禮圖-明-劉績
 :PROPERTIES:
+:KR_ID: KR1d0079
 :CUSTOM_ID:  ZB1d0070
 :SOURCE:   四庫全書 文淵閣版, V129.2, p285
 :EXTENT: 4 卷
@@ -1693,8 +1772,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0080 [[mandoku:ZB1d0071.org][ZB1d0071]] 學禮質疑
+*** KR1d0080 學禮質疑-清-萬斯大
 :PROPERTIES:
+:KR_ID: KR1d0080
 :CUSTOM_ID:  ZB1d0071
 :SOURCE:   四庫全書 文淵閣版, V129.3, p425
 :EXTENT: 2 卷
@@ -1711,8 +1791,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0081 [[mandoku:ZB1d0072.org][ZB1d0072]] 讀禮志疑
+*** KR1d0081 讀禮志疑-清-陸隴其
 :PROPERTIES:
+:KR_ID: KR1d0081
 :CUSTOM_ID:  ZB1d0072
 :SOURCE:   四庫全書 文淵閣版, V129.4, p475
 :EXTENT: 6 卷
@@ -1729,8 +1810,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0082 [[mandoku:ZB1d0073.org][ZB1d0073]] 郊社禘祫問
+*** KR1d0082 郊社禘祫問-清-毛奇齡
 :PROPERTIES:
+:KR_ID: KR1d0082
 :CUSTOM_ID:  ZB1d0073
 :SOURCE:   四庫全書 文淵閣版, V129.5, p569
 :EXTENT: 1 卷
@@ -1747,8 +1829,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0083 [[mandoku:ZB1d0074.org][ZB1d0074]] 參讀禮志疑
+*** KR1d0083 參讀禮志疑-清-汪紱
 :PROPERTIES:
+:KR_ID: KR1d0083
 :CUSTOM_ID:  ZB1d0074
 :SOURCE:   四庫全書 文淵閣版, V129.6, p585
 :EXTENT: 2 卷
@@ -1765,8 +1848,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0084 [[mandoku:ZB1d0075.org][ZB1d0075]] 禮書
+*** KR1d0084 禮書-宋-陳祥道
 :PROPERTIES:
+:KR_ID: KR1d0084
 :CUSTOM_ID:  ZB1d0075
 :SOURCE:   四庫全書 文淵閣版, V130.1, p1
 :EXTENT: 150 卷
@@ -1783,8 +1867,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0085 [[mandoku:ZB1d0076.org][ZB1d0076]] 儀禮經傳通解
+*** KR1d0085 儀禮經傳通解-宋-朱熹
 :PROPERTIES:
+:KR_ID: KR1d0085
 :CUSTOM_ID:  ZB1d0076
 :SOURCE:   四庫全書 文淵閣版, V131.1, p1
 :EXTENT: 37 卷
@@ -1801,7 +1886,7 @@
 
 **** 版本
 ***** WYG
-**** [[mandoku:ZB1d0076a.org][ZB1d0076a]] 儀禮經傳通解續
+**** 儀禮經傳通解續
      :PROPERTIES:
      :TYPE:   appendix
      :SOURCE:   四庫全書 文淵閣版, V131.1, p605 - V132.1
@@ -1822,8 +1907,9 @@
      :FUNCTION: 撰
      :END:
 
-*** KR1d0086 [[mandoku:ZB1d0077.org][ZB1d0077]] 禮書綱目
+*** KR1d0086 禮書綱目-清-江永
 :PROPERTIES:
+:KR_ID: KR1d0086
 :CUSTOM_ID:  ZB1d0077
 :SOURCE:   四庫全書 文淵閣版, V133.1, p1 - V134.1
 :EXTENT: 85 卷
@@ -1868,8 +1954,9 @@
      :BOOK:   (38)
      :END:
 
-*** KR1d0087 [[mandoku:ZB1d0078.org][ZB1d0078]] 五禮通考
+*** KR1d0087 五禮通考-清-泰蕙田
 :PROPERTIES:
+:KR_ID: KR1d0087
 :CUSTOM_ID:  ZB1d0078
 :SOURCE:   四庫全書 文淵閣版, V135.1, p1 - V142.1
 :EXTENT: 262 卷
@@ -1900,8 +1987,9 @@
      :BOOK:   (228)
      :END:
 
-*** KR1d0088 [[mandoku:ZB1d0079.org][ZB1d0079]] 書儀
+*** KR1d0088 書儀-宋-司馬光
 :PROPERTIES:
+:KR_ID: KR1d0088
 :CUSTOM_ID:  ZB1d0079
 :SOURCE:   四庫全書 文淵閣版, V142.2, p457
 :EXTENT: 10 卷
@@ -1918,8 +2006,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0089 [[mandoku:ZB1d0080.org][ZB1d0080]] 家禮
+*** KR1d0089 家禮-宋-朱熹
 :PROPERTIES:
+:KR_ID: KR1d0089
 :CUSTOM_ID:  ZB1d0080
 :SOURCE:   四庫全書 文淵閣版, V142.3, p527
 :EXTENT: 5 卷
@@ -1943,8 +2032,9 @@
      :BOOK:   (2)
      :END:
 
-*** KR1d0090 [[mandoku:ZB1d0081.org][ZB1d0081]] 泰泉鄉禮
+*** KR1d0090 泰泉鄉禮-明-黃佐
 :PROPERTIES:
+:KR_ID: KR1d0090
 :CUSTOM_ID:  ZB1d0081
 :SOURCE:   四庫全書 文淵閣版, V142.4, p591
 :EXTENT: 7 卷
@@ -1961,8 +2051,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0091 [[mandoku:ZB1d0082.org][ZB1d0082]] 朱子禮纂
+*** KR1d0091 朱子禮纂-清-李光地
 :PROPERTIES:
+:KR_ID: KR1d0091
 :CUSTOM_ID:  ZB1d0082
 :SOURCE:   四庫全書 文淵閣版, V142.5, p663
 :EXTENT: 5 卷
@@ -1979,8 +2070,9 @@
 
 **** 版本
 ***** WYG
-*** KR1d0092 [[mandoku:ZB1d0083.org][ZB1d0083]] 辨定祭禮通俗譜
+*** KR1d0092 辨定祭禮通俗譜-清-毛奇齡
 :PROPERTIES:
+:KR_ID: KR1d0092
 :CUSTOM_ID:  ZB1d0083
 :SOURCE:   四庫全書 文淵閣版, V142.6, p743
 :EXTENT: 5 卷

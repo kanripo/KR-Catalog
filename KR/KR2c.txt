@@ -1,8 +1,9 @@
 #-*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID
 ** KR2c ZB2c 紀事本末類
-*** KR2c0001 [[mandoku:ZB2c0001.org][ZB2c0001]] 通鑑紀事本末
+*** KR2c0001 通鑑紀事本末-宋-袁樞
 :PROPERTIES:
+:KR_ID: KR2c0001
 :CUSTOM_ID:  ZB2c0001
 :SOURCE:   四庫全書 文淵閣版, V346.1, p1 - V349.1
 :EXTENT: 42 卷
@@ -19,8 +20,9 @@
 
 **** 版本
 ***** WYG
-*** KR2c0002 SB12n036 汲冢周書
+*** KR2c0002 汲冢周書-晉-
 :PROPERTIES:
+:KR_ID: KR2c0002
 :TYPE:  text
 :CUSTOM_ID: SB12n036
 :EXTENT: 十卷
@@ -45,8 +47,9 @@
 
 **** 电子版
 [[krpimg:sbck/SB1/SB12n036/SB12n036_001-002.tif][冊 1]]
-*** KR2c0003 [[mandoku:ZB2c0002.org][ZB2c0002]] 春秋左傳事類始末
+*** KR2c0003 春秋左傳事類始末-宋-章沖
 :PROPERTIES:
+:KR_ID: KR2c0003
 :CUSTOM_ID:  ZB2c0002
 :SOURCE:   四庫全書 文淵閣版, V349.2, p445
 :EXTENT: 5 卷
@@ -76,8 +79,9 @@
       :BOOK:   (6)
       :END:
 
-*** KR2c0004 [[mandoku:ZB2c0003.org][ZB2c0003]] 三朝北盟會編
+*** KR2c0004 三朝北盟會編-宋-徐夢莘
 :PROPERTIES:
+:KR_ID: KR2c0004
 :CUSTOM_ID:  ZB2c0003
 :SOURCE:   四庫全書 文淵閣版, V350.1, p1 - V352.1
 :EXTENT: 250 卷
@@ -94,8 +98,9 @@
 
 **** 版本
 ***** WYG
-*** KR2c0005 [[mandoku:ZB2c0004.org][ZB2c0004]] 蜀鑑
+*** KR2c0005 蜀鑑-宋-郭允蹈
 :PROPERTIES:
+:KR_ID: KR2c0005
 :CUSTOM_ID:  ZB2c0004
 :SOURCE:   四庫全書 文淵閣版, V352.2, p481
 :EXTENT: 10 卷
@@ -112,8 +117,9 @@
 
 **** 版本
 ***** WYG
-*** KR2c0006 [[mandoku:ZB2c0005.org][ZB2c0005]] 炎徼紀聞
+*** KR2c0006 炎徼紀聞-明-田汝成
 :PROPERTIES:
+:KR_ID: KR2c0006
 :CUSTOM_ID:  ZB2c0005
 :SOURCE:   四庫全書 文淵閣版, V352.3, p603
 :EXTENT: 4 卷
@@ -130,8 +136,9 @@
 
 **** 版本
 ***** WYG
-*** KR2c0007 [[mandoku:ZB2c0006.org][ZB2c0006]] 宋史紀事本末
+*** KR2c0007 宋史紀事本末-明-馮琦原
 :PROPERTIES:
+:KR_ID: KR2c0007
 :CUSTOM_ID:  ZB2c0006
 :SOURCE:   四庫全書 文淵閣版, V353.1, p1
 :EXTENT: 28 卷
@@ -154,8 +161,9 @@
 
 **** 版本
 ***** WYG
-*** KR2c0008 [[mandoku:ZB2c0007.org][ZB2c0007]] 元史紀事本末
+*** KR2c0008 元史紀事本末-明-陳邦瞻
 :PROPERTIES:
+:KR_ID: KR2c0008
 :CUSTOM_ID:  ZB2c0007
 :SOURCE:   四庫全書 文淵閣版, V353.2, p753
 :EXTENT: 4 卷
@@ -172,8 +180,9 @@
 
 **** 版本
 ***** WYG
-*** KR2c0009 [[mandoku:ZB2c0008.org][ZB2c0008]] 平定三逆方略
+*** KR2c0009 平定三逆方略-清-勒德洪
 :PROPERTIES:
+:KR_ID: KR2c0009
 :CUSTOM_ID:  ZB2c0008
 :SOURCE:   四庫全書 文淵閣版, V354.1, p1
 :EXTENT: 60 卷
@@ -190,8 +199,9 @@
 
 **** 版本
 ***** WYG
-*** KR2c0010 [[mandoku:ZB2c0009.org][ZB2c0009]] 聖祖仁皇帝親征平定朔漠方略
+*** KR2c0010 聖祖仁皇帝親征平定朔漠方略-清-溫達
 :PROPERTIES:
+:KR_ID: KR2c0010
 :CUSTOM_ID:  ZB2c0009
 :SOURCE:   四庫全書 文淵閣版, V354.2, p425 - V355.1
 :EXTENT: 48 卷
@@ -215,8 +225,9 @@
       :BOOK:   (26)
       :END:
 
-*** KR2c0011 [[mandoku:ZB2c0010.org][ZB2c0010]] 欽定平定金川方略
+*** KR2c0011 欽定平定金川方略-清-來保
 :PROPERTIES:
+:KR_ID: KR2c0011
 :CUSTOM_ID:  ZB2c0010
 :SOURCE:   四庫全書 文淵閣版, V356.1, p1
 :EXTENT: 32 卷
@@ -232,8 +243,9 @@
 
 **** 版本
 ***** WYG
-*** KR2c0012 [[mandoku:ZB2c0011.org][ZB2c0011]] 平定準噶爾方略
+*** KR2c0012 平定準噶爾方略-清-傅恒
 :PROPERTIES:
+:KR_ID: KR2c0012
 :CUSTOM_ID:  ZB2c0011
 :SOURCE:   四庫全書 文淵閣版, V357.1, p1 - V359.1
 :EXTENT: 173 卷
@@ -250,7 +262,7 @@
 
 **** 版本
 ***** WYG
-**** [[mandoku:ZB2c0011a.org][ZB2c0011a]] 前編
+**** 前編
       :PROPERTIES:
       :EXTENT: (54) 卷
       :BOOK:   (15)
@@ -270,20 +282,21 @@
       :BOOK:   (#)
       :END:
 
-**** [[mandoku:ZB2c0011b.org][ZB2c0011b]] 正編
+**** 正編
       :PROPERTIES:
       :EXTENT: (85) 卷
       :BOOK:   (24)
       :END:
 
-**** [[mandoku:ZB2c0011c.org][ZB2c0011c]] 續編
+**** 續編
       :PROPERTIES:
       :EXTENT: (32) 卷
       :BOOK:   (9)
       :END:
 
-*** KR2c0013 [[mandoku:ZB2c0012.org][ZB2c0012]] 平定兩金川方略
+*** KR2c0013 平定兩金川方略-清-阿桂
 :PROPERTIES:
+:KR_ID: KR2c0013
 :CUSTOM_ID:  ZB2c0012
 :SOURCE:   四庫全書 文淵閣版, V360.1, p1 - V361.1
 :EXTENT: 136 卷
@@ -307,16 +320,17 @@
       :BOOK:   (54)
       :END:
 
-**** [[mandoku:ZB2c0012a.org][ZB2c0012a]] 藝文
+**** 藝文
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 8 卷
       :BOOK:   (54)
       :END:
 
-# *** [[mandoku:ZB2c0012b.org][ZB2c0012b]] 平定兩金川方略__藝文一
-*** KR2c0014 [[mandoku:ZB2c0013.org][ZB2c0013]] 欽定剿捕臨清逆匪紀略
+# *** 平定兩金川方略__藝文一
+*** KR2c0014 欽定剿捕臨清逆匪紀略-清-舒赫德
 :PROPERTIES:
+:KR_ID: KR2c0014
 :CUSTOM_ID:  ZB2c0013
 :SOURCE:   四庫全書 文淵閣版, V362.1, p1
 :EXTENT: 16 卷
@@ -338,8 +352,9 @@
 
 **** 版本
 ***** WYG
-*** KR2c0015 [[mandoku:ZB2c0014.org][ZB2c0014]] 欽定蘭州紀略
+*** KR2c0015 欽定蘭州紀略-清-阿桂
 :PROPERTIES:
+:KR_ID: KR2c0015
 :CUSTOM_ID:  ZB2c0014
 :SOURCE:   四庫全書 文淵閣版, V362.2, p233
 :EXTENT: 20 卷
@@ -364,8 +379,9 @@
       :BOOK:   (7)
       :END:
 
-*** KR2c0016 [[mandoku:ZB2c0015.org][ZB2c0015]] 欽定石峯堡紀略
+*** KR2c0016 欽定石峯堡紀略-清-高宗弘曆
 :PROPERTIES:
+:KR_ID: KR2c0016
 :CUSTOM_ID:  ZB2c0015
 :SOURCE:   四庫全書 文淵閣版, V362.3, p487
 :EXTENT: 20 卷
@@ -390,8 +406,9 @@
       :BOOK:   (8)
       :END:
 
-*** KR2c0017 [[mandoku:ZB2c0016.org][ZB2c0016]] 欽定平定臺灣紀略
+*** KR2c0017 欽定平定臺灣紀略-清-高宗弘曆
 :PROPERTIES:
+:KR_ID: KR2c0017
 :CUSTOM_ID:  ZB2c0016
 :SOURCE:   四庫全書 文淵閣版, V363.1, p1
 :EXTENT: 65 卷
@@ -416,8 +433,9 @@
       :BOOK:   (24)
       :END:
 
-*** KR2c0018 [[mandoku:ZB2c0017.org][ZB2c0017]] 綏寇紀略
+*** KR2c0018 綏寇紀略-清-吳偉業
 :PROPERTIES:
+:KR_ID: KR2c0018
 :CUSTOM_ID:  ZB2c0017
 :SOURCE:   四庫全書 文淵閣版, V363.2, p847
 :EXTENT: 12 卷
@@ -434,8 +452,9 @@
 
 **** 版本
 ***** WYG
-*** KR2c0019 [[mandoku:ZB2c0018.org][ZB2c0018]] 滇考
+*** KR2c0019 滇考-清-馮甦
 :PROPERTIES:
+:KR_ID: KR2c0019
 :CUSTOM_ID:  ZB2c0018
 :SOURCE:   四庫全書 文淵閣版, V364.1, p1
 :EXTENT: 2 卷
@@ -452,8 +471,9 @@
 
 **** 版本
 ***** WYG
-*** KR2c0020 [[mandoku:ZB2c0019.org][ZB2c0019]] 明史紀事本末
+*** KR2c0020 明史紀事本末-清-谷應泰
 :PROPERTIES:
+:KR_ID: KR2c0020
 :CUSTOM_ID:  ZB2c0019
 :SOURCE:   四庫全書 文淵閣版, V364.2, p117
 :EXTENT: 80 卷
@@ -470,8 +490,9 @@
 
 **** 版本
 ***** WYG
-*** KR2c0021 [[mandoku:ZB2c0020.org][ZB2c0020]] 繹史
+*** KR2c0021 繹史-清-馬驌
 :PROPERTIES:
+:KR_ID: KR2c0021
 :CUSTOM_ID:  ZB2c0020
 :SOURCE:   四庫全書 文淵閣版, V365.1, p1 - V368.1
 :EXTENT: 160 卷
@@ -509,8 +530,9 @@
       :BOOK:   (72)
       :END:
 
-*** KR2c0022 [[mandoku:ZB2c0021.org][ZB2c0021]] 左傳紀事本末
+*** KR2c0022 左傳紀事本末-清-高士奇
 :PROPERTIES:
+:KR_ID: KR2c0022
 :CUSTOM_ID:  ZB2c0021
 :SOURCE:   四庫全書 文淵閣版, V369.1, p1
 :EXTENT: 53 卷
@@ -527,8 +549,9 @@
 
 **** 版本
 ***** WYG
-*** KR2c0023 [[mandoku:ZB2d0001.org][ZB2d0001]] 平臺紀略
+*** KR2c0023 平臺紀略-清-藍鼎元
 :PROPERTIES:
+:KR_ID: KR2c0023
 :CUSTOM_ID:  ZB2d0001
 :SOURCE:   四庫全書 文淵閣版, V369.2, p557
 :EXTENT: 1 卷
@@ -545,7 +568,7 @@
 
 **** 版本
 ***** WYG
-**** [[mandoku:ZB2d0001a.org][ZB2d0001a]] (附)東征集
+**** (附)東征集
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 6 卷

@@ -1,8 +1,9 @@
 #-*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID
 ** KR2b ZB2b 編年類
-*** KR2b0001 [[mandoku:ZB2b0001.org][ZB2b0001]] 竹書紀年
+*** KR2b0001 竹書紀年-梁-沈約
 :PROPERTIES:
+:KR_ID: KR2b0001
 :CUSTOM_ID:  ZB2b0001
 :SOURCE:   四庫全書 文淵閣版, V303.1, p1
 :EXTENT: 2 卷
@@ -25,8 +26,9 @@
      :_RESP:    
      :END:
 ***** WYG
-*** KR2b0002 [[mandoku:ZB2b0002.org][ZB2b0002]] 竹書統箋
+*** KR2b0002 竹書統箋-清-徐文靖
 :PROPERTIES:
+:KR_ID: KR2b0002
 :CUSTOM_ID:  ZB2b0002
 :SOURCE:   四庫全書 文淵閣版, V303.2, p43
 :EXTENT: 12 卷
@@ -57,8 +59,9 @@
       :_RESP:    
       :END:
 
-*** KR2b0003 [[mandoku:ZB2b0003.org][ZB2b0003]] 前漢紀
+*** KR2b0003 前漢紀-漢-荀悅
 :PROPERTIES:
+:KR_ID: KR2b0003
 :CUSTOM_ID:  ZB2b0003
 :SOURCE:   四庫全書 文淵閣版, V303.3, p203
 :EXTENT: 30 卷
@@ -81,8 +84,9 @@
      :_RESP:    
      :END:
 ***** WYG
-*** KR2b0004 [[mandoku:ZB2b0004.org][ZB2b0004]] 後漢紀
+*** KR2b0004 後漢紀-晉-袁宏
 :PROPERTIES:
+:KR_ID: KR2b0004
 :CUSTOM_ID:  ZB2b0004
 :SOURCE:   四庫全書 文淵閣版, V303.4, p491
 :EXTENT: 30 卷
@@ -105,8 +109,9 @@
      :_RESP:    
      :END:
 ***** WYG
-*** KR2b0005 [[mandoku:ZB2b0005.org][ZB2b0005]] 元經
+*** KR2b0005 元經-隋-王通
 :PROPERTIES:
+:KR_ID: KR2b0005
 :CUSTOM_ID:  ZB2b0005
 :SOURCE:   四庫全書 文淵閣版, V303.5, p829
 :EXTENT: 10 卷
@@ -142,8 +147,9 @@
      :_RESP:    
      :END:
 ***** WYG
-*** KR2b0006 [[mandoku:ZB2b0006.org][ZB2b0006]] 唐創業起居注
+*** KR2b0006 唐創業起居注-唐-溫大雅
 :PROPERTIES:
+:KR_ID: KR2b0006
 :CUSTOM_ID:  ZB2b0006
 :SOURCE:   四庫全書 文淵閣版, V303.6, p955
 :EXTENT: 3 卷
@@ -165,8 +171,9 @@
      :_RESP:    
      :END:
 ***** WYG
-*** KR2b0007 [[mandoku:ZB2b0007.org][ZB2b0007]] 資治通鑑
+*** KR2b0007 資治通鑑-宋-司馬光
 :PROPERTIES:
+:KR_ID: KR2b0007
 :CUSTOM_ID:  ZB2b0007
 :SOURCE:   四庫全書 文淵閣版, V304.1, p1 - V310.1
 :EXTENT: 294 卷
@@ -195,8 +202,9 @@
      :_RESP:    
      :END:
 ***** WYG
-*** KR2b0008 [[mandoku:ZB2b0008.org][ZB2b0008]] 資治通鑑考異
+*** KR2b0008 資治通鑑考異-宋-司馬光
 :PROPERTIES:
+:KR_ID: KR2b0008
 :CUSTOM_ID:  ZB2b0008
 :SOURCE:   四庫全書 文淵閣版, V311.1, p1
 :EXTENT: 30 卷
@@ -219,8 +227,9 @@
      :_RESP:    
      :END:
 ***** WYG
-*** KR2b0009 [[mandoku:ZB2b0008a.org][ZB2b0008a]] 資治通鑑釋例
+*** KR2b0009 資治通鑑釋例-宋-司馬光
 :PROPERTIES:
+:KR_ID: KR2b0009
 :CUSTOM_ID:  ZB2b0008a
 :SOURCE:   四庫全書 文淵閣版, V311.2, p317
 :EXTENT: 1 卷
@@ -243,8 +252,9 @@
      :_RESP:    
      :END:
 ***** WYG
-*** KR2b0010 [[mandoku:ZB2b0009.org][ZB2b0009]] 資治通鑑目錄
+*** KR2b0010 資治通鑑目錄-宋-司馬光
 :PROPERTIES:
+:KR_ID: KR2b0010
 :CUSTOM_ID:  ZB2b0009
 :SOURCE:   四庫全書 文淵閣版, V311.3, p321
 :EXTENT: 30 卷
@@ -267,8 +277,9 @@
      :_RESP:    
      :END:
 ***** WYG
-*** KR2b0011 [[mandoku:ZB2b0010.org][ZB2b0010]] 通鑑地理通釋
+*** KR2b0011 通鑑地理通釋-宋-王應麟
 :PROPERTIES:
+:KR_ID: KR2b0011
 :CUSTOM_ID:  ZB2b0010
 :SOURCE:   四庫全書 文淵閣版, V312.1, p1
 :EXTENT: 14 卷
@@ -291,8 +302,9 @@
      :_RESP:    
      :END:
 ***** WYG
-*** KR2b0012 [[mandoku:ZB2b0011.org][ZB2b0011]] 通鑑釋文辨誤
+*** KR2b0012 通鑑釋文辨誤-元-胡三省
 :PROPERTIES:
+:KR_ID: KR2b0012
 :CUSTOM_ID:  ZB2b0011
 :SOURCE:   四庫全書 文淵閣版, V312.2, p217
 :EXTENT: 12 卷
@@ -315,8 +327,9 @@
      :_RESP:    
      :END:
 ***** WYG
-*** KR2b0013 [[mandoku:ZB2b0012.org][ZB2b0012]] 通鑑胡注擧正
+*** KR2b0013 通鑑胡注擧正-清-陳景雲
 :PROPERTIES:
+:KR_ID: KR2b0013
 :CUSTOM_ID:  ZB2b0012
 :SOURCE:   四庫全書 文淵閣版, V312.3, p381
 :EXTENT: 1 卷
@@ -339,8 +352,9 @@
      :_RESP:    
      :END:
 ***** WYG
-*** KR2b0014 [[mandoku:ZB2b0013.org][ZB2b0013]] 稽古錄
+*** KR2b0014 稽古錄-宋-司馬光
 :PROPERTIES:
+:KR_ID: KR2b0014
 :CUSTOM_ID:  ZB2b0013
 :SOURCE:   四庫全書 文淵閣版, V312.4, p391
 :EXTENT: 20 卷
@@ -363,8 +377,9 @@
      :_RESP:    
      :END:
 ***** WYG
-*** KR2b0015 [[mandoku:ZB2b0014.org][ZB2b0014]] 資治通鑑外紀
+*** KR2b0015 資治通鑑外紀-宋-劉恕
 :PROPERTIES:
+:KR_ID: KR2b0015
 :CUSTOM_ID:  ZB2b0014
 :SOURCE:   四庫全書 文淵閣版, V312.5, p527
 :EXTENT: 10 卷
@@ -395,8 +410,9 @@
       :_RESP:    
       :END:
 
-*** KR2b0016 SB12n034 資治通鑑釋文
+*** KR2b0016 資治通鑑釋文-宋-
 :PROPERTIES:
+:KR_ID: KR2b0016
 :TYPE:  text
 :CUSTOM_ID: SB12n034
 :EXTENT: 三十卷
@@ -425,8 +441,9 @@
 [[krpimg:sbck/SB1/SB12n034/SB12n034_003-002.tif][冊 3]]
 [[krpimg:sbck/SB1/SB12n034/SB12n034_004-002.tif][冊 4]]
 [[krpimg:sbck/SB1/SB12n034/SB12n034_005-002.tif][冊 5]]
-*** KR2b0017 [[mandoku:ZB2b0015.org][ZB2b0015]] 皇王大紀
+*** KR2b0017 皇王大紀-宋-胡宏
 :PROPERTIES:
+:KR_ID: KR2b0017
 :CUSTOM_ID:  ZB2b0015
 :SOURCE:   四庫全書 文淵閣版, V313.1, p1
 :EXTENT: 80 卷
@@ -448,8 +465,9 @@
      :_RESP:    
      :END:
 ***** WYG
-*** KR2b0018 [[mandoku:ZB2b0016.org][ZB2b0016]] 中興小紀
+*** KR2b0018 中興小紀-宋-熊克
 :PROPERTIES:
+:KR_ID: KR2b0018
 :CUSTOM_ID:  ZB2b0016
 :SOURCE:   四庫全書 文淵閣版, V313.2, p779
 :EXTENT: 40 卷
@@ -471,8 +489,9 @@
      :_RESP:    
      :END:
 ***** WYG
-*** KR2b0019 [[mandoku:ZB2b0017.org][ZB2b0017]] 續資治通鑑長編
+*** KR2b0019 續資治通鑑長編-宋-李燾
 :PROPERTIES:
+:KR_ID: KR2b0019
 :CUSTOM_ID:  ZB2b0017
 :SOURCE:   四庫全書 文淵閣版, V314.1, p1 - V322.1
 :EXTENT: 520 卷
@@ -503,8 +522,9 @@
       :_RESP:    
       :END:
 
-*** KR2b0020 [[mandoku:ZB2b0018.org][ZB2b0018]] 綱目續麟
+*** KR2b0020 綱目續麟-明-張自勳
 :PROPERTIES:
+:KR_ID: KR2b0020
 :CUSTOM_ID:  ZB2b0018
 :SOURCE:   四庫全書 文淵閣版, V323.1, p1
 :EXTENT: 20 卷
@@ -550,8 +570,9 @@
       :_RESP:    
       :END:
 
-*** KR2b0021 [[mandoku:ZB2b0019.org][ZB2b0019]] 綱目分註拾遺
+*** KR2b0021 綱目分註拾遺-清-芮長恤
 :PROPERTIES:
+:KR_ID: KR2b0021
 :CUSTOM_ID:  ZB2b0019
 :SOURCE:   四庫全書 文淵閣版, V323.2, p513
 :EXTENT: 4 卷
@@ -573,8 +594,9 @@
      :_RESP:    
      :END:
 ***** WYG
-*** KR2b0022 [[mandoku:ZB2b0020.org][ZB2b0020]] 綱目訂誤
+*** KR2b0022 綱目訂誤-清-陳景雲
 :PROPERTIES:
+:KR_ID: KR2b0022
 :CUSTOM_ID:  ZB2b0020
 :SOURCE:   四庫全書 文淵閣版, V323.3, p647
 :EXTENT: 4 卷
@@ -597,8 +619,9 @@
      :_RESP:    
      :END:
 ***** WYG
-*** KR2b0023 [[mandoku:ZB2b0021.org][ZB2b0021]] 大事記
+*** KR2b0023 大事記-宋-呂祖謙
 :PROPERTIES:
+:KR_ID: KR2b0023
 :CUSTOM_ID:  ZB2b0021
 :SOURCE:   四庫全書 文淵閣版, V324.1, p1
 :EXTENT: 12 卷
@@ -621,22 +644,23 @@
      :_RESP:    
      :END:
 ***** WYG
-**** [[mandoku:ZB2b0021a.org][ZB2b0021a]] 大事記通釋
+**** 大事記通釋
       :PROPERTIES:
       :EXTENT: 3 卷
       :BOOK:   1
       :_RESP:    
       :END:
 
-**** [[mandoku:ZB2b0021b.org][ZB2b0021b]] 大事記解題
+**** 大事記解題
       :PROPERTIES:
       :EXTENT: 12 卷
       :BOOK:   9
       :_RESP:    
       :END:
 
-*** KR2b0024 [[mandoku:ZB2b0022.org][ZB2b0022]] 建炎以來繫年要錄
+*** KR2b0024 建炎以來繫年要錄-宋-李心傳
 :PROPERTIES:
+:KR_ID: KR2b0024
 :CUSTOM_ID:  ZB2b0022
 :SOURCE:   四庫全書 文淵閣版, V325.1, p1 - V327.1
 :EXTENT: 200 卷
@@ -667,8 +691,9 @@
       :_RESP:    
       :END:
 
-*** KR2b0025 [[mandoku:ZB2b0023.org][ZB2b0023]] 九朝編年備要
+*** KR2b0025 九朝編年備要-宋-陳均
 :PROPERTIES:
+:KR_ID: KR2b0025
 :CUSTOM_ID:  ZB2b0023
 :SOURCE:   四庫全書 文淵閣版, V328.1, p1
 :EXTENT: 30 卷
@@ -691,8 +716,9 @@
      :_RESP:    
      :END:
 ***** WYG
-*** KR2b0026 [[mandoku:ZB2b0024.org][ZB2b0024]] 續宋編年資治通鑑
+*** KR2b0026 續宋編年資治通鑑-宋-劉時擧
 :PROPERTIES:
+:KR_ID: KR2b0026
 :CUSTOM_ID:  ZB2b0024
 :SOURCE:   四庫全書 文淵閣版, V328.2, p873
 :EXTENT: 15 卷
@@ -714,8 +740,9 @@
      :_RESP:    
      :END:
 ***** WYG
-*** KR2b0027 SB32n410 編年通載殘
+*** KR2b0027 編年通載殘-宋-章衡
 :PROPERTIES:
+:KR_ID: KR2b0027
 :EXTENT: 四卷
 :_RESP:    （宋）章衡
 :CUSTOM_ID: SB32n410
@@ -740,8 +767,9 @@
 :EDITION: 宋刊本
 :END:
 
-*** KR2b0028 [[mandoku:ZB2b0025.org][ZB2b0025]] 西漢年紀
+*** KR2b0028 西漢年紀-宋-王益之
 :PROPERTIES:
+:KR_ID: KR2b0028
 :CUSTOM_ID:  ZB2b0025
 :SOURCE:   四庫全書 文淵閣版, V329.1, p1
 :EXTENT: 30 卷
@@ -763,8 +791,9 @@
      :_RESP:    
      :END:
 ***** WYG
-*** KR2b0029 [[mandoku:ZB2b0026.org][ZB2b0026]] 靖康要錄
+*** KR2b0029 靖康要錄-宋-闕名
 :PROPERTIES:
+:KR_ID: KR2b0029
 :CUSTOM_ID:  ZB2b0026
 :SOURCE:   四庫全書 文淵閣版, V329.2, p407
 :EXTENT: 12 卷
@@ -786,8 +815,9 @@
      :_RESP:    
      :END:
 ***** WYG
-*** KR2b0030 [[mandoku:ZB2b0027.org][ZB2b0027]] 兩朝綱目備要
+*** KR2b0030 兩朝綱目備要-元-闕名
 :PROPERTIES:
+:KR_ID: KR2b0030
 :CUSTOM_ID:  ZB2b0027
 :SOURCE:   四庫全書 文淵閣版, V329.3, p685
 :EXTENT: 16 卷
@@ -809,8 +839,9 @@
      :_RESP:    
      :END:
 ***** WYG
-*** KR2b0031 [[mandoku:ZB2b0028.org][ZB2b0028]] 宋季三朝政要
+*** KR2b0031 宋季三朝政要-元-闕名
 :PROPERTIES:
+:KR_ID: KR2b0031
 :CUSTOM_ID:  ZB2b0028
 :SOURCE:   四庫全書 文淵閣版, V329.4, p961
 :EXTENT: 6 卷
@@ -832,8 +863,9 @@
      :_RESP:    
      :END:
 ***** WYG
-*** KR2b0032 [[mandoku:ZB2b0029.org][ZB2b0029]] 宋史全文
+*** KR2b0032 宋史全文-元-闕名
 :PROPERTIES:
+:KR_ID: KR2b0032
 :CUSTOM_ID:  ZB2b0029
 :SOURCE:   四庫全書 文淵閣版, V330.1, p1 - V331.1
 :EXTENT: 36 卷
@@ -855,8 +887,9 @@
      :_RESP:    
      :END:
 ***** WYG
-*** KR2b0033 [[mandoku:ZB2b0030.org][ZB2b0030]] 資治通鑑前編
+*** KR2b0033 資治通鑑前編-宋-金履祥
 :PROPERTIES:
+:KR_ID: KR2b0033
 :CUSTOM_ID:  ZB2b0030
 :SOURCE:   四庫全書 文淵閣版, V332.1, p1
 :EXTENT: 18 卷
@@ -879,15 +912,16 @@
      :_RESP:    
      :END:
 ***** WYG
-**** [[mandoku:ZB2b0030a.org][ZB2b0030a]] 資治通鑑前編舉要
+**** 資治通鑑前編舉要
       :PROPERTIES:
       :EXTENT: 3 卷
       :BOOK:   1
       :_RESP:    
       :END:
 
-*** KR2b0034 [[mandoku:ZB2b0031.org][ZB2b0031]] 通鑑續編
+*** KR2b0034 通鑑續編-元-陳桱
 :PROPERTIES:
+:KR_ID: KR2b0034
 :CUSTOM_ID:  ZB2b0031
 :SOURCE:   四庫全書 文淵閣版, V332.2, p435
 :EXTENT: 24 卷
@@ -909,8 +943,9 @@
      :_RESP:    
      :END:
 ***** WYG
-*** KR2b0035 [[mandoku:ZB2b0032.org][ZB2b0032]] 大事記續編
+*** KR2b0035 大事記續編-明-王禕
 :PROPERTIES:
+:KR_ID: KR2b0035
 :CUSTOM_ID:  ZB2b0032
 :SOURCE:   四庫全書 文淵閣版, V333.1, p1 - V334.1
 :EXTENT: 77 卷
@@ -933,8 +968,9 @@
      :_RESP:    
      :END:
 ***** WYG
-*** KR2b0036 [[mandoku:ZB2b0033.org][ZB2b0033]] 元史續編
+*** KR2b0036 元史續編-明-胡粹中
 :PROPERTIES:
+:KR_ID: KR2b0036
 :CUSTOM_ID:  ZB2b0033
 :SOURCE:   四庫全書 文淵閣版, V334.2, p449
 :EXTENT: 16 卷
@@ -956,8 +992,9 @@
      :_RESP:    
      :END:
 ***** WYG
-*** KR2b0037 [[mandoku:ZB2b0034.org][ZB2b0034]] 御批歷代通鑑輯覽
+*** KR2b0037 御批歷代通鑑輯覽-清-高宗弘曆
 :PROPERTIES:
+:KR_ID: KR2b0037
 :CUSTOM_ID:  ZB2b0034
 :SOURCE:   四庫全書 文淵閣版, V335.1, p1 - V339.1
 :EXTENT: 116 卷
@@ -995,8 +1032,9 @@
       :_RESP:    
       :END:
 
-*** KR2b0038 [[mandoku:ZB2b0035.org][ZB2b0035]] 御定資治通鑑綱目三編
+*** KR2b0038 御定資治通鑑綱目三編-清-張廷玉
 :PROPERTIES:
+:KR_ID: KR2b0038
 :CUSTOM_ID:  ZB2b0035
 :SOURCE:   四庫全書 文淵閣版, V340.1, p1
 :EXTENT: 40 卷
@@ -1020,8 +1058,9 @@
      :_RESP:    
      :END:
 ***** WYG
-*** KR2b0039 [[mandoku:ZB2b0036.org][ZB2b0036]] 皇清開國方略
+*** KR2b0039 皇清開國方略-清-阿桂
 :PROPERTIES:
+:KR_ID: KR2b0039
 :CUSTOM_ID:  ZB2b0036
 :SOURCE:   四庫全書 文淵閣版, V341.1, p1
 :EXTENT: 32 卷
@@ -1067,8 +1106,9 @@
       :_RESP:    
       :END:
 
-*** KR2b0040 [[mandoku:ZB2b0037.org][ZB2b0037]] 資治通鑑後編
+*** KR2b0040 資治通鑑後編-清-徐乾學
 :PROPERTIES:
+:KR_ID: KR2b0040
 :CUSTOM_ID:  ZB2b0037
 :SOURCE:   四庫全書 文淵閣版, V342.1, p1 - V345.1
 :EXTENT: 184 卷

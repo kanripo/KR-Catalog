@@ -1,8 +1,9 @@
 #-*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID
 ** KR2d ZB2d 別史類
-*** KR2d0001 [[mandoku:ZB2d0002.org][ZB2d0002]] 逸周書
+*** KR2d0001 逸周書-晉-孔晁
 :PROPERTIES:
+:KR_ID: KR2d0001
 :CUSTOM_ID:  ZB2d0002
 :SOURCE:   四庫全書 文淵閣版, V370.1, p1
 :EXTENT: 10 卷
@@ -18,8 +19,9 @@
 
 **** 版本
 ***** WYG
-*** KR2d0002 [[mandoku:ZB2d0003.org][ZB2d0003]] 東觀漢記
+*** KR2d0002 東觀漢記-漢-劉珍
 :PROPERTIES:
+:KR_ID: KR2d0002
 :CUSTOM_ID:  ZB2d0003
 :SOURCE:   四庫全書 文淵閣版, V370.2, p65
 :EXTENT: 24 卷
@@ -36,8 +38,9 @@
 
 **** 版本
 ***** WYG
-*** KR2d0003 [[mandoku:ZB2d0004.org][ZB2d0004]] 建康實錄
+*** KR2d0003 建康實錄-唐-許嵩
 :PROPERTIES:
+:KR_ID: KR2d0003
 :CUSTOM_ID:  ZB2d0004
 :SOURCE:   四庫全書 文淵閣版, V370.3, p225
 :EXTENT: 20 卷
@@ -53,8 +56,9 @@
 
 **** 版本
 ***** WYG
-*** KR2d0004 [[mandoku:ZB2d0005.org][ZB2d0005]] 隆平集
+*** KR2d0004 隆平集-宋-曾鞏
 :PROPERTIES:
+:KR_ID: KR2d0004
 :CUSTOM_ID:  ZB2d0005
 :SOURCE:   四庫全書 文淵閣版, V371.1, p1
 :EXTENT: 20 卷
@@ -71,8 +75,9 @@
 
 **** 版本
 ***** WYG
-*** KR2d0005 [[mandoku:ZB2d0006.org][ZB2d0006]] 古史
+*** KR2d0005 古史-宋-蘇轍
 :PROPERTIES:
+:KR_ID: KR2d0005
 :CUSTOM_ID:  ZB2d0006
 :SOURCE:   四庫全書 文淵閣版, V371.2, p205
 :EXTENT: 60 卷
@@ -89,8 +94,9 @@
 
 **** 版本
 ***** WYG
-*** KR2d0006 [[mandoku:ZB2d0007.org][ZB2d0007]] 通志
+*** KR2d0006 通志-宋-鄭樵
 :PROPERTIES:
+:KR_ID: KR2d0006
 :CUSTOM_ID:  ZB2d0007
 :SOURCE:   四庫全書 文淵閣版, V372.1, p1 - V381.1
 :EXTENT: 200 卷
@@ -107,8 +113,9 @@
 
 **** 版本
 ***** WYG
-*** KR2d0007 [[mandoku:ZB2d0008.org][ZB2d0008]] 東都事略
+*** KR2d0007 東都事略-宋-王稱
 :PROPERTIES:
+:KR_ID: KR2d0007
 :CUSTOM_ID:  ZB2d0008
 :SOURCE:   四庫全書 文淵閣版, V382.1, p1
 :EXTENT: 130 卷
@@ -125,8 +132,9 @@
 
 **** 版本
 ***** WYG
-*** KR2d0008 [[mandoku:ZB2d0009.org][ZB2d0009]] 路史
+*** KR2d0008 路史-宋-羅泌
 :PROPERTIES:
+:KR_ID: KR2d0008
 :CUSTOM_ID:  ZB2d0009
 :SOURCE:   四庫全書 文淵閣版, V383.1, p1
 :EXTENT: 47 卷
@@ -143,8 +151,9 @@
 
 **** 版本
 ***** WYG
-*** KR2d0009 [[mandoku:ZB2d0010.org][ZB2d0010]] 欽定書訂契丹國志
+*** KR2d0009 欽定書訂契丹國志-宋-葉隆禮
 :PROPERTIES:
+:KR_ID: KR2d0009
 :CUSTOM_ID:  ZB2d0010
 :SOURCE:   四庫全書 文淵閣版, V383.2, p655
 :EXTENT: 28 卷
@@ -168,8 +177,9 @@
       :BOOK:   (6)
       :END:
 
-*** KR2d0010 [[mandoku:ZB2d0011.org][ZB2d0011]] 欽定重訂大金國志
+*** KR2d0010 欽定重訂大金國志-宋-宇文懋昭
 :PROPERTIES:
+:KR_ID: KR2d0010
 :CUSTOM_ID:  ZB2d0011
 :SOURCE:   四庫全書 文淵閣版, V383.3, p805
 :EXTENT: 41 卷
@@ -193,8 +203,9 @@
       :BOOK:   (8)
       :END:
 
-*** KR2d0011 [[mandoku:ZB2d0012.org][ZB2d0012]] 古今紀要
+*** KR2d0011 古今紀要-宋-黃震
 :PROPERTIES:
+:KR_ID: KR2d0011
 :CUSTOM_ID:  ZB2d0012
 :SOURCE:   四庫全書 文淵閣版, V384.1, p1
 :EXTENT: 19 卷
@@ -211,8 +222,9 @@
 
 **** 版本
 ***** WYG
-*** KR2d0012 [[mandoku:ZB2d0013.org][ZB2d0013]] 蕭氏續後漢書
+*** KR2d0012 蕭氏續後漢書-宋-蕭常
 :PROPERTIES:
+:KR_ID: KR2d0012
 :CUSTOM_ID:  ZB2d0013
 :SOURCE:   四庫全書 文淵閣版, V384.2, p385
 :EXTENT: 44 卷
@@ -235,15 +247,16 @@
       :BOOK:   (12)
       :END:
 
-**** [[mandoku:ZB2d0013a.org][ZB2d0013a]] (附)續後漢書音義
+**** (附)續後漢書音義
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 4 卷
       :BOOK:   (12)
       :END:
 
-*** KR2d0013 [[mandoku:ZB2d0014.org][ZB2d0014]] 郝氏續後漢書
+*** KR2d0013 郝氏續後漢書-元-郝經
 :PROPERTIES:
+:KR_ID: KR2d0013
 :CUSTOM_ID:  ZB2d0014
 :SOURCE:   四庫全書 文淵閣版, V385.1, p1 - V386.1
 :EXTENT: 存87 卷
@@ -266,8 +279,9 @@
 
 **** 版本
 ***** WYG
-*** KR2d0014 SB32n412 元朝秘史
+*** KR2d0014 元朝秘史-元-
 :PROPERTIES:
+:KR_ID: KR2d0014
 :TYPE:  text
 :CUSTOM_ID: SB32n412
 :EXTENT: 十卷
@@ -302,8 +316,9 @@
 [[krpimg:sbck/SB3/SB32n412/SB32n412_008-002.tif][冊 8]]
 [[krpimg:sbck/SB3/SB32n412/SB32n412_009-002.tif][冊 9]]
 [[krpimg:sbck/SB3/SB32n412/SB32n412_010-002.tif][冊 10]]
-*** KR2d0015 [[mandoku:ZB2d0015.org][ZB2d0015]] 春秋別典
+*** KR2d0015 春秋別典-明-薛虞畿
 :PROPERTIES:
+:KR_ID: KR2d0015
 :CUSTOM_ID:  ZB2d0015
 :SOURCE:   四庫全書 文淵閣版, V386.2, p589
 :EXTENT: 15 卷
@@ -319,8 +334,9 @@
 
 **** 版本
 ***** WYG
-*** KR2d0016 SB32n413 明史鈔略殘
+*** KR2d0016 明史鈔略殘-明-
 :PROPERTIES:
+:KR_ID: KR2d0016
 :TYPE:  text
 :CUSTOM_ID: SB32n413
 :EXTENT: 七卷
@@ -348,8 +364,9 @@
 [[krpimg:sbck/SB3/SB32n413/SB32n413_002-002.tif][冊 2]]
 [[krpimg:sbck/SB3/SB32n413/SB32n413_003-002.tif][冊 3]]
 
-*** KR2d0017 SB32n414 罪惟錄
+*** KR2d0017 罪惟錄-明-
 :PROPERTIES:
+:KR_ID: KR2d0017
 :TYPE:  text
 :CUSTOM_ID: SB32n414
 :EXTENT: 九十卷
@@ -434,8 +451,9 @@
 [[krpimg:sbck/SB3/SB32n414/SB32n414_059-002.tif][冊 59]]
 [[krpimg:sbck/SB3/SB32n414/SB32n414_060-002.tif][冊 60]]
 
-*** KR2d0018 SB32n415 東山國語
+*** KR2d0018 東山國語-明-
     :PROPERTIES:
+:KR_ID: KR2d0018
     :_RESP:    （明）查繼佐,（明）沈仲方
     :EXTENT: 不分卷
     :ZB_ID:    SB32n415
@@ -465,8 +483,9 @@
 [[krpimg:sbck/SB3/SB32n415/SB32n415_001-002.tif][冊 1]]
 [[krpimg:sbck/SB3/SB32n415/SB32n415_002-002.tif][冊 2]]
 
-*** KR2d0019 [[mandoku:ZB2d0016.org][ZB2d0016]] 御定歷代紀事年表
+*** KR2d0019 御定歷代紀事年表-清-王之樞
 :PROPERTIES:
+:KR_ID: KR2d0019
 :CUSTOM_ID:  ZB2d0016
 :SOURCE:   四庫全書 文淵閣版, V387.1, p1 - V391.1
 :EXTENT: 100 卷
@@ -502,8 +521,9 @@
       :BOOK:   (98)
       :END:
 
-*** KR2d0020 [[mandoku:ZB2d0017.org][ZB2d0017]] 欽定續通志
+*** KR2d0020 欽定續通志-清-嵇璜
 :PROPERTIES:
+:KR_ID: KR2d0020
 :CUSTOM_ID:  ZB2d0017
 :SOURCE:   四庫全書 文淵閣版, V392.1, p1 - V401.1
 :EXTENT: 640 卷
@@ -527,8 +547,9 @@
 
 **** 版本
 ***** WYG
-*** KR2d0021 [[mandoku:ZB2d0018.org][ZB2d0018]] 補歷代史表
+*** KR2d0021 補歷代史表-清-萬斯同
 :PROPERTIES:
+:KR_ID: KR2d0021
 :CUSTOM_ID:  ZB2d0018
 :SOURCE:   四庫全書 文淵閣版, V402.1, p1
 :EXTENT: 53 卷
@@ -545,8 +566,9 @@
 
 **** 版本
 ***** WYG
-*** KR2d0022 [[mandoku:ZB2d0019.org][ZB2d0019]] 後漢書補逸
+*** KR2d0022 後漢書補逸-清-姚之駰
 :PROPERTIES:
+:KR_ID: KR2d0022
 :CUSTOM_ID:  ZB2d0019
 :SOURCE:   四庫全書 文淵閣版, V402.2, p325
 :EXTENT: 21 卷
@@ -563,8 +585,9 @@
 
 **** 版本
 ***** WYG
-*** KR2d0023 [[mandoku:ZB2d0020.org][ZB2d0020]] 春秋戰國異辭
+*** KR2d0023 春秋戰國異辭-清-陳厚耀
 :PROPERTIES:
+:KR_ID: KR2d0023
 :CUSTOM_ID:  ZB2d0020
 :SOURCE:   四庫全書 文淵閣版, V403.1, p1
 :EXTENT: 54 卷
@@ -595,8 +618,9 @@
       :BOOK:   (28)
       :END:
 
-*** KR2d0024 [[mandoku:ZB2d0021.org][ZB2d0021]] 尚史
+*** KR2d0024 尚史-清-李鍇
 :PROPERTIES:
+:KR_ID: KR2d0024
 :CUSTOM_ID:  ZB2d0021
 :SOURCE:   四庫全書 文淵閣版, V404.1, p1 - V405.1
 :EXTENT: 107 卷

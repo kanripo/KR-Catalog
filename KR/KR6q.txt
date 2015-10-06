@@ -1,8 +1,9 @@
 # -*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID %15EXTENT %30DYNASTY
 ** KR6q ZB6q 禪宗部類
-*** KR6q0001 [[mandoku:ZB6q0001.org][ZB6q0001]]  [[cbeta:T/T51n2075/T51n2075.org][T51n2075]] 曆代法寶記
+*** KR6q0001 曆代法寶記--
 :PROPERTIES: 
+:KR_ID: KR6q0001
 :BASEEDITION:  T
 :CBETA_ID:  T51n2075
 :GENRE: 史傳
@@ -27,8 +28,9 @@
 :WITID: wit49
 :END:
 
-*** KR6q0002 [[mandoku:ZB6q0002.org][ZB6q0002]] K45n1503 祖堂集
+*** KR6q0002 祖堂集-南唐-
 :PROPERTIES: 
+:KR_ID: KR6q0002
 :BASEEDITION:  Yan
 :CBETA_ID:  K45n1503
 :GENRE: 史傳
@@ -38,8 +40,9 @@
 :EXTENT:  20卷
 :END:
 
-*** KR6q0003 [[mandoku:ZB6q0003.org][ZB6q0003]]  [[cbeta:T/T51n2076/T51n2076.org][T51n2076]] 景德傳燈錄
+*** KR6q0003 景德傳燈錄-宋-道原
 :PROPERTIES: 
+:KR_ID: KR6q0003
 :BASEEDITION:  T
 :CBETA_ID:  T51n2076
 :GENRE: 史傳
@@ -90,8 +93,9 @@
 :WITID: wit6
 :END:
 
-*** KR6q0004 [[mandoku:ZB6q0004.org][ZB6q0004]]  [[cbeta:X/X78n1553/X78n1553.org][X78n1553]] 天聖廣燈錄
+*** KR6q0004 天聖廣燈錄-宋-李遵勗
 :PROPERTIES: 
+:KR_ID: KR6q0004
 :BASEEDITION:  X
 :CBETA_ID:  X78n1553
 :GENRE: 史傳
@@ -117,8 +121,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0005 [[mandoku:ZB6q0005.org][ZB6q0005]]  [[cbeta:X/X78n1554/X78n1554.org][X78n1554]] 五家正宗贊
+*** KR6q0005 五家正宗贊-宋-紹曇
 :PROPERTIES: 
+:KR_ID: KR6q0005
 :BASEEDITION:  X
 :CBETA_ID:  X78n1554
 :GENRE: 史傳
@@ -144,8 +149,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0006 [[mandoku:ZB6q0006.org][ZB6q0006]]  [[cbeta:X/X78n1555/X78n1555.org][X78n1555]] 建中靖國續燈錄目錄
+*** KR6q0006 建中靖國續燈錄目錄-宋-惟白
 :PROPERTIES: 
+:KR_ID: KR6q0006
 :BASEEDITION:  X
 :CBETA_ID:  X78n1555
 :GENRE: 史傳
@@ -171,8 +177,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0007 [[mandoku:ZB6q0007.org][ZB6q0007]]  [[cbeta:X/X78n1556/X78n1556.org][X78n1556]] 建中靖國續燈錄
+*** KR6q0007 建中靖國續燈錄-宋-惟白
 :PROPERTIES: 
+:KR_ID: KR6q0007
 :BASEEDITION:  X
 :CBETA_ID:  X78n1556
 :GENRE: 史傳
@@ -198,8 +205,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0008 [[mandoku:ZB6q0008.org][ZB6q0008]]  [[cbeta:X/X79n1557/X79n1557.org][X79n1557]] 聯燈會要
+*** KR6q0008 聯燈會要-宋-悟明
 :PROPERTIES: 
+:KR_ID: KR6q0008
 :BASEEDITION:  X
 :CBETA_ID:  X79n1557
 :GENRE: 史傳
@@ -230,8 +238,9 @@
 :WITID: wit7
 :END:
 
-*** KR6q0009 [[mandoku:ZB6q0009.org][ZB6q0009]]  [[cbeta:X/X79n1558/X79n1558.org][X79n1558]] 嘉泰普燈錄總目錄
+*** KR6q0009 嘉泰普燈錄總目錄-宋-正受
 :PROPERTIES: 
+:KR_ID: KR6q0009
 :BASEEDITION:  X
 :CBETA_ID:  X79n1558
 :GENRE: 史傳
@@ -257,8 +266,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0010 [[mandoku:ZB6q0010.org][ZB6q0010]]  [[cbeta:X/X79n1559/X79n1559.org][X79n1559]] 嘉泰普燈錄
+*** KR6q0010 嘉泰普燈錄-宋-正受
 :PROPERTIES: 
+:KR_ID: KR6q0010
 :BASEEDITION:  X
 :CBETA_ID:  X79n1559
 :GENRE: 史傳
@@ -289,8 +299,9 @@
 :WITID: wit4
 :END:
 
-*** KR6q0011 [[mandoku:ZB6q0011.org][ZB6q0011]]  [[cbeta:X/X80n1564/X80n1564.org][X80n1564]] 五燈會元目錄
+*** KR6q0011 五燈會元目錄-宋-普濟
 :PROPERTIES: 
+:KR_ID: KR6q0011
 :BASEEDITION:  X
 :CBETA_ID:  X80n1564
 :GENRE: 史傳
@@ -316,8 +327,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0012 [[mandoku:ZB6q0012.org][ZB6q0012]]  [[cbeta:X/X80n1565/X80n1565.org][X80n1565]] ZB3m0011 五燈會元
+*** KR6q0012 五燈會元-宋-普濟
 :PROPERTIES: 
+:KR_ID: KR6q0012
 :BASEEDITION:  X
 :CBETA_ID:  X80n1565
 :GENRE: 史傳
@@ -343,7 +355,7 @@
 :WITID: wit9
 :END:
 
-***** WYG [[mandoku:ZB3m0011.org][ZB3m0011]] 五燈會元
+***** WYG 五燈會元
 :PROPERTIES:
 :CUSTOM_ID:  ZB3m0011
 :SOURCE:   四庫全書 文淵閣版, V1053.1, p1
@@ -358,8 +370,9 @@
        	:END:
 
 
-*** KR6q0013 [[mandoku:ZB6q0013.org][ZB6q0013]]  [[cbeta:X/X80n1566/X80n1566.org][X80n1566]] 五燈會元續略
+*** KR6q0013 五燈會元續略-明-淨柱
 :PROPERTIES: 
+:KR_ID: KR6q0013
 :BASEEDITION:  X
 :CBETA_ID:  X80n1566
 :GENRE: 史傳
@@ -385,8 +398,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0014 [[mandoku:ZB6q0014.org][ZB6q0014]]  [[cbeta:X/X85n1593/X85n1593.org][X85n1593]] 禪宗正脉
+*** KR6q0014 禪宗正脉-明-如巹
 :PROPERTIES: 
+:KR_ID: KR6q0014
 :BASEEDITION:  X
 :CBETA_ID:  X85n1593
 :GENRE: 史傳
@@ -412,8 +426,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0015 [[mandoku:ZB6q0015.org][ZB6q0015]]  [[cbeta:X/X83n1572/X83n1572.org][X83n1572]] 續傳燈錄目錄
+*** KR6q0015 續傳燈錄目錄--
 :PROPERTIES: 
+:KR_ID: KR6q0015
 :BASEEDITION:  X
 :CBETA_ID:  X83n1572
 :GENRE: 史傳
@@ -433,8 +448,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0016 [[mandoku:ZB6q0016.org][ZB6q0016]]  [[cbeta:T/T51n2077/T51n2077.org][T51n2077]] 續傳燈錄
+*** KR6q0016 續傳燈錄--
 :PROPERTIES: 
+:KR_ID: KR6q0016
 :BASEEDITION:  T
 :CBETA_ID:  T51n2077
 :GENRE: 史傳
@@ -459,8 +475,9 @@
 :WITID: wit9
 :END:
 
-*** KR6q0017 [[mandoku:ZB6q0017.org][ZB6q0017]]  [[cbeta:X/X83n1574/X83n1574.org][X83n1574]] 增集續傳燈錄
+*** KR6q0017 增集續傳燈錄-明-文琇
 :PROPERTIES: 
+:KR_ID: KR6q0017
 :BASEEDITION:  X
 :CBETA_ID:  X83n1574
 :GENRE: 史傳
@@ -486,8 +503,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0018 [[mandoku:ZB6q0018.org][ZB6q0018]]  [[cbeta:X/X80n1567/X80n1567.org][X80n1567]] 五燈嚴統目錄
+*** KR6q0018 五燈嚴統目錄-明-通容
 :PROPERTIES: 
+:KR_ID: KR6q0018
 :BASEEDITION:  X
 :CBETA_ID:  X80n1567
 :GENRE: 史傳
@@ -513,8 +531,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0019 [[mandoku:ZB6q0019.org][ZB6q0019]]  [[cbeta:X/X80n1568/X80n1568.org][X80n1568]] 五燈嚴統
+*** KR6q0019 五燈嚴統-明-通容
 :PROPERTIES: 
+:KR_ID: KR6q0019
 :BASEEDITION:  X
 :CBETA_ID:  X80n1568
 :GENRE: 史傳
@@ -540,8 +559,9 @@
 :WITID: wit9
 :END:
 
-*** KR6q0020 [[mandoku:ZB6q0020.org][ZB6q0020]]  [[cbeta:X/X81n1569/X81n1569.org][X81n1569]] 五燈嚴統解惑編
+*** KR6q0020 五燈嚴統解惑編-明-通容
 :PROPERTIES: 
+:KR_ID: KR6q0020
 :BASEEDITION:  X
 :CBETA_ID:  X81n1569
 :GENRE: 史傳
@@ -567,8 +587,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0021 [[mandoku:ZB6q0021.org][ZB6q0021]]  [[cbeta:X/X81n1570/X81n1570.org][X81n1570]] 五燈全書目錄
+*** KR6q0021 五燈全書目錄-清-超永
 :PROPERTIES: 
+:KR_ID: KR6q0021
 :BASEEDITION:  X
 :CBETA_ID:  X81n1570
 :GENRE: 史傳
@@ -594,8 +615,9 @@
 :WITID: wit9
 :END:
 
-*** KR6q0022 [[mandoku:ZB6q0022.org][ZB6q0022]]  [[cbeta:X/X81n1571/X81n1571.org][X81n1571]] 五燈全書
+*** KR6q0022 五燈全書-清-超永
 :PROPERTIES: 
+:KR_ID: KR6q0022
 :BASEEDITION:  X
 :CBETA_ID:  X81n1571
 :GENRE: 史傳
@@ -621,8 +643,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0023 [[mandoku:ZB6q0023.org][ZB6q0023]]  [[cbeta:X/X83n1578/X83n1578.org][X83n1578]] 指月錄
+*** KR6q0023 指月錄-明-瞿汝稷
 :PROPERTIES: 
+:KR_ID: KR6q0023
 :BASEEDITION:  X
 :CBETA_ID:  X83n1578
 :GENRE: 史傳
@@ -648,8 +671,9 @@
 :WITID: wit9
 :END:
 
-*** KR6q0024 [[mandoku:ZB6q0024.org][ZB6q0024]]  [[cbeta:X/X84n1579/X84n1579.org][X84n1579]] 續指月錄
+*** KR6q0024 續指月錄-清-聶先
 :PROPERTIES: 
+:KR_ID: KR6q0024
 :BASEEDITION:  X
 :CBETA_ID:  X84n1579
 :GENRE: 史傳
@@ -675,8 +699,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0025 [[mandoku:ZB6q0025.org][ZB6q0025]]  [[cbeta:X/X85n1592/X85n1592.org][X85n1592]] 揞黑豆集
+*** KR6q0025 揞黑豆集-清-心圓
 :PROPERTIES: 
+:KR_ID: KR6q0025
 :BASEEDITION:  X
 :CBETA_ID:  X85n1592
 :GENRE: 史傳
@@ -706,8 +731,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0026 [[mandoku:ZB6q0026.org][ZB6q0026]]  [[cbeta:X/X84n1580/X84n1580.org][X84n1580]] 教外別傳
+*** KR6q0026 教外別傳-明-黎眉
 :PROPERTIES: 
+:KR_ID: KR6q0026
 :BASEEDITION:  X
 :CBETA_ID:  X84n1580
 :GENRE: 史傳
@@ -733,8 +759,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0027 [[mandoku:ZB6q0027.org][ZB6q0027]]  [[cbeta:X/X84n1582/X84n1582.org][X84n1582]] 續燈正統目錄
+*** KR6q0027 續燈正統目錄-清-性統
 :PROPERTIES: 
+:KR_ID: KR6q0027
 :BASEEDITION:  X
 :CBETA_ID:  X84n1582
 :GENRE: 史傳
@@ -760,8 +787,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0028 [[mandoku:ZB6q0028.org][ZB6q0028]]  [[cbeta:X/X84n1583/X84n1583.org][X84n1583]] 續燈正統
+*** KR6q0028 續燈正統-清-性統
 :PROPERTIES: 
+:KR_ID: KR6q0028
 :BASEEDITION:  X
 :CBETA_ID:  X84n1583
 :GENRE: 史傳
@@ -787,8 +815,9 @@
 :WITID: wit9
 :END:
 
-*** KR6q0029 [[mandoku:ZB6q0029.org][ZB6q0029]]  [[cbeta:X/X84n1584/X84n1584.org][X84n1584]] 續燈存稿目錄
+*** KR6q0029 續燈存稿目錄--
 :PROPERTIES: 
+:KR_ID: KR6q0029
 :BASEEDITION:  X
 :CBETA_ID:  X84n1584
 :GENRE: 史傳
@@ -808,8 +837,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0030 [[mandoku:ZB6q0030.org][ZB6q0030]]  [[cbeta:X/X84n1585/X84n1585.org][X84n1585]] 續燈存稿
+*** KR6q0030 續燈存稿-明-通問
 :PROPERTIES: 
+:KR_ID: KR6q0030
 :BASEEDITION:  X
 :CBETA_ID:  X84n1585
 :GENRE: 史傳
@@ -839,8 +869,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0031 [[mandoku:ZB6q0031.org][ZB6q0031]]  [[cbeta:X/X85n1586/X85n1586.org][X85n1586]] 正源略集目錄
+*** KR6q0031 正源略集目錄--
 :PROPERTIES: 
+:KR_ID: KR6q0031
 :BASEEDITION:  X
 :CBETA_ID:  X85n1586
 :GENRE: 史傳
@@ -860,8 +891,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0032 [[mandoku:ZB6q0032.org][ZB6q0032]]  [[cbeta:X/X85n1587/X85n1587.org][X85n1587]] 正源略集
+*** KR6q0032 正源略集-清-際源
 :PROPERTIES: 
+:KR_ID: KR6q0032
 :BASEEDITION:  X
 :CBETA_ID:  X85n1587
 :GENRE: 史傳
@@ -895,8 +927,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0033 [[mandoku:ZB6q0033.org][ZB6q0033]]  [[cbeta:X/X85n1588/X85n1588.org][X85n1588]] 正源略集補遺
+*** KR6q0033 正源略集補遺-清-達珍
 :PROPERTIES: 
+:KR_ID: KR6q0033
 :BASEEDITION:  X
 :CBETA_ID:  X85n1588
 :GENRE: 史傳
@@ -922,8 +955,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0034 [[mandoku:ZB6q0034.org][ZB6q0034]]  [[cbeta:X/X85n1589/X85n1589.org][X85n1589]] 錦江禪燈目錄
+*** KR6q0034 錦江禪燈目錄-清-通醉
 :PROPERTIES: 
+:KR_ID: KR6q0034
 :BASEEDITION:  X
 :CBETA_ID:  X85n1589
 :GENRE: 史傳
@@ -949,8 +983,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0035 [[mandoku:ZB6q0035.org][ZB6q0035]]  [[cbeta:X/X85n1590/X85n1590.org][X85n1590]] 錦江禪燈
+*** KR6q0035 錦江禪燈-清-通醉
 :PROPERTIES: 
+:KR_ID: KR6q0035
 :BASEEDITION:  X
 :CBETA_ID:  X85n1590
 :GENRE: 史傳
@@ -976,8 +1011,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0036 [[mandoku:ZB6q0036.org][ZB6q0036]]  [[cbeta:X/X85n1591/X85n1591.org][X85n1591]] 黔南會燈錄
+*** KR6q0036 黔南會燈錄-清-如純
 :PROPERTIES: 
+:KR_ID: KR6q0036
 :BASEEDITION:  X
 :CBETA_ID:  X85n1591
 :GENRE: 史傳
@@ -1003,8 +1039,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0037 [[mandoku:ZB6q0037.org][ZB6q0037]]  [[cbeta:X/X86n1609/X86n1609.org][X86n1609]] 普陀列祖錄
+*** KR6q0037 普陀列祖錄-清-通旭
 :PROPERTIES: 
+:KR_ID: KR6q0037
 :BASEEDITION:  X
 :CBETA_ID:  X86n1609
 :GENRE: 史傳
@@ -1030,8 +1067,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0038 [[mandoku:ZB6q0038.org][ZB6q0038]]  [[cbeta:X/X86n1605/X86n1605.org][X86n1605]] 繼燈錄
+*** KR6q0038 繼燈錄-明-元賢
 :PROPERTIES: 
+:KR_ID: KR6q0038
 :BASEEDITION:  X
 :CBETA_ID:  X86n1605
 :GENRE: 史傳
@@ -1057,8 +1095,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0039 [[mandoku:ZB6q0039.org][ZB6q0039]]  [[cbeta:X/X86n1607/X86n1607.org][X86n1607]] 居士分燈錄
+*** KR6q0039 居士分燈錄-明-朱時恩
 :PROPERTIES: 
+:KR_ID: KR6q0039
 :BASEEDITION:  X
 :CBETA_ID:  X86n1607
 :GENRE: 史傳
@@ -1084,8 +1123,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0040 [[mandoku:ZB6q0040.org][ZB6q0040]]  [[cbeta:X/X79n1560/X79n1560.org][X79n1560]] ZB3m0008 禪林僧寶傳
+*** KR6q0040 禪林僧寶傳-宋-惠洪
 :PROPERTIES: 
+:KR_ID: KR6q0040
 :BASEEDITION:  X
 :CBETA_ID:  X79n1560
 :GENRE: 史傳
@@ -1111,7 +1151,7 @@
 :WITID: wit99
 :END:
 
-***** WYG [[mandoku:ZB3m0008.org][ZB3m0008]] 禪林僧寶傳
+***** WYG 禪林僧寶傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB3m0008
 :SOURCE:   四庫全書 文淵閣版, V1052.4, p639
@@ -1126,7 +1166,7 @@
        	:DATES:    1071 - 1128
        	:END:
 
-****** [[mandoku:ZB3m0008b.org][ZB3m0008b]] (附)補禪林僧寶傳
+****** (附)補禪林僧寶傳
        	:PROPERTIES:
        	:TYPE:   appendix
        	:EXTENT: 1 卷
@@ -1139,7 +1179,7 @@
        	:FUNCTION: 撰
        	:END:
 
-****** [[mandoku:ZB3m0008a.org][ZB3m0008a]] 臨濟宗旨
+****** 臨濟宗旨
        	:PROPERTIES:
        	:TYPE:   appendix
        	:EXTENT: 1 卷
@@ -1154,8 +1194,9 @@
        	:END:
 
 
-*** KR6q0041 [[mandoku:ZB6q0041.org][ZB6q0041]]  [[cbeta:X/X79n1561/X79n1561.org][X79n1561]] 僧寶正續傳
+*** KR6q0041 僧寶正續傳-宋-祖琇
 :PROPERTIES: 
+:KR_ID: KR6q0041
 :BASEEDITION:  X
 :CBETA_ID:  X79n1561
 :GENRE: 史傳
@@ -1181,8 +1222,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0042 [[mandoku:ZB6q0042.org][ZB6q0042]]  [[cbeta:X/X79n1562/X79n1562.org][X79n1562]] 南宋元明禪林僧寶傳
+*** KR6q0042 南宋元明禪林僧寶傳-清-自融
 :PROPERTIES: 
+:KR_ID: KR6q0042
 :BASEEDITION:  X
 :CBETA_ID:  X79n1562
 :GENRE: 史傳
@@ -1212,8 +1254,9 @@
 :WITID: wit9
 :END:
 
-*** KR6q0043 [[mandoku:ZB6q0043.org][ZB6q0043]]  [[cbeta:X/X84n1581/X84n1581.org][X84n1581]] 皇明名僧輯略
+*** KR6q0043 皇明名僧輯略-明-袾宏
 :PROPERTIES: 
+:KR_ID: KR6q0043
 :BASEEDITION:  X
 :CBETA_ID:  X84n1581
 :GENRE: 史傳
@@ -1239,8 +1282,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0044 [[mandoku:ZB6q0044.org][ZB6q0044]]  [[cbeta:X/X86n1606/X86n1606.org][X86n1606]] 建州弘釋錄
+*** KR6q0044 建州弘釋錄-明-元賢
 :PROPERTIES: 
+:KR_ID: KR6q0044
 :BASEEDITION:  X
 :CBETA_ID:  X86n1606
 :GENRE: 史傳
@@ -1266,8 +1310,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0045 [[mandoku:ZB6q0045.org][ZB6q0045]]  [[cbeta:X/X86n1608/X86n1608.org][X86n1608]] 八十八祖道影傳贊
+*** KR6q0045 八十八祖道影傳贊-明-德清
 :PROPERTIES: 
+:KR_ID: KR6q0045
 :BASEEDITION:  X
 :CBETA_ID:  X86n1608
 :GENRE: 史傳
@@ -1297,8 +1342,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0046 [[mandoku:ZB6q0046.org][ZB6q0046]]  [[cbeta:X/X87n1616/X87n1616.org][X87n1616]] 山菴雜錄
+*** KR6q0046 山菴雜錄-明-無慍
 :PROPERTIES: 
+:KR_ID: KR6q0046
 :BASEEDITION:  X
 :CBETA_ID:  X87n1616
 :GENRE: 史傳
@@ -1324,8 +1370,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0047 [[mandoku:ZB6q0047.org][ZB6q0047]]  [[cbeta:X/X87n1617/X87n1617.org][X87n1617]] 正宗心印後續聯芳
+*** KR6q0047 正宗心印後續聯芳-明-善燦
 :PROPERTIES: 
+:KR_ID: KR6q0047
 :BASEEDITION:  X
 :CBETA_ID:  X87n1617
 :GENRE: 史傳
@@ -1351,8 +1398,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0048 [[mandoku:ZB6q0048.org][ZB6q0048]]  [[cbeta:X/X87n1618/X87n1618.org][X87n1618]] 祖庭指南
+*** KR6q0048 祖庭指南-清-徐昌治
 :PROPERTIES: 
+:KR_ID: KR6q0048
 :BASEEDITION:  X
 :CBETA_ID:  X87n1618
 :GENRE: 史傳
@@ -1378,8 +1426,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0049 [[mandoku:ZB6q0049.org][ZB6q0049]]  [[cbeta:X/X87n1619/X87n1619.org][X87n1619]] 先覺集
+*** KR6q0049 先覺集-明-陶明潛
 :PROPERTIES: 
+:KR_ID: KR6q0049
 :BASEEDITION:  X
 :CBETA_ID:  X87n1619
 :GENRE: 史傳
@@ -1405,8 +1454,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0050 [[mandoku:ZB6q0050.org][ZB6q0050]]  [[cbeta:X/X87n1620/X87n1620.org][X87n1620]] 先覺宗乘
+*** KR6q0050 先覺宗乘-清-圓信
 :PROPERTIES: 
+:KR_ID: KR6q0050
 :BASEEDITION:  X
 :CBETA_ID:  X87n1620
 :GENRE: 史傳
@@ -1436,8 +1486,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0051 [[mandoku:ZB6q0051.org][ZB6q0051]]  [[cbeta:X/X87n1621/X87n1621.org][X87n1621]] 優婆夷志
+*** KR6q0051 優婆夷志-清-圓信
 :PROPERTIES: 
+:KR_ID: KR6q0051
 :BASEEDITION:  X
 :CBETA_ID:  X87n1621
 :GENRE: 史傳
@@ -1467,8 +1518,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0052 [[mandoku:ZB6q0052.org][ZB6q0052]]  [[cbeta:J/J23nB125/J23nB125.org][J23nB125]] 先覺宗乘（選錄「帝王問道錄」）
+*** KR6q0052 先覺宗乘（選錄「帝王問道錄」）-明-郭凝之
 :PROPERTIES: 
+:KR_ID: KR6q0052
 :BASEEDITION:  J
 :CBETA_ID:  J23nB125
 :CUSTOM_ID: ZB6q0052
@@ -1493,8 +1545,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0053 [[mandoku:ZB6q0053.org][ZB6q0053]]  [[cbeta:T/T47n1985/T47n1985.org][T47n1985]] 鎮州臨濟慧照禪師語錄
+*** KR6q0053 鎮州臨濟慧照禪師語錄-唐-慧然
 :PROPERTIES: 
+:KR_ID: KR6q0053
 :BASEEDITION:  T
 :CBETA_ID:  T47n1985
 :GENRE: 諸宗
@@ -1540,8 +1593,9 @@
 :WITID: wit50
 :END:
 
-*** KR6q0054 [[mandoku:ZB6q0054.org][ZB6q0054]]  [[cbeta:T/T47n1992/T47n1992.org][T47n1992]] 汾陽無德禪師語錄
+*** KR6q0054 汾陽無德禪師語錄-宋-楚圓
 :PROPERTIES: 
+:KR_ID: KR6q0054
 :BASEEDITION:  T
 :CBETA_ID:  T47n1992
 :GENRE: 諸宗
@@ -1577,8 +1631,9 @@
 :WITID: wit14
 :END:
 
-*** KR6q0055 [[mandoku:ZB6q0055.org][ZB6q0055]]  [[cbeta:T/T47n1993/T47n1993.org][T47n1993]] 黃龍慧南禪師語錄
+*** KR6q0055 黃龍慧南禪師語錄-宋-惠泉
 :PROPERTIES: 
+:KR_ID: KR6q0055
 :BASEEDITION:  T
 :CBETA_ID:  T47n1993
 :GENRE: 諸宗
@@ -1609,8 +1664,9 @@
 :WITID: wit6
 :END:
 
-*** KR6q0056 [[mandoku:ZB6q0056.org][ZB6q0056]]  [[cbeta:T/T47n1994A/T47n1994A.org][T47n1994A]] 楊岐方會和尚語錄
+*** KR6q0056 楊岐方會和尚語錄-宋-仁勇
 :PROPERTIES: 
+:KR_ID: KR6q0056
 :BASEEDITION:  T
 :CBETA_ID:  T47n1994A
 :GENRE: 諸宗
@@ -1631,8 +1687,9 @@
 :WITID: wit1
 :END:
 
-*** KR6q0057 [[mandoku:ZB6q0057.org][ZB6q0057]]  [[cbeta:T/T47n1994B/T47n1994B.org][T47n1994B]] 楊岐方會和尚後錄
+*** KR6q0057 楊岐方會和尚後錄--
 :PROPERTIES: 
+:KR_ID: KR6q0057
 :BASEEDITION:  T
 :CBETA_ID:  T47n1994B
 :GENRE: 諸宗
@@ -1657,8 +1714,9 @@
 :WITID: wit6
 :END:
 
-*** KR6q0058 [[mandoku:ZB6q0058.org][ZB6q0058]]  [[cbeta:T/T47n1995/T47n1995.org][T47n1995]] 法演禪師語錄
+*** KR6q0058 法演禪師語錄-宋-才良
 :PROPERTIES: 
+:KR_ID: KR6q0058
 :BASEEDITION:  T
 :CBETA_ID:  T47n1995
 :GENRE: 諸宗
@@ -1684,8 +1742,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0059 [[mandoku:ZB6q0059.org][ZB6q0059]]  [[cbeta:T/T47n1997/T47n1997.org][T47n1997]] 圓悟佛果禪師語錄
+*** KR6q0059 圓悟佛果禪師語錄-宋-紹隆
 :PROPERTIES: 
+:KR_ID: KR6q0059
 :BASEEDITION:  T
 :CBETA_ID:  T47n1997
 :GENRE: 諸宗
@@ -1716,8 +1775,9 @@
 :WITID: wit49
 :END:
 
-*** KR6q0060 [[mandoku:ZB6q0060.org][ZB6q0060]]  [[cbeta:T/T47n1998A/T47n1998A.org][T47n1998A]] 大慧普覺禪師語錄
+*** KR6q0060 大慧普覺禪師語錄-宋-蘊聞
 :PROPERTIES: 
+:KR_ID: KR6q0060
 :BASEEDITION:  T
 :CBETA_ID:  T47n1998A
 :GENRE: 諸宗
@@ -1773,8 +1833,9 @@
 :WITID: wit9
 :END:
 
-*** KR6q0061 [[mandoku:ZB6q0061.org][ZB6q0061]]  [[cbeta:T/T47n1998B/T47n1998B.org][T47n1998B]] 大慧普覺禪師宗門武庫
+*** KR6q0061 大慧普覺禪師宗門武庫-宋-道謙
 :PROPERTIES: 
+:KR_ID: KR6q0061
 :BASEEDITION:  T
 :CBETA_ID:  T47n1998B
 :GENRE: 諸宗
@@ -1800,8 +1861,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0062 [[mandoku:ZB6q0062.org][ZB6q0062]]  [[cbeta:M/M059n1540/M059n1540.org][M059n1540]] 大慧普覺禪師普說
+*** KR6q0062 大慧普覺禪師普說-宋-蘊聞
 :PROPERTIES: 
+:KR_ID: KR6q0062
 :BASEEDITION:  M
 :CBETA_ID:  M059n1540
 :CUSTOM_ID: ZB6q0062
@@ -1826,8 +1888,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0063 [[mandoku:ZB6q0063.org][ZB6q0063]]  [[cbeta:J/J01nA042/J01nA042.org][J01nA042]] 大慧普覺禪師年譜
+*** KR6q0063 大慧普覺禪師年譜-宋-祖詠
 :PROPERTIES: 
+:KR_ID: KR6q0063
 :BASEEDITION:  J
 :CBETA_ID:  J01nA042
 :CUSTOM_ID: ZB6q0063
@@ -1860,8 +1923,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0064 [[mandoku:ZB6q0064.org][ZB6q0064]]  [[cbeta:T/T47n1999/T47n1999.org][T47n1999]] 密菴和尚語錄
+*** KR6q0064 密菴和尚語錄-宋-崇岳
 :PROPERTIES: 
+:KR_ID: KR6q0064
 :BASEEDITION:  T
 :CBETA_ID:  T47n1999
 :GENRE: 諸宗
@@ -1896,8 +1960,9 @@
 :WITID: wit49
 :END:
 
-*** KR6q0065 [[mandoku:ZB6q0065.org][ZB6q0065]]  [[cbeta:T/T47n2000/T47n2000.org][T47n2000]] 虛堂和尚語錄
+*** KR6q0065 虛堂和尚語錄-宋-妙源
 :PROPERTIES: 
+:KR_ID: KR6q0065
 :BASEEDITION:  T
 :CBETA_ID:  T47n2000
 :GENRE: 諸宗
@@ -1933,8 +1998,9 @@
 :WITID: wit25
 :END:
 
-*** KR6q0066 [[mandoku:ZB6q0066.org][ZB6q0066]]  [[cbeta:T/T47n1986A/T47n1986A.org][T47n1986A]] 筠州洞山悟本禪師語錄
+*** KR6q0066 筠州洞山悟本禪師語錄-日本-慧印
 :PROPERTIES: 
+:KR_ID: KR6q0066
 :BASEEDITION:  T
 :CBETA_ID:  T47n1986A
 :GENRE: 諸宗
@@ -1970,8 +2036,9 @@
 :WITID: wit6
 :END:
 
-*** KR6q0067 [[mandoku:ZB6q0067.org][ZB6q0067]]  [[cbeta:T/T47n1986B/T47n1986B.org][T47n1986B]] 瑞州洞山良价禪師語錄
+*** KR6q0067 瑞州洞山良价禪師語錄-明-語風圓信
 :PROPERTIES: 
+:KR_ID: KR6q0067
 :BASEEDITION:  T
 :CBETA_ID:  T47n1986B
 :GENRE: 諸宗
@@ -2006,8 +2073,9 @@
 :WITID: wit6
 :END:
 
-*** KR6q0068 [[mandoku:ZB6q0068.org][ZB6q0068]]  [[cbeta:T/T47n1987A/T47n1987A.org][T47n1987A]] 撫州曹山元證禪師語錄
+*** KR6q0068 撫州曹山元證禪師語錄-日本-慧印
 :PROPERTIES: 
+:KR_ID: KR6q0068
 :BASEEDITION:  T
 :CBETA_ID:  T47n1987A
 :GENRE: 諸宗
@@ -2043,8 +2111,9 @@
 :WITID: wit49
 :END:
 
-*** KR6q0069 [[mandoku:ZB6q0069.org][ZB6q0069]]  [[cbeta:T/T47n1987B/T47n1987B.org][T47n1987B]] 撫州曹山本寂禪師語錄
+*** KR6q0069 撫州曹山本寂禪師語錄-日本-玄契
 :PROPERTIES: 
+:KR_ID: KR6q0069
 :BASEEDITION:  T
 :CBETA_ID:  T47n1987B
 :GENRE: 諸宗
@@ -2080,8 +2149,9 @@
 :WITID: wit6
 :END:
 
-*** KR6q0070 [[mandoku:ZB6q0070.org][ZB6q0070]]  [[cbeta:T/T48n2001/T48n2001.org][T48n2001]] 宏智禪師廣錄
+*** KR6q0070 宏智禪師廣錄-宋-宗法
 :PROPERTIES: 
+:KR_ID: KR6q0070
 :BASEEDITION:  T
 :CBETA_ID:  T48n2001
 :GENRE: 諸宗
@@ -2117,8 +2187,9 @@
 :WITID: wit49
 :END:
 
-*** KR6q0071 [[mandoku:ZB6q0071.org][ZB6q0071]]  [[cbeta:T/T48n2002A/T48n2002A.org][T48n2002A]] 如淨和尚語錄
+*** KR6q0071 如淨和尚語錄-宋-文素
 :PROPERTIES: 
+:KR_ID: KR6q0071
 :BASEEDITION:  T
 :CBETA_ID:  T48n2002A
 :GENRE: 諸宗
@@ -2149,8 +2220,9 @@
 :WITID: wit49
 :END:
 
-*** KR6q0072 [[mandoku:ZB6q0072.org][ZB6q0072]]  [[cbeta:T/T48n2002B/T48n2002B.org][T48n2002B]] 天童山景德寺如淨禪師續語錄
+*** KR6q0072 天童山景德寺如淨禪師續語錄-宋-義遠
 :PROPERTIES: 
+:KR_ID: KR6q0072
 :BASEEDITION:  T
 :CBETA_ID:  T48n2002B
 :GENRE: 諸宗
@@ -2171,8 +2243,9 @@
 :WITID: wit1
 :END:
 
-*** KR6q0073 [[mandoku:ZB6q0073.org][ZB6q0073]]  [[cbeta:T/T47n1988/T47n1988.org][T47n1988]] 雲門匡真禪師廣錄
+*** KR6q0073 雲門匡真禪師廣錄-宋-守堅
 :PROPERTIES: 
+:KR_ID: KR6q0073
 :BASEEDITION:  T
 :CBETA_ID:  T47n1988
 :GENRE: 諸宗
@@ -2213,8 +2286,9 @@
 :WITID: wit25
 :END:
 
-*** KR6q0074 [[mandoku:ZB6q0074.org][ZB6q0074]]  [[cbeta:T/T47n1996/T47n1996.org][T47n1996]] 明覺禪師語錄
+*** KR6q0074 明覺禪師語錄-宋-惟蓋竺
 :PROPERTIES: 
+:KR_ID: KR6q0074
 :BASEEDITION:  T
 :CBETA_ID:  T47n1996
 :GENRE: 諸宗
@@ -2240,8 +2314,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0075 [[mandoku:ZB6q0075.org][ZB6q0075]]  [[cbeta:T/T47n1989/T47n1989.org][T47n1989]] 潭州溈山靈祐禪師語錄
+*** KR6q0075 潭州溈山靈祐禪師語錄-明-語風圓信
 :PROPERTIES: 
+:KR_ID: KR6q0075
 :BASEEDITION:  T
 :CBETA_ID:  T47n1989
 :GENRE: 諸宗
@@ -2266,8 +2341,9 @@
 :WITID: wit1
 :END:
 
-*** KR6q0076 [[mandoku:ZB6q0076.org][ZB6q0076]]  [[cbeta:T/T47n1990/T47n1990.org][T47n1990]] 袁州仰山慧寂禪師語錄
+*** KR6q0076 袁州仰山慧寂禪師語錄-明-語風圓信
 :PROPERTIES: 
+:KR_ID: KR6q0076
 :BASEEDITION:  T
 :CBETA_ID:  T47n1990
 :GENRE: 諸宗
@@ -2297,8 +2373,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0077 [[mandoku:ZB6q0077.org][ZB6q0077]]  [[cbeta:T/T47n1991/T47n1991.org][T47n1991]] 金陵清涼院文益禪師語錄
+*** KR6q0077 金陵清涼院文益禪師語錄-明-語風圓信
 :PROPERTIES: 
+:KR_ID: KR6q0077
 :BASEEDITION:  T
 :CBETA_ID:  T47n1991
 :GENRE: 諸宗
@@ -2328,8 +2405,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0078 [[mandoku:ZB6q0078.org][ZB6q0078]]  [[cbeta:T/T48n2003/T48n2003.org][T48n2003]] 佛果圜悟禪師碧巖錄
+*** KR6q0078 佛果圜悟禪師碧巖錄-宋-重顯
 :PROPERTIES: 
+:KR_ID: KR6q0078
 :BASEEDITION:  T
 :CBETA_ID:  T48n2003
 :GENRE: 諸宗
@@ -2384,8 +2462,9 @@
 :WITID: wit59
 :END:
 
-*** KR6q0079 [[mandoku:ZB6q0079.org][ZB6q0079]]  [[cbeta:T/T48n2004/T48n2004.org][T48n2004]] 萬松老人評唱天童覺和尚頌古從容庵錄
+*** KR6q0079 萬松老人評唱天童覺和尚頌古從容庵錄-宋-正覺
 :PROPERTIES: 
+:KR_ID: KR6q0079
 :BASEEDITION:  T
 :CBETA_ID:  T48n2004
 :GENRE: 諸宗
@@ -2427,8 +2506,9 @@
 :WITID: wit49
 :END:
 
-*** KR6q0080 [[mandoku:ZB6q0080.org][ZB6q0080]]  [[cbeta:T/T48n2005/T48n2005.org][T48n2005]] 無門關
+*** KR6q0080 無門關-宋-宗紹
 :PROPERTIES: 
+:KR_ID: KR6q0080
 :BASEEDITION:  T
 :CBETA_ID:  T48n2005
 :GENRE: 諸宗
@@ -2459,8 +2539,9 @@
 :WITID: wit49
 :END:
 
-*** KR6q0081 [[mandoku:ZB6q0081.org][ZB6q0081]]  [[cbeta:T/T48n2006/T48n2006.org][T48n2006]] 人天眼目
+*** KR6q0081 人天眼目-宋-智昭
 :PROPERTIES: 
+:KR_ID: KR6q0081
 :BASEEDITION:  T
 :CBETA_ID:  T48n2006
 :GENRE: 諸宗
@@ -2506,8 +2587,9 @@
 :WITID: wit14
 :END:
 
-*** KR6q0082 [[mandoku:ZB6q0082.org][ZB6q0082]]  [[cbeta:T/T48n2007/T48n2007.org][T48n2007]] 南宗頓教最上大乘摩訶般若波羅蜜經六祖惠能大師於韶州大梵寺施法壇經
+*** KR6q0082 南宗頓教最上大乘摩訶般若波羅蜜經六祖惠能大師於韶州大梵寺施法壇經-唐-法海
 :PROPERTIES: 
+:KR_ID: KR6q0082
 :BASEEDITION:  T
 :CBETA_ID:  T48n2007
 :GENRE: 諸宗
@@ -2533,8 +2615,9 @@
 :WITID: wit4
 :END:
 
-*** KR6q0083 [[mandoku:ZB6q0083.org][ZB6q0083]]  [[cbeta:T/T48n2008/T48n2008.org][T48n2008]] 六祖大師法寶壇經
+*** KR6q0083 六祖大師法寶壇經-元-宗寶
 :PROPERTIES: 
+:KR_ID: KR6q0083
 :BASEEDITION:  T
 :CBETA_ID:  T48n2008
 :GENRE: 諸宗
@@ -2570,8 +2653,9 @@
 :WITID: wit49
 :END:
 
-*** KR6q0084 [[mandoku:ZB6q0084.org][ZB6q0084]]  [[cbeta:T/T48n2009/T48n2009.org][T48n2009]] 少室六門
+*** KR6q0084 少室六門--
 :PROPERTIES: 
+:KR_ID: KR6q0084
 :BASEEDITION:  T
 :CBETA_ID:  T48n2009
 :GENRE: 諸宗
@@ -2591,8 +2675,9 @@
 :WITID: wit4
 :END:
 
-*** KR6q0085 [[mandoku:ZB6q0085.org][ZB6q0085]]  [[cbeta:T/T48n2010/T48n2010.org][T48n2010]] 信心銘
+*** KR6q0085 信心銘-隋-僧璨
 :PROPERTIES: 
+:KR_ID: KR6q0085
 :BASEEDITION:  T
 :CBETA_ID:  T48n2010
 :GENRE: 諸宗
@@ -2623,8 +2708,9 @@
 :WITID: wit49
 :END:
 
-*** KR6q0086 [[mandoku:ZB6q0086.org][ZB6q0086]]  [[cbeta:T/T48n2011/T48n2011.org][T48n2011]] 最上乘論
+*** KR6q0086 最上乘論-唐-弘忍
 :PROPERTIES: 
+:KR_ID: KR6q0086
 :BASEEDITION:  T
 :CBETA_ID:  T48n2011
 :GENRE: 諸宗
@@ -2655,8 +2741,9 @@
 :WITID: wit6
 :END:
 
-*** KR6q0087 [[mandoku:ZB6q0087.org][ZB6q0087]]  [[cbeta:T/T48n2012A/T48n2012A.org][T48n2012A]] 黃檗山斷際禪師傳心法要
+*** KR6q0087 黃檗山斷際禪師傳心法要-唐-裴休
 :PROPERTIES: 
+:KR_ID: KR6q0087
 :BASEEDITION:  T
 :CBETA_ID:  T48n2012A
 :GENRE: 諸宗
@@ -2687,8 +2774,9 @@
 :WITID: wit49
 :END:
 
-*** KR6q0088 [[mandoku:ZB6q0088.org][ZB6q0088]]  [[cbeta:T/T48n2012B/T48n2012B.org][T48n2012B]] 黃檗斷際禪師宛陵錄
+*** KR6q0088 黃檗斷際禪師宛陵錄-唐-裴休
 :PROPERTIES: 
+:KR_ID: KR6q0088
 :BASEEDITION:  T
 :CBETA_ID:  T48n2012B
 :GENRE: 諸宗
@@ -2719,8 +2807,9 @@
 :WITID: wit49
 :END:
 
-*** KR6q0089 [[mandoku:ZB6q0089.org][ZB6q0089]]  [[cbeta:T/T48n2013/T48n2013.org][T48n2013]] 禪宗永嘉集
+*** KR6q0089 禪宗永嘉集-唐-玄覺
 :PROPERTIES: 
+:KR_ID: KR6q0089
 :BASEEDITION:  T
 :CBETA_ID:  T48n2013
 :GENRE: 諸宗
@@ -2751,8 +2840,9 @@
 :WITID: wit49
 :END:
 
-*** KR6q0090 [[mandoku:ZB6q0090.org][ZB6q0090]]  [[cbeta:T/T48n2014/T48n2014.org][T48n2014]] 永嘉證道歌
+*** KR6q0090 永嘉證道歌-唐-玄覺
 :PROPERTIES: 
+:KR_ID: KR6q0090
 :BASEEDITION:  T
 :CBETA_ID:  T48n2014
 :GENRE: 諸宗
@@ -2783,8 +2873,9 @@
 :WITID: wit49
 :END:
 
-*** KR6q0091 [[mandoku:ZB6q0091.org][ZB6q0091]]  [[cbeta:T/T48n2015/T48n2015.org][T48n2015]] 禪源諸詮集都序
+*** KR6q0091 禪源諸詮集都序-唐-宗密
 :PROPERTIES: 
+:KR_ID: KR6q0091
 :BASEEDITION:  T
 :CBETA_ID:  T48n2015
 :GENRE: 諸宗
@@ -2820,8 +2911,9 @@
 :WITID: wit49
 :END:
 
-*** KR6q0092 [[mandoku:ZB6q0092.org][ZB6q0092]]  [[cbeta:T/T48n2016/T48n2016.org][T48n2016]] 宗鏡錄
+*** KR6q0092 宗鏡錄-宋-延壽
 :PROPERTIES: 
+:KR_ID: KR6q0092
 :BASEEDITION:  T
 :CBETA_ID:  T48n2016
 :GENRE: 諸宗
@@ -2872,8 +2964,9 @@
 :WITID: wit10
 :END:
 
-*** KR6q0093 [[mandoku:ZB6q0093.org][ZB6q0093]]  [[cbeta:T/T48n2017/T48n2017.org][T48n2017]] 萬善同歸集
+*** KR6q0093 萬善同歸集-宋-延壽
 :PROPERTIES: 
+:KR_ID: KR6q0093
 :BASEEDITION:  T
 :CBETA_ID:  T48n2017
 :GENRE: 諸宗
@@ -2909,8 +3002,9 @@
 :WITID: wit12
 :END:
 
-*** KR6q0094 [[mandoku:ZB6q0094.org][ZB6q0094]]  [[cbeta:T/T48n2018/T48n2018.org][T48n2018]] 永明智覺禪師唯心訣
+*** KR6q0094 永明智覺禪師唯心訣-宋-延壽
 :PROPERTIES: 
+:KR_ID: KR6q0094
 :BASEEDITION:  T
 :CBETA_ID:  T48n2018
 :GENRE: 諸宗
@@ -2941,8 +3035,9 @@
 :WITID: wit49
 :END:
 
-*** KR6q0095 [[mandoku:ZB6q0095.org][ZB6q0095]]  [[cbeta:T/T48n2019A/T48n2019A.org][T48n2019A]] 真心直說
+*** KR6q0095 真心直說-高麗-知訥
 :PROPERTIES: 
+:KR_ID: KR6q0095
 :BASEEDITION:  T
 :CBETA_ID:  T48n2019A
 :GENRE: 諸宗
@@ -2963,8 +3058,9 @@
 :WITID: wit1
 :END:
 
-*** KR6q0096 [[mandoku:ZB6q0096.org][ZB6q0096]]  [[cbeta:T/T48n2019B/T48n2019B.org][T48n2019B]] 誡初心學人文
+*** KR6q0096 誡初心學人文-高麗-知訥
 :PROPERTIES: 
+:KR_ID: KR6q0096
 :BASEEDITION:  T
 :CBETA_ID:  T48n2019B
 :GENRE: 諸宗
@@ -2990,8 +3086,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0097 [[mandoku:ZB6q0097.org][ZB6q0097]]  [[cbeta:T/T48n2020/T48n2020.org][T48n2020]] 高麗國普照禪師修心訣
+*** KR6q0097 高麗國普照禪師修心訣-高麗-知訥
 :PROPERTIES: 
+:KR_ID: KR6q0097
 :BASEEDITION:  T
 :CBETA_ID:  T48n2020
 :GENRE: 諸宗
@@ -3017,8 +3114,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0098 [[mandoku:ZB6q0098.org][ZB6q0098]]  [[cbeta:T/T48n2021/T48n2021.org][T48n2021]] 禪宗決疑集
+*** KR6q0098 禪宗決疑集-元-智徹
 :PROPERTIES: 
+:KR_ID: KR6q0098
 :BASEEDITION:  T
 :CBETA_ID:  T48n2021
 :GENRE: 諸宗
@@ -3044,8 +3142,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0099 [[mandoku:ZB6q0099.org][ZB6q0099]]  [[cbeta:T/T48n2022/T48n2022.org][T48n2022]] 禪林寶訓
+*** KR6q0099 禪林寶訓-宋-淨善
 :PROPERTIES: 
+:KR_ID: KR6q0099
 :BASEEDITION:  T
 :CBETA_ID:  T48n2022
 :GENRE: 諸宗
@@ -3071,8 +3170,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0100 [[mandoku:ZB6q0100.org][ZB6q0100]]  [[cbeta:T/T48n2023/T48n2023.org][T48n2023]] 緇門警訓
+*** KR6q0100 緇門警訓-明-如巹
 :PROPERTIES: 
+:KR_ID: KR6q0100
 :BASEEDITION:  T
 :CBETA_ID:  T48n2023
 :GENRE: 諸宗
@@ -3098,8 +3198,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0101 [[mandoku:ZB6q0101.org][ZB6q0101]]  [[cbeta:T/T48n2024/T48n2024.org][T48n2024]] 禪關策進
+*** KR6q0101 禪關策進-明-袾宏
 :PROPERTIES: 
+:KR_ID: KR6q0101
 :BASEEDITION:  T
 :CBETA_ID:  T48n2024
 :GENRE: 諸宗
@@ -3130,8 +3231,9 @@
 :WITID: wit49
 :END:
 
-*** KR6q0102 [[mandoku:ZB6q0102.org][ZB6q0102]]  [[cbeta:T/T48n2025/T48n2025.org][T48n2025]] 勅修百丈清規
+*** KR6q0102 勅修百丈清規-元-德煇
 :PROPERTIES: 
+:KR_ID: KR6q0102
 :BASEEDITION:  T
 :CBETA_ID:  T48n2025
 :CUSTOM_ID: ZB6q0102
@@ -3161,8 +3263,9 @@
 :WITID: wit25
 :END:
 
-*** KR6q0103 [[mandoku:ZB6q0103.org][ZB6q0103]]  [[cbeta:T/T85n2831/T85n2831.org][T85n2831]] 無心論
+*** KR6q0103 無心論--
 :PROPERTIES: 
+:KR_ID: KR6q0103
 :BASEEDITION:  T
 :CBETA_ID:  T85n2831
 :GENRE: 古逸
@@ -3182,8 +3285,9 @@
 :WITID: wit4
 :END:
 
-*** KR6q0104 [[mandoku:ZB6q0104.org][ZB6q0104]]  [[cbeta:T/T85n2832/T85n2832.org][T85n2832]] 南天竺國菩提達摩禪師觀門
+*** KR6q0104 南天竺國菩提達摩禪師觀門--
 :PROPERTIES: 
+:KR_ID: KR6q0104
 :BASEEDITION:  T
 :CBETA_ID:  T85n2832
 :GENRE: 古逸
@@ -3203,8 +3307,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0105 [[mandoku:ZB6q0105.org][ZB6q0105]]  [[cbeta:T/T85n2833/T85n2833.org][T85n2833]] 觀心論
+*** KR6q0105 觀心論--
 :PROPERTIES: 
+:KR_ID: KR6q0105
 :BASEEDITION:  T
 :CBETA_ID:  T85n2833
 :GENRE: 古逸
@@ -3224,8 +3329,9 @@
 :WITID: wit4
 :END:
 
-*** KR6q0106 [[mandoku:ZB6q0106.org][ZB6q0106]]  [[cbeta:T/T85n2834/T85n2834.org][T85n2834]] 大乘無生方便門
+*** KR6q0106 大乘無生方便門--
 :PROPERTIES: 
+:KR_ID: KR6q0106
 :BASEEDITION:  T
 :CBETA_ID:  T85n2834
 :GENRE: 古逸
@@ -3240,8 +3346,9 @@
 :WITID: wit1
 :END:
 
-*** KR6q0107 [[mandoku:ZB6q0107.org][ZB6q0107]]  [[cbeta:T/T85n2835/T85n2835.org][T85n2835]] 大乘開心顯性頓悟真宗論
+*** KR6q0107 大乘開心顯性頓悟真宗論-唐-慧光
 :PROPERTIES: 
+:KR_ID: KR6q0107
 :BASEEDITION:  T
 :CBETA_ID:  T85n2835
 :GENRE: 古逸
@@ -3267,8 +3374,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0108 [[mandoku:ZB6q0108.org][ZB6q0108]]  [[cbeta:T/T85n2836/T85n2836.org][T85n2836]] 大乘北宗論
+*** KR6q0108 大乘北宗論--
 :PROPERTIES: 
+:KR_ID: KR6q0108
 :BASEEDITION:  T
 :CBETA_ID:  T85n2836
 :GENRE: 古逸
@@ -3288,8 +3396,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0109 [[mandoku:ZB6q0109.org][ZB6q0109]]  [[cbeta:T/T85n2837/T85n2837.org][T85n2837]] 楞伽師資記
+*** KR6q0109 楞伽師資記-唐-淨覺
 :PROPERTIES: 
+:KR_ID: KR6q0109
 :BASEEDITION:  T
 :CBETA_ID:  T85n2837
 :GENRE: 古逸
@@ -3320,8 +3429,9 @@
 :WITID: wit49
 :END:
 
-*** KR6q0110 [[mandoku:ZB6q0110.org][ZB6q0110]]  [[cbeta:T/T85n2838/T85n2838.org][T85n2838]] 傳法寶紀
+*** KR6q0110 傳法寶紀-唐-杜朏
 :PROPERTIES: 
+:KR_ID: KR6q0110
 :BASEEDITION:  T
 :CBETA_ID:  T85n2838
 :GENRE: 古逸
@@ -3342,8 +3452,9 @@
 :WITID: wit1
 :END:
 
-*** KR6q0111 [[mandoku:ZB6q0111.org][ZB6q0111]]  [[cbeta:T/T85n2839/T85n2839.org][T85n2839]] 讚禪門詩
+*** KR6q0111 讚禪門詩--
 :PROPERTIES: 
+:KR_ID: KR6q0111
 :BASEEDITION:  T
 :CBETA_ID:  T85n2839
 :GENRE: 古逸
@@ -3358,8 +3469,9 @@
 :WITID: wit1
 :END:
 
-*** KR6q0112 [[mandoku:ZB6q0112.org][ZB6q0112]]  [[cbeta:X/X63n1217/X63n1217.org][X63n1217]] 菩提達磨大師略辨大乘入道四行觀
+*** KR6q0112 菩提達磨大師略辨大乘入道四行觀-梁-菩提達磨
 :PROPERTIES: 
+:KR_ID: KR6q0112
 :BASEEDITION:  X
 :CBETA_ID:  X63n1217
 :GENRE: 諸宗
@@ -3385,8 +3497,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0113 [[mandoku:ZB6q0113.org][ZB6q0113]]  [[cbeta:X/X63n1218/X63n1218.org][X63n1218]] 達磨大師血脉論
+*** KR6q0113 達磨大師血脉論-梁-菩提達磨
 :PROPERTIES: 
+:KR_ID: KR6q0113
 :BASEEDITION:  X
 :CBETA_ID:  X63n1218
 :GENRE: 諸宗
@@ -3412,8 +3525,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0114 [[mandoku:ZB6q0114.org][ZB6q0114]]  [[cbeta:X/X63n1219/X63n1219.org][X63n1219]] 達磨大師悟性論
+*** KR6q0114 達磨大師悟性論-梁-菩提達磨
 :PROPERTIES: 
+:KR_ID: KR6q0114
 :BASEEDITION:  X
 :CBETA_ID:  X63n1219
 :GENRE: 諸宗
@@ -3439,8 +3553,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0115 [[mandoku:ZB6q0115.org][ZB6q0115]]  [[cbeta:X/X63n1220/X63n1220.org][X63n1220]] 達磨大師破相論
+*** KR6q0115 達磨大師破相論-梁-菩提達磨
 :PROPERTIES: 
+:KR_ID: KR6q0115
 :BASEEDITION:  X
 :CBETA_ID:  X63n1220
 :GENRE: 諸宗
@@ -3466,8 +3581,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0116 [[mandoku:ZB6q0116.org][ZB6q0116]]  [[cbeta:X/X63n1222/X63n1222.org][X63n1222]] 修禪要訣
+*** KR6q0116 修禪要訣-北天竺-覺愛
 :PROPERTIES: 
+:KR_ID: KR6q0116
 :BASEEDITION:  X
 :CBETA_ID:  X63n1222
 :GENRE: 諸宗
@@ -3503,8 +3619,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0117 [[mandoku:ZB6q0117.org][ZB6q0117]]  [[cbeta:X/X63n1223/X63n1223.org][X63n1223]] 頓悟入道要門論
+*** KR6q0117 頓悟入道要門論-唐-慧海
 :PROPERTIES: 
+:KR_ID: KR6q0117
 :BASEEDITION:  X
 :CBETA_ID:  X63n1223
 :GENRE: 諸宗
@@ -3530,8 +3647,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0118 [[mandoku:ZB6q0118.org][ZB6q0118]]  [[cbeta:X/X63n1224/X63n1224.org][X63n1224]] 諸方門人參問語錄
+*** KR6q0118 諸方門人參問語錄-唐-慧海
 :PROPERTIES: 
+:KR_ID: KR6q0118
 :BASEEDITION:  X
 :CBETA_ID:  X63n1224
 :GENRE: 諸宗
@@ -3557,8 +3675,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0119 [[mandoku:ZB6q0119.org][ZB6q0119]]  [[cbeta:X/X63n1225/X63n1225.org][X63n1225]] 中華傳心地禪門師資承襲圖
+*** KR6q0119 中華傳心地禪門師資承襲圖-唐-裴休
 :PROPERTIES: 
+:KR_ID: KR6q0119
 :BASEEDITION:  X
 :CBETA_ID:  X63n1225
 :GENRE: 諸宗
@@ -3588,8 +3707,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0120 [[mandoku:ZB6q0120.org][ZB6q0120]]  [[cbeta:X/X63n1226/X63n1226.org][X63n1226]] 宗門十規論
+*** KR6q0120 宗門十規論-唐-文益
 :PROPERTIES: 
+:KR_ID: KR6q0120
 :BASEEDITION:  X
 :CBETA_ID:  X63n1226
 :GENRE: 諸宗
@@ -3615,8 +3735,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0121 [[mandoku:ZB6q0121.org][ZB6q0121]]  [[cbeta:X/X63n1229/X63n1229.org][X63n1229]] 定慧相資歌
+*** KR6q0121 定慧相資歌-宋-延壽
 :PROPERTIES: 
+:KR_ID: KR6q0121
 :BASEEDITION:  X
 :CBETA_ID:  X63n1229
 :GENRE: 諸宗
@@ -3637,8 +3758,9 @@
 :WITID: wit1
 :END:
 
-*** KR6q0122 [[mandoku:ZB6q0122.org][ZB6q0122]]  [[cbeta:X/X63n1230/X63n1230.org][X63n1230]] 警世
+*** KR6q0122 警世-宋-延壽
 :PROPERTIES: 
+:KR_ID: KR6q0122
 :BASEEDITION:  X
 :CBETA_ID:  X63n1230
 :GENRE: 諸宗
@@ -3664,8 +3786,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0123 [[mandoku:ZB6q0123.org][ZB6q0123]]  [[cbeta:X/X63n1231/X63n1231.org][X63n1231]] 心賦注
+*** KR6q0123 心賦注-宋-延壽
 :PROPERTIES: 
+:KR_ID: KR6q0123
 :BASEEDITION:  X
 :CBETA_ID:  X63n1231
 :GENRE: 諸宗
@@ -3691,8 +3814,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0124 [[mandoku:ZB6q0124.org][ZB6q0124]]  [[cbeta:X/X63n1232/X63n1232.org][X63n1232]] 智覺禪師自行錄
+*** KR6q0124 智覺禪師自行錄-宋-文冲
 :PROPERTIES: 
+:KR_ID: KR6q0124
 :BASEEDITION:  X
 :CBETA_ID:  X63n1232
 :GENRE: 諸宗
@@ -3718,8 +3842,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0125 [[mandoku:ZB6q0125.org][ZB6q0125]]  [[cbeta:X/X63n1233/X63n1233.org][X63n1233]] 祇園正儀
+*** KR6q0125 祇園正儀-宋-道楷
 :PROPERTIES: 
+:KR_ID: KR6q0125
 :BASEEDITION:  X
 :CBETA_ID:  X63n1233
 :GENRE: 諸宗
@@ -3745,8 +3870,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0126 [[mandoku:ZB6q0126.org][ZB6q0126]]  [[cbeta:X/X63n1234/X63n1234.org][X63n1234]] 臨濟宗旨
+*** KR6q0126 臨濟宗旨-宋-慧洪
 :PROPERTIES: 
+:KR_ID: KR6q0126
 :BASEEDITION:  X
 :CBETA_ID:  X63n1234
 :GENRE: 諸宗
@@ -3772,8 +3898,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0127 [[mandoku:ZB6q0127.org][ZB6q0127]]  [[cbeta:X/X63n1235/X63n1235.org][X63n1235]] 智證傳
+*** KR6q0127 智證傳-宋-慧洪
 :PROPERTIES: 
+:KR_ID: KR6q0127
 :BASEEDITION:  X
 :CBETA_ID:  X63n1235
 :GENRE: 諸宗
@@ -3803,8 +3930,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0128 [[mandoku:ZB6q0128.org][ZB6q0128]]  [[cbeta:X/X63n1236/X63n1236.org][X63n1236]] (重編)曹洞五位顯訣
+*** KR6q0128 (重編)曹洞五位顯訣-宋-慧霞
 :PROPERTIES: 
+:KR_ID: KR6q0128
 :BASEEDITION:  X
 :CBETA_ID:  X63n1236
 :GENRE: 諸宗
@@ -3834,8 +3962,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0129 [[mandoku:ZB6q0129.org][ZB6q0129]]  [[cbeta:X/X63n1237/X63n1237.org][X63n1237]] 寶鏡三昧本義
+*** KR6q0129 寶鏡三昧本義-清-行策
 :PROPERTIES: 
+:KR_ID: KR6q0129
 :BASEEDITION:  X
 :CBETA_ID:  X63n1237
 :GENRE: 諸宗
@@ -3861,8 +3990,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0130 [[mandoku:ZB6q0130.org][ZB6q0130]]  [[cbeta:X/X63n1238/X63n1238.org][X63n1238]] 寶鏡三昧原宗辨謬說
+*** KR6q0130 寶鏡三昧原宗辨謬說-清-淨訥
 :PROPERTIES: 
+:KR_ID: KR6q0130
 :BASEEDITION:  X
 :CBETA_ID:  X63n1238
 :GENRE: 諸宗
@@ -3888,8 +4018,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0131 [[mandoku:ZB6q0131.org][ZB6q0131]]  [[cbeta:X/X63n1239/X63n1239.org][X63n1239]] 溈山警策註
+*** KR6q0131 溈山警策註-宋-守遂
 :PROPERTIES: 
+:KR_ID: KR6q0131
 :BASEEDITION:  X
 :CBETA_ID:  X63n1239
 :GENRE: 諸宗
@@ -3915,8 +4046,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0132 [[mandoku:ZB6q0132.org][ZB6q0132]]  [[cbeta:X/X63n1240/X63n1240.org][X63n1240]] 溈山警策句釋記
+*** KR6q0132 溈山警策句釋記-明-弘贊
 :PROPERTIES: 
+:KR_ID: KR6q0132
 :BASEEDITION:  X
 :CBETA_ID:  X63n1240
 :GENRE: 諸宗
@@ -3946,8 +4078,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0133 [[mandoku:ZB6q0133.org][ZB6q0133]]  [[cbeta:X/X63n1241/X63n1241.org][X63n1241]] 證道歌註
+*** KR6q0133 證道歌註-宋-彥琪
 :PROPERTIES: 
+:KR_ID: KR6q0133
 :BASEEDITION:  X
 :CBETA_ID:  X63n1241
 :GENRE: 諸宗
@@ -3973,8 +4106,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0134 [[mandoku:ZB6q0134.org][ZB6q0134]]  [[cbeta:X/X63n1242/X63n1242.org][X63n1242]] 永嘉禪宗集註
+*** KR6q0134 永嘉禪宗集註-明-傳燈
 :PROPERTIES: 
+:KR_ID: KR6q0134
 :BASEEDITION:  X
 :CBETA_ID:  X63n1242
 :GENRE: 諸宗
@@ -4000,8 +4134,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0135 [[mandoku:ZB6q0135.org][ZB6q0135]]  [[cbeta:X/X63n1244/X63n1244.org][X63n1244]] 百丈清規證義記
+*** KR6q0135 百丈清規證義記-清-儀潤
 :PROPERTIES: 
+:KR_ID: KR6q0135
 :BASEEDITION:  X
 :CBETA_ID:  X63n1244
 :GENRE: 諸宗
@@ -4027,8 +4162,9 @@
 :WITID: wit9
 :END:
 
-*** KR6q0136 [[mandoku:ZB6q0136.org][ZB6q0136]]  [[cbeta:X/X63n1245/X63n1245.org][X63n1245]] (重雕補註)禪苑清規
+*** KR6q0136 (重雕補註)禪苑清規-宋-宗賾
 :PROPERTIES: 
+:KR_ID: KR6q0136
 :BASEEDITION:  X
 :CBETA_ID:  X63n1245
 :GENRE: 諸宗
@@ -4054,8 +4190,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0137 [[mandoku:ZB6q0137.org][ZB6q0137]]  [[cbeta:X/X63n1246/X63n1246.org][X63n1246]] 入眾日用
+*** KR6q0137 入眾日用-宋-宗壽
 :PROPERTIES: 
+:KR_ID: KR6q0137
 :BASEEDITION:  X
 :CBETA_ID:  X63n1246
 :GENRE: 諸宗
@@ -4081,8 +4218,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0138 [[mandoku:ZB6q0138.org][ZB6q0138]]  [[cbeta:X/X63n1247/X63n1247.org][X63n1247]] 入眾須知
+*** KR6q0138 入眾須知--
 :PROPERTIES: 
+:KR_ID: KR6q0138
 :BASEEDITION:  X
 :CBETA_ID:  X63n1247
 :GENRE: 諸宗
@@ -4102,8 +4240,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0139 [[mandoku:ZB6q0139.org][ZB6q0139]]  [[cbeta:X/X63n1248/X63n1248.org][X63n1248]] 幻住庵清規
+*** KR6q0139 幻住庵清規-元-明本
 :PROPERTIES: 
+:KR_ID: KR6q0139
 :BASEEDITION:  X
 :CBETA_ID:  X63n1248
 :GENRE: 諸宗
@@ -4129,8 +4268,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0140 [[mandoku:ZB6q0140.org][ZB6q0140]]  [[cbeta:X/X63n1249/X63n1249.org][X63n1249]] 叢林校定清規總要
+*** KR6q0140 叢林校定清規總要-宋-惟勉
 :PROPERTIES: 
+:KR_ID: KR6q0140
 :BASEEDITION:  X
 :CBETA_ID:  X63n1249
 :GENRE: 諸宗
@@ -4156,8 +4296,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0141 [[mandoku:ZB6q0141.org][ZB6q0141]]  [[cbeta:X/X63n1250/X63n1250.org][X63n1250]] 禪林備用清規
+*** KR6q0141 禪林備用清規-元-弌咸
 :PROPERTIES: 
+:KR_ID: KR6q0141
 :BASEEDITION:  X
 :CBETA_ID:  X63n1250
 :GENRE: 諸宗
@@ -4183,8 +4324,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0142 [[mandoku:ZB6q0142.org][ZB6q0142]]  [[cbeta:X/X63n1251/X63n1251.org][X63n1251]] 叢林兩序須知
+*** KR6q0142 叢林兩序須知-明-通容
 :PROPERTIES: 
+:KR_ID: KR6q0142
 :BASEEDITION:  X
 :CBETA_ID:  X63n1251
 :GENRE: 諸宗
@@ -4210,8 +4352,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0143 [[mandoku:ZB6q0143.org][ZB6q0143]]  [[cbeta:X/X63n1252/X63n1252.org][X63n1252]] 禪林疏語考證
+*** KR6q0143 禪林疏語考證-明-元賢
 :PROPERTIES: 
+:KR_ID: KR6q0143
 :BASEEDITION:  X
 :CBETA_ID:  X63n1252
 :GENRE: 諸宗
@@ -4237,8 +4380,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0144 [[mandoku:ZB6q0144.org][ZB6q0144]]  [[cbeta:X/X63n1253/X63n1253.org][X63n1253]] 初學記
+*** KR6q0144 初學記-元-清覺
 :PROPERTIES: 
+:KR_ID: KR6q0144
 :BASEEDITION:  X
 :CBETA_ID:  X63n1253
 :GENRE: 諸宗
@@ -4268,8 +4412,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0145 [[mandoku:ZB6q0145.org][ZB6q0145]]  [[cbeta:X/X63n1254/X63n1254.org][X63n1254]] 正行集
+*** KR6q0145 正行集-元-清覺
 :PROPERTIES: 
+:KR_ID: KR6q0145
 :BASEEDITION:  X
 :CBETA_ID:  X63n1254
 :GENRE: 諸宗
@@ -4295,8 +4440,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0146 [[mandoku:ZB6q0146.org][ZB6q0146]]  [[cbeta:X/X63n1255/X63n1255.org][X63n1255]] 禪家龜鑑
+*** KR6q0146 禪家龜鑑-朝鮮-退隱
 :PROPERTIES: 
+:KR_ID: KR6q0146
 :BASEEDITION:  X
 :CBETA_ID:  X63n1255
 :GENRE: 諸宗
@@ -4322,8 +4468,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0147 [[mandoku:ZB6q0147.org][ZB6q0147]]  [[cbeta:X/X63n1256/X63n1256.org][X63n1256]] 宗門玄鑑圖
+*** KR6q0147 宗門玄鑑圖-明-虗一
 :PROPERTIES: 
+:KR_ID: KR6q0147
 :BASEEDITION:  X
 :CBETA_ID:  X63n1256
 :GENRE: 諸宗
@@ -4349,8 +4496,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0148 [[mandoku:ZB6q0148.org][ZB6q0148]]  [[cbeta:X/X63n1257/X63n1257.org][X63n1257]] 博山禪警語
+*** KR6q0148 博山禪警語-明-元來
 :PROPERTIES: 
+:KR_ID: KR6q0148
 :BASEEDITION:  X
 :CBETA_ID:  X63n1257
 :GENRE: 諸宗
@@ -4380,8 +4528,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0149 [[mandoku:ZB6q0149.org][ZB6q0149]]  [[cbeta:X/X63n1258/X63n1258.org][X63n1258]] 禪宗直指
+*** KR6q0149 禪宗直指-明-石成金
 :PROPERTIES: 
+:KR_ID: KR6q0149
 :BASEEDITION:  X
 :CBETA_ID:  X63n1258
 :GENRE: 諸宗
@@ -4407,8 +4556,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0150 [[mandoku:ZB6q0150.org][ZB6q0150]]  [[cbeta:X/X63n1259/X63n1259.org][X63n1259]] 禪門鍛鍊說
+*** KR6q0150 禪門鍛鍊說-明-戒顯
 :PROPERTIES: 
+:KR_ID: KR6q0150
 :BASEEDITION:  X
 :CBETA_ID:  X63n1259
 :GENRE: 諸宗
@@ -4434,8 +4584,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0151 [[mandoku:ZB6q0151.org][ZB6q0151]]  [[cbeta:X/X64n1260/X64n1260.org][X64n1260]] 列祖提綱錄
+*** KR6q0151 列祖提綱錄-清-行悅
 :PROPERTIES: 
+:KR_ID: KR6q0151
 :BASEEDITION:  X
 :CBETA_ID:  X64n1260
 :GENRE: 諸宗
@@ -4461,8 +4612,9 @@
 :WITID: wit9
 :END:
 
-*** KR6q0152 [[mandoku:ZB6q0152.org][ZB6q0152]]  [[cbeta:X/X64n1261/X64n1261.org][X64n1261]] 祖庭事苑
+*** KR6q0152 祖庭事苑-宋-善卿
 :PROPERTIES: 
+:KR_ID: KR6q0152
 :BASEEDITION:  X
 :CBETA_ID:  X64n1261
 :GENRE: 諸宗
@@ -4488,8 +4640,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0153 [[mandoku:ZB6q0153.org][ZB6q0153]]  [[cbeta:X/X64n1262/X64n1262.org][X64n1262]] 禪林寶訓音義
+*** KR6q0153 禪林寶訓音義-明-大建
 :PROPERTIES: 
+:KR_ID: KR6q0153
 :BASEEDITION:  X
 :CBETA_ID:  X64n1262
 :GENRE: 諸宗
@@ -4515,8 +4668,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0154 [[mandoku:ZB6q0154.org][ZB6q0154]]  [[cbeta:X/X64n1263/X64n1263.org][X64n1263]] 禪林寶訓合註
+*** KR6q0154 禪林寶訓合註-清-張文嘉
 :PROPERTIES: 
+:KR_ID: KR6q0154
 :BASEEDITION:  X
 :CBETA_ID:  X64n1263
 :GENRE: 諸宗
@@ -4546,8 +4700,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0155 [[mandoku:ZB6q0155.org][ZB6q0155]]  [[cbeta:X/X64n1264/X64n1264.org][X64n1264]] 禪林寶訓拈頌
+*** KR6q0155 禪林寶訓拈頌-清-行盛
 :PROPERTIES: 
+:KR_ID: KR6q0155
 :BASEEDITION:  X
 :CBETA_ID:  X64n1264
 :GENRE: 諸宗
@@ -4577,8 +4732,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0156 [[mandoku:ZB6q0156.org][ZB6q0156]]  [[cbeta:X/X64n1265/X64n1265.org][X64n1265]] 禪林寶訓順硃
+*** KR6q0156 禪林寶訓順硃-清-德玉
 :PROPERTIES: 
+:KR_ID: KR6q0156
 :BASEEDITION:  X
 :CBETA_ID:  X64n1265
 :GENRE: 諸宗
@@ -4604,8 +4760,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0157 [[mandoku:ZB6q0157.org][ZB6q0157]]  [[cbeta:X/X64n1266/X64n1266.org][X64n1266]] 禪林寶訓筆說
+*** KR6q0157 禪林寶訓筆說-清-智祥
 :PROPERTIES: 
+:KR_ID: KR6q0157
 :BASEEDITION:  X
 :CBETA_ID:  X64n1266
 :GENRE: 諸宗
@@ -4631,8 +4788,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0158 [[mandoku:ZB6q0158.org][ZB6q0158]]  [[cbeta:X/X64n1268/X64n1268.org][X64n1268]] 叢林公論
+*** KR6q0158 叢林公論-宋-惠彬
 :PROPERTIES: 
+:KR_ID: KR6q0158
 :BASEEDITION:  X
 :CBETA_ID:  X64n1268
 :GENRE: 諸宗
@@ -4658,8 +4816,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0159 [[mandoku:ZB6q0159.org][ZB6q0159]]  [[cbeta:X/X64n1269/X64n1269.org][X64n1269]] 十牛圖頌
+*** KR6q0159 十牛圖頌-宋-師遠
 :PROPERTIES: 
+:KR_ID: KR6q0159
 :BASEEDITION:  X
 :CBETA_ID:  X64n1269
 :GENRE: 諸宗
@@ -4685,8 +4844,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0160 [[mandoku:ZB6q0160.org][ZB6q0160]]  [[cbeta:X/X64n1270/X64n1270.org][X64n1270]] 十牛圖頌
+*** KR6q0160 十牛圖頌-明-胡文煥
 :PROPERTIES: 
+:KR_ID: KR6q0160
 :BASEEDITION:  X
 :CBETA_ID:  X64n1270
 :GENRE: 諸宗
@@ -4712,8 +4872,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0161 [[mandoku:ZB6q0161.org][ZB6q0161]]  [[cbeta:X/X64n1271/X64n1271.org][X64n1271]] 十牛圖和頌
+*** KR6q0161 十牛圖和頌--
 :PROPERTIES: 
+:KR_ID: KR6q0161
 :BASEEDITION:  X
 :CBETA_ID:  X64n1271
 :GENRE: 諸宗
@@ -4733,8 +4894,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0162 [[mandoku:ZB6q0162.org][ZB6q0162]]  [[cbeta:X/X64n1276/X64n1276.org][X64n1276]] 禪門寶藏錄
+*** KR6q0162 禪門寶藏錄-高麗-天頙
 :PROPERTIES: 
+:KR_ID: KR6q0162
 :BASEEDITION:  X
 :CBETA_ID:  X64n1276
 :GENRE: 諸宗
@@ -4760,8 +4922,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0163 [[mandoku:ZB6q0163.org][ZB6q0163]]  [[cbeta:J/J23nB128/J23nB128.org][J23nB128]] 普明禪師牧牛圖頌
+*** KR6q0163 普明禪師牧牛圖頌-明-普明
 :PROPERTIES: 
+:KR_ID: KR6q0163
 :BASEEDITION:  J
 :CBETA_ID:  J23nB128
 :CUSTOM_ID: ZB6q0163
@@ -4799,8 +4962,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0164 [[mandoku:ZB6q0164.org][ZB6q0164]]  [[cbeta:J/J23nB129/J23nB129.org][J23nB129]] 牧牛圖頌
+*** KR6q0164 牧牛圖頌-明-普明
 :PROPERTIES: 
+:KR_ID: KR6q0164
 :BASEEDITION:  J
 :CBETA_ID:  J23nB129
 :CUSTOM_ID: ZB6q0164
@@ -4844,8 +5008,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0165 [[mandoku:ZB6q0165.org][ZB6q0165]]  [[cbeta:X/X65n1277/X65n1277.org][X65n1277]] 高峰龍泉院因師集賢語錄
+*** KR6q0165 高峰龍泉院因師集賢語錄-元-如瑛
 :PROPERTIES: 
+:KR_ID: KR6q0165
 :BASEEDITION:  X
 :CBETA_ID:  X65n1277
 :GENRE: 諸宗
@@ -4871,8 +5036,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0166 [[mandoku:ZB6q0166.org][ZB6q0166]]  [[cbeta:X/X65n1278/X65n1278.org][X65n1278]] 禪宗雜毒海
+*** KR6q0166 禪宗雜毒海-清-性音
 :PROPERTIES: 
+:KR_ID: KR6q0166
 :BASEEDITION:  X
 :CBETA_ID:  X65n1278
 :GENRE: 諸宗
@@ -4898,8 +5064,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0167 [[mandoku:ZB6q0167.org][ZB6q0167]]  [[cbeta:X/X65n1279/X65n1279.org][X65n1279]] 五宗原
+*** KR6q0167 五宗原-明-法藏
 :PROPERTIES: 
+:KR_ID: KR6q0167
 :BASEEDITION:  X
 :CBETA_ID:  X65n1279
 :GENRE: 諸宗
@@ -4925,8 +5092,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0168 [[mandoku:ZB6q0168.org][ZB6q0168]]  [[cbeta:X/X65n1280/X65n1280.org][X65n1280]] 闢妄救略說
+*** KR6q0168 闢妄救略說-明-圓悟
 :PROPERTIES: 
+:KR_ID: KR6q0168
 :BASEEDITION:  X
 :CBETA_ID:  X65n1280
 :GENRE: 諸宗
@@ -4956,8 +5124,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0169 [[mandoku:ZB6q0169.org][ZB6q0169]]  [[cbeta:X/X65n1282/X65n1282.org][X65n1282]] 五家宗旨纂要
+*** KR6q0169 五家宗旨纂要-清-性統
 :PROPERTIES: 
+:KR_ID: KR6q0169
 :BASEEDITION:  X
 :CBETA_ID:  X65n1282
 :GENRE: 諸宗
@@ -4983,8 +5152,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0170 [[mandoku:ZB6q0170.org][ZB6q0170]]  [[cbeta:X/X65n1283/X65n1283.org][X65n1283]] 宗範
+*** KR6q0170 宗範-清-錢伊庵
 :PROPERTIES: 
+:KR_ID: KR6q0170
 :BASEEDITION:  X
 :CBETA_ID:  X65n1283
 :GENRE: 諸宗
@@ -5010,8 +5180,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0171 [[mandoku:ZB6q0171.org][ZB6q0171]]  [[cbeta:X/X65n1285/X65n1285.org][X65n1285]] 慨古錄
+*** KR6q0171 慨古錄-明-圓澄
 :PROPERTIES: 
+:KR_ID: KR6q0171
 :BASEEDITION:  X
 :CBETA_ID:  X65n1285
 :GENRE: 諸宗
@@ -5037,8 +5208,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0172 [[mandoku:ZB6q0172.org][ZB6q0172]]  [[cbeta:X/X65n1286/X65n1286.org][X65n1286]] 祖庭鉗鎚錄
+*** KR6q0172 祖庭鉗鎚錄-明-通容
 :PROPERTIES: 
+:KR_ID: KR6q0172
 :BASEEDITION:  X
 :CBETA_ID:  X65n1286
 :GENRE: 諸宗
@@ -5064,8 +5236,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0173 [[mandoku:ZB6q0173.org][ZB6q0173]]  [[cbeta:X/X65n1287/X65n1287.org][X65n1287]] 千松筆記
+*** KR6q0173 千松筆記-明-大韶
 :PROPERTIES: 
+:KR_ID: KR6q0173
 :BASEEDITION:  X
 :CBETA_ID:  X65n1287
 :GENRE: 諸宗
@@ -5091,8 +5264,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0174 [[mandoku:ZB6q0174.org][ZB6q0174]]  [[cbeta:X/X65n1288/X65n1288.org][X65n1288]] 萬法歸心錄
+*** KR6q0174 萬法歸心錄-清-超溟
 :PROPERTIES: 
+:KR_ID: KR6q0174
 :BASEEDITION:  X
 :CBETA_ID:  X65n1288
 :GENRE: 諸宗
@@ -5118,8 +5292,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0175 [[mandoku:ZB6q0175.org][ZB6q0175]]  [[cbeta:X/X65n1289/X65n1289.org][X65n1289]] 禪宗指掌
+*** KR6q0175 禪宗指掌-清-行海
 :PROPERTIES: 
+:KR_ID: KR6q0175
 :BASEEDITION:  X
 :CBETA_ID:  X65n1289
 :GENRE: 諸宗
@@ -5145,8 +5320,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0176 [[mandoku:ZB6q0176.org][ZB6q0176]]  [[cbeta:X/X65n1290/X65n1290.org][X65n1290]] 觀心玄樞
+*** KR6q0176 觀心玄樞-宋-延壽
 :PROPERTIES: 
+:KR_ID: KR6q0176
 :BASEEDITION:  X
 :CBETA_ID:  X65n1290
 :GENRE: 諸宗
@@ -5172,8 +5348,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0177 [[mandoku:ZB6q0177.org][ZB6q0177]]  [[cbeta:X/X65n1291/X65n1291.org][X65n1291]] 證道歌頌
+*** KR6q0177 證道歌頌-宋-法泉繼
 :PROPERTIES: 
+:KR_ID: KR6q0177
 :BASEEDITION:  X
 :CBETA_ID:  X65n1291
 :GENRE: 諸宗
@@ -5199,8 +5376,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0178 [[mandoku:ZB6q0178.org][ZB6q0178]]  [[cbeta:X/X65n1292/X65n1292.org][X65n1292]] 證道歌註
+*** KR6q0178 證道歌註-宋-知訥
 :PROPERTIES: 
+:KR_ID: KR6q0178
 :BASEEDITION:  X
 :CBETA_ID:  X65n1292
 :GENRE: 諸宗
@@ -5226,8 +5404,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0179 [[mandoku:ZB6q0179.org][ZB6q0179]]  [[cbeta:X/X65n1293/X65n1293.org][X65n1293]] 證道歌註
+*** KR6q0179 證道歌註-元-永盛
 :PROPERTIES: 
+:KR_ID: KR6q0179
 :BASEEDITION:  X
 :CBETA_ID:  X65n1293
 :GENRE: 諸宗
@@ -5257,8 +5436,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0180 [[mandoku:ZB6q0180.org][ZB6q0180]]  [[cbeta:X/X65n1294/X65n1294.org][X65n1294]] 溈山警策註
+*** KR6q0180 溈山警策註-明-大香
 :PROPERTIES: 
+:KR_ID: KR6q0180
 :BASEEDITION:  X
 :CBETA_ID:  X65n1294
 :GENRE: 諸宗
@@ -5284,8 +5464,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0181 [[mandoku:ZB6q0181.org][ZB6q0181]]  [[cbeta:J/J20nB090/J20nB090.org][J20nB090]] 續原教論
+*** KR6q0181 續原教論-明-沈士榮
 :PROPERTIES: 
+:KR_ID: KR6q0181
 :BASEEDITION:  J
 :CBETA_ID:  J20nB090
 :CUSTOM_ID: ZB6q0181
@@ -5310,8 +5491,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0182 [[mandoku:ZB6q0182.org][ZB6q0182]]  [[cbeta:J/J20nB091/J20nB091.org][J20nB091]] 道餘錄
+*** KR6q0182 道餘錄-明-姚廣孝
 :PROPERTIES: 
+:KR_ID: KR6q0182
 :BASEEDITION:  J
 :CBETA_ID:  J20nB091
 :CUSTOM_ID: ZB6q0182
@@ -5336,8 +5518,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0183 [[mandoku:ZB6q0183.org][ZB6q0183]]  [[cbeta:J/J20nB095/J20nB095.org][J20nB095]] 蕅益三頌
+*** KR6q0183 蕅益三頌-明-智旭
 :PROPERTIES: 
+:KR_ID: KR6q0183
 :BASEEDITION:  J
 :CBETA_ID:  J20nB095
 :CUSTOM_ID: ZB6q0183
@@ -5362,8 +5545,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0184 [[mandoku:ZB6q0184.org][ZB6q0184]]  [[cbeta:J/J20nB096/J20nB096.org][J20nB096]] 周易禪解
+*** KR6q0184 周易禪解-明-智旭
 :PROPERTIES: 
+:KR_ID: KR6q0184
 :BASEEDITION:  J
 :CBETA_ID:  J20nB096
 :CUSTOM_ID: ZB6q0184
@@ -5388,8 +5572,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0185 [[mandoku:ZB6q0185.org][ZB6q0185]]  [[cbeta:J/J20nB097/J20nB097.org][J20nB097]] 天樂鳴空集
+*** KR6q0185 天樂鳴空集-明-鮑宗肇
 :PROPERTIES: 
+:KR_ID: KR6q0185
 :BASEEDITION:  J
 :CBETA_ID:  J20nB097
 :CUSTOM_ID: ZB6q0185
@@ -5418,8 +5603,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0186 [[mandoku:ZB6q0186.org][ZB6q0186]]  [[cbeta:J/J20nB098/J20nB098.org][J20nB098]] 黃蘗無念禪師復問
+*** KR6q0186 黃蘗無念禪師復問-明-深有
 :PROPERTIES: 
+:KR_ID: KR6q0186
 :BASEEDITION:  J
 :CBETA_ID:  J20nB098
 :CUSTOM_ID: ZB6q0186
@@ -5448,8 +5634,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0187 [[mandoku:ZB6q0187.org][ZB6q0187]]  [[cbeta:J/J21nB110/J21nB110.org][J21nB110]] 護法錄
+*** KR6q0187 護法錄-明-宋濂
 :PROPERTIES: 
+:KR_ID: KR6q0187
 :BASEEDITION:  J
 :CBETA_ID:  J21nB110
 :CUSTOM_ID: ZB6q0187
@@ -5482,8 +5669,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0188 [[mandoku:ZB6q0188.org][ZB6q0188]]  [[cbeta:J/J20nB103/J20nB103.org][J20nB103]] 寒山子詩集
+*** KR6q0188 寒山子詩集-唐-閭丘胤
 :PROPERTIES: 
+:KR_ID: KR6q0188
 :BASEEDITION:  J
 :CBETA_ID:  J20nB103
 :CUSTOM_ID: ZB6q0188
@@ -5513,8 +5701,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0189 [[mandoku:ZB6q0189.org][ZB6q0189]]  [[cbeta:J/J23nB118/J23nB118.org][J23nB118]] 密藏開禪師遺稿
+*** KR6q0189 密藏開禪師遺稿-明-道開
 :PROPERTIES: 
+:KR_ID: KR6q0189
 :BASEEDITION:  J
 :CBETA_ID:  J23nB118
 :CUSTOM_ID: ZB6q0189
@@ -5539,8 +5728,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0190 [[mandoku:ZB6q0190.org][ZB6q0190]]  [[cbeta:J/J23nB120/J23nB120.org][J23nB120]] 闢邪集
+*** KR6q0190 闢邪集-明-鍾始聲
 :PROPERTIES: 
+:KR_ID: KR6q0190
 :BASEEDITION:  J
 :CBETA_ID:  J23nB120
 :CUSTOM_ID: ZB6q0190
@@ -5573,8 +5763,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0191 [[mandoku:ZB6q0191.org][ZB6q0191]]  [[cbeta:J/J23nB122/J23nB122.org][J23nB122]] 醒世錄
+*** KR6q0191 醒世錄-清-徐昌治
 :PROPERTIES: 
+:KR_ID: KR6q0191
 :BASEEDITION:  J
 :CBETA_ID:  J23nB122
 :CUSTOM_ID: ZB6q0191
@@ -5599,8 +5790,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0192 [[mandoku:ZB6q0192.org][ZB6q0192]]  [[cbeta:J/J23nB127/J23nB127.org][J23nB127]] 無依道人錄
+*** KR6q0192 無依道人錄-清-徐昌治
 :PROPERTIES: 
+:KR_ID: KR6q0192
 :BASEEDITION:  J
 :CBETA_ID:  J23nB127
 :CUSTOM_ID: ZB6q0192
@@ -5633,8 +5825,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0193 [[mandoku:ZB6q0193.org][ZB6q0193]]  [[cbeta:J/J23nB135/J23nB135.org][J23nB135]] 石門文字禪
+*** KR6q0193 石門文字禪-宋-德洪
 :PROPERTIES: 
+:KR_ID: KR6q0193
 :BASEEDITION:  J
 :CBETA_ID:  J23nB135
 :CUSTOM_ID: ZB6q0193
@@ -5659,8 +5852,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0194 [[mandoku:ZB6q0194.org][ZB6q0194]]  [[cbeta:J/J25nB159/J25nB159.org][J25nB159]] 天真毒峰善禪師要語
+*** KR6q0194 天真毒峰善禪師要語-明-本善
 :PROPERTIES: 
+:KR_ID: KR6q0194
 :BASEEDITION:  J
 :CBETA_ID:  J25nB159
 :CUSTOM_ID: ZB6q0194
@@ -5689,8 +5883,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0195 [[mandoku:ZB6q0195.org][ZB6q0195]]  [[cbeta:J/J25nB164/J25nB164.org][J25nB164]] 曹溪一滴
+*** KR6q0195 曹溪一滴-明-周理
 :PROPERTIES: 
+:KR_ID: KR6q0195
 :BASEEDITION:  J
 :CBETA_ID:  J25nB164
 :CUSTOM_ID: ZB6q0195
@@ -5715,8 +5910,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0196 [[mandoku:ZB6q0196.org][ZB6q0196]]  [[cbeta:J/J25nB165/J25nB165.org][J25nB165]] 大巍禪師竹室集
+*** KR6q0196 大巍禪師竹室集-明-淨倫
 :PROPERTIES: 
+:KR_ID: KR6q0196
 :BASEEDITION:  J
 :CBETA_ID:  J25nB165
 :CUSTOM_ID: ZB6q0196
@@ -5745,8 +5941,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0197 [[mandoku:ZB6q0197.org][ZB6q0197]]  [[cbeta:J/J25nB166/J25nB166.org][J25nB166]] 浮山法句
+*** KR6q0197 浮山法句-明-本智
 :PROPERTIES: 
+:KR_ID: KR6q0197
 :BASEEDITION:  J
 :CBETA_ID:  J25nB166
 :CUSTOM_ID: ZB6q0197
@@ -5775,8 +5972,9 @@
 :WITID: wit7
 :END:
 
-*** KR6q0198 [[mandoku:ZB6q0198.org][ZB6q0198]]  [[cbeta:J/J25nB167/J25nB167.org][J25nB167]] 徹庸和尚谷響集
+*** KR6q0198 徹庸和尚谷響集-明-徹庸
 :PROPERTIES: 
+:KR_ID: KR6q0198
 :BASEEDITION:  J
 :CBETA_ID:  J25nB167
 :CUSTOM_ID: ZB6q0198
@@ -5805,8 +6003,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0199 [[mandoku:ZB6q0199.org][ZB6q0199]]  [[cbeta:J/J26nB180/J26nB180.org][J26nB180]] 天童弘覺忞禪師北遊集
+*** KR6q0199 天童弘覺忞禪師北遊集-清-道忞
 :PROPERTIES: 
+:KR_ID: KR6q0199
 :BASEEDITION:  J
 :CBETA_ID:  J26nB180
 :CUSTOM_ID: ZB6q0199
@@ -5835,8 +6034,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0200 [[mandoku:ZB6q0200.org][ZB6q0200]]  [[cbeta:J/J26nB181/J26nB181.org][J26nB181]] 布水臺集
+*** KR6q0200 布水臺集-明-道忞
 :PROPERTIES: 
+:KR_ID: KR6q0200
 :BASEEDITION:  J
 :CBETA_ID:  J26nB181
 :CUSTOM_ID: ZB6q0200
@@ -5861,8 +6061,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0201 [[mandoku:ZB6q0201.org][ZB6q0201]]  [[cbeta:J/J27nB190/J27nB190.org][J27nB190]] 石雨禪師法檀
+*** KR6q0201 石雨禪師法檀-明-明方
 :PROPERTIES: 
+:KR_ID: KR6q0201
 :BASEEDITION:  J
 :CBETA_ID:  J27nB190
 :CUSTOM_ID: ZB6q0201
@@ -5891,8 +6092,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0202 [[mandoku:ZB6q0202.org][ZB6q0202]]  [[cbeta:J/J28nB207/J28nB207.org][J28nB207]] 古瓶山牧道者究心錄
+*** KR6q0202 古瓶山牧道者究心錄-明-真本
 :PROPERTIES: 
+:KR_ID: KR6q0202
 :BASEEDITION:  J
 :CBETA_ID:  J28nB207
 :CUSTOM_ID: ZB6q0202
@@ -5921,8 +6123,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0203 [[mandoku:ZB6q0203.org][ZB6q0203]]  [[cbeta:J/J28nB214/J28nB214.org][J28nB214]] 蕅益大師佛學十種（選錄「性學開蒙」．「梵室偶談」兩種）
+*** KR6q0203 蕅益大師佛學十種（選錄「性學開蒙」．「梵室偶談」兩種）-明-智旭
 :PROPERTIES: 
+:KR_ID: KR6q0203
 :BASEEDITION:  J
 :CBETA_ID:  J28nB214
 :CUSTOM_ID: ZB6q0203
@@ -5947,8 +6150,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0204 [[mandoku:ZB6q0204.org][ZB6q0204]]  [[cbeta:J/J28nB215/J28nB215.org][J28nB215]] 頌古合響集
+*** KR6q0204 頌古合響集-明-徹（尼）
 :PROPERTIES: 
+:KR_ID: KR6q0204
 :BASEEDITION:  J
 :CBETA_ID:  J28nB215
 :CUSTOM_ID: ZB6q0204
@@ -5981,8 +6185,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0205 [[mandoku:ZB6q0205.org][ZB6q0205]]  [[cbeta:J/J28nB216/J28nB216.org][J28nB216]] 絕餘編
+*** KR6q0205 絕餘編-明-智旭
 :PROPERTIES: 
+:KR_ID: KR6q0205
 :BASEEDITION:  J
 :CBETA_ID:  J28nB216
 :CUSTOM_ID: ZB6q0205
@@ -6011,8 +6216,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0206 [[mandoku:ZB6q0206.org][ZB6q0206]]  [[cbeta:J/J29nB225/J29nB225.org][J29nB225]] 鄂州龍光達夫禪師雞肋集
+*** KR6q0206 鄂州龍光達夫禪師雞肋集-清-蘊上
 :PROPERTIES: 
+:KR_ID: KR6q0206
 :BASEEDITION:  J
 :CBETA_ID:  J29nB225
 :CUSTOM_ID: ZB6q0206
@@ -6045,8 +6251,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0207 [[mandoku:ZB6q0207.org][ZB6q0207]]  [[cbeta:J/J29nB226/J29nB226.org][J29nB226]] 頌古鉤鉅
+*** KR6q0207 頌古鉤鉅-清-蘊上
 :PROPERTIES: 
+:KR_ID: KR6q0207
 :BASEEDITION:  J
 :CBETA_ID:  J29nB226
 :CUSTOM_ID: ZB6q0207
@@ -6075,8 +6282,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0208 [[mandoku:ZB6q0208.org][ZB6q0208]]  [[cbeta:J/J29nB227/J29nB227.org][J29nB227]] 集文字禪
+*** KR6q0208 集文字禪-清-蘊上
 :PROPERTIES: 
+:KR_ID: KR6q0208
 :BASEEDITION:  J
 :CBETA_ID:  J29nB227
 :CUSTOM_ID: ZB6q0208
@@ -6109,8 +6317,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0209 [[mandoku:ZB6q0209.org][ZB6q0209]]  [[cbeta:J/J29nB245/J29nB245.org][J29nB245]] 高峰三山來禪師年譜
+*** KR6q0209 高峰三山來禪師年譜-清-性統
 :PROPERTIES: 
+:KR_ID: KR6q0209
 :BASEEDITION:  J
 :CBETA_ID:  J29nB245
 :CUSTOM_ID: ZB6q0209
@@ -6139,8 +6348,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0210 [[mandoku:ZB6q0210.org][ZB6q0210]]  [[cbeta:J/J30nB259/J30nB259.org][J30nB259]] 怡山禮佛發願文略釋
+*** KR6q0210 怡山禮佛發願文略釋-清-書玉
 :PROPERTIES: 
+:KR_ID: KR6q0210
 :BASEEDITION:  J
 :CBETA_ID:  J30nB259
 :CUSTOM_ID: ZB6q0210
@@ -6165,8 +6375,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0211 [[mandoku:ZB6q0211.org][ZB6q0211]]  [[cbeta:J/J30nB260/J30nB260.org][J30nB260]] 大懺悔文略解
+*** KR6q0211 大懺悔文略解-清-書玉
 :PROPERTIES: 
+:KR_ID: KR6q0211
 :BASEEDITION:  J
 :CBETA_ID:  J30nB260
 :CUSTOM_ID: ZB6q0211
@@ -6191,8 +6402,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0212 [[mandoku:ZB6q0212.org][ZB6q0212]]  [[cbeta:J/J31nB267/J31nB267.org][J31nB267]] 牧雲和尚嬾齋別集
+*** KR6q0212 牧雲和尚嬾齋別集-明-通明
 :PROPERTIES: 
+:KR_ID: KR6q0212
 :BASEEDITION:  J
 :CBETA_ID:  J31nB267
 :CUSTOM_ID: ZB6q0212
@@ -6221,8 +6433,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0213 [[mandoku:ZB6q0213.org][ZB6q0213]]  [[cbeta:J/J31nB268/J31nB268.org][J31nB268]] 牧雲和尚宗本投機頌
+*** KR6q0213 牧雲和尚宗本投機頌-明-通明
 :PROPERTIES: 
+:KR_ID: KR6q0213
 :BASEEDITION:  J
 :CBETA_ID:  J31nB268
 :CUSTOM_ID: ZB6q0213
@@ -6247,8 +6460,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0214 [[mandoku:ZB6q0214.org][ZB6q0214]]  [[cbeta:J/J32nB277/J32nB277.org][J32nB277]] 雲棲法彙（選錄）
+*** KR6q0214 雲棲法彙（選錄）-明-袾宏
 :PROPERTIES: 
+:KR_ID: KR6q0214
 :BASEEDITION:  J
 :CBETA_ID:  J32nB277
 :CUSTOM_ID: ZB6q0214
@@ -6273,8 +6487,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0215 [[mandoku:ZB6q0215.org][ZB6q0215]]  [[cbeta:J/J33nB279/J33nB279.org][J33nB279]] 虛舟禪師註八識規矩頌
+*** KR6q0215 虛舟禪師註八識規矩頌-清-行省
 :PROPERTIES: 
+:KR_ID: KR6q0215
 :BASEEDITION:  J
 :CBETA_ID:  J33nB279
 :CUSTOM_ID: ZB6q0215
@@ -6299,8 +6514,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0216 [[mandoku:ZB6q0216.org][ZB6q0216]]  [[cbeta:J/J33nB283/J33nB283.org][J33nB283]] 天台三聖詩集和韻
+*** KR6q0216 天台三聖詩集和韻-元-梵琦
 :PROPERTIES: 
+:KR_ID: KR6q0216
 :BASEEDITION:  J
 :CBETA_ID:  J33nB283
 :CUSTOM_ID: ZB6q0216
@@ -6330,8 +6546,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0217 [[mandoku:ZB6q0217.org][ZB6q0217]]  [[cbeta:J/J33nB293/J33nB293.org][J33nB293]] 擬寒山詩
+*** KR6q0217 擬寒山詩-明-張守約
 :PROPERTIES: 
+:KR_ID: KR6q0217
 :BASEEDITION:  J
 :CBETA_ID:  J33nB293
 :CUSTOM_ID: ZB6q0217
@@ -6366,8 +6583,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0218 [[mandoku:ZB6q0218.org][ZB6q0218]]  [[cbeta:J/J34nB295/J34nB295.org][J34nB295]] 學佛考訓
+*** KR6q0218 學佛考訓-清-淨挺
 :PROPERTIES: 
+:KR_ID: KR6q0218
 :BASEEDITION:  J
 :CBETA_ID:  J34nB295
 :CUSTOM_ID: ZB6q0218
@@ -6392,8 +6610,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0219 [[mandoku:ZB6q0219.org][ZB6q0219]]  [[cbeta:J/J34nB296/J34nB296.org][J34nB296]] 漆園指通
+*** KR6q0219 漆園指通-清-淨挺
 :PROPERTIES: 
+:KR_ID: KR6q0219
 :BASEEDITION:  J
 :CBETA_ID:  J34nB296
 :CUSTOM_ID: ZB6q0219
@@ -6418,8 +6637,9 @@
 :WITID: wit4
 :END:
 
-*** KR6q0220 [[mandoku:ZB6q0220.org][ZB6q0220]]  [[cbeta:J/J34nB304/J34nB304.org][J34nB304]] 靈樹遠禪師雲嵒集
+*** KR6q0220 靈樹遠禪師雲嵒集-清-僧遠
 :PROPERTIES: 
+:KR_ID: KR6q0220
 :BASEEDITION:  J
 :CBETA_ID:  J34nB304
 :CUSTOM_ID: ZB6q0220
@@ -6448,8 +6668,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0221 [[mandoku:ZB6q0221.org][ZB6q0221]]  [[cbeta:J/J34nB311/J34nB311.org][J34nB311]] 天界覺浪盛禪師全錄
+*** KR6q0221 天界覺浪盛禪師全錄-明-道盛
 :PROPERTIES: 
+:KR_ID: KR6q0221
 :BASEEDITION:  J
 :CBETA_ID:  J34nB311
 :CUSTOM_ID: ZB6q0221
@@ -6482,8 +6703,9 @@
 :WITID: wit4
 :END:
 
-*** KR6q0222 [[mandoku:ZB6q0222.org][ZB6q0222]]  [[cbeta:J/J35nB325/J35nB325.org][J35nB325]] 解惑篇
+*** KR6q0222 解惑篇-清-弘贊
 :PROPERTIES: 
+:KR_ID: KR6q0222
 :BASEEDITION:  J
 :CBETA_ID:  J35nB325
 :CUSTOM_ID: ZB6q0222
@@ -6508,8 +6730,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0223 [[mandoku:ZB6q0223.org][ZB6q0223]]  [[cbeta:J/J35nB326/J35nB326.org][J35nB326]] 木人剩稿
+*** KR6q0223 木人剩稿-清-弘贊
 :PROPERTIES: 
+:KR_ID: KR6q0223
 :BASEEDITION:  J
 :CBETA_ID:  J35nB326
 :CUSTOM_ID: ZB6q0223
@@ -6538,8 +6761,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0224 [[mandoku:ZB6q0224.org][ZB6q0224]]  [[cbeta:J/J35nB338/J35nB338.org][J35nB338]] 靈瑞尼祖揆符禪師妙湛錄
+*** KR6q0224 靈瑞尼祖揆符禪師妙湛錄-清-符（尼）
 :PROPERTIES: 
+:KR_ID: KR6q0224
 :BASEEDITION:  J
 :CBETA_ID:  J35nB338
 :CUSTOM_ID: ZB6q0224
@@ -6568,8 +6792,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0225 [[mandoku:ZB6q0225.org][ZB6q0225]]  [[cbeta:J/J35nB339/J35nB339.org][J35nB339]] 靈瑞禪師嵒華集
+*** KR6q0225 靈瑞禪師嵒華集-清-符（尼）
 :PROPERTIES: 
+:KR_ID: KR6q0225
 :BASEEDITION:  J
 :CBETA_ID:  J35nB339
 :CUSTOM_ID: ZB6q0225
@@ -6598,8 +6823,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0226 [[mandoku:ZB6q0226.org][ZB6q0226]]  [[cbeta:J/J36nB348/J36nB348.org][J36nB348]] 靈峰蕅益大師宗論
+*** KR6q0226 靈峰蕅益大師宗論-明-智旭
 :PROPERTIES: 
+:KR_ID: KR6q0226
 :BASEEDITION:  J
 :CBETA_ID:  J36nB348
 :CUSTOM_ID: ZB6q0226
@@ -6624,8 +6850,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0227 [[mandoku:ZB6q0227.org][ZB6q0227]]  [[cbeta:J/J36nB351/J36nB351.org][J36nB351]] 道德經順硃
+*** KR6q0227 道德經順硃-清-德玉
 :PROPERTIES: 
+:KR_ID: KR6q0227
 :BASEEDITION:  J
 :CBETA_ID:  J36nB351
 :CUSTOM_ID: ZB6q0227
@@ -6650,8 +6877,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0228 [[mandoku:ZB6q0228.org][ZB6q0228]]  [[cbeta:J/J36nB354/J36nB354.org][J36nB354]] 錦屏破石卓禪師雜著
+*** KR6q0228 錦屏破石卓禪師雜著-明-悟卓
 :PROPERTIES: 
+:KR_ID: KR6q0228
 :BASEEDITION:  J
 :CBETA_ID:  J36nB354
 :CUSTOM_ID: ZB6q0228
@@ -6684,8 +6912,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0229 [[mandoku:ZB6q0229.org][ZB6q0229]]  [[cbeta:J/J37nB384/J37nB384.org][J37nB384]] 憨休禪師敲空遺響
+*** KR6q0229 憨休禪師敲空遺響-清-如乾
 :PROPERTIES: 
+:KR_ID: KR6q0229
 :BASEEDITION:  J
 :CBETA_ID:  J37nB384
 :CUSTOM_ID: ZB6q0229
@@ -6718,8 +6947,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0230 [[mandoku:ZB6q0230.org][ZB6q0230]]  [[cbeta:J/J38nB416/J38nB416.org][J38nB416]] 調實居士證源錄
+*** KR6q0230 調實居士證源錄-清-陸瑛
 :PROPERTIES: 
+:KR_ID: KR6q0230
 :BASEEDITION:  J
 :CBETA_ID:  J38nB416
 :CUSTOM_ID: ZB6q0230
@@ -6756,8 +6986,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0231 [[mandoku:ZB6q0231.org][ZB6q0231]]  [[cbeta:J/J38nB425/J38nB425.org][J38nB425]] 即非禪師全錄
+*** KR6q0231 即非禪師全錄-清-如一
 :PROPERTIES: 
+:KR_ID: KR6q0231
 :BASEEDITION:  J
 :CBETA_ID:  J38nB425
 :CUSTOM_ID: ZB6q0231
@@ -6786,8 +7017,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0232 [[mandoku:ZB6q0232.org][ZB6q0232]]  [[cbeta:J/J39nB439/J39nB439.org][J39nB439]] 高峰三山來禪師疏語
+*** KR6q0232 高峰三山來禪師疏語-清-燈來
 :PROPERTIES: 
+:KR_ID: KR6q0232
 :BASEEDITION:  J
 :CBETA_ID:  J39nB439
 :CUSTOM_ID: ZB6q0232
@@ -6816,8 +7048,9 @@
 :WITID: wit7
 :END:
 
-*** KR6q0233 [[mandoku:ZB6q0233.org][ZB6q0233]]  [[cbeta:J/J39nB445/J39nB445.org][J39nB445]] 別菴禪師同門錄
+*** KR6q0233 別菴禪師同門錄-清-性統
 :PROPERTIES: 
+:KR_ID: KR6q0233
 :BASEEDITION:  J
 :CBETA_ID:  J39nB445
 :CUSTOM_ID: ZB6q0233
@@ -6846,8 +7079,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0234 [[mandoku:ZB6q0234.org][ZB6q0234]]  [[cbeta:J/J39nB458/J39nB458.org][J39nB458]] 正覺潤光澤禪師澡雪集
+*** KR6q0234 正覺潤光澤禪師澡雪集-清-澤
 :PROPERTIES: 
+:KR_ID: KR6q0234
 :BASEEDITION:  J
 :CBETA_ID:  J39nB458
 :CUSTOM_ID: ZB6q0234
@@ -6880,8 +7114,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0235 [[mandoku:ZB6q0235.org][ZB6q0235]]  [[cbeta:J/J40nB480/J40nB480.org][J40nB480]] 一貫別傳
+*** KR6q0235 一貫別傳-清-廣真
 :PROPERTIES: 
+:KR_ID: KR6q0235
 :BASEEDITION:  J
 :CBETA_ID:  J40nB480
 :CUSTOM_ID: ZB6q0235
@@ -6906,8 +7141,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0236 [[mandoku:ZB6q0236.org][ZB6q0236]]  [[cbeta:J/J40nB481/J40nB481.org][J40nB481]] 古音王傳
+*** KR6q0236 古音王傳-清-廣真
 :PROPERTIES: 
+:KR_ID: KR6q0236
 :BASEEDITION:  J
 :CBETA_ID:  J40nB481
 :CUSTOM_ID: ZB6q0236
@@ -6944,8 +7180,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0237 [[mandoku:ZB6q0237.org][ZB6q0237]]  [[cbeta:J/J40nB484/J40nB484.org][J40nB484]] 野雲映禪師宗統頌
+*** KR6q0237 野雲映禪師宗統頌-清-燈映
 :PROPERTIES: 
+:KR_ID: KR6q0237
 :BASEEDITION:  J
 :CBETA_ID:  J40nB484
 :CUSTOM_ID: ZB6q0237
@@ -6974,8 +7211,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0238 [[mandoku:ZB6q0238.org][ZB6q0238]]  [[cbeta:J/J40nB491/J40nB491.org][J40nB491]] 天寧法舟濟禪師剩語
+*** KR6q0238 天寧法舟濟禪師剩語-明-道濟
 :PROPERTIES: 
+:KR_ID: KR6q0238
 :BASEEDITION:  J
 :CBETA_ID:  J40nB491
 :CUSTOM_ID: ZB6q0238
@@ -7004,8 +7242,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0239 [[mandoku:ZB6q0239.org][ZB6q0239]]  [[cbeta:J/J40nB495/J40nB495.org][J40nB495]] 天然居士懷淨土詩
+*** KR6q0239 天然居士懷淨土詩-清-朱道則
 :PROPERTIES: 
+:KR_ID: KR6q0239
 :BASEEDITION:  J
 :CBETA_ID:  J40nB495
 :CUSTOM_ID: ZB6q0239
@@ -7034,8 +7273,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0240 [[mandoku:ZB6q0240.org][ZB6q0240]]  [[cbeta:J/J40nB497/J40nB497.org][J40nB497]] 鶴山禪師執帚集
+*** KR6q0240 鶴山禪師執帚集-清-鶴山
 :PROPERTIES: 
+:KR_ID: KR6q0240
 :BASEEDITION:  J
 :CBETA_ID:  J40nB497
 :CUSTOM_ID: ZB6q0240
@@ -7064,8 +7304,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0241 [[mandoku:ZB6q0241.org][ZB6q0241]]  [[cbeta:G/G084n2084/G084n2084.org][G084n2084]] 坐禪箴
+*** KR6q0241 坐禪箴-日本-道元
 :PROPERTIES: 
+:KR_ID: KR6q0241
 :BASEEDITION:  G
 :CBETA_ID:  G084n2084
 :CUSTOM_ID: ZB6q0241
@@ -7085,8 +7326,9 @@
 :WITID: wit1
 :END:
 
-*** KR6q0242 [[mandoku:ZB6q0242.org][ZB6q0242]]  [[cbeta:G/G084n2086/G084n2086.org][G084n2086]] 三根坐禪說
+*** KR6q0242 三根坐禪說-日本-瑩山
 :PROPERTIES: 
+:KR_ID: KR6q0242
 :BASEEDITION:  G
 :CBETA_ID:  G084n2086
 :CUSTOM_ID: ZB6q0242
@@ -7106,8 +7348,9 @@
 :WITID: wit1
 :END:
 
-*** KR6q0243 [[mandoku:ZB6q0243.org][ZB6q0243]]  [[cbeta:X/X65n1295/X65n1295.org][X65n1295]] 禪宗頌古聯珠通集
+*** KR6q0243 禪宗頌古聯珠通集-宋-法應
 :PROPERTIES: 
+:KR_ID: KR6q0243
 :BASEEDITION:  X
 :CBETA_ID:  X65n1295
 :GENRE: 諸宗
@@ -7138,8 +7381,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0244 [[mandoku:ZB6q0244.org][ZB6q0244]]  [[cbeta:C/C078n1720/C078n1720.org][C078n1720]] 禪宗頌古聯珠通集
+*** KR6q0244 禪宗頌古聯珠通集-宋-法應
 :PROPERTIES: 
+:KR_ID: KR6q0244
 :BASEEDITION:  C
 :CBETA_ID:  C078n1720
 :CUSTOM_ID: ZB6q0244
@@ -7174,8 +7418,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0245 [[mandoku:ZB6q0245.org][ZB6q0245]]  [[cbeta:X/X66n1296/X66n1296.org][X66n1296]] 宗門拈古彙集
+*** KR6q0245 宗門拈古彙集-清-淨符
 :PROPERTIES: 
+:KR_ID: KR6q0245
 :BASEEDITION:  X
 :CBETA_ID:  X66n1296
 :GENRE: 諸宗
@@ -7201,8 +7446,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0246 [[mandoku:ZB6q0246.org][ZB6q0246]]  [[cbeta:X/X66n1297/X66n1297.org][X66n1297]] 宗鑑法林
+*** KR6q0246 宗鑑法林-清-集雲堂
 :PROPERTIES: 
+:KR_ID: KR6q0246
 :BASEEDITION:  X
 :CBETA_ID:  X66n1297
 :GENRE: 諸宗
@@ -7228,8 +7474,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0247 [[mandoku:ZB6q0247.org][ZB6q0247]]  [[cbeta:X/X66n1298/X66n1298.org][X66n1298]] 禪門諸祖師偈頌
+*** KR6q0247 禪門諸祖師偈頌-宋-子昇
 :PROPERTIES: 
+:KR_ID: KR6q0247
 :BASEEDITION:  X
 :CBETA_ID:  X66n1298
 :GENRE: 諸宗
@@ -7259,8 +7506,9 @@
 :WITID: wit9
 :END:
 
-*** KR6q0248 [[mandoku:ZB6q0248.org][ZB6q0248]]  [[cbeta:X/X67n1299/X67n1299.org][X67n1299]] 禪林類聚
+*** KR6q0248 禪林類聚-元-道泰
 :PROPERTIES: 
+:KR_ID: KR6q0248
 :BASEEDITION:  X
 :CBETA_ID:  X67n1299
 :GENRE: 諸宗
@@ -7286,8 +7534,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0249 [[mandoku:ZB6q0249.org][ZB6q0249]]  [[cbeta:X/X67n1301/X67n1301.org][X67n1301]] 佛果擊節錄
+*** KR6q0249 佛果擊節錄-宋-重顯
 :PROPERTIES: 
+:KR_ID: KR6q0249
 :BASEEDITION:  X
 :CBETA_ID:  X67n1301
 :GENRE: 諸宗
@@ -7317,8 +7566,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0250 [[mandoku:ZB6q0250.org][ZB6q0250]]  [[cbeta:X/X67n1302/X67n1302.org][X67n1302]] 焭絕老人天奇直註雪竇顯和尚頌古
+*** KR6q0250 焭絕老人天奇直註雪竇顯和尚頌古-明-本瑞
 :PROPERTIES: 
+:KR_ID: KR6q0250
 :BASEEDITION:  X
 :CBETA_ID:  X67n1302
 :GENRE: 諸宗
@@ -7348,8 +7598,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0251 [[mandoku:ZB6q0251.org][ZB6q0251]]  [[cbeta:X/X67n1303/X67n1303.org][X67n1303]] 林泉老人評唱投子青和尚頌古空谷集
+*** KR6q0251 林泉老人評唱投子青和尚頌古空谷集-宋-義青
 :PROPERTIES: 
+:KR_ID: KR6q0251
 :BASEEDITION:  X
 :CBETA_ID:  X67n1303
 :GENRE: 諸宗
@@ -7380,8 +7631,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0252 [[mandoku:ZB6q0252.org][ZB6q0252]]  [[cbeta:X/X67n1304/X67n1304.org][X67n1304]] 林泉老人評唱丹霞淳禪師頌古虗堂集
+*** KR6q0252 林泉老人評唱丹霞淳禪師頌古虗堂集-宋-子淳
 :PROPERTIES: 
+:KR_ID: KR6q0252
 :BASEEDITION:  X
 :CBETA_ID:  X67n1304
 :GENRE: 諸宗
@@ -7412,8 +7664,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0253 [[mandoku:ZB6q0253.org][ZB6q0253]]  [[cbeta:X/X67n1306/X67n1306.org][X67n1306]] 焭絕老人天奇直註天童覺和尚頌古
+*** KR6q0253 焭絕老人天奇直註天童覺和尚頌古-明-本瑞
 :PROPERTIES: 
+:KR_ID: KR6q0253
 :BASEEDITION:  X
 :CBETA_ID:  X67n1306
 :GENRE: 諸宗
@@ -7443,8 +7696,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0254 [[mandoku:ZB6q0254.org][ZB6q0254]]  [[cbeta:X/X67n1307/X67n1307.org][X67n1307]] 萬松老人評唱天童覺和尚拈古請益錄
+*** KR6q0254 萬松老人評唱天童覺和尚拈古請益錄-宋-正覺
 :PROPERTIES: 
+:KR_ID: KR6q0254
 :BASEEDITION:  X
 :CBETA_ID:  X67n1307
 :GENRE: 諸宗
@@ -7475,8 +7729,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0255 [[mandoku:ZB6q0255.org][ZB6q0255]]  [[cbeta:X/X67n1308/X67n1308.org][X67n1308]] 徑石滴乳集
+*** KR6q0255 徑石滴乳集-清-真在
 :PROPERTIES: 
+:KR_ID: KR6q0255
 :BASEEDITION:  X
 :CBETA_ID:  X67n1308
 :GENRE: 諸宗
@@ -7506,8 +7761,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0256 [[mandoku:ZB6q0256.org][ZB6q0256]]  [[cbeta:X/X67n1309/X67n1309.org][X67n1309]] 正法眼藏
+*** KR6q0256 正法眼藏-宋-宗杲
 :PROPERTIES: 
+:KR_ID: KR6q0256
 :BASEEDITION:  X
 :CBETA_ID:  X67n1309
 :GENRE: 諸宗
@@ -7533,8 +7789,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0257 [[mandoku:ZB6q0257.org][ZB6q0257]]  [[cbeta:X/X67n1310/X67n1310.org][X67n1310]] 拈八方珠玉集
+*** KR6q0257 拈八方珠玉集-宋-祖慶
 :PROPERTIES: 
+:KR_ID: KR6q0257
 :BASEEDITION:  X
 :CBETA_ID:  X67n1310
 :GENRE: 諸宗
@@ -7560,8 +7817,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0258 [[mandoku:ZB6q0258.org][ZB6q0258]]  [[cbeta:X/X67n1312/X67n1312.org][X67n1312]] 通玄百問
+*** KR6q0258 通玄百問-元-圓通
 :PROPERTIES: 
+:KR_ID: KR6q0258
 :BASEEDITION:  X
 :CBETA_ID:  X67n1312
 :GENRE: 諸宗
@@ -7591,8 +7849,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0259 [[mandoku:ZB6q0259.org][ZB6q0259]]  [[cbeta:X/X67n1313/X67n1313.org][X67n1313]] 青州百問
+*** KR6q0259 青州百問-元-一辯
 :PROPERTIES: 
+:KR_ID: KR6q0259
 :BASEEDITION:  X
 :CBETA_ID:  X67n1313
 :GENRE: 諸宗
@@ -7622,8 +7881,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0260 [[mandoku:ZB6q0260.org][ZB6q0260]]  [[cbeta:X/X68n1314/X68n1314.org][X68n1314]] 古尊宿語錄目錄
+*** KR6q0260 古尊宿語錄目錄-日本-道忠
 :PROPERTIES: 
+:KR_ID: KR6q0260
 :BASEEDITION:  X
 :CBETA_ID:  X68n1314
 :GENRE: 諸宗
@@ -7644,8 +7904,9 @@
 :WITID: wit1
 :END:
 
-*** KR6q0261 [[mandoku:ZB6q0261.org][ZB6q0261]]  [[cbeta:X/X68n1315/X68n1315.org][X68n1315]] 古尊宿語錄
+*** KR6q0261 古尊宿語錄-宋-賾藏
 :PROPERTIES: 
+:KR_ID: KR6q0261
 :BASEEDITION:  X
 :CBETA_ID:  X68n1315
 :GENRE: 諸宗
@@ -7671,8 +7932,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0262 [[mandoku:ZB6q0262.org][ZB6q0262]]  [[cbeta:X/X68n1316/X68n1316.org][X68n1316]] 古尊宿語要目錄
+*** KR6q0262 古尊宿語要目錄-日本-道忠
 :PROPERTIES: 
+:KR_ID: KR6q0262
 :BASEEDITION:  X
 :CBETA_ID:  X68n1316
 :GENRE: 諸宗
@@ -7698,8 +7960,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0263 [[mandoku:ZB6q0263.org][ZB6q0263]]  [[cbeta:C/C077n1710/C077n1710.org][C077n1710]] 古尊宿語錄
+*** KR6q0263 古尊宿語錄-宋-賾藏
 :PROPERTIES: 
+:KR_ID: KR6q0263
 :BASEEDITION:  C
 :CBETA_ID:  C077n1710
 :CUSTOM_ID: ZB6q0263
@@ -7729,8 +7992,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0264 [[mandoku:ZB6q0264.org][ZB6q0264]]  [[cbeta:X/X68n1317/X68n1317.org][X68n1317]] 續古尊宿語要目錄
+*** KR6q0264 續古尊宿語要目錄-日本-道忠
 :PROPERTIES: 
+:KR_ID: KR6q0264
 :BASEEDITION:  X
 :CBETA_ID:  X68n1317
 :GENRE: 諸宗
@@ -7756,8 +8020,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0265 [[mandoku:ZB6q0265.org][ZB6q0265]]  [[cbeta:X/X68n1318/X68n1318.org][X68n1318]] 續古尊宿語要
+*** KR6q0265 續古尊宿語要-宋-師明
 :PROPERTIES: 
+:KR_ID: KR6q0265
 :BASEEDITION:  X
 :CBETA_ID:  X68n1318
 :GENRE: 諸宗
@@ -7783,8 +8048,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0266 [[mandoku:ZB6q0266.org][ZB6q0266]]  [[cbeta:X/X69n1320/X69n1320.org][X69n1320]] 四家語錄（序．引．跋）
+*** KR6q0266 四家語錄（序．引．跋）-唐-鶴徵
 :PROPERTIES: 
+:KR_ID: KR6q0266
 :BASEEDITION:  X
 :CBETA_ID:  X69n1320
 :GENRE: 諸宗
@@ -7805,8 +8071,9 @@
 :WITID: wit1
 :END:
 
-*** KR6q0267 [[mandoku:ZB6q0267.org][ZB6q0267]]  [[cbeta:X/X69n1321/X69n1321.org][X69n1321]] 馬祖道一禪師廣錄（四家語錄卷一）
+*** KR6q0267 馬祖道一禪師廣錄（四家語錄卷一）--
 :PROPERTIES: 
+:KR_ID: KR6q0267
 :BASEEDITION:  X
 :CBETA_ID:  X69n1321
 :GENRE: 諸宗
@@ -7826,8 +8093,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0268 [[mandoku:ZB6q0268.org][ZB6q0268]]  [[cbeta:X/X69n1322/X69n1322.org][X69n1322]] 百丈懷海禪師語錄（四家語錄卷二）
+*** KR6q0268 百丈懷海禪師語錄（四家語錄卷二）--
 :PROPERTIES: 
+:KR_ID: KR6q0268
 :BASEEDITION:  X
 :CBETA_ID:  X69n1322
 :GENRE: 諸宗
@@ -7847,8 +8115,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0269 [[mandoku:ZB6q0269.org][ZB6q0269]]  [[cbeta:X/X69n1323/X69n1323.org][X69n1323]] 百丈懷海禪師廣錄（四家語錄卷三）
+*** KR6q0269 百丈懷海禪師廣錄（四家語錄卷三）--
 :PROPERTIES: 
+:KR_ID: KR6q0269
 :BASEEDITION:  X
 :CBETA_ID:  X69n1323
 :GENRE: 諸宗
@@ -7868,8 +8137,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0270 [[mandoku:ZB6q0270.org][ZB6q0270]]  [[cbeta:X/X69n1326/X69n1326.org][X69n1326]] 五家語錄（序）
+*** KR6q0270 五家語錄（序）-明-圓信
 :PROPERTIES: 
+:KR_ID: KR6q0270
 :BASEEDITION:  X
 :CBETA_ID:  X69n1326
 :GENRE: 諸宗
@@ -7899,8 +8169,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0271 [[mandoku:ZB6q0271.org][ZB6q0271]]  [[cbeta:X/X69n1333/X69n1333.org][X69n1333]] 雪峰義存禪師語錄（真覺禪師語錄）
+*** KR6q0271 雪峰義存禪師語錄（真覺禪師語錄）-明-林弘衍
 :PROPERTIES: 
+:KR_ID: KR6q0271
 :BASEEDITION:  X
 :CBETA_ID:  X69n1333
 :GENRE: 諸宗
@@ -7926,8 +8197,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0272 [[mandoku:ZB6q0272.org][ZB6q0272]]  [[cbeta:X/X69n1335/X69n1335.org][X69n1335]] 善慧大士語錄
+*** KR6q0272 善慧大士語錄-唐-樓頴
 :PROPERTIES: 
+:KR_ID: KR6q0272
 :BASEEDITION:  X
 :CBETA_ID:  X69n1335
 :GENRE: 諸宗
@@ -7953,8 +8225,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0273 [[mandoku:ZB6q0273.org][ZB6q0273]]  [[cbeta:X/X69n1336/X69n1336.org][X69n1336]] 龐居士語錄
+*** KR6q0273 龐居士語錄-唐-于頔
 :PROPERTIES: 
+:KR_ID: KR6q0273
 :BASEEDITION:  X
 :CBETA_ID:  X69n1336
 :GENRE: 諸宗
@@ -7980,8 +8253,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0274 [[mandoku:ZB6q0274.org][ZB6q0274]]  [[cbeta:X/X69n1338/X69n1338.org][X69n1338]] 石霜楚圓禪師語錄
+*** KR6q0274 石霜楚圓禪師語錄-北宋-(小師)慧南
 :PROPERTIES: 
+:KR_ID: KR6q0274
 :BASEEDITION:  X
 :CBETA_ID:  X69n1338
 :GENRE: 諸宗
@@ -8007,8 +8281,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0275 [[mandoku:ZB6q0275.org][ZB6q0275]]  [[cbeta:X/X69n1339/X69n1339.org][X69n1339]] 瑯琊慧覺禪師語錄（序）
+*** KR6q0275 瑯琊慧覺禪師語錄（序）--(參學)用孫
 :PROPERTIES: 
+:KR_ID: KR6q0275
 :BASEEDITION:  X
 :CBETA_ID:  X69n1339
 :GENRE: 諸宗
@@ -8033,8 +8308,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0276 [[mandoku:ZB6q0276.org][ZB6q0276]]  [[cbeta:X/X69n1340/X69n1340.org][X69n1340]] 黃龍四家錄（序）
+*** KR6q0276 黃龍四家錄（序）-宋-秀人錢密
 :PROPERTIES: 
+:KR_ID: KR6q0276
 :BASEEDITION:  X
 :CBETA_ID:  X69n1340
 :GENRE: 諸宗
@@ -8060,8 +8336,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0277 [[mandoku:ZB6q0277.org][ZB6q0277]]  [[cbeta:X/X69n1342/X69n1342.org][X69n1342]] 雲菴克文禪師語錄（敘．疏．附錄）
+*** KR6q0277 雲菴克文禪師語錄（敘．疏．附錄）--(嗣法)福深
 :PROPERTIES: 
+:KR_ID: KR6q0277
 :BASEEDITION:  X
 :CBETA_ID:  X69n1342
 :GENRE: 諸宗
@@ -8086,8 +8363,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0278 [[mandoku:ZB6q0278.org][ZB6q0278]]  [[cbeta:X/X69n1343/X69n1343.org][X69n1343]] 寶覺祖心禪師語錄（黃龍四家錄第二）
+*** KR6q0278 寶覺祖心禪師語錄（黃龍四家錄第二）--(侍者)子和
 :PROPERTIES: 
+:KR_ID: KR6q0278
 :BASEEDITION:  X
 :CBETA_ID:  X69n1343
 :GENRE: 諸宗
@@ -8116,8 +8394,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0279 [[mandoku:ZB6q0279.org][ZB6q0279]]  [[cbeta:X/X69n1344/X69n1344.org][X69n1344]] 死心悟新禪師語錄（黃龍四家錄第三）
+*** KR6q0279 死心悟新禪師語錄（黃龍四家錄第三）--
 :PROPERTIES: 
+:KR_ID: KR6q0279
 :BASEEDITION:  X
 :CBETA_ID:  X69n1344
 :GENRE: 諸宗
@@ -8137,8 +8416,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0280 [[mandoku:ZB6q0280.org][ZB6q0280]]  [[cbeta:X/X69n1345/X69n1345.org][X69n1345]] 超宗慧方禪師語錄（黃龍四家錄第四）
+*** KR6q0280 超宗慧方禪師語錄（黃龍四家錄第四）--
 :PROPERTIES: 
+:KR_ID: KR6q0280
 :BASEEDITION:  X
 :CBETA_ID:  X69n1345
 :GENRE: 諸宗
@@ -8158,8 +8438,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0281 [[mandoku:ZB6q0281.org][ZB6q0281]]  [[cbeta:X/X69n1346/X69n1346.org][X69n1346]] 雪峰慧空禪師語錄
+*** KR6q0281 雪峰慧空禪師語錄--(嗣法)慧弼
 :PROPERTIES: 
+:KR_ID: KR6q0281
 :BASEEDITION:  X
 :CBETA_ID:  X69n1346
 :GENRE: 諸宗
@@ -8184,8 +8465,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0282 [[mandoku:ZB6q0282.org][ZB6q0282]]  [[cbeta:X/X69n1347/X69n1347.org][X69n1347]] 長靈守卓禪師語錄
+*** KR6q0282 長靈守卓禪師語錄--(嗣法)介諶
 :PROPERTIES: 
+:KR_ID: KR6q0282
 :BASEEDITION:  X
 :CBETA_ID:  X69n1347
 :GENRE: 諸宗
@@ -8210,8 +8492,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0283 [[mandoku:ZB6q0283.org][ZB6q0283]]  [[cbeta:X/X69n1348/X69n1348.org][X69n1348]] 雪菴從瑾禪師頌古
+*** KR6q0283 雪菴從瑾禪師頌古--
 :PROPERTIES: 
+:KR_ID: KR6q0283
 :BASEEDITION:  X
 :CBETA_ID:  X69n1348
 :GENRE: 諸宗
@@ -8231,8 +8514,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0284 [[mandoku:ZB6q0284.org][ZB6q0284]]  [[cbeta:X/X69n1350/X69n1350.org][X69n1350]] 保寧仁勇禪師語錄
+*** KR6q0284 保寧仁勇禪師語錄--(參學)道務
 :PROPERTIES: 
+:KR_ID: KR6q0284
 :BASEEDITION:  X
 :CBETA_ID:  X69n1350
 :GENRE: 諸宗
@@ -8261,8 +8545,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0285 [[mandoku:ZB6q0285.org][ZB6q0285]]  [[cbeta:X/X69n1351/X69n1351.org][X69n1351]] 白雲守端禪師語錄
+*** KR6q0285 白雲守端禪師語錄--
 :PROPERTIES: 
+:KR_ID: KR6q0285
 :BASEEDITION:  X
 :CBETA_ID:  X69n1351
 :GENRE: 諸宗
@@ -8282,8 +8567,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0286 [[mandoku:ZB6q0286.org][ZB6q0286]]  [[cbeta:X/X69n1352/X69n1352.org][X69n1352]] 白雲守端禪師廣錄
+*** KR6q0286 白雲守端禪師廣錄--(參學)處凝
 :PROPERTIES: 
+:KR_ID: KR6q0286
 :BASEEDITION:  X
 :CBETA_ID:  X69n1352
 :GENRE: 諸宗
@@ -8324,8 +8610,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0287 [[mandoku:ZB6q0287.org][ZB6q0287]]  [[cbeta:X/X69n1353/X69n1353.org][X69n1353]] 開福道寧禪師語錄
+*** KR6q0287 開福道寧禪師語錄--(嗣法小師)善果
 :PROPERTIES: 
+:KR_ID: KR6q0287
 :BASEEDITION:  X
 :CBETA_ID:  X69n1353
 :GENRE: 諸宗
@@ -8350,8 +8637,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0288 [[mandoku:ZB6q0288.org][ZB6q0288]]  [[cbeta:X/X69n1354/X69n1354.org][X69n1354]] 月林師觀禪師語錄
+*** KR6q0288 月林師觀禪師語錄--(侍者)法寶
 :PROPERTIES: 
+:KR_ID: KR6q0288
 :BASEEDITION:  X
 :CBETA_ID:  X69n1354
 :GENRE: 諸宗
@@ -8408,8 +8696,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0289 [[mandoku:ZB6q0289.org][ZB6q0289]]  [[cbeta:X/X69n1355/X69n1355.org][X69n1355]] 無門慧開禪師語錄
+*** KR6q0289 無門慧開禪師語錄--(侍者)普敬
 :PROPERTIES: 
+:KR_ID: KR6q0289
 :BASEEDITION:  X
 :CBETA_ID:  X69n1355
 :GENRE: 諸宗
@@ -8466,8 +8755,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0290 [[mandoku:ZB6q0290.org][ZB6q0290]]  [[cbeta:X/X69n1356/X69n1356.org][X69n1356]] 普菴印肅禪師語錄
+*** KR6q0290 普菴印肅禪師語錄--
 :PROPERTIES: 
+:KR_ID: KR6q0290
 :BASEEDITION:  X
 :CBETA_ID:  X69n1356
 :GENRE: 諸宗
@@ -8487,8 +8777,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0291 [[mandoku:ZB6q0291.org][ZB6q0291]]  [[cbeta:X/X69n1357/X69n1357.org][X69n1357]] 佛果克勤禪師心要
+*** KR6q0291 佛果克勤禪師心要--(嗣法)子文
 :PROPERTIES: 
+:KR_ID: KR6q0291
 :BASEEDITION:  X
 :CBETA_ID:  X69n1357
 :GENRE: 諸宗
@@ -8513,8 +8804,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0292 [[mandoku:ZB6q0292.org][ZB6q0292]]  [[cbeta:X/X69n1358/X69n1358.org][X69n1358]] 虎丘紹隆禪師語錄
+*** KR6q0292 虎丘紹隆禪師語錄--(參學)嗣端
 :PROPERTIES: 
+:KR_ID: KR6q0292
 :BASEEDITION:  X
 :CBETA_ID:  X69n1358
 :GENRE: 諸宗
@@ -8539,8 +8831,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0293 [[mandoku:ZB6q0293.org][ZB6q0293]]  [[cbeta:X/X69n1359/X69n1359.org][X69n1359]] 應菴曇華禪師語錄
+*** KR6q0293 應菴曇華禪師語錄--(嗣法)守詮
 :PROPERTIES: 
+:KR_ID: KR6q0293
 :BASEEDITION:  X
 :CBETA_ID:  X69n1359
 :GENRE: 諸宗
@@ -8565,8 +8858,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0294 [[mandoku:ZB6q0294.org][ZB6q0294]]  [[cbeta:X/X69n1360/X69n1360.org][X69n1360]] 瞎堂慧遠禪師廣錄
+*** KR6q0294 瞎堂慧遠禪師廣錄--(參學)齊己
 :PROPERTIES: 
+:KR_ID: KR6q0294
 :BASEEDITION:  X
 :CBETA_ID:  X69n1360
 :GENRE: 諸宗
@@ -8603,8 +8897,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0295 [[mandoku:ZB6q0295.org][ZB6q0295]]  [[cbeta:X/X69n1361/X69n1361.org][X69n1361]] 濟顛道濟禪師語錄
+*** KR6q0295 濟顛道濟禪師語錄-宋-沈孟柈
 :PROPERTIES: 
+:KR_ID: KR6q0295
 :BASEEDITION:  X
 :CBETA_ID:  X69n1361
 :GENRE: 諸宗
@@ -8630,8 +8925,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0296 [[mandoku:ZB6q0296.org][ZB6q0296]]  [[cbeta:X/X69n1362/X69n1362.org][X69n1362]] 普覺宗杲禪師語錄
+*** KR6q0296 普覺宗杲禪師語錄--(參學)法宏
 :PROPERTIES: 
+:KR_ID: KR6q0296
 :BASEEDITION:  X
 :CBETA_ID:  X69n1362
 :GENRE: 諸宗
@@ -8660,8 +8956,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0297 [[mandoku:ZB6q0297.org][ZB6q0297]]  [[cbeta:X/X69n1363/X69n1363.org][X69n1363]] 西山亮禪師語錄
+*** KR6q0297 西山亮禪師語錄--(侍者)覺心
 :PROPERTIES: 
+:KR_ID: KR6q0297
 :BASEEDITION:  X
 :CBETA_ID:  X69n1363
 :GENRE: 諸宗
@@ -8690,8 +8987,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0298 [[mandoku:ZB6q0298.org][ZB6q0298]]  [[cbeta:X/X69n1364/X69n1364.org][X69n1364]] 率菴梵琮禪師語錄
+*** KR6q0298 率菴梵琮禪師語錄--(小師)了見
 :PROPERTIES: 
+:KR_ID: KR6q0298
 :BASEEDITION:  X
 :CBETA_ID:  X69n1364
 :GENRE: 諸宗
@@ -8720,8 +9018,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0299 [[mandoku:ZB6q0299.org][ZB6q0299]]  [[cbeta:X/X69n1365/X69n1365.org][X69n1365]] 北磵居簡禪師語錄
+*** KR6q0299 北磵居簡禪師語錄--(參學)大觀
 :PROPERTIES: 
+:KR_ID: KR6q0299
 :BASEEDITION:  X
 :CBETA_ID:  X69n1365
 :GENRE: 諸宗
@@ -8746,8 +9045,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0300 [[mandoku:ZB6q0300.org][ZB6q0300]]  [[cbeta:X/X69n1366/X69n1366.org][X69n1366]] 物初大觀禪師語錄
+*** KR6q0300 物初大觀禪師語錄--(門人)德溥
 :PROPERTIES: 
+:KR_ID: KR6q0300
 :BASEEDITION:  X
 :CBETA_ID:  X69n1366
 :GENRE: 諸宗
@@ -8772,8 +9072,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0301 [[mandoku:ZB6q0301.org][ZB6q0301]]  [[cbeta:X/X69n1367/X69n1367.org][X69n1367]] 笑隱大訢禪師語錄
+*** KR6q0301 笑隱大訢禪師語錄--(門人)延俊
 :PROPERTIES: 
+:KR_ID: KR6q0301
 :BASEEDITION:  X
 :CBETA_ID:  X69n1367
 :GENRE: 諸宗
@@ -8810,8 +9111,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0302 [[mandoku:ZB6q0302.org][ZB6q0302]]  [[cbeta:X/X69n1368/X69n1368.org][X69n1368]] 偃溪廣聞禪師語錄
+*** KR6q0302 偃溪廣聞禪師語錄--(侍者門人)元清
 :PROPERTIES: 
+:KR_ID: KR6q0302
 :BASEEDITION:  X
 :CBETA_ID:  X69n1368
 :GENRE: 諸宗
@@ -8868,8 +9170,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0303 [[mandoku:ZB6q0303.org][ZB6q0303]]  [[cbeta:X/X69n1369/X69n1369.org][X69n1369]] 大川普濟禪師語錄
+*** KR6q0303 大川普濟禪師語錄--(門人)元愷
 :PROPERTIES: 
+:KR_ID: KR6q0303
 :BASEEDITION:  X
 :CBETA_ID:  X69n1369
 :GENRE: 諸宗
@@ -8894,8 +9197,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0304 [[mandoku:ZB6q0304.org][ZB6q0304]]  [[cbeta:X/X69n1370/X69n1370.org][X69n1370]] 淮海原肇禪師語錄
+*** KR6q0304 淮海原肇禪師語錄--(侍者門人)實仁
 :PROPERTIES: 
+:KR_ID: KR6q0304
 :BASEEDITION:  X
 :CBETA_ID:  X69n1370
 :GENRE: 諸宗
@@ -9024,8 +9328,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0305 [[mandoku:ZB6q0305.org][ZB6q0305]]  [[cbeta:X/X69n1371/X69n1371.org][X69n1371]] 介石智朋禪師語錄
+*** KR6q0305 介石智朋禪師語錄--(參學侍者)正賢
 :PROPERTIES: 
+:KR_ID: KR6q0305
 :BASEEDITION:  X
 :CBETA_ID:  X69n1371
 :GENRE: 諸宗
@@ -9074,8 +9379,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0306 [[mandoku:ZB6q0306.org][ZB6q0306]]  [[cbeta:X/X69n1372/X69n1372.org][X69n1372]] 無文道燦禪師語錄
+*** KR6q0306 無文道燦禪師語錄--(小師)惟康
 :PROPERTIES: 
+:KR_ID: KR6q0306
 :BASEEDITION:  X
 :CBETA_ID:  X69n1372
 :GENRE: 諸宗
@@ -9100,8 +9406,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0307 [[mandoku:ZB6q0307.org][ZB6q0307]]  [[cbeta:J/J23nB134/J23nB134.org][J23nB134]] 五家語錄（選錄）
+*** KR6q0307 五家語錄（選錄）-唐-慧然
 :PROPERTIES: 
+:KR_ID: KR6q0307
 :BASEEDITION:  J
 :CBETA_ID:  J23nB134
 :CUSTOM_ID: ZB6q0307
@@ -9131,8 +9438,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0308 [[mandoku:ZB6q0308.org][ZB6q0308]]  [[cbeta:X/X70n1374/X70n1374.org][X70n1374]] 龍源介清禪師語錄
+*** KR6q0308 龍源介清禪師語錄--(侍者)士洵
 :PROPERTIES: 
+:KR_ID: KR6q0308
 :BASEEDITION:  X
 :CBETA_ID:  X70n1374
 :GENRE: 諸宗
@@ -9165,8 +9473,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0309 [[mandoku:ZB6q0309.org][ZB6q0309]]  [[cbeta:X/X70n1375/X70n1375.org][X70n1375]] 曹源道生禪師語錄
+*** KR6q0309 曹源道生禪師語錄--(侍者)道冲
 :PROPERTIES: 
+:KR_ID: KR6q0309
 :BASEEDITION:  X
 :CBETA_ID:  X70n1375
 :GENRE: 諸宗
@@ -9191,8 +9500,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0310 [[mandoku:ZB6q0310.org][ZB6q0310]]  [[cbeta:X/X70n1376/X70n1376.org][X70n1376]] 痴絕道冲禪師語錄
+*** KR6q0310 痴絕道冲禪師語錄--(嗣法門人)智沂
 :PROPERTIES: 
+:KR_ID: KR6q0310
 :BASEEDITION:  X
 :CBETA_ID:  X70n1376
 :GENRE: 諸宗
@@ -9241,8 +9551,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0311 [[mandoku:ZB6q0311.org][ZB6q0311]]  [[cbeta:X/X70n1377/X70n1377.org][X70n1377]] 松源崇嶽禪師語錄
+*** KR6q0311 松源崇嶽禪師語錄--(參學)善開
 :PROPERTIES: 
+:KR_ID: KR6q0311
 :BASEEDITION:  X
 :CBETA_ID:  X70n1377
 :GENRE: 諸宗
@@ -9287,8 +9598,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0312 [[mandoku:ZB6q0312.org][ZB6q0312]]  [[cbeta:X/X70n1378/X70n1378.org][X70n1378]] 無明慧性禪師語錄
+*** KR6q0312 無明慧性禪師語錄--(侍者)妙儼
 :PROPERTIES: 
+:KR_ID: KR6q0312
 :BASEEDITION:  X
 :CBETA_ID:  X70n1378
 :GENRE: 諸宗
@@ -9337,8 +9649,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0313 [[mandoku:ZB6q0313.org][ZB6q0313]]  [[cbeta:X/X70n1379/X70n1379.org][X70n1379]] 運菴普巖禪師語錄
+*** KR6q0313 運菴普巖禪師語錄--(侍者)元靖
 :PROPERTIES: 
+:KR_ID: KR6q0313
 :BASEEDITION:  X
 :CBETA_ID:  X70n1379
 :GENRE: 諸宗
@@ -9371,8 +9684,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0314 [[mandoku:ZB6q0314.org][ZB6q0314]]  [[cbeta:X/X70n1381/X70n1381.org][X70n1381]] 破菴祖先禪師語錄
+*** KR6q0314 破菴祖先禪師語錄--(參學)圓照
 :PROPERTIES: 
+:KR_ID: KR6q0314
 :BASEEDITION:  X
 :CBETA_ID:  X70n1381
 :GENRE: 諸宗
@@ -9397,8 +9711,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0315 [[mandoku:ZB6q0315.org][ZB6q0315]]  [[cbeta:X/X70n1382/X70n1382.org][X70n1382]] 無準師範禪師語錄
+*** KR6q0315 無準師範禪師語錄--(侍者)宗會
 :PROPERTIES: 
+:KR_ID: KR6q0315
 :BASEEDITION:  X
 :CBETA_ID:  X70n1382
 :GENRE: 諸宗
@@ -9479,8 +9794,9 @@
 :WITID: wit9
 :END:
 
-*** KR6q0316 [[mandoku:ZB6q0316.org][ZB6q0316]]  [[cbeta:X/X70n1383/X70n1383.org][X70n1383]] 無準和尚奏對語錄
+*** KR6q0316 無準和尚奏對語錄--(侍者)了南
 :PROPERTIES: 
+:KR_ID: KR6q0316
 :BASEEDITION:  X
 :CBETA_ID:  X70n1383
 :GENRE: 諸宗
@@ -9509,8 +9825,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0317 [[mandoku:ZB6q0317.org][ZB6q0317]]  [[cbeta:X/X70n1384/X70n1384.org][X70n1384]] 絕岸可湘禪師語錄
+*** KR6q0317 絕岸可湘禪師語錄--(嗣法門人)妙恩
 :PROPERTIES: 
+:KR_ID: KR6q0317
 :BASEEDITION:  X
 :CBETA_ID:  X70n1384
 :GENRE: 諸宗
@@ -9555,8 +9872,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0318 [[mandoku:ZB6q0318.org][ZB6q0318]]  [[cbeta:X/X70n1385/X70n1385.org][X70n1385]] 樵隱悟逸禪師語錄
+*** KR6q0318 樵隱悟逸禪師語錄--(侍者)正定
 :PROPERTIES: 
+:KR_ID: KR6q0318
 :BASEEDITION:  X
 :CBETA_ID:  X70n1385
 :GENRE: 諸宗
@@ -9581,8 +9899,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0319 [[mandoku:ZB6q0319.org][ZB6q0319]]  [[cbeta:X/X70n1386/X70n1386.org][X70n1386]] 石田法薰禪師語錄
+*** KR6q0319 石田法薰禪師語錄--(門人)了覺
 :PROPERTIES: 
+:KR_ID: KR6q0319
 :BASEEDITION:  X
 :CBETA_ID:  X70n1386
 :GENRE: 諸宗
@@ -9611,8 +9930,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0320 [[mandoku:ZB6q0320.org][ZB6q0320]]  [[cbeta:X/X70n1387/X70n1387.org][X70n1387]] 劍關子益禪師語錄
+*** KR6q0320 劍關子益禪師語錄--(侍者)善珙
 :PROPERTIES: 
+:KR_ID: KR6q0320
 :BASEEDITION:  X
 :CBETA_ID:  X70n1387
 :GENRE: 諸宗
@@ -9657,8 +9977,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0321 [[mandoku:ZB6q0321.org][ZB6q0321]]  [[cbeta:X/X70n1388/X70n1388.org][X70n1388]] 環溪惟一禪師語錄
+*** KR6q0321 環溪惟一禪師語錄--(參學)覺此
 :PROPERTIES: 
+:KR_ID: KR6q0321
 :BASEEDITION:  X
 :CBETA_ID:  X70n1388
 :GENRE: 諸宗
@@ -9683,8 +10004,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0322 [[mandoku:ZB6q0322.org][ZB6q0322]]  [[cbeta:X/X70n1389/X70n1389.org][X70n1389]] 希叟紹曇禪師語錄
+*** KR6q0322 希叟紹曇禪師語錄--(侍者)自悟
 :PROPERTIES: 
+:KR_ID: KR6q0322
 :BASEEDITION:  X
 :CBETA_ID:  X70n1389
 :GENRE: 諸宗
@@ -9745,8 +10067,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0323 [[mandoku:ZB6q0323.org][ZB6q0323]]  [[cbeta:X/X70n1390/X70n1390.org][X70n1390]] 希叟紹曇禪師廣錄
+*** KR6q0323 希叟紹曇禪師廣錄--(侍者)法澄
 :PROPERTIES: 
+:KR_ID: KR6q0323
 :BASEEDITION:  X
 :CBETA_ID:  X70n1390
 :GENRE: 諸宗
@@ -9799,8 +10122,9 @@
 :WITID: wit9
 :END:
 
-*** KR6q0324 [[mandoku:ZB6q0324.org][ZB6q0324]]  [[cbeta:X/X70n1391/X70n1391.org][X70n1391]] 西巖了慧禪師語錄
+*** KR6q0324 西巖了慧禪師語錄--(門人侍者)修義
 :PROPERTIES: 
+:KR_ID: KR6q0324
 :BASEEDITION:  X
 :CBETA_ID:  X70n1391
 :GENRE: 諸宗
@@ -9841,8 +10165,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0325 [[mandoku:ZB6q0325.org][ZB6q0325]]  [[cbeta:X/X70n1392/X70n1392.org][X70n1392]] 月磵禪師語錄
+*** KR6q0325 月磵禪師語錄--(嗣法)妙寅
 :PROPERTIES: 
+:KR_ID: KR6q0325
 :BASEEDITION:  X
 :CBETA_ID:  X70n1392
 :GENRE: 諸宗
@@ -9887,8 +10212,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0326 [[mandoku:ZB6q0326.org][ZB6q0326]]  [[cbeta:X/X70n1393/X70n1393.org][X70n1393]] 平石如砥禪師語錄
+*** KR6q0326 平石如砥禪師語錄--(嗣法門人)文才
 :PROPERTIES: 
+:KR_ID: KR6q0326
 :BASEEDITION:  X
 :CBETA_ID:  X70n1393
 :GENRE: 諸宗
@@ -9949,8 +10275,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0327 [[mandoku:ZB6q0327.org][ZB6q0327]]  [[cbeta:X/X70n1394/X70n1394.org][X70n1394]] 斷橋妙倫禪師語錄
+*** KR6q0327 斷橋妙倫禪師語錄--(侍者)文寶
 :PROPERTIES: 
+:KR_ID: KR6q0327
 :BASEEDITION:  X
 :CBETA_ID:  X70n1394
 :GENRE: 諸宗
@@ -9979,8 +10306,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0328 [[mandoku:ZB6q0328.org][ZB6q0328]]  [[cbeta:X/X70n1395/X70n1395.org][X70n1395]] 方山文寶禪師語錄
+*** KR6q0328 方山文寶禪師語錄--(嗣法)先覩
 :PROPERTIES: 
+:KR_ID: KR6q0328
 :BASEEDITION:  X
 :CBETA_ID:  X70n1395
 :GENRE: 諸宗
@@ -10013,8 +10341,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0329 [[mandoku:ZB6q0329.org][ZB6q0329]]  [[cbeta:X/X70n1396/X70n1396.org][X70n1396]] 無見先覩禪師語錄
+*** KR6q0329 無見先覩禪師語錄--(嗣法門人)智度
 :PROPERTIES: 
+:KR_ID: KR6q0329
 :BASEEDITION:  X
 :CBETA_ID:  X70n1396
 :GENRE: 諸宗
@@ -10039,8 +10368,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0330 [[mandoku:ZB6q0330.org][ZB6q0330]]  [[cbeta:X/X70n1397/X70n1397.org][X70n1397]] 雪巖祖欽禪師語錄
+*** KR6q0330 雪巖祖欽禪師語錄--(嗣法門人)昭如
 :PROPERTIES: 
+:KR_ID: KR6q0330
 :BASEEDITION:  X
 :CBETA_ID:  X70n1397
 :GENRE: 諸宗
@@ -10069,8 +10399,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0331 [[mandoku:ZB6q0331.org][ZB6q0331]]  [[cbeta:X/X70n1398/X70n1398.org][X70n1398]] 海印昭如禪師語錄
+*** KR6q0331 海印昭如禪師語錄--(門人)行純
 :PROPERTIES: 
+:KR_ID: KR6q0331
 :BASEEDITION:  X
 :CBETA_ID:  X70n1398
 :GENRE: 諸宗
@@ -10103,8 +10434,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0332 [[mandoku:ZB6q0332.org][ZB6q0332]]  [[cbeta:X/X70n1399/X70n1399.org][X70n1399]] 石屋清洪禪師語錄
+*** KR6q0332 石屋清洪禪師語錄--(參學門人)至柔
 :PROPERTIES: 
+:KR_ID: KR6q0332
 :BASEEDITION:  X
 :CBETA_ID:  X70n1399
 :GENRE: 諸宗
@@ -10129,8 +10461,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0333 [[mandoku:ZB6q0333.org][ZB6q0333]]  [[cbeta:X/X70n1400/X70n1400.org][X70n1400]] 高峰原妙禪師語錄
+*** KR6q0333 高峰原妙禪師語錄--
 :PROPERTIES: 
+:KR_ID: KR6q0333
 :BASEEDITION:  X
 :CBETA_ID:  X70n1400
 :GENRE: 諸宗
@@ -10150,8 +10483,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0334 [[mandoku:ZB6q0334.org][ZB6q0334]]  [[cbeta:X/X70n1401/X70n1401.org][X70n1401]] 高峰原妙禪師禪要
+*** KR6q0334 高峰原妙禪師禪要--(侍者)持正
 :PROPERTIES: 
+:KR_ID: KR6q0334
 :BASEEDITION:  X
 :CBETA_ID:  X70n1401
 :GENRE: 諸宗
@@ -10180,8 +10514,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0335 [[mandoku:ZB6q0335.org][ZB6q0335]]  [[cbeta:X/X70n1402/X70n1402.org][X70n1402]] 天目明本禪師雜錄
+*** KR6q0335 天目明本禪師雜錄--
 :PROPERTIES: 
+:KR_ID: KR6q0335
 :BASEEDITION:  X
 :CBETA_ID:  X70n1402
 :GENRE: 諸宗
@@ -10201,8 +10536,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0336 [[mandoku:ZB6q0336.org][ZB6q0336]]  [[cbeta:X/X70n1403/X70n1403.org][X70n1403]] 天如惟則禪師語錄
+*** KR6q0336 天如惟則禪師語錄--(小師)善遇
 :PROPERTIES: 
+:KR_ID: KR6q0336
 :BASEEDITION:  X
 :CBETA_ID:  X70n1403
 :GENRE: 諸宗
@@ -10227,8 +10563,9 @@
 :WITID: wit9
 :END:
 
-*** KR6q0337 [[mandoku:ZB6q0337.org][ZB6q0337]]  [[cbeta:X/X71n1404/X71n1404.org][X71n1404]] 兀菴普寧禪師語錄
+*** KR6q0337 兀菴普寧禪師語錄--(侍者)淨韻
 :PROPERTIES: 
+:KR_ID: KR6q0337
 :BASEEDITION:  X
 :CBETA_ID:  X71n1404
 :GENRE: 諸宗
@@ -10269,8 +10606,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0338 [[mandoku:ZB6q0338.org][ZB6q0338]]  [[cbeta:X/X71n1405/X71n1405.org][X71n1405]] 石溪心月禪師語錄
+*** KR6q0338 石溪心月禪師語錄--(侍者)住顯
 :PROPERTIES: 
+:KR_ID: KR6q0338
 :BASEEDITION:  X
 :CBETA_ID:  X71n1405
 :GENRE: 諸宗
@@ -10327,8 +10665,9 @@
 :WITID: wit9
 :END:
 
-*** KR6q0339 [[mandoku:ZB6q0339.org][ZB6q0339]]  [[cbeta:X/X71n1406/X71n1406.org][X71n1406]] 石溪心月禪師雜錄
+*** KR6q0339 石溪心月禪師雜錄--
 :PROPERTIES: 
+:KR_ID: KR6q0339
 :BASEEDITION:  X
 :CBETA_ID:  X71n1406
 :GENRE: 諸宗
@@ -10348,8 +10687,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0340 [[mandoku:ZB6q0340.org][ZB6q0340]]  [[cbeta:X/X71n1407/X71n1407.org][X71n1407]] 虛舟普度禪師語錄
+*** KR6q0340 虛舟普度禪師語錄--(嗣法)淨伏
 :PROPERTIES: 
+:KR_ID: KR6q0340
 :BASEEDITION:  X
 :CBETA_ID:  X71n1407
 :GENRE: 諸宗
@@ -10386,8 +10726,9 @@
 :WITID: wit9
 :END:
 
-*** KR6q0341 [[mandoku:ZB6q0341.org][ZB6q0341]]  [[cbeta:X/X71n1408/X71n1408.org][X71n1408]] 即休契了禪師拾遺集
+*** KR6q0341 即休契了禪師拾遺集-日本-及藏
 :PROPERTIES: 
+:KR_ID: KR6q0341
 :BASEEDITION:  X
 :CBETA_ID:  X71n1408
 :GENRE: 諸宗
@@ -10413,8 +10754,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0342 [[mandoku:ZB6q0342.org][ZB6q0342]]  [[cbeta:X/X71n1409/X71n1409.org][X71n1409]] 月江正印禪師語錄
+*** KR6q0342 月江正印禪師語錄--(門人)居簡
 :PROPERTIES: 
+:KR_ID: KR6q0342
 :BASEEDITION:  X
 :CBETA_ID:  X71n1409
 :GENRE: 諸宗
@@ -10519,8 +10861,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0343 [[mandoku:ZB6q0343.org][ZB6q0343]]  [[cbeta:X/X71n1410/X71n1410.org][X71n1410]] 曇芳守忠禪師語錄
+*** KR6q0343 曇芳守忠禪師語錄--(嗣法)繼祖
 :PROPERTIES: 
+:KR_ID: KR6q0343
 :BASEEDITION:  X
 :CBETA_ID:  X71n1410
 :GENRE: 諸宗
@@ -10545,8 +10888,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0344 [[mandoku:ZB6q0344.org][ZB6q0344]]  [[cbeta:X/X71n1411/X71n1411.org][X71n1411]] 橫川行珙禪師語錄
+*** KR6q0344 橫川行珙禪師語錄--(門人)本光
 :PROPERTIES: 
+:KR_ID: KR6q0344
 :BASEEDITION:  X
 :CBETA_ID:  X71n1411
 :GENRE: 諸宗
@@ -10571,8 +10915,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0345 [[mandoku:ZB6q0345.org][ZB6q0345]]  [[cbeta:X/X71n1412/X71n1412.org][X71n1412]] 古林清茂禪師語錄
+*** KR6q0345 古林清茂禪師語錄--(小師)元浩
 :PROPERTIES: 
+:KR_ID: KR6q0345
 :BASEEDITION:  X
 :CBETA_ID:  X71n1412
 :GENRE: 諸宗
@@ -10605,8 +10950,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0346 [[mandoku:ZB6q0346.org][ZB6q0346]]  [[cbeta:X/X71n1413/X71n1413.org][X71n1413]] 古林清茂禪師拾遺偈頌
+*** KR6q0346 古林清茂禪師拾遺偈頌-日本-海壽
 :PROPERTIES: 
+:KR_ID: KR6q0346
 :BASEEDITION:  X
 :CBETA_ID:  X71n1413
 :GENRE: 諸宗
@@ -10632,8 +10978,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0347 [[mandoku:ZB6q0347.org][ZB6q0347]]  [[cbeta:X/X71n1414/X71n1414.org][X71n1414]] 了菴清欲禪師語錄
+*** KR6q0347 了菴清欲禪師語錄--(參學)一志
 :PROPERTIES: 
+:KR_ID: KR6q0347
 :BASEEDITION:  X
 :CBETA_ID:  X71n1414
 :GENRE: 諸宗
@@ -10734,8 +11081,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0348 [[mandoku:ZB6q0348.org][ZB6q0348]]  [[cbeta:X/X71n1415/X71n1415.org][X71n1415]] 穆菴文康禪師語錄
+*** KR6q0348 穆菴文康禪師語錄--(嗣法)清逸
 :PROPERTIES: 
+:KR_ID: KR6q0348
 :BASEEDITION:  X
 :CBETA_ID:  X71n1415
 :GENRE: 諸宗
@@ -10768,8 +11116,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0349 [[mandoku:ZB6q0349.org][ZB6q0349]]  [[cbeta:X/X71n1416/X71n1416.org][X71n1416]] 恕中無慍禪師語錄
+*** KR6q0349 恕中無慍禪師語錄--(嗣法參學)宗黼
 :PROPERTIES: 
+:KR_ID: KR6q0349
 :BASEEDITION:  X
 :CBETA_ID:  X71n1416
 :GENRE: 諸宗
@@ -10822,8 +11171,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0350 [[mandoku:ZB6q0350.org][ZB6q0350]]  [[cbeta:X/X71n1417/X71n1417.org][X71n1417]] 了堂惟一禪師語錄
+*** KR6q0350 了堂惟一禪師語錄--(門人)宗義
 :PROPERTIES: 
+:KR_ID: KR6q0350
 :BASEEDITION:  X
 :CBETA_ID:  X71n1417
 :GENRE: 諸宗
@@ -10900,8 +11250,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0351 [[mandoku:ZB6q0351.org][ZB6q0351]]  [[cbeta:X/X71n1418/X71n1418.org][X71n1418]] 呆菴普莊禪師語錄
+*** KR6q0351 呆菴普莊禪師語錄--(門人)慧啟
 :PROPERTIES: 
+:KR_ID: KR6q0351
 :BASEEDITION:  X
 :CBETA_ID:  X71n1418
 :GENRE: 諸宗
@@ -10946,8 +11297,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0352 [[mandoku:ZB6q0352.org][ZB6q0352]]  [[cbeta:X/X71n1419/X71n1419.org][X71n1419]] 元叟行端禪師語錄
+*** KR6q0352 元叟行端禪師語錄--(門人)法林
 :PROPERTIES: 
+:KR_ID: KR6q0352
 :BASEEDITION:  X
 :CBETA_ID:  X71n1419
 :GENRE: 諸宗
@@ -10984,8 +11336,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0353 [[mandoku:ZB6q0353.org][ZB6q0353]]  [[cbeta:X/X71n1420/X71n1420.org][X71n1420]] 楚石梵琦禪師語錄
+*** KR6q0353 楚石梵琦禪師語錄--(門人)祖光
 :PROPERTIES: 
+:KR_ID: KR6q0353
 :BASEEDITION:  X
 :CBETA_ID:  X71n1420
 :GENRE: 諸宗
@@ -11066,8 +11419,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0354 [[mandoku:ZB6q0354.org][ZB6q0354]]  [[cbeta:X/X71n1421/X71n1421.org][X71n1421]] 愚菴智及禪師語錄
+*** KR6q0354 愚菴智及禪師語錄--(門人)觀通
 :PROPERTIES: 
+:KR_ID: KR6q0354
 :BASEEDITION:  X
 :CBETA_ID:  X71n1421
 :GENRE: 諸宗
@@ -11128,8 +11482,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0355 [[mandoku:ZB6q0355.org][ZB6q0355]]  [[cbeta:X/X71n1422/X71n1422.org][X71n1422]] 南石文琇禪師語錄
+*** KR6q0355 南石文琇禪師語錄--(門人)宗謐
 :PROPERTIES: 
+:KR_ID: KR6q0355
 :BASEEDITION:  X
 :CBETA_ID:  X71n1422
 :GENRE: 諸宗
@@ -11170,8 +11525,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0356 [[mandoku:ZB6q0356.org][ZB6q0356]]  [[cbeta:X/X71n1423/X71n1423.org][X71n1423]] 投子義青禪師語錄
+*** KR6q0356 投子義青禪師語錄--(傳法)自覺
 :PROPERTIES: 
+:KR_ID: KR6q0356
 :BASEEDITION:  X
 :CBETA_ID:  X71n1423
 :GENRE: 諸宗
@@ -11196,8 +11552,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0357 [[mandoku:ZB6q0357.org][ZB6q0357]]  [[cbeta:X/X71n1424/X71n1424.org][X71n1424]] 投子義青禪師語錄
+*** KR6q0357 投子義青禪師語錄--(嗣法)道楷
 :PROPERTIES: 
+:KR_ID: KR6q0357
 :BASEEDITION:  X
 :CBETA_ID:  X71n1424
 :GENRE: 諸宗
@@ -11222,8 +11579,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0358 [[mandoku:ZB6q0358.org][ZB6q0358]]  [[cbeta:X/X71n1425/X71n1425.org][X71n1425]] 丹霞子淳禪師語錄
+*** KR6q0358 丹霞子淳禪師語錄--(嗣法小師)慶預
 :PROPERTIES: 
+:KR_ID: KR6q0358
 :BASEEDITION:  X
 :CBETA_ID:  X71n1425
 :GENRE: 諸宗
@@ -11248,8 +11606,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0359 [[mandoku:ZB6q0359.org][ZB6q0359]]  [[cbeta:X/X71n1426/X71n1426.org][X71n1426]] 真歇清了禪師語錄
+*** KR6q0359 真歇清了禪師語錄--(侍者)德初
 :PROPERTIES: 
+:KR_ID: KR6q0359
 :BASEEDITION:  X
 :CBETA_ID:  X71n1426
 :GENRE: 諸宗
@@ -11278,8 +11637,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0360 [[mandoku:ZB6q0360.org][ZB6q0360]]  [[cbeta:X/X72n1428/X72n1428.org][X72n1428]] 淨慈慧暉禪師語錄
+*** KR6q0360 淨慈慧暉禪師語錄--(弟子)明總
 :PROPERTIES: 
+:KR_ID: KR6q0360
 :BASEEDITION:  X
 :CBETA_ID:  X72n1428
 :GENRE: 諸宗
@@ -11308,8 +11668,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0361 [[mandoku:ZB6q0361.org][ZB6q0361]]  [[cbeta:X/X72n1431/X72n1431.org][X72n1431]] 雲外雲岫禪師語錄
+*** KR6q0361 雲外雲岫禪師語錄--(小師)士慘
 :PROPERTIES: 
+:KR_ID: KR6q0361
 :BASEEDITION:  X
 :CBETA_ID:  X72n1431
 :GENRE: 諸宗
@@ -11334,8 +11695,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0362 [[mandoku:ZB6q0362.org][ZB6q0362]]  [[cbeta:X/X72n1432/X72n1432.org][X72n1432]] 無明慧經禪師語錄
+*** KR6q0362 無明慧經禪師語錄--(嗣法)元賢
 :PROPERTIES: 
+:KR_ID: KR6q0362
 :BASEEDITION:  X
 :CBETA_ID:  X72n1432
 :GENRE: 諸宗
@@ -11360,8 +11722,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0363 [[mandoku:ZB6q0363.org][ZB6q0363]]  [[cbeta:X/X72n1433/X72n1433.org][X72n1433]] 晦臺元鏡禪師語錄
+*** KR6q0363 晦臺元鏡禪師語錄--(嗣法)道盛
 :PROPERTIES: 
+:KR_ID: KR6q0363
 :BASEEDITION:  X
 :CBETA_ID:  X72n1433
 :GENRE: 諸宗
@@ -11386,8 +11749,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0364 [[mandoku:ZB6q0364.org][ZB6q0364]]  [[cbeta:X/X72n1434/X72n1434.org][X72n1434]] 見如元謐禪師語錄
+*** KR6q0364 見如元謐禪師語錄-(門人)道璞集-(門人)道璞
 :PROPERTIES: 
+:KR_ID: KR6q0364
 :BASEEDITION:  X
 :CBETA_ID:  X72n1434
 :GENRE: 諸宗
@@ -11413,8 +11777,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0365 [[mandoku:ZB6q0365.org][ZB6q0365]]  [[cbeta:X/X72n1435/X72n1435.org][X72n1435]] 無異元來禪師廣錄
+*** KR6q0365 無異元來禪師廣錄--(法孫)弘瀚
 :PROPERTIES: 
+:KR_ID: KR6q0365
 :BASEEDITION:  X
 :CBETA_ID:  X72n1435
 :GENRE: 諸宗
@@ -11443,8 +11808,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0366 [[mandoku:ZB6q0366.org][ZB6q0366]]  [[cbeta:X/X72n1436/X72n1436.org][X72n1436]] 博山無異大禪語錄集要
+*** KR6q0366 博山無異大禪語錄集要--(首座)成正
 :PROPERTIES: 
+:KR_ID: KR6q0366
 :BASEEDITION:  X
 :CBETA_ID:  X72n1436
 :GENRE: 諸宗
@@ -11469,8 +11835,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0367 [[mandoku:ZB6q0367.org][ZB6q0367]]  [[cbeta:X/X72n1437/X72n1437.org][X72n1437]] 永覺元賢禪師廣錄
+*** KR6q0367 永覺元賢禪師廣錄--(嗣法)道霈
 :PROPERTIES: 
+:KR_ID: KR6q0367
 :BASEEDITION:  X
 :CBETA_ID:  X72n1437
 :GENRE: 諸宗
@@ -11495,8 +11862,9 @@
 :WITID: wit9
 :END:
 
-*** KR6q0368 [[mandoku:ZB6q0368.org][ZB6q0368]]  [[cbeta:X/X72n1438/X72n1438.org][X72n1438]] 為霖道霈禪師秉拂語錄
+*** KR6q0368 為霖道霈禪師秉拂語錄--(書記)太靖
 :PROPERTIES: 
+:KR_ID: KR6q0368
 :BASEEDITION:  X
 :CBETA_ID:  X72n1438
 :GENRE: 諸宗
@@ -11521,8 +11889,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0369 [[mandoku:ZB6q0369.org][ZB6q0369]]  [[cbeta:X/X72n1439/X72n1439.org][X72n1439]] 為霖道霈禪師餐香錄
+*** KR6q0369 為霖道霈禪師餐香錄--(書記)太泉
 :PROPERTIES: 
+:KR_ID: KR6q0369
 :BASEEDITION:  X
 :CBETA_ID:  X72n1439
 :GENRE: 諸宗
@@ -11547,8 +11916,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0370 [[mandoku:ZB6q0370.org][ZB6q0370]]  [[cbeta:X/X72n1440/X72n1440.org][X72n1440]] 為霖道霈禪師還山錄
+*** KR6q0370 為霖道霈禪師還山錄--(侍者)興燈
 :PROPERTIES: 
+:KR_ID: KR6q0370
 :BASEEDITION:  X
 :CBETA_ID:  X72n1440
 :GENRE: 諸宗
@@ -11585,8 +11955,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0371 [[mandoku:ZB6q0371.org][ZB6q0371]]  [[cbeta:X/X72n1441/X72n1441.org][X72n1441]] 為霖禪師雲山法會錄
+*** KR6q0371 為霖禪師雲山法會錄--(弟子)謝大材
 :PROPERTIES: 
+:KR_ID: KR6q0371
 :BASEEDITION:  X
 :CBETA_ID:  X72n1441
 :GENRE: 諸宗
@@ -11619,8 +11990,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0372 [[mandoku:ZB6q0372.org][ZB6q0372]]  [[cbeta:X/X72n1442/X72n1442.org][X72n1442]] 為霖禪師旅泊菴稿
+*** KR6q0372 為霖禪師旅泊菴稿--(弟子)太泉
 :PROPERTIES: 
+:KR_ID: KR6q0372
 :BASEEDITION:  X
 :CBETA_ID:  X72n1442
 :GENRE: 諸宗
@@ -11661,8 +12033,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0373 [[mandoku:ZB6q0373.org][ZB6q0373]]  [[cbeta:X/X72n1443/X72n1443.org][X72n1443]] 宗寶道獨禪師語錄
+*** KR6q0373 宗寶道獨禪師語錄--(法孫)今釋
 :PROPERTIES: 
+:KR_ID: KR6q0373
 :BASEEDITION:  X
 :CBETA_ID:  X72n1443
 :GENRE: 諸宗
@@ -11687,8 +12060,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0374 [[mandoku:ZB6q0374.org][ZB6q0374]]  [[cbeta:X/X72n1444/X72n1444.org][X72n1444]] 湛然圓澄禪師語錄
+*** KR6q0374 湛然圓澄禪師語錄--(門人)明凡
 :PROPERTIES: 
+:KR_ID: KR6q0374
 :BASEEDITION:  X
 :CBETA_ID:  X72n1444
 :GENRE: 諸宗
@@ -11721,8 +12095,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0375 [[mandoku:ZB6q0375.org][ZB6q0375]]  [[cbeta:X/X73n1445/X73n1445.org][X73n1445]] 玄沙師備禪師廣錄
+*** KR6q0375 玄沙師備禪師廣錄--(參學)智嚴
 :PROPERTIES: 
+:KR_ID: KR6q0375
 :BASEEDITION:  X
 :CBETA_ID:  X73n1445
 :GENRE: 諸宗
@@ -11747,8 +12122,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0376 [[mandoku:ZB6q0376.org][ZB6q0376]]  [[cbeta:X/X73n1446/X73n1446.org][X73n1446]] 玄沙師備禪師語錄
+*** KR6q0376 玄沙師備禪師語錄-明-林弘衍
 :PROPERTIES: 
+:KR_ID: KR6q0376
 :BASEEDITION:  X
 :CBETA_ID:  X73n1446
 :GENRE: 諸宗
@@ -11774,8 +12150,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0377 [[mandoku:ZB6q0377.org][ZB6q0377]]  [[cbeta:X/X73n1447/X73n1447.org][X73n1447]] 薦福承古禪師語錄
+*** KR6q0377 薦福承古禪師語錄--(門人)文智
 :PROPERTIES: 
+:KR_ID: KR6q0377
 :BASEEDITION:  X
 :CBETA_ID:  X73n1447
 :GENRE: 諸宗
@@ -11800,8 +12177,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0378 [[mandoku:ZB6q0378.org][ZB6q0378]]  [[cbeta:X/X73n1448/X73n1448.org][X73n1448]] 法昌倚遇禪師語錄
+*** KR6q0378 法昌倚遇禪師語錄--(小師)宗密
 :PROPERTIES: 
+:KR_ID: KR6q0378
 :BASEEDITION:  X
 :CBETA_ID:  X73n1448
 :GENRE: 諸宗
@@ -11826,8 +12204,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0379 [[mandoku:ZB6q0379.org][ZB6q0379]]  [[cbeta:X/X73n1449/X73n1449.org][X73n1449]] 吳山淨端禪師語錄
+*** KR6q0379 吳山淨端禪師語錄--(法孫)師皎
 :PROPERTIES: 
+:KR_ID: KR6q0379
 :BASEEDITION:  X
 :CBETA_ID:  X73n1449
 :GENRE: 諸宗
@@ -11852,8 +12231,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0380 [[mandoku:ZB6q0380.org][ZB6q0380]]  [[cbeta:X/X73n1450/X73n1450.org][X73n1450]] 慧林宗本禪師別錄
+*** KR6q0380 慧林宗本禪師別錄--(嗣法)慧辯
 :PROPERTIES: 
+:KR_ID: KR6q0380
 :BASEEDITION:  X
 :CBETA_ID:  X73n1450
 :GENRE: 諸宗
@@ -11878,8 +12258,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0381 [[mandoku:ZB6q0381.org][ZB6q0381]]  [[cbeta:X/X73n1451/X73n1451.org][X73n1451]] 慈受懷深禪師廣錄
+*** KR6q0381 慈受懷深禪師廣錄--(侍者)善清
 :PROPERTIES: 
+:KR_ID: KR6q0381
 :BASEEDITION:  X
 :CBETA_ID:  X73n1451
 :GENRE: 諸宗
@@ -11916,8 +12297,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0382 [[mandoku:ZB6q0382.org][ZB6q0382]]  [[cbeta:X/X73n1452/X73n1452.org][X73n1452]] 紫柏尊者全集
+*** KR6q0382 紫柏尊者全集-明-德清
 :PROPERTIES: 
+:KR_ID: KR6q0382
 :BASEEDITION:  X
 :CBETA_ID:  X73n1452
 :GENRE: 諸宗
@@ -11943,8 +12325,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0383 [[mandoku:ZB6q0383.org][ZB6q0383]]  [[cbeta:X/X73n1453/X73n1453.org][X73n1453]] 紫柏尊者別集
+*** KR6q0383 紫柏尊者別集-明-錢謙益
 :PROPERTIES: 
+:KR_ID: KR6q0383
 :BASEEDITION:  X
 :CBETA_ID:  X73n1453
 :GENRE: 諸宗
@@ -11970,8 +12353,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0384 [[mandoku:ZB6q0384.org][ZB6q0384]]  [[cbeta:X/X73n1454/X73n1454.org][X73n1454]] 雲谷和尚語錄
+*** KR6q0384 雲谷和尚語錄--(參學)宗敬
 :PROPERTIES: 
+:KR_ID: KR6q0384
 :BASEEDITION:  X
 :CBETA_ID:  X73n1454
 :GENRE: 諸宗
@@ -12012,8 +12396,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0385 [[mandoku:ZB6q0385.org][ZB6q0385]]  [[cbeta:X/X73n1455/X73n1455.org][X73n1455]] 聖箭堂述古
+*** KR6q0385 聖箭堂述古-清-道霈
 :PROPERTIES: 
+:KR_ID: KR6q0385
 :BASEEDITION:  X
 :CBETA_ID:  X73n1455
 :GENRE: 諸宗
@@ -12039,8 +12424,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0386 [[mandoku:ZB6q0386.org][ZB6q0386]]  [[cbeta:X/X73n1456/X73n1456.org][X73n1456]] 憨山老人夢遊集
+*** KR6q0386 憨山老人夢遊集--(侍者)福善日
 :PROPERTIES: 
+:KR_ID: KR6q0386
 :BASEEDITION:  X
 :CBETA_ID:  X73n1456
 :GENRE: 諸宗
@@ -12069,8 +12455,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0387 [[mandoku:ZB6q0387.org][ZB6q0387]]  [[cbeta:X/X73n1457/X73n1457.org][X73n1457]] 雲門麥浪懷禪師宗門設難
+*** KR6q0387 雲門麥浪懷禪師宗門設難-明-許元釗
 :PROPERTIES: 
+:KR_ID: KR6q0387
 :BASEEDITION:  X
 :CBETA_ID:  X73n1457
 :GENRE: 諸宗
@@ -12096,8 +12483,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0388 [[mandoku:ZB6q0388.org][ZB6q0388]]  [[cbeta:X/X73n1458/X73n1458.org][X73n1458]] 宗門寶積錄（序．凡例．目錄）
+*** KR6q0388 宗門寶積錄（序．凡例．目錄）-清-本晳
 :PROPERTIES: 
+:KR_ID: KR6q0388
 :BASEEDITION:  X
 :CBETA_ID:  X73n1458
 :CUSTOM_ID: ZB6q0388
@@ -12122,8 +12510,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0389 [[mandoku:ZB6q0389.org][ZB6q0389]]  [[cbeta:J/J22nB116/J22nB116.org][J22nB116]] 憨山老人夢遊全集
+*** KR6q0389 憨山老人夢遊全集-明-德清
 :PROPERTIES: 
+:KR_ID: KR6q0389
 :BASEEDITION:  J
 :CBETA_ID:  J22nB116
 :CUSTOM_ID: ZB6q0389
@@ -12152,8 +12541,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0390 [[mandoku:ZB6q0390.org][ZB6q0390]]  [[cbeta:J/J10nA158/J10nA158.org][J10nA158]] 密雲禪師語錄
+*** KR6q0390 密雲禪師語錄-明-圓悟
 :PROPERTIES: 
+:KR_ID: KR6q0390
 :BASEEDITION:  J
 :CBETA_ID:  J10nA158
 :CUSTOM_ID: ZB6q0390
@@ -12182,8 +12572,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0391 [[mandoku:ZB6q0391.org][ZB6q0391]]  [[cbeta:J/J24nB137/J24nB137.org][J24nB137]] 趙州和尚語錄
+*** KR6q0391 趙州和尚語錄-唐-從諗
 :PROPERTIES: 
+:KR_ID: KR6q0391
 :BASEEDITION:  J
 :CBETA_ID:  J24nB137
 :CUSTOM_ID: ZB6q0391
@@ -12220,8 +12611,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0392 [[mandoku:ZB6q0392.org][ZB6q0392]]  [[cbeta:J/J24nB138/J24nB138.org][J24nB138]] 雲門匡真禪師語錄
+*** KR6q0392 雲門匡真禪師語錄-南漢-文偃
 :PROPERTIES: 
+:KR_ID: KR6q0392
 :BASEEDITION:  J
 :CBETA_ID:  J24nB138
 :CUSTOM_ID: ZB6q0392
@@ -12255,8 +12647,9 @@
 :WITID: wit9
 :END:
 
-*** KR6q0393 [[mandoku:ZB6q0393.org][ZB6q0393]]  [[cbeta:J/J25nB154/J25nB154.org][J25nB154]] 松隱唯菴然和尚語錄
+*** KR6q0393 松隱唯菴然和尚語錄-明-德然
 :PROPERTIES: 
+:KR_ID: KR6q0393
 :BASEEDITION:  J
 :CBETA_ID:  J25nB154
 :CUSTOM_ID: ZB6q0393
@@ -12285,8 +12678,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0394 [[mandoku:ZB6q0394.org][ZB6q0394]]  [[cbeta:J/J25nB155/J25nB155.org][J25nB155]] 無趣老人語錄
+*** KR6q0394 無趣老人語錄-明-如空
 :PROPERTIES: 
+:KR_ID: KR6q0394
 :BASEEDITION:  J
 :CBETA_ID:  J25nB155
 :CUSTOM_ID: ZB6q0394
@@ -12315,8 +12709,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0395 [[mandoku:ZB6q0395.org][ZB6q0395]]  [[cbeta:J/J25nB156/J25nB156.org][J25nB156]] 無幻禪師語錄
+*** KR6q0395 無幻禪師語錄-明-性沖
 :PROPERTIES: 
+:KR_ID: KR6q0395
 :BASEEDITION:  J
 :CBETA_ID:  J25nB156
 :CUSTOM_ID: ZB6q0395
@@ -12345,8 +12740,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0396 [[mandoku:ZB6q0396.org][ZB6q0396]]  [[cbeta:J/J25nB163/J25nB163.org][J25nB163]] 古庭禪師語錄輯略
+*** KR6q0396 古庭禪師語錄輯略-明-善堅
 :PROPERTIES: 
+:KR_ID: KR6q0396
 :BASEEDITION:  J
 :CBETA_ID:  J25nB163
 :CUSTOM_ID: ZB6q0396
@@ -12371,8 +12767,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0397 [[mandoku:ZB6q0397.org][ZB6q0397]]  [[cbeta:J/J25nB171/J25nB171.org][J25nB171]] 天隱和尚語錄
+*** KR6q0397 天隱和尚語錄-明-圓修
 :PROPERTIES: 
+:KR_ID: KR6q0397
 :BASEEDITION:  J
 :CBETA_ID:  J25nB171
 :CUSTOM_ID: ZB6q0397
@@ -12401,8 +12798,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0398 [[mandoku:ZB6q0398.org][ZB6q0398]]  [[cbeta:J/J25nB173/J25nB173.org][J25nB173]] 壽昌無明和尚語錄
+*** KR6q0398 壽昌無明和尚語錄-明-慧經
 :PROPERTIES: 
+:KR_ID: KR6q0398
 :BASEEDITION:  J
 :CBETA_ID:  J25nB173
 :CUSTOM_ID: ZB6q0398
@@ -12431,8 +12829,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0399 [[mandoku:ZB6q0399.org][ZB6q0399]]  [[cbeta:J/J25nB174/J25nB174.org][J25nB174]] 天界覺浪盛禪師語錄
+*** KR6q0399 天界覺浪盛禪師語錄-明-道盛
 :PROPERTIES: 
+:KR_ID: KR6q0399
 :BASEEDITION:  J
 :CBETA_ID:  J25nB174
 :CUSTOM_ID: ZB6q0399
@@ -12465,8 +12864,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0400 [[mandoku:ZB6q0400.org][ZB6q0400]]  [[cbeta:J/J25nB175/J25nB175.org][J25nB175]] 大溈五峰學禪師語錄
+*** KR6q0400 大溈五峰學禪師語錄-明-如學
 :PROPERTIES: 
+:KR_ID: KR6q0400
 :BASEEDITION:  J
 :CBETA_ID:  J25nB175
 :CUSTOM_ID: ZB6q0400
@@ -12501,8 +12901,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0401 [[mandoku:ZB6q0401.org][ZB6q0401]]  [[cbeta:J/J25nB176/J25nB176.org][J25nB176]] 大溈密印寺養拙明禪師語錄
+*** KR6q0401 大溈密印寺養拙明禪師語錄-清-正明
 :PROPERTIES: 
+:KR_ID: KR6q0401
 :BASEEDITION:  J
 :CBETA_ID:  J25nB176
 :CUSTOM_ID: ZB6q0401
@@ -12539,8 +12940,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0402 [[mandoku:ZB6q0402.org][ZB6q0402]]  [[cbeta:J/J26nB177/J26nB177.org][J26nB177]] 破山禪師語錄
+*** KR6q0402 破山禪師語錄-清-海明
 :PROPERTIES: 
+:KR_ID: KR6q0402
 :BASEEDITION:  J
 :CBETA_ID:  J26nB177
 :CUSTOM_ID: ZB6q0402
@@ -12569,8 +12971,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0403 [[mandoku:ZB6q0403.org][ZB6q0403]]  [[cbeta:J/J26nB178/J26nB178.org][J26nB178]] 費隱禪師語錄
+*** KR6q0403 費隱禪師語錄-明-通容
 :PROPERTIES: 
+:KR_ID: KR6q0403
 :BASEEDITION:  J
 :CBETA_ID:  J26nB178
 :CUSTOM_ID: ZB6q0403
@@ -12599,8 +13002,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0404 [[mandoku:ZB6q0404.org][ZB6q0404]]  [[cbeta:J/J26nB182/J26nB182.org][J26nB182]] 萬如禪師語錄
+*** KR6q0404 萬如禪師語錄-清-通微
 :PROPERTIES: 
+:KR_ID: KR6q0404
 :BASEEDITION:  J
 :CBETA_ID:  J26nB182
 :CUSTOM_ID: ZB6q0404
@@ -12629,8 +13033,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0405 [[mandoku:ZB6q0405.org][ZB6q0405]]  [[cbeta:J/J26nB183/J26nB183.org][J26nB183]] 雪竇石奇禪師語錄
+*** KR6q0405 雪竇石奇禪師語錄-清-通雲
 :PROPERTIES: 
+:KR_ID: KR6q0405
 :BASEEDITION:  J
 :CBETA_ID:  J26nB183
 :CUSTOM_ID: ZB6q0405
@@ -12659,8 +13064,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0406 [[mandoku:ZB6q0406.org][ZB6q0406]]  [[cbeta:J/J26nB184/J26nB184.org][J26nB184]] 牧雲和尚七會語錄
+*** KR6q0406 牧雲和尚七會語錄-清-通門
 :PROPERTIES: 
+:KR_ID: KR6q0406
 :BASEEDITION:  J
 :CBETA_ID:  J26nB184
 :CUSTOM_ID: ZB6q0406
@@ -12689,8 +13095,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0407 [[mandoku:ZB6q0407.org][ZB6q0407]]  [[cbeta:J/J26nB185/J26nB185.org][J26nB185]] 浮石禪師語錄
+*** KR6q0407 浮石禪師語錄-明-通賢
 :PROPERTIES: 
+:KR_ID: KR6q0407
 :BASEEDITION:  J
 :CBETA_ID:  J26nB185
 :CUSTOM_ID: ZB6q0407
@@ -12719,8 +13126,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0408 [[mandoku:ZB6q0408.org][ZB6q0408]]  [[cbeta:J/J26nB186/J26nB186.org][J26nB186]] 林野奇禪師語錄
+*** KR6q0408 林野奇禪師語錄-明-通奇
 :PROPERTIES: 
+:KR_ID: KR6q0408
 :BASEEDITION:  J
 :CBETA_ID:  J26nB186
 :CUSTOM_ID: ZB6q0408
@@ -12749,8 +13157,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0409 [[mandoku:ZB6q0409.org][ZB6q0409]]  [[cbeta:J/J26nB187/J26nB187.org][J26nB187]] 天岸昇禪師語錄
+*** KR6q0409 天岸昇禪師語錄-清-昇
 :PROPERTIES: 
+:KR_ID: KR6q0409
 :BASEEDITION:  J
 :CBETA_ID:  J26nB187
 :CUSTOM_ID: ZB6q0409
@@ -12779,8 +13188,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0410 [[mandoku:ZB6q0410.org][ZB6q0410]]  [[cbeta:J/J26nB188/J26nB188.org][J26nB188]] 入就瑞白禪師語錄
+*** KR6q0410 入就瑞白禪師語錄-明-明雪
 :PROPERTIES: 
+:KR_ID: KR6q0410
 :BASEEDITION:  J
 :CBETA_ID:  J26nB188
 :CUSTOM_ID: ZB6q0410
@@ -12809,8 +13219,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0411 [[mandoku:ZB6q0411.org][ZB6q0411]]  [[cbeta:J/J27nB189/J27nB189.org][J27nB189]] 三宜盂禪師語錄
+*** KR6q0411 三宜盂禪師語錄-明-明盂
 :PROPERTIES: 
+:KR_ID: KR6q0411
 :BASEEDITION:  J
 :CBETA_ID:  J27nB189
 :CUSTOM_ID: ZB6q0411
@@ -12839,8 +13250,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0412 [[mandoku:ZB6q0412.org][ZB6q0412]]  [[cbeta:J/J27nB191/J27nB191.org][J27nB191]] 象田即念禪師語錄
+*** KR6q0412 象田即念禪師語錄-明-淨現
 :PROPERTIES: 
+:KR_ID: KR6q0412
 :BASEEDITION:  J
 :CBETA_ID:  J27nB191
 :CUSTOM_ID: ZB6q0412
@@ -12869,8 +13281,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0413 [[mandoku:ZB6q0413.org][ZB6q0413]]  [[cbeta:J/J27nB192/J27nB192.org][J27nB192]] 大休珠禪師語錄
+*** KR6q0413 大休珠禪師語錄-清-珠
 :PROPERTIES: 
+:KR_ID: KR6q0413
 :BASEEDITION:  J
 :CBETA_ID:  J27nB192
 :CUSTOM_ID: ZB6q0413
@@ -12899,8 +13312,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0414 [[mandoku:ZB6q0414.org][ZB6q0414]]  [[cbeta:J/J27nB193/J27nB193.org][J27nB193]] 隱元禪師語錄
+*** KR6q0414 隱元禪師語錄-清-隆琦
 :PROPERTIES: 
+:KR_ID: KR6q0414
 :BASEEDITION:  J
 :CBETA_ID:  J27nB193
 :CUSTOM_ID: ZB6q0414
@@ -12929,8 +13343,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0415 [[mandoku:ZB6q0415.org][ZB6q0415]]  [[cbeta:J/J27nB194/J27nB194.org][J27nB194]] 昭覺丈雪醉禪師語錄
+*** KR6q0415 昭覺丈雪醉禪師語錄-清-通醉
 :PROPERTIES: 
+:KR_ID: KR6q0415
 :BASEEDITION:  J
 :CBETA_ID:  J27nB194
 :CUSTOM_ID: ZB6q0415
@@ -12959,8 +13374,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0416 [[mandoku:ZB6q0416.org][ZB6q0416]]  [[cbeta:J/J27nB196/J27nB196.org][J27nB196]] 鴛湖用禪師語錄
+*** KR6q0416 鴛湖用禪師語錄-清-妙用
 :PROPERTIES: 
+:KR_ID: KR6q0416
 :BASEEDITION:  J
 :CBETA_ID:  J27nB196
 :CUSTOM_ID: ZB6q0416
@@ -12993,8 +13409,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0417 [[mandoku:ZB6q0417.org][ZB6q0417]]  [[cbeta:J/J27nB197/J27nB197.org][J27nB197]] 博山無異大師語錄集要
+*** KR6q0417 博山無異大師語錄集要-明-元來
 :PROPERTIES: 
+:KR_ID: KR6q0417
 :BASEEDITION:  J
 :CBETA_ID:  J27nB197
 :CUSTOM_ID: ZB6q0417
@@ -13027,8 +13444,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0418 [[mandoku:ZB6q0418.org][ZB6q0418]]  [[cbeta:J/J27nB198/J27nB198.org][J27nB198]] 雪關禪師語錄
+*** KR6q0418 雪關禪師語錄-明-智誾
 :PROPERTIES: 
+:KR_ID: KR6q0418
 :BASEEDITION:  J
 :CBETA_ID:  J27nB198
 :CUSTOM_ID: ZB6q0418
@@ -13061,8 +13479,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0419 [[mandoku:ZB6q0419.org][ZB6q0419]]  [[cbeta:J/J27nB199/J27nB199.org][J27nB199]] 雪關和尚語錄
+*** KR6q0419 雪關和尚語錄-明-智誾
 :PROPERTIES: 
+:KR_ID: KR6q0419
 :BASEEDITION:  J
 :CBETA_ID:  J27nB199
 :CUSTOM_ID: ZB6q0419
@@ -13091,8 +13510,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0420 [[mandoku:ZB6q0420.org][ZB6q0420]]  [[cbeta:J/J27nB200/J27nB200.org][J27nB200]] 石霜爾瞻尊禪師語錄
+*** KR6q0420 石霜爾瞻尊禪師語錄-清-達尊
 :PROPERTIES: 
+:KR_ID: KR6q0420
 :BASEEDITION:  J
 :CBETA_ID:  J27nB200
 :CUSTOM_ID: ZB6q0420
@@ -13121,8 +13541,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0421 [[mandoku:ZB6q0421.org][ZB6q0421]]  [[cbeta:J/J28nB202/J28nB202.org][J28nB202]] 百癡禪師語錄
+*** KR6q0421 百癡禪師語錄-清-元
 :PROPERTIES: 
+:KR_ID: KR6q0421
 :BASEEDITION:  J
 :CBETA_ID:  J28nB202
 :CUSTOM_ID: ZB6q0421
@@ -13151,8 +13572,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0422 [[mandoku:ZB6q0422.org][ZB6q0422]]  [[cbeta:J/J28nB203/J28nB203.org][J28nB203]] 雲峨喜禪師語錄
+*** KR6q0422 雲峨喜禪師語錄-清-喜
 :PROPERTIES: 
+:KR_ID: KR6q0422
 :BASEEDITION:  J
 :CBETA_ID:  J28nB203
 :CUSTOM_ID: ZB6q0422
@@ -13181,8 +13603,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0423 [[mandoku:ZB6q0423.org][ZB6q0423]]  [[cbeta:J/J28nB204/J28nB204.org][J28nB204]] 斌雅禪師語錄
+*** KR6q0423 斌雅禪師語錄-清-鑑
 :PROPERTIES: 
+:KR_ID: KR6q0423
 :BASEEDITION:  J
 :CBETA_ID:  J28nB204
 :CUSTOM_ID: ZB6q0423
@@ -13211,8 +13634,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0424 [[mandoku:ZB6q0424.org][ZB6q0424]]  [[cbeta:J/J28nB205/J28nB205.org][J28nB205]] 介為舟禪師語錄
+*** KR6q0424 介為舟禪師語錄-清-行舟
 :PROPERTIES: 
+:KR_ID: KR6q0424
 :BASEEDITION:  J
 :CBETA_ID:  J28nB205
 :CUSTOM_ID: ZB6q0424
@@ -13245,8 +13669,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0425 [[mandoku:ZB6q0425.org][ZB6q0425]]  [[cbeta:J/J28nB206/J28nB206.org][J28nB206]] 笑堂和尚語錄
+*** KR6q0425 笑堂和尚語錄-清-笑堂明哲
 :PROPERTIES: 
+:KR_ID: KR6q0425
 :BASEEDITION:  J
 :CBETA_ID:  J28nB206
 :CUSTOM_ID: ZB6q0425
@@ -13279,8 +13704,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0426 [[mandoku:ZB6q0426.org][ZB6q0426]]  [[cbeta:J/J28nB208/J28nB208.org][J28nB208]] 古雪哲禪師語錄
+*** KR6q0426 古雪哲禪師語錄-明-真哲
 :PROPERTIES: 
+:KR_ID: KR6q0426
 :BASEEDITION:  J
 :CBETA_ID:  J28nB208
 :CUSTOM_ID: ZB6q0426
@@ -13309,8 +13735,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0427 [[mandoku:ZB6q0427.org][ZB6q0427]]  [[cbeta:J/J28nB209/J28nB209.org][J28nB209]] 永濟融禪師語錄
+*** KR6q0427 永濟融禪師語錄-清-融
 :PROPERTIES: 
+:KR_ID: KR6q0427
 :BASEEDITION:  J
 :CBETA_ID:  J28nB209
 :CUSTOM_ID: ZB6q0427
@@ -13343,8 +13770,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0428 [[mandoku:ZB6q0428.org][ZB6q0428]]  [[cbeta:J/J28nB210/J28nB210.org][J28nB210]] 伏獅祇園禪師語錄
+*** KR6q0428 伏獅祇園禪師語錄-清-行剛（尼）
 :PROPERTIES: 
+:KR_ID: KR6q0428
 :BASEEDITION:  J
 :CBETA_ID:  J28nB210
 :CUSTOM_ID: ZB6q0428
@@ -13377,8 +13805,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0429 [[mandoku:ZB6q0429.org][ZB6q0429]]  [[cbeta:J/J28nB211/J28nB211.org][J28nB211]] 季總徹禪師語錄
+*** KR6q0429 季總徹禪師語錄-清-徹（尼）
 :PROPERTIES: 
+:KR_ID: KR6q0429
 :BASEEDITION:  J
 :CBETA_ID:  J28nB211
 :CUSTOM_ID: ZB6q0429
@@ -13407,8 +13836,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0430 [[mandoku:ZB6q0430.org][ZB6q0430]]  [[cbeta:J/J28nB212/J28nB212.org][J28nB212]] 二隱謐禪師語錄
+*** KR6q0430 二隱謐禪師語錄-清-謐
 :PROPERTIES: 
+:KR_ID: KR6q0430
 :BASEEDITION:  J
 :CBETA_ID:  J28nB212
 :CUSTOM_ID: ZB6q0430
@@ -13441,8 +13871,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0431 [[mandoku:ZB6q0431.org][ZB6q0431]]  [[cbeta:J/J28nB213/J28nB213.org][J28nB213]] 芝巖秀禪師語錄
+*** KR6q0431 芝巖秀禪師語錄-清-秀
 :PROPERTIES: 
+:KR_ID: KR6q0431
 :BASEEDITION:  J
 :CBETA_ID:  J28nB213
 :CUSTOM_ID: ZB6q0431
@@ -13471,8 +13902,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0432 [[mandoku:ZB6q0432.org][ZB6q0432]]  [[cbeta:J/J28nB218/J28nB218.org][J28nB218]] 懶石聆禪師語錄
+*** KR6q0432 懶石聆禪師語錄-清-聆
 :PROPERTIES: 
+:KR_ID: KR6q0432
 :BASEEDITION:  J
 :CBETA_ID:  J28nB218
 :CUSTOM_ID: ZB6q0432
@@ -13501,8 +13933,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0433 [[mandoku:ZB6q0433.org][ZB6q0433]]  [[cbeta:J/J28nB219/J28nB219.org][J28nB219]] 紫竹林顓愚衡和尚語錄
+*** KR6q0433 紫竹林顓愚衡和尚語錄-清-觀衡
 :PROPERTIES: 
+:KR_ID: KR6q0433
 :BASEEDITION:  J
 :CBETA_ID:  J28nB219
 :CUSTOM_ID: ZB6q0433
@@ -13531,8 +13964,9 @@
 :WITID: wit7
 :END:
 
-*** KR6q0434 [[mandoku:ZB6q0434.org][ZB6q0434]]  [[cbeta:J/J28nB220/J28nB220.org][J28nB220]] 法璽印禪師語錄
+*** KR6q0434 法璽印禪師語錄-清-印
 :PROPERTIES: 
+:KR_ID: KR6q0434
 :BASEEDITION:  J
 :CBETA_ID:  J28nB220
 :CUSTOM_ID: ZB6q0434
@@ -13561,8 +13995,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0435 [[mandoku:ZB6q0435.org][ZB6q0435]]  [[cbeta:J/J28nB221/J28nB221.org][J28nB221]] 楞嚴法璽印禪師語錄
+*** KR6q0435 楞嚴法璽印禪師語錄-清-印
 :PROPERTIES: 
+:KR_ID: KR6q0435
 :BASEEDITION:  J
 :CBETA_ID:  J28nB221
 :CUSTOM_ID: ZB6q0435
@@ -13591,8 +14026,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0436 [[mandoku:ZB6q0436.org][ZB6q0436]]  [[cbeta:J/J29nB222/J29nB222.org][J29nB222]] 夔州臥龍字水禪師語錄
+*** KR6q0436 夔州臥龍字水禪師語錄-明-圓䂐
 :PROPERTIES: 
+:KR_ID: KR6q0436
 :BASEEDITION:  J
 :CBETA_ID:  J29nB222
 :CUSTOM_ID: ZB6q0436
@@ -13621,8 +14057,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0437 [[mandoku:ZB6q0437.org][ZB6q0437]]  [[cbeta:J/J29nB223/J29nB223.org][J29nB223]] 山暉禪師語錄
+*** KR6q0437 山暉禪師語錄-清-璧
 :PROPERTIES: 
+:KR_ID: KR6q0437
 :BASEEDITION:  J
 :CBETA_ID:  J29nB223
 :CUSTOM_ID: ZB6q0437
@@ -13655,8 +14092,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0438 [[mandoku:ZB6q0438.org][ZB6q0438]]  [[cbeta:J/J29nB224/J29nB224.org][J29nB224]] 嵩山野竹禪師錄
+*** KR6q0438 嵩山野竹禪師錄-清-福慧
 :PROPERTIES: 
+:KR_ID: KR6q0438
 :BASEEDITION:  J
 :CBETA_ID:  J29nB224
 :CUSTOM_ID: ZB6q0438
@@ -13693,8 +14131,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0439 [[mandoku:ZB6q0439.org][ZB6q0439]]  [[cbeta:J/J29nB229/J29nB229.org][J29nB229]] 法瀾澂禪師語錄
+*** KR6q0439 法瀾澂禪師語錄-清-原澂
 :PROPERTIES: 
+:KR_ID: KR6q0439
 :BASEEDITION:  J
 :CBETA_ID:  J29nB229
 :CUSTOM_ID: ZB6q0439
@@ -13723,8 +14162,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0440 [[mandoku:ZB6q0440.org][ZB6q0440]]  [[cbeta:J/J29nB230/J29nB230.org][J29nB230]] 天王水鑑海和尚六會錄
+*** KR6q0440 天王水鑑海和尚六會錄-清-慧海
 :PROPERTIES: 
+:KR_ID: KR6q0440
 :BASEEDITION:  J
 :CBETA_ID:  J29nB230
 :CUSTOM_ID: ZB6q0440
@@ -13753,8 +14193,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0441 [[mandoku:ZB6q0441.org][ZB6q0441]]  [[cbeta:J/J29nB231/J29nB231.org][J29nB231]] 天王水鑑海和尚五會錄
+*** KR6q0441 天王水鑑海和尚五會錄-清-慧海
 :PROPERTIES: 
+:KR_ID: KR6q0441
 :BASEEDITION:  J
 :CBETA_ID:  J29nB231
 :CUSTOM_ID: ZB6q0441
@@ -13783,8 +14224,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0442 [[mandoku:ZB6q0442.org][ZB6q0442]]  [[cbeta:J/J29nB232/J29nB232.org][J29nB232]] 天王水鑑海和尚住金粟語錄
+*** KR6q0442 天王水鑑海和尚住金粟語錄-清-慧海
 :PROPERTIES: 
+:KR_ID: KR6q0442
 :BASEEDITION:  J
 :CBETA_ID:  J29nB232
 :CUSTOM_ID: ZB6q0442
@@ -13817,8 +14259,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0443 [[mandoku:ZB6q0443.org][ZB6q0443]]  [[cbeta:J/J29nB233/J29nB233.org][J29nB233]] 介菴進禪師語錄
+*** KR6q0443 介菴進禪師語錄-清-悟進
 :PROPERTIES: 
+:KR_ID: KR6q0443
 :BASEEDITION:  J
 :CBETA_ID:  J29nB233
 :CUSTOM_ID: ZB6q0443
@@ -13847,8 +14290,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0444 [[mandoku:ZB6q0444.org][ZB6q0444]]  [[cbeta:J/J29nB234/J29nB234.org][J29nB234]] 一初元禪師語錄
+*** KR6q0444 一初元禪師語錄-清-元
 :PROPERTIES: 
+:KR_ID: KR6q0444
 :BASEEDITION:  J
 :CBETA_ID:  J29nB234
 :CUSTOM_ID: ZB6q0444
@@ -13881,8 +14325,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0445 [[mandoku:ZB6q0445.org][ZB6q0445]]  [[cbeta:J/J29nB235/J29nB235.org][J29nB235]] 蓮月禪師語錄
+*** KR6q0445 蓮月禪師語錄-清-道正
 :PROPERTIES: 
+:KR_ID: KR6q0445
 :BASEEDITION:  J
 :CBETA_ID:  J29nB235
 :CUSTOM_ID: ZB6q0445
@@ -13911,8 +14356,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0446 [[mandoku:ZB6q0446.org][ZB6q0446]]  [[cbeta:J/J29nB236/J29nB236.org][J29nB236]] 玉泉蓮月正禪師語錄
+*** KR6q0446 玉泉蓮月正禪師語錄-清-道正
 :PROPERTIES: 
+:KR_ID: KR6q0446
 :BASEEDITION:  J
 :CBETA_ID:  J29nB236
 :CUSTOM_ID: ZB6q0446
@@ -13941,8 +14387,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0447 [[mandoku:ZB6q0447.org][ZB6q0447]]  [[cbeta:J/J29nB237/J29nB237.org][J29nB237]] 月幢了禪師語錄
+*** KR6q0447 月幢了禪師語錄-清-了
 :PROPERTIES: 
+:KR_ID: KR6q0447
 :BASEEDITION:  J
 :CBETA_ID:  J29nB237
 :CUSTOM_ID: ZB6q0447
@@ -13971,8 +14418,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0448 [[mandoku:ZB6q0448.org][ZB6q0448]]  [[cbeta:J/J29nB238/J29nB238.org][J29nB238]] 聚雲吹萬真禪師語錄
+*** KR6q0448 聚雲吹萬真禪師語錄-明-廣真
 :PROPERTIES: 
+:KR_ID: KR6q0448
 :BASEEDITION:  J
 :CBETA_ID:  J29nB238
 :CUSTOM_ID: ZB6q0448
@@ -14001,8 +14449,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0449 [[mandoku:ZB6q0449.org][ZB6q0449]]  [[cbeta:J/J29nB239/J29nB239.org][J29nB239]] 吹萬禪師語錄
+*** KR6q0449 吹萬禪師語錄-明-廣真
 :PROPERTIES: 
+:KR_ID: KR6q0449
 :BASEEDITION:  J
 :CBETA_ID:  J29nB239
 :CUSTOM_ID: ZB6q0449
@@ -14031,8 +14480,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0450 [[mandoku:ZB6q0450.org][ZB6q0450]]  [[cbeta:J/J29nB240/J29nB240.org][J29nB240]] 慶忠鐵壁機禪師語錄
+*** KR6q0450 慶忠鐵壁機禪師語錄-明-慧機
 :PROPERTIES: 
+:KR_ID: KR6q0450
 :BASEEDITION:  J
 :CBETA_ID:  J29nB240
 :CUSTOM_ID: ZB6q0450
@@ -14061,8 +14511,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0451 [[mandoku:ZB6q0451.org][ZB6q0451]]  [[cbeta:J/J29nB241/J29nB241.org][J29nB241]] 慶忠鐵壁機禪師語錄
+*** KR6q0451 慶忠鐵壁機禪師語錄-明-慧機
 :PROPERTIES: 
+:KR_ID: KR6q0451
 :BASEEDITION:  J
 :CBETA_ID:  J29nB241
 :CUSTOM_ID: ZB6q0451
@@ -14091,8 +14542,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0452 [[mandoku:ZB6q0452.org][ZB6q0452]]  [[cbeta:J/J29nB242/J29nB242.org][J29nB242]] 鐵眉三巴掌禪師語錄
+*** KR6q0452 鐵眉三巴掌禪師語錄-明-鐵眉號三巴掌
 :PROPERTIES: 
+:KR_ID: KR6q0452
 :BASEEDITION:  J
 :CBETA_ID:  J29nB242
 :CUSTOM_ID: ZB6q0452
@@ -14125,8 +14577,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0453 [[mandoku:ZB6q0453.org][ZB6q0453]]  [[cbeta:J/J29nB243/J29nB243.org][J29nB243]] 耳庵嵩禪師語錄
+*** KR6q0453 耳庵嵩禪師語錄-清-嵩
 :PROPERTIES: 
+:KR_ID: KR6q0453
 :BASEEDITION:  J
 :CBETA_ID:  J29nB243
 :CUSTOM_ID: ZB6q0453
@@ -14159,8 +14612,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0454 [[mandoku:ZB6q0454.org][ZB6q0454]]  [[cbeta:J/J29nB244/J29nB244.org][J29nB244]] 三山來禪師語錄
+*** KR6q0454 三山來禪師語錄-清-燈來
 :PROPERTIES: 
+:KR_ID: KR6q0454
 :BASEEDITION:  J
 :CBETA_ID:  J29nB244
 :CUSTOM_ID: ZB6q0454
@@ -14189,8 +14643,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0455 [[mandoku:ZB6q0455.org][ZB6q0455]]  [[cbeta:J/J29nB246/J29nB246.org][J29nB246]] 嘉興退菴斷愚智禪師語錄
+*** KR6q0455 嘉興退菴斷愚智禪師語錄-清-智
 :PROPERTIES: 
+:KR_ID: KR6q0455
 :BASEEDITION:  J
 :CBETA_ID:  J29nB246
 :CUSTOM_ID: ZB6q0455
@@ -14219,8 +14674,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0456 [[mandoku:ZB6q0456.org][ZB6q0456]]  [[cbeta:J/J29nB247/J29nB247.org][J29nB247]] 普光坦菴禪師語錄
+*** KR6q0456 普光坦菴禪師語錄-清-機峻
 :PROPERTIES: 
+:KR_ID: KR6q0456
 :BASEEDITION:  J
 :CBETA_ID:  J29nB247
 :CUSTOM_ID: ZB6q0456
@@ -14248,8 +14704,9 @@
 :WITID: wit1
 :END:
 
-*** KR6q0457 [[mandoku:ZB6q0457.org][ZB6q0457]]  [[cbeta:J/J29nB248/J29nB248.org][J29nB248]] 達變權禪師語錄
+*** KR6q0457 達變權禪師語錄-清-顯權
 :PROPERTIES: 
+:KR_ID: KR6q0457
 :BASEEDITION:  J
 :CBETA_ID:  J29nB248
 :CUSTOM_ID: ZB6q0457
@@ -14278,8 +14735,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0458 [[mandoku:ZB6q0458.org][ZB6q0458]]  [[cbeta:J/J29nB249/J29nB249.org][J29nB249]] 方融璽禪師語錄
+*** KR6q0458 方融璽禪師語錄-清-如璽
 :PROPERTIES: 
+:KR_ID: KR6q0458
 :BASEEDITION:  J
 :CBETA_ID:  J29nB249
 :CUSTOM_ID: ZB6q0458
@@ -14308,8 +14766,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0459 [[mandoku:ZB6q0459.org][ZB6q0459]]  [[cbeta:J/J32nB272/J32nB272.org][J32nB272]] 明州天童景德禪寺宏智覺禪師語錄
+*** KR6q0459 明州天童景德禪寺宏智覺禪師語錄-宋-正覺
 :PROPERTIES: 
+:KR_ID: KR6q0459
 :BASEEDITION:  J
 :CBETA_ID:  J32nB272
 :CUSTOM_ID: ZB6q0459
@@ -14338,8 +14797,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0460 [[mandoku:ZB6q0460.org][ZB6q0460]]  [[cbeta:J/J32nB273/J32nB273.org][J32nB273]] 千巖和尚語錄
+*** KR6q0460 千巖和尚語錄-元-元長
 :PROPERTIES: 
+:KR_ID: KR6q0460
 :BASEEDITION:  J
 :CBETA_ID:  J32nB273
 :CUSTOM_ID: ZB6q0460
@@ -14368,8 +14828,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0461 [[mandoku:ZB6q0461.org][ZB6q0461]]  [[cbeta:J/J32nB275/J32nB275.org][J32nB275]] 興善南明廣禪師語錄
+*** KR6q0461 興善南明廣禪師語錄-明-慧廣
 :PROPERTIES: 
+:KR_ID: KR6q0461
 :BASEEDITION:  J
 :CBETA_ID:  J32nB275
 :CUSTOM_ID: ZB6q0461
@@ -14410,8 +14871,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0462 [[mandoku:ZB6q0462.org][ZB6q0462]]  [[cbeta:J/J32nB276/J32nB276.org][J32nB276]] 不會禪師語錄
+*** KR6q0462 不會禪師語錄-清-法通
 :PROPERTIES: 
+:KR_ID: KR6q0462
 :BASEEDITION:  J
 :CBETA_ID:  J32nB276
 :CUSTOM_ID: ZB6q0462
@@ -14440,8 +14902,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0463 [[mandoku:ZB6q0463.org][ZB6q0463]]  [[cbeta:J/J33nB280/J33nB280.org][J33nB280]] 神鼎雲外澤禪師語錄
+*** KR6q0463 神鼎雲外澤禪師語錄-清-行澤
 :PROPERTIES: 
+:KR_ID: KR6q0463
 :BASEEDITION:  J
 :CBETA_ID:  J33nB280
 :CUSTOM_ID: ZB6q0463
@@ -14470,8 +14933,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0464 [[mandoku:ZB6q0464.org][ZB6q0464]]  [[cbeta:J/J33nB281/J33nB281.org][J33nB281]] 壇溪梓舟船禪師語錄
+*** KR6q0464 壇溪梓舟船禪師語錄-明-船
 :PROPERTIES: 
+:KR_ID: KR6q0464
 :BASEEDITION:  J
 :CBETA_ID:  J33nB281
 :CUSTOM_ID: ZB6q0464
@@ -14500,8 +14964,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0465 [[mandoku:ZB6q0465.org][ZB6q0465]]  [[cbeta:J/J33nB282/J33nB282.org][J33nB282]] 虛舟省禪師語錄
+*** KR6q0465 虛舟省禪師語錄-清-行省
 :PROPERTIES: 
+:KR_ID: KR6q0465
 :BASEEDITION:  J
 :CBETA_ID:  J33nB282
 :CUSTOM_ID: ZB6q0465
@@ -14530,8 +14995,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0466 [[mandoku:ZB6q0466.org][ZB6q0466]]  [[cbeta:J/J33nB284/J33nB284.org][J33nB284]] 益州嵩山野竹禪師後錄
+*** KR6q0466 益州嵩山野竹禪師後錄-清-福慧
 :PROPERTIES: 
+:KR_ID: KR6q0466
 :BASEEDITION:  J
 :CBETA_ID:  J33nB284
 :CUSTOM_ID: ZB6q0466
@@ -14560,8 +15026,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0467 [[mandoku:ZB6q0467.org][ZB6q0467]]  [[cbeta:J/J33nB285/J33nB285.org][J33nB285]] 兜率不磷堅禪師語錄
+*** KR6q0467 兜率不磷堅禪師語錄-清-宗堅
 :PROPERTIES: 
+:KR_ID: KR6q0467
 :BASEEDITION:  J
 :CBETA_ID:  J33nB285
 :CUSTOM_ID: ZB6q0467
@@ -14590,8 +15057,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0468 [[mandoku:ZB6q0468.org][ZB6q0468]]  [[cbeta:J/J33nB286/J33nB286.org][J33nB286]] 攖寧靜禪師語錄
+*** KR6q0468 攖寧靜禪師語錄-清-智靜
 :PROPERTIES: 
+:KR_ID: KR6q0468
 :BASEEDITION:  J
 :CBETA_ID:  J33nB286
 :CUSTOM_ID: ZB6q0468
@@ -14624,8 +15092,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0469 [[mandoku:ZB6q0469.org][ZB6q0469]]  [[cbeta:J/J33nB287/J33nB287.org][J33nB287]] 自閒覺禪師語錄
+*** KR6q0469 自閒覺禪師語錄-清-覺
 :PROPERTIES: 
+:KR_ID: KR6q0469
 :BASEEDITION:  J
 :CBETA_ID:  J33nB287
 :CUSTOM_ID: ZB6q0469
@@ -14654,8 +15123,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0470 [[mandoku:ZB6q0470.org][ZB6q0470]]  [[cbeta:J/J33nB288/J33nB288.org][J33nB288]] 憨予暹禪師語錄
+*** KR6q0470 憨予暹禪師語錄-清-洪暹
 :PROPERTIES: 
+:KR_ID: KR6q0470
 :BASEEDITION:  J
 :CBETA_ID:  J33nB288
 :CUSTOM_ID: ZB6q0470
@@ -14684,8 +15154,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0471 [[mandoku:ZB6q0471.org][ZB6q0471]]  [[cbeta:J/J33nB294/J33nB294.org][J33nB294]] 雲溪俍亭挺禪師語錄
+*** KR6q0471 雲溪俍亭挺禪師語錄-清-淨挺
 :PROPERTIES: 
+:KR_ID: KR6q0471
 :BASEEDITION:  J
 :CBETA_ID:  J33nB294
 :CUSTOM_ID: ZB6q0471
@@ -14714,8 +15185,9 @@
 :WITID: wit7
 :END:
 
-*** KR6q0472 [[mandoku:ZB6q0472.org][ZB6q0472]]  [[cbeta:J/J34nB298/J34nB298.org][J34nB298]] 屾峰憲禪師語錄
+*** KR6q0472 屾峰憲禪師語錄-清-憲
 :PROPERTIES: 
+:KR_ID: KR6q0472
 :BASEEDITION:  J
 :CBETA_ID:  J34nB298
 :CUSTOM_ID: ZB6q0472
@@ -14748,8 +15220,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0473 [[mandoku:ZB6q0473.org][ZB6q0473]]  [[cbeta:J/J34nB299/J34nB299.org][J34nB299]] 三峰藏和尚語錄
+*** KR6q0473 三峰藏和尚語錄-明-法藏
 :PROPERTIES: 
+:KR_ID: KR6q0473
 :BASEEDITION:  J
 :CBETA_ID:  J34nB299
 :CUSTOM_ID: ZB6q0473
@@ -14778,8 +15251,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0474 [[mandoku:ZB6q0474.org][ZB6q0474]]  [[cbeta:J/J34nB300/J34nB300.org][J34nB300]] 朝宗禪師語錄
+*** KR6q0474 朝宗禪師語錄-明-通忍
 :PROPERTIES: 
+:KR_ID: KR6q0474
 :BASEEDITION:  J
 :CBETA_ID:  J34nB300
 :CUSTOM_ID: ZB6q0474
@@ -14808,8 +15282,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0475 [[mandoku:ZB6q0475.org][ZB6q0475]]  [[cbeta:J/J34nB301/J34nB301.org][J34nB301]] 南嶽繼起和尚語錄
+*** KR6q0475 南嶽繼起和尚語錄-清-弘儲
 :PROPERTIES: 
+:KR_ID: KR6q0475
 :BASEEDITION:  J
 :CBETA_ID:  J34nB301
 :CUSTOM_ID: ZB6q0475
@@ -14838,8 +15313,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0476 [[mandoku:ZB6q0476.org][ZB6q0476]]  [[cbeta:J/J34nB303/J34nB303.org][J34nB303]] 燮雲璣禪師國清無畏堂語錄
+*** KR6q0476 燮雲璣禪師國清無畏堂語錄-清-濟璣
 :PROPERTIES: 
+:KR_ID: KR6q0476
 :BASEEDITION:  J
 :CBETA_ID:  J34nB303
 :CUSTOM_ID: ZB6q0476
@@ -14872,8 +15348,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0477 [[mandoku:ZB6q0477.org][ZB6q0477]]  [[cbeta:J/J34nB305/J34nB305.org][J34nB305]] 國清大庾韜禪師語錄
+*** KR6q0477 國清大庾韜禪師語錄-清-行韜
 :PROPERTIES: 
+:KR_ID: KR6q0477
 :BASEEDITION:  J
 :CBETA_ID:  J34nB305
 :CUSTOM_ID: ZB6q0477
@@ -14902,8 +15379,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0478 [[mandoku:ZB6q0478.org][ZB6q0478]]  [[cbeta:J/J34nB306/J34nB306.org][J34nB306]] 內紹種禪師語錄
+*** KR6q0478 內紹種禪師語錄-清-種
 :PROPERTIES: 
+:KR_ID: KR6q0478
 :BASEEDITION:  J
 :CBETA_ID:  J34nB306
 :CUSTOM_ID: ZB6q0478
@@ -14932,8 +15410,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0479 [[mandoku:ZB6q0479.org][ZB6q0479]]  [[cbeta:J/J34nB308/J34nB308.org][J34nB308]] 象崖珽禪師語錄
+*** KR6q0479 象崖珽禪師語錄-清-性珽
 :PROPERTIES: 
+:KR_ID: KR6q0479
 :BASEEDITION:  J
 :CBETA_ID:  J34nB308
 :CUSTOM_ID: ZB6q0479
@@ -14962,8 +15441,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0480 [[mandoku:ZB6q0480.org][ZB6q0480]]  [[cbeta:J/J34nB309/J34nB309.org][J34nB309]] 雲腹智禪師語錄
+*** KR6q0480 雲腹智禪師語錄-清-道智
 :PROPERTIES: 
+:KR_ID: KR6q0480
 :BASEEDITION:  J
 :CBETA_ID:  J34nB309
 :CUSTOM_ID: ZB6q0480
@@ -14996,8 +15476,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0481 [[mandoku:ZB6q0481.org][ZB6q0481]]  [[cbeta:J/J34nB310/J34nB310.org][J34nB310]] 雲叟住禪師語錄
+*** KR6q0481 雲叟住禪師語錄-清-住
 :PROPERTIES: 
+:KR_ID: KR6q0481
 :BASEEDITION:  J
 :CBETA_ID:  J34nB310
 :CUSTOM_ID: ZB6q0481
@@ -15026,8 +15507,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0482 [[mandoku:ZB6q0482.org][ZB6q0482]]  [[cbeta:J/J34nB312/J34nB312.org][J34nB312]] 天界覺浪盛禪師嘉禾語錄
+*** KR6q0482 天界覺浪盛禪師嘉禾語錄-明-道盛
 :PROPERTIES: 
+:KR_ID: KR6q0482
 :BASEEDITION:  J
 :CBETA_ID:  J34nB312
 :CUSTOM_ID: ZB6q0482
@@ -15064,8 +15546,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0483 [[mandoku:ZB6q0483.org][ZB6q0483]]  [[cbeta:J/J34nB313/J34nB313.org][J34nB313]] 青原愚者智禪師語錄
+*** KR6q0483 青原愚者智禪師語錄-清-智
 :PROPERTIES: 
+:KR_ID: KR6q0483
 :BASEEDITION:  J
 :CBETA_ID:  J34nB313
 :CUSTOM_ID: ZB6q0483
@@ -15098,8 +15581,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0484 [[mandoku:ZB6q0484.org][ZB6q0484]]  [[cbeta:J/J35nB336/J35nB336.org][J35nB336]] 南海寶象林慧弓詗禪師語錄
+*** KR6q0484 南海寶象林慧弓詗禪師語錄-清-開詗
 :PROPERTIES: 
+:KR_ID: KR6q0484
 :BASEEDITION:  J
 :CBETA_ID:  J35nB336
 :CUSTOM_ID: ZB6q0484
@@ -15128,8 +15612,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0485 [[mandoku:ZB6q0485.org][ZB6q0485]]  [[cbeta:J/J35nB337/J35nB337.org][J35nB337]] 寶持總禪師語錄
+*** KR6q0485 寶持總禪師語錄-清-玄總（尼）
 :PROPERTIES: 
+:KR_ID: KR6q0485
 :BASEEDITION:  J
 :CBETA_ID:  J35nB337
 :CUSTOM_ID: ZB6q0485
@@ -15158,8 +15643,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0486 [[mandoku:ZB6q0486.org][ZB6q0486]]  [[cbeta:J/J35nB340/J35nB340.org][J35nB340]] 慧覺衣禪師語錄
+*** KR6q0486 慧覺衣禪師語錄-清-照衣
 :PROPERTIES: 
+:KR_ID: KR6q0486
 :BASEEDITION:  J
 :CBETA_ID:  J35nB340
 :CUSTOM_ID: ZB6q0486
@@ -15188,8 +15674,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0487 [[mandoku:ZB6q0487.org][ZB6q0487]]  [[cbeta:J/J35nB341/J35nB341.org][J35nB341]] 佛語御禪師語錄
+*** KR6q0487 佛語御禪師語錄-清-徹御
 :PROPERTIES: 
+:KR_ID: KR6q0487
 :BASEEDITION:  J
 :CBETA_ID:  J35nB341
 :CUSTOM_ID: ZB6q0487
@@ -15226,8 +15713,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0488 [[mandoku:ZB6q0488.org][ZB6q0488]]  [[cbeta:J/J35nB342/J35nB342.org][J35nB342]] 華嚴聖可禪師語錄
+*** KR6q0488 華嚴聖可禪師語錄-清-德玉
 :PROPERTIES: 
+:KR_ID: KR6q0488
 :BASEEDITION:  J
 :CBETA_ID:  J35nB342
 :CUSTOM_ID: ZB6q0488
@@ -15256,8 +15744,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0489 [[mandoku:ZB6q0489.org][ZB6q0489]]  [[cbeta:J/J35nB343/J35nB343.org][J35nB343]] 廣福山勝覺寺密印禪師語錄
+*** KR6q0489 廣福山勝覺寺密印禪師語錄-清-真傳
 :PROPERTIES: 
+:KR_ID: KR6q0489
 :BASEEDITION:  J
 :CBETA_ID:  J35nB343
 :CUSTOM_ID: ZB6q0489
@@ -15286,8 +15775,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0490 [[mandoku:ZB6q0490.org][ZB6q0490]]  [[cbeta:J/J36nB345/J36nB345.org][J36nB345]] 蘇州竹庵衍禪師語錄
+*** KR6q0490 蘇州竹庵衍禪師語錄-清-真衍
 :PROPERTIES: 
+:KR_ID: KR6q0490
 :BASEEDITION:  J
 :CBETA_ID:  J36nB345
 :CUSTOM_ID: ZB6q0490
@@ -15316,8 +15806,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0491 [[mandoku:ZB6q0491.org][ZB6q0491]]  [[cbeta:J/J36nB346/J36nB346.org][J36nB346]] 古林如禪師語錄
+*** KR6q0491 古林如禪師語錄-清-機如
 :PROPERTIES: 
+:KR_ID: KR6q0491
 :BASEEDITION:  J
 :CBETA_ID:  J36nB346
 :CUSTOM_ID: ZB6q0491
@@ -15346,8 +15837,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0492 [[mandoku:ZB6q0492.org][ZB6q0492]]  [[cbeta:J/J36nB352/J36nB352.org][J36nB352]] 東山破峰重禪師語錄
+*** KR6q0492 東山破峰重禪師語錄-清-普重
 :PROPERTIES: 
+:KR_ID: KR6q0492
 :BASEEDITION:  J
 :CBETA_ID:  J36nB352
 :CUSTOM_ID: ZB6q0492
@@ -15376,8 +15868,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0493 [[mandoku:ZB6q0493.org][ZB6q0493]]  [[cbeta:J/J36nB353/J36nB353.org][J36nB353]] 雲幻宸禪師語錄
+*** KR6q0493 雲幻宸禪師語錄-清-印宸
 :PROPERTIES: 
+:KR_ID: KR6q0493
 :BASEEDITION:  J
 :CBETA_ID:  J36nB353
 :CUSTOM_ID: ZB6q0493
@@ -15414,8 +15907,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0494 [[mandoku:ZB6q0494.org][ZB6q0494]]  [[cbeta:J/J36nB355/J36nB355.org][J36nB355]] 綠蘿恒秀林禪師語錄
+*** KR6q0494 綠蘿恒秀林禪師語錄-清-發林
 :PROPERTIES: 
+:KR_ID: KR6q0494
 :BASEEDITION:  J
 :CBETA_ID:  J36nB355
 :CUSTOM_ID: ZB6q0494
@@ -15444,8 +15938,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0495 [[mandoku:ZB6q0495.org][ZB6q0495]]  [[cbeta:J/J36nB356/J36nB356.org][J36nB356]] 奇然智禪師語錄
+*** KR6q0495 奇然智禪師語錄-清-超智
 :PROPERTIES: 
+:KR_ID: KR6q0495
 :BASEEDITION:  J
 :CBETA_ID:  J36nB356
 :CUSTOM_ID: ZB6q0495
@@ -15478,8 +15973,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0496 [[mandoku:ZB6q0496.org][ZB6q0496]]  [[cbeta:J/J36nB357/J36nB357.org][J36nB357]] 秀野林禪師語錄
+*** KR6q0496 秀野林禪師語錄-清-明林
 :PROPERTIES: 
+:KR_ID: KR6q0496
 :BASEEDITION:  J
 :CBETA_ID:  J36nB357
 :CUSTOM_ID: ZB6q0496
@@ -15508,8 +16004,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0497 [[mandoku:ZB6q0497.org][ZB6q0497]]  [[cbeta:J/J36nB358/J36nB358.org][J36nB358]] 智覃正禪師語錄
+*** KR6q0497 智覃正禪師語錄-清-最正
 :PROPERTIES: 
+:KR_ID: KR6q0497
 :BASEEDITION:  J
 :CBETA_ID:  J36nB358
 :CUSTOM_ID: ZB6q0497
@@ -15542,8 +16039,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0498 [[mandoku:ZB6q0498.org][ZB6q0498]]  [[cbeta:J/J36nB359/J36nB359.org][J36nB359]] 百愚禪師語錄
+*** KR6q0498 百愚禪師語錄-清-淨斯
 :PROPERTIES: 
+:KR_ID: KR6q0498
 :BASEEDITION:  J
 :CBETA_ID:  J36nB359
 :CUSTOM_ID: ZB6q0498
@@ -15576,8 +16074,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0499 [[mandoku:ZB6q0499.org][ZB6q0499]]  [[cbeta:J/J36nB362/J36nB362.org][J36nB362]] 觀濤奇禪師語錄
+*** KR6q0499 觀濤奇禪師語錄-清-大奇
 :PROPERTIES: 
+:KR_ID: KR6q0499
 :BASEEDITION:  J
 :CBETA_ID:  J36nB362
 :CUSTOM_ID: ZB6q0499
@@ -15606,8 +16105,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0500 [[mandoku:ZB6q0500.org][ZB6q0500]]  [[cbeta:J/J36nB363/J36nB363.org][J36nB363]] 文穆念禪師語錄
+*** KR6q0500 文穆念禪師語錄-清-念
 :PROPERTIES: 
+:KR_ID: KR6q0500
 :BASEEDITION:  J
 :CBETA_ID:  J36nB363
 :CUSTOM_ID: ZB6q0500
@@ -15636,8 +16136,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0501 [[mandoku:ZB6q0501.org][ZB6q0501]]  [[cbeta:J/J36nB364/J36nB364.org][J36nB364]] 佛古聞禪師語錄
+*** KR6q0501 佛古聞禪師語錄-清-行聞
 :PROPERTIES: 
+:KR_ID: KR6q0501
 :BASEEDITION:  J
 :CBETA_ID:  J36nB364
 :CUSTOM_ID: ZB6q0501
@@ -15666,8 +16167,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0502 [[mandoku:ZB6q0502.org][ZB6q0502]]  [[cbeta:J/J36nB365/J36nB365.org][J36nB365]] 石璞質禪師語錄
+*** KR6q0502 石璞質禪師語錄-清-超質
 :PROPERTIES: 
+:KR_ID: KR6q0502
 :BASEEDITION:  J
 :CBETA_ID:  J36nB365
 :CUSTOM_ID: ZB6q0502
@@ -15696,8 +16198,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0503 [[mandoku:ZB6q0503.org][ZB6q0503]]  [[cbeta:J/J36nB366/J36nB366.org][J36nB366]] 大方禪師語錄
+*** KR6q0503 大方禪師語錄-明-行海
 :PROPERTIES: 
+:KR_ID: KR6q0503
 :BASEEDITION:  J
 :CBETA_ID:  J36nB366
 :CUSTOM_ID: ZB6q0503
@@ -15726,8 +16229,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0504 [[mandoku:ZB6q0504.org][ZB6q0504]]  [[cbeta:J/J36nB367/J36nB367.org][J36nB367]] 寂光豁禪師語錄
+*** KR6q0504 寂光豁禪師語錄-清-豁
 :PROPERTIES: 
+:KR_ID: KR6q0504
 :BASEEDITION:  J
 :CBETA_ID:  J36nB367
 :CUSTOM_ID: ZB6q0504
@@ -15756,8 +16260,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0505 [[mandoku:ZB6q0505.org][ZB6q0505]]  [[cbeta:J/J36nB368/J36nB368.org][J36nB368]] 天台通玄寺獨朗禪師語錄
+*** KR6q0505 天台通玄寺獨朗禪師語錄-清-行曰
 :PROPERTIES: 
+:KR_ID: KR6q0505
 :BASEEDITION:  J
 :CBETA_ID:  J36nB368
 :CUSTOM_ID: ZB6q0505
@@ -15790,8 +16295,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0506 [[mandoku:ZB6q0506.org][ZB6q0506]]  [[cbeta:J/J36nB369/J36nB369.org][J36nB369]] 蔗菴範禪師語錄
+*** KR6q0506 蔗菴範禪師語錄-清-淨範
 :PROPERTIES: 
+:KR_ID: KR6q0506
 :BASEEDITION:  J
 :CBETA_ID:  J36nB369
 :CUSTOM_ID: ZB6q0506
@@ -15820,8 +16326,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0507 [[mandoku:ZB6q0507.org][ZB6q0507]]  [[cbeta:J/J37nB370/J37nB370.org][J37nB370]] 草堂耨雲實禪師語錄
+*** KR6q0507 草堂耨雲實禪師語錄-清-真實
 :PROPERTIES: 
+:KR_ID: KR6q0507
 :BASEEDITION:  J
 :CBETA_ID:  J37nB370
 :CUSTOM_ID: ZB6q0507
@@ -15850,8 +16357,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0508 [[mandoku:ZB6q0508.org][ZB6q0508]]  [[cbeta:J/J37nB371/J37nB371.org][J37nB371]] 佛冤禪師語錄
+*** KR6q0508 佛冤禪師語錄-清-徹綱
 :PROPERTIES: 
+:KR_ID: KR6q0508
 :BASEEDITION:  J
 :CBETA_ID:  J37nB371
 :CUSTOM_ID: ZB6q0508
@@ -15880,8 +16388,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0509 [[mandoku:ZB6q0509.org][ZB6q0509]]  [[cbeta:J/J37nB372/J37nB372.org][J37nB372]] 印心佛敏訥禪師語錄
+*** KR6q0509 印心佛敏訥禪師語錄-清-寂納
 :PROPERTIES: 
+:KR_ID: KR6q0509
 :BASEEDITION:  J
 :CBETA_ID:  J37nB372
 :CUSTOM_ID: ZB6q0509
@@ -15914,8 +16423,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0510 [[mandoku:ZB6q0510.org][ZB6q0510]]  [[cbeta:J/J37nB383/J37nB383.org][J37nB383]] 憨休禪師語錄
+*** KR6q0510 憨休禪師語錄--繼堯
 :PROPERTIES: 
+:KR_ID: KR6q0510
 :BASEEDITION:  J
 :CBETA_ID:  J37nB383
 :CUSTOM_ID: ZB6q0510
@@ -15939,8 +16449,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0511 [[mandoku:ZB6q0511.org][ZB6q0511]]  [[cbeta:J/J37nB386/J37nB386.org][J37nB386]] 遠菴僼禪師語錄
+*** KR6q0511 遠菴僼禪師語錄-清-本僼
 :PROPERTIES: 
+:KR_ID: KR6q0511
 :BASEEDITION:  J
 :CBETA_ID:  J37nB386
 :CUSTOM_ID: ZB6q0511
@@ -15969,8 +16480,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0512 [[mandoku:ZB6q0512.org][ZB6q0512]]  [[cbeta:J/J37nB387/J37nB387.org][J37nB387]] 古宿尊禪師語錄
+*** KR6q0512 古宿尊禪師語錄-清-尊
 :PROPERTIES: 
+:KR_ID: KR6q0512
 :BASEEDITION:  J
 :CBETA_ID:  J37nB387
 :CUSTOM_ID: ZB6q0512
@@ -15999,8 +16511,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0513 [[mandoku:ZB6q0513.org][ZB6q0513]]  [[cbeta:J/J37nB388/J37nB388.org][J37nB388]] 神鼎一揆禪師語錄
+*** KR6q0513 神鼎一揆禪師語錄-清-元揆
 :PROPERTIES: 
+:KR_ID: KR6q0513
 :BASEEDITION:  J
 :CBETA_ID:  J37nB388
 :CUSTOM_ID: ZB6q0513
@@ -16029,8 +16542,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0514 [[mandoku:ZB6q0514.org][ZB6q0514]]  [[cbeta:J/J37nB389/J37nB389.org][J37nB389]] 洪山俞昭允汾禪師語錄
+*** KR6q0514 洪山俞昭允汾禪師語錄-清-允汾
 :PROPERTIES: 
+:KR_ID: KR6q0514
 :BASEEDITION:  J
 :CBETA_ID:  J37nB389
 :CUSTOM_ID: ZB6q0514
@@ -16059,8 +16573,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0515 [[mandoku:ZB6q0515.org][ZB6q0515]]  [[cbeta:J/J37nB390/J37nB390.org][J37nB390]] 北京楚林禪師語錄
+*** KR6q0515 北京楚林禪師語錄-清-上睿
 :PROPERTIES: 
+:KR_ID: KR6q0515
 :BASEEDITION:  J
 :CBETA_ID:  J37nB390
 :CUSTOM_ID: ZB6q0515
@@ -16089,8 +16604,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0516 [[mandoku:ZB6q0516.org][ZB6q0516]]  [[cbeta:J/J37nB391/J37nB391.org][J37nB391]] 長目電禪師語錄
+*** KR6q0516 長目電禪師語錄-清-光電
 :PROPERTIES: 
+:KR_ID: KR6q0516
 :BASEEDITION:  J
 :CBETA_ID:  J37nB391
 :CUSTOM_ID: ZB6q0516
@@ -16119,8 +16635,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0517 [[mandoku:ZB6q0517.org][ZB6q0517]]  [[cbeta:J/J37nB392/J37nB392.org][J37nB392]] 寒松操禪師語錄
+*** KR6q0517 寒松操禪師語錄-清-智操
 :PROPERTIES: 
+:KR_ID: KR6q0517
 :BASEEDITION:  J
 :CBETA_ID:  J37nB392
 :CUSTOM_ID: ZB6q0517
@@ -16149,8 +16666,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0518 [[mandoku:ZB6q0518.org][ZB6q0518]]  [[cbeta:J/J37nB393/J37nB393.org][J37nB393]] 華巖還初佛禪師語錄
+*** KR6q0518 華巖還初佛禪師語錄-清-佛
 :PROPERTIES: 
+:KR_ID: KR6q0518
 :BASEEDITION:  J
 :CBETA_ID:  J37nB393
 :CUSTOM_ID: ZB6q0518
@@ -16179,8 +16697,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0519 [[mandoku:ZB6q0519.org][ZB6q0519]]  [[cbeta:J/J37nB394/J37nB394.org][J37nB394]] 翼菴禪師語錄
+*** KR6q0519 翼菴禪師語錄-清-善酇
 :PROPERTIES: 
+:KR_ID: KR6q0519
 :BASEEDITION:  J
 :CBETA_ID:  J37nB394
 :CUSTOM_ID: ZB6q0519
@@ -16205,8 +16724,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0520 [[mandoku:ZB6q0520.org][ZB6q0520]]  [[cbeta:J/J37nB395/J37nB395.org][J37nB395]] 荊南內護國寺啟真誠禪師語錄
+*** KR6q0520 荊南內護國寺啟真誠禪師語錄-清-誠
 :PROPERTIES: 
+:KR_ID: KR6q0520
 :BASEEDITION:  J
 :CBETA_ID:  J37nB395
 :CUSTOM_ID: ZB6q0520
@@ -16235,8 +16755,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0521 [[mandoku:ZB6q0521.org][ZB6q0521]]  [[cbeta:J/J37nB396/J37nB396.org][J37nB396]] 終南山蟠龍子肅禪師語錄
+*** KR6q0521 終南山蟠龍子肅禪師語錄-清-超遠
 :PROPERTIES: 
+:KR_ID: KR6q0521
 :BASEEDITION:  J
 :CBETA_ID:  J37nB396
 :CUSTOM_ID: ZB6q0521
@@ -16269,8 +16790,9 @@
 :WITID: wit7
 :END:
 
-*** KR6q0522 [[mandoku:ZB6q0522.org][ZB6q0522]]  [[cbeta:J/J37nB399/J37nB399.org][J37nB399]] 鶴林天樹植禪師語錄
+*** KR6q0522 鶴林天樹植禪師語錄-清-行植
 :PROPERTIES: 
+:KR_ID: KR6q0522
 :BASEEDITION:  J
 :CBETA_ID:  J37nB399
 :CUSTOM_ID: ZB6q0522
@@ -16299,8 +16821,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0523 [[mandoku:ZB6q0523.org][ZB6q0523]]  [[cbeta:J/J37nB400/J37nB400.org][J37nB400]] 知空蘊禪師語錄
+*** KR6q0523 知空蘊禪師語錄-清-學蘊
 :PROPERTIES: 
+:KR_ID: KR6q0523
 :BASEEDITION:  J
 :CBETA_ID:  J37nB400
 :CUSTOM_ID: ZB6q0523
@@ -16329,8 +16852,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0524 [[mandoku:ZB6q0524.org][ZB6q0524]]  [[cbeta:J/J37nB401/J37nB401.org][J37nB401]] 浦峰長明炅禪師語錄
+*** KR6q0524 浦峰長明炅禪師語錄-清-性炅
 :PROPERTIES: 
+:KR_ID: KR6q0524
 :BASEEDITION:  J
 :CBETA_ID:  J37nB401
 :CUSTOM_ID: ZB6q0524
@@ -16359,8 +16883,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0525 [[mandoku:ZB6q0525.org][ZB6q0525]]  [[cbeta:J/J37nB402/J37nB402.org][J37nB402]] 浦峰法柱棟禪師語錄
+*** KR6q0525 浦峰法柱棟禪師語錄-清-海棟
 :PROPERTIES: 
+:KR_ID: KR6q0525
 :BASEEDITION:  J
 :CBETA_ID:  J37nB402
 :CUSTOM_ID: ZB6q0525
@@ -16397,8 +16922,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0526 [[mandoku:ZB6q0526.org][ZB6q0526]]  [[cbeta:J/J38nB406/J38nB406.org][J38nB406]] 廬山天然禪師語錄
+*** KR6q0526 廬山天然禪師語錄-明-函昰
 :PROPERTIES: 
+:KR_ID: KR6q0526
 :BASEEDITION:  J
 :CBETA_ID:  J38nB406
 :CUSTOM_ID: ZB6q0526
@@ -16427,8 +16953,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0527 [[mandoku:ZB6q0527.org][ZB6q0527]]  [[cbeta:J/J38nB407/J38nB407.org][J38nB407]] 千山剩人禪師語錄
+*** KR6q0527 千山剩人禪師語錄-明-函可
 :PROPERTIES: 
+:KR_ID: KR6q0527
 :BASEEDITION:  J
 :CBETA_ID:  J38nB407
 :CUSTOM_ID: ZB6q0527
@@ -16469,8 +16996,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0528 [[mandoku:ZB6q0528.org][ZB6q0528]]  [[cbeta:J/J38nB408/J38nB408.org][J38nB408]] 海幢阿字無禪師語錄
+*** KR6q0528 海幢阿字無禪師語錄-清-今無
 :PROPERTIES: 
+:KR_ID: KR6q0528
 :BASEEDITION:  J
 :CBETA_ID:  J38nB408
 :CUSTOM_ID: ZB6q0528
@@ -16499,8 +17027,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0529 [[mandoku:ZB6q0529.org][ZB6q0529]]  [[cbeta:J/J38nB409/J38nB409.org][J38nB409]] 丹霞澹歸禪師語錄
+*** KR6q0529 丹霞澹歸禪師語錄-明-今釋
 :PROPERTIES: 
+:KR_ID: KR6q0529
 :BASEEDITION:  J
 :CBETA_ID:  J38nB409
 :CUSTOM_ID: ZB6q0529
@@ -16529,8 +17058,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0530 [[mandoku:ZB6q0530.org][ZB6q0530]]  [[cbeta:J/J38nB410/J38nB410.org][J38nB410]] 蓮峰禪師語錄
+*** KR6q0530 蓮峰禪師語錄-清-素
 :PROPERTIES: 
+:KR_ID: KR6q0530
 :BASEEDITION:  J
 :CBETA_ID:  J38nB410
 :CUSTOM_ID: ZB6q0530
@@ -16559,8 +17089,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0531 [[mandoku:ZB6q0531.org][ZB6q0531]]  [[cbeta:J/J38nB411/J38nB411.org][J38nB411]] 德風禪師般若語錄
+*** KR6q0531 德風禪師般若語錄-清-如惺
 :PROPERTIES: 
+:KR_ID: KR6q0531
 :BASEEDITION:  J
 :CBETA_ID:  J38nB411
 :CUSTOM_ID: ZB6q0531
@@ -16585,8 +17116,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0532 [[mandoku:ZB6q0532.org][ZB6q0532]]  [[cbeta:J/J38nB412/J38nB412.org][J38nB412]] 三塔主峰禪師語錄
+*** KR6q0532 三塔主峰禪師語錄-清-覺海
 :PROPERTIES: 
+:KR_ID: KR6q0532
 :BASEEDITION:  J
 :CBETA_ID:  J38nB412
 :CUSTOM_ID: ZB6q0532
@@ -16615,8 +17147,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0533 [[mandoku:ZB6q0533.org][ZB6q0533]]  [[cbeta:J/J38nB413/J38nB413.org][J38nB413]] 黃蓮東巖禪師語錄
+*** KR6q0533 黃蓮東巖禪師語錄-清-機琇
 :PROPERTIES: 
+:KR_ID: KR6q0533
 :BASEEDITION:  J
 :CBETA_ID:  J38nB413
 :CUSTOM_ID: ZB6q0533
@@ -16649,8 +17182,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0534 [[mandoku:ZB6q0534.org][ZB6q0534]]  [[cbeta:J/J38nB414/J38nB414.org][J38nB414]] 山鐸真在禪師語錄
+*** KR6q0534 山鐸真在禪師語錄-清-真在
 :PROPERTIES: 
+:KR_ID: KR6q0534
 :BASEEDITION:  J
 :CBETA_ID:  J38nB414
 :CUSTOM_ID: ZB6q0534
@@ -16683,8 +17217,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0535 [[mandoku:ZB6q0535.org][ZB6q0535]]  [[cbeta:J/J38nB415/J38nB415.org][J38nB415]] 大悲妙雲禪師語錄
+*** KR6q0535 大悲妙雲禪師語錄-清-真雄
 :PROPERTIES: 
+:KR_ID: KR6q0535
 :BASEEDITION:  J
 :CBETA_ID:  J38nB415
 :CUSTOM_ID: ZB6q0535
@@ -16713,8 +17248,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0536 [[mandoku:ZB6q0536.org][ZB6q0536]]  [[cbeta:J/J38nB417/J38nB417.org][J38nB417]] 天則能禪師語錄
+*** KR6q0536 天則能禪師語錄-清-機能
 :PROPERTIES: 
+:KR_ID: KR6q0536
 :BASEEDITION:  J
 :CBETA_ID:  J38nB417
 :CUSTOM_ID: ZB6q0536
@@ -16755,8 +17291,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0537 [[mandoku:ZB6q0537.org][ZB6q0537]]  [[cbeta:J/J38nB418/J38nB418.org][J38nB418]] 晦嶽旭禪師語錄
+*** KR6q0537 晦嶽旭禪師語錄-清-旭
 :PROPERTIES: 
+:KR_ID: KR6q0537
 :BASEEDITION:  J
 :CBETA_ID:  J38nB418
 :CUSTOM_ID: ZB6q0537
@@ -16785,8 +17322,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0538 [[mandoku:ZB6q0538.org][ZB6q0538]]  [[cbeta:J/J38nB419/J38nB419.org][J38nB419]] 華嚴不厭樂禪師語錄
+*** KR6q0538 華嚴不厭樂禪師語錄-清-道樂
 :PROPERTIES: 
+:KR_ID: KR6q0538
 :BASEEDITION:  J
 :CBETA_ID:  J38nB419
 :CUSTOM_ID: ZB6q0538
@@ -16815,8 +17353,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0539 [[mandoku:ZB6q0539.org][ZB6q0539]]  [[cbeta:J/J38nB420/J38nB420.org][J38nB420]] 三峰半水元禪師語錄
+*** KR6q0539 三峰半水元禪師語錄-清-元
 :PROPERTIES: 
+:KR_ID: KR6q0539
 :BASEEDITION:  J
 :CBETA_ID:  J38nB420
 :CUSTOM_ID: ZB6q0539
@@ -16849,8 +17388,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0540 [[mandoku:ZB6q0540.org][ZB6q0540]]  [[cbeta:J/J38nB421/J38nB421.org][J38nB421]] 鶴峰禪師語錄
+*** KR6q0540 鶴峰禪師語錄-清-濟悟
 :PROPERTIES: 
+:KR_ID: KR6q0540
 :BASEEDITION:  J
 :CBETA_ID:  J38nB421
 :CUSTOM_ID: ZB6q0540
@@ -16879,8 +17419,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0541 [[mandoku:ZB6q0541.org][ZB6q0541]]  [[cbeta:J/J38nB422/J38nB422.org][J38nB422]] 林我禪師語錄
+*** KR6q0541 林我禪師語錄-清-鑑
 :PROPERTIES: 
+:KR_ID: KR6q0541
 :BASEEDITION:  J
 :CBETA_ID:  J38nB422
 :CUSTOM_ID: ZB6q0541
@@ -16913,8 +17454,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0542 [[mandoku:ZB6q0542.org][ZB6q0542]]  [[cbeta:J/J38nB423/J38nB423.org][J38nB423]] 石關禪師語錄
+*** KR6q0542 石關禪師語錄-清-芳桂
 :PROPERTIES: 
+:KR_ID: KR6q0542
 :BASEEDITION:  J
 :CBETA_ID:  J38nB423
 :CUSTOM_ID: ZB6q0542
@@ -16939,8 +17481,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0543 [[mandoku:ZB6q0543.org][ZB6q0543]]  [[cbeta:J/J38nB424/J38nB424.org][J38nB424]] 香嚴禪師語錄
+*** KR6q0543 香嚴禪師語錄-清-明耀
 :PROPERTIES: 
+:KR_ID: KR6q0543
 :BASEEDITION:  J
 :CBETA_ID:  J38nB424
 :CUSTOM_ID: ZB6q0543
@@ -16969,8 +17512,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0544 [[mandoku:ZB6q0544.org][ZB6q0544]]  [[cbeta:J/J38nB427/J38nB427.org][J38nB427]] 青城竹浪生禪師語錄
+*** KR6q0544 青城竹浪生禪師語錄-清-徹生
 :PROPERTIES: 
+:KR_ID: KR6q0544
 :BASEEDITION:  J
 :CBETA_ID:  J38nB427
 :CUSTOM_ID: ZB6q0544
@@ -16999,8 +17543,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0545 [[mandoku:ZB6q0545.org][ZB6q0545]]  [[cbeta:J/J38nB428/J38nB428.org][J38nB428]] 密行忍禪師語錄
+*** KR6q0545 密行忍禪師語錄-清-寂忍
 :PROPERTIES: 
+:KR_ID: KR6q0545
 :BASEEDITION:  J
 :CBETA_ID:  J38nB428
 :CUSTOM_ID: ZB6q0545
@@ -17033,8 +17578,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0546 [[mandoku:ZB6q0546.org][ZB6q0546]]  [[cbeta:J/J38nB429/J38nB429.org][J38nB429]] 盛京奉天般若古林禪師語錄
+*** KR6q0546 盛京奉天般若古林禪師語錄-清-智
 :PROPERTIES: 
+:KR_ID: KR6q0546
 :BASEEDITION:  J
 :CBETA_ID:  J38nB429
 :CUSTOM_ID: ZB6q0546
@@ -17067,8 +17613,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0547 [[mandoku:ZB6q0547.org][ZB6q0547]]  [[cbeta:J/J38nB430/J38nB430.org][J38nB430]] 玉泉其白富禪師語錄
+*** KR6q0547 玉泉其白富禪師語錄-清-德富
 :PROPERTIES: 
+:KR_ID: KR6q0547
 :BASEEDITION:  J
 :CBETA_ID:  J38nB430
 :CUSTOM_ID: ZB6q0547
@@ -17097,8 +17644,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0548 [[mandoku:ZB6q0548.org][ZB6q0548]]  [[cbeta:J/J38nB431/J38nB431.org][J38nB431]] 雲峰體宗寧禪師語錄
+*** KR6q0548 雲峰體宗寧禪師語錄-清-寧
 :PROPERTIES: 
+:KR_ID: KR6q0548
 :BASEEDITION:  J
 :CBETA_ID:  J38nB431
 :CUSTOM_ID: ZB6q0548
@@ -17135,8 +17683,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0549 [[mandoku:ZB6q0549.org][ZB6q0549]]  [[cbeta:J/J38nB432/J38nB432.org][J38nB432]] 幻住明禪師語錄
+*** KR6q0549 幻住明禪師語錄-清-明
 :PROPERTIES: 
+:KR_ID: KR6q0549
 :BASEEDITION:  J
 :CBETA_ID:  J38nB432
 :CUSTOM_ID: ZB6q0549
@@ -17165,8 +17714,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0550 [[mandoku:ZB6q0550.org][ZB6q0550]]  [[cbeta:J/J38nB433/J38nB433.org][J38nB433]] 純備德禪師語錄
+*** KR6q0550 純備德禪師語錄-清-廣德
 :PROPERTIES: 
+:KR_ID: KR6q0550
 :BASEEDITION:  J
 :CBETA_ID:  J38nB433
 :CUSTOM_ID: ZB6q0550
@@ -17195,8 +17745,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0551 [[mandoku:ZB6q0551.org][ZB6q0551]]  [[cbeta:J/J38nB434/J38nB434.org][J38nB434]] 法幢遠禪師語錄
+*** KR6q0551 法幢遠禪師語錄-清-智遠
 :PROPERTIES: 
+:KR_ID: KR6q0551
 :BASEEDITION:  J
 :CBETA_ID:  J38nB434
 :CUSTOM_ID: ZB6q0551
@@ -17229,8 +17780,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0552 [[mandoku:ZB6q0552.org][ZB6q0552]]  [[cbeta:J/J39nB435/J39nB435.org][J39nB435]] 伏獅義公禪師語錄
+*** KR6q0552 伏獅義公禪師語錄-清-（尼）
 :PROPERTIES: 
+:KR_ID: KR6q0552
 :BASEEDITION:  J
 :CBETA_ID:  J39nB435
 :CUSTOM_ID: ZB6q0552
@@ -17267,8 +17819,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0553 [[mandoku:ZB6q0553.org][ZB6q0553]]  [[cbeta:J/J39nB436/J39nB436.org][J39nB436]] 參同一揆禪師語錄
+*** KR6q0553 參同一揆禪師語錄-清-超琛（尼）
 :PROPERTIES: 
+:KR_ID: KR6q0553
 :BASEEDITION:  J
 :CBETA_ID:  J39nB436
 :CUSTOM_ID: ZB6q0553
@@ -17301,8 +17854,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0554 [[mandoku:ZB6q0554.org][ZB6q0554]]  [[cbeta:J/J39nB438/J39nB438.org][J39nB438]] 衡山禪師語錄
+*** KR6q0554 衡山禪師語錄-清-燈炳
 :PROPERTIES: 
+:KR_ID: KR6q0554
 :BASEEDITION:  J
 :CBETA_ID:  J39nB438
 :CUSTOM_ID: ZB6q0554
@@ -17339,8 +17893,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0555 [[mandoku:ZB6q0555.org][ZB6q0555]]  [[cbeta:J/J39nB440/J39nB440.org][J39nB440]] 高峰喬松億禪師語錄
+*** KR6q0555 高峰喬松億禪師語錄-清-玄億
 :PROPERTIES: 
+:KR_ID: KR6q0555
 :BASEEDITION:  J
 :CBETA_ID:  J39nB440
 :CUSTOM_ID: ZB6q0555
@@ -17369,8 +17924,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0556 [[mandoku:ZB6q0556.org][ZB6q0556]]  [[cbeta:J/J39nB441/J39nB441.org][J39nB441]] 萬峰童真禪師語錄
+*** KR6q0556 萬峰童真禪師語錄-清-至善
 :PROPERTIES: 
+:KR_ID: KR6q0556
 :BASEEDITION:  J
 :CBETA_ID:  J39nB441
 :CUSTOM_ID: ZB6q0556
@@ -17399,8 +17955,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0557 [[mandoku:ZB6q0557.org][ZB6q0557]]  [[cbeta:J/J39nB442/J39nB442.org][J39nB442]] 大笑崇禪師語錄
+*** KR6q0557 大笑崇禪師語錄-清-崇
 :PROPERTIES: 
+:KR_ID: KR6q0557
 :BASEEDITION:  J
 :CBETA_ID:  J39nB442
 :CUSTOM_ID: ZB6q0557
@@ -17429,8 +17986,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0558 [[mandoku:ZB6q0558.org][ZB6q0558]]  [[cbeta:J/J39nB443/J39nB443.org][J39nB443]] 玉眉亮禪師語錄
+*** KR6q0558 玉眉亮禪師語錄-清-亮
 :PROPERTIES: 
+:KR_ID: KR6q0558
 :BASEEDITION:  J
 :CBETA_ID:  J39nB443
 :CUSTOM_ID: ZB6q0558
@@ -17463,8 +18021,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0559 [[mandoku:ZB6q0559.org][ZB6q0559]]  [[cbeta:J/J39nB444/J39nB444.org][J39nB444]] 卓峰玨禪師語錄
+*** KR6q0559 卓峰玨禪師語錄-清-性玨
 :PROPERTIES: 
+:KR_ID: KR6q0559
 :BASEEDITION:  J
 :CBETA_ID:  J39nB444
 :CUSTOM_ID: ZB6q0559
@@ -17501,8 +18060,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0560 [[mandoku:ZB6q0560.org][ZB6q0560]]  [[cbeta:J/J39nB446/J39nB446.org][J39nB446]] 靈隱文禪師語錄
+*** KR6q0560 靈隱文禪師語錄-清-印文
 :PROPERTIES: 
+:KR_ID: KR6q0560
 :BASEEDITION:  J
 :CBETA_ID:  J39nB446
 :CUSTOM_ID: ZB6q0560
@@ -17531,8 +18091,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0561 [[mandoku:ZB6q0561.org][ZB6q0561]]  [[cbeta:J/J39nB447/J39nB447.org][J39nB447]] 東山梅溪度禪師語錄
+*** KR6q0561 東山梅溪度禪師語錄-清-福度
 :PROPERTIES: 
+:KR_ID: KR6q0561
 :BASEEDITION:  J
 :CBETA_ID:  J39nB447
 :CUSTOM_ID: ZB6q0561
@@ -17561,8 +18122,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0562 [[mandoku:ZB6q0562.org][ZB6q0562]]  [[cbeta:J/J39nB448/J39nB448.org][J39nB448]] 靈機禪師語錄
+*** KR6q0562 靈機禪師語錄-清-行觀
 :PROPERTIES: 
+:KR_ID: KR6q0562
 :BASEEDITION:  J
 :CBETA_ID:  J39nB448
 :CUSTOM_ID: ZB6q0562
@@ -17591,8 +18153,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0563 [[mandoku:ZB6q0563.org][ZB6q0563]]  [[cbeta:J/J39nB449/J39nB449.org][J39nB449]] 祖亮啟禪師語錄
+*** KR6q0563 祖亮啟禪師語錄-清-超啟
 :PROPERTIES: 
+:KR_ID: KR6q0563
 :BASEEDITION:  J
 :CBETA_ID:  J39nB449
 :CUSTOM_ID: ZB6q0563
@@ -17621,8 +18184,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0564 [[mandoku:ZB6q0564.org][ZB6q0564]]  [[cbeta:J/J39nB450/J39nB450.org][J39nB450]] 敏樹禪師語錄
+*** KR6q0564 敏樹禪師語錄-清-如相
 :PROPERTIES: 
+:KR_ID: KR6q0564
 :BASEEDITION:  J
 :CBETA_ID:  J39nB450
 :CUSTOM_ID: ZB6q0564
@@ -17655,8 +18219,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0565 [[mandoku:ZB6q0565.org][ZB6q0565]]  [[cbeta:J/J39nB451/J39nB451.org][J39nB451]] 赤松領禪師語錄
+*** KR6q0565 赤松領禪師語錄-清-道領
 :PROPERTIES: 
+:KR_ID: KR6q0565
 :BASEEDITION:  J
 :CBETA_ID:  J39nB451
 :CUSTOM_ID: ZB6q0565
@@ -17685,8 +18250,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0566 [[mandoku:ZB6q0566.org][ZB6q0566]]  [[cbeta:J/J39nB452/J39nB452.org][J39nB452]] 侶巖荷禪師語錄
+*** KR6q0566 侶巖荷禪師語錄-清-荷
 :PROPERTIES: 
+:KR_ID: KR6q0566
 :BASEEDITION:  J
 :CBETA_ID:  J39nB452
 :CUSTOM_ID: ZB6q0566
@@ -17715,8 +18281,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0567 [[mandoku:ZB6q0567.org][ZB6q0567]]  [[cbeta:J/J39nB453/J39nB453.org][J39nB453]] 元潔瑩禪師語錄
+*** KR6q0567 元潔瑩禪師語錄-清-淨瑩
 :PROPERTIES: 
+:KR_ID: KR6q0567
 :BASEEDITION:  J
 :CBETA_ID:  J39nB453
 :CUSTOM_ID: ZB6q0567
@@ -17745,8 +18312,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0568 [[mandoku:ZB6q0568.org][ZB6q0568]]  [[cbeta:J/J39nB454/J39nB454.org][J39nB454]] 頻吉祥禪師語錄
+*** KR6q0568 頻吉祥禪師語錄-清-智祥
 :PROPERTIES: 
+:KR_ID: KR6q0568
 :BASEEDITION:  J
 :CBETA_ID:  J39nB454
 :CUSTOM_ID: ZB6q0568
@@ -17775,8 +18343,9 @@
 :WITID: wit7
 :END:
 
-*** KR6q0569 [[mandoku:ZB6q0569.org][ZB6q0569]]  [[cbeta:J/J39nB455/J39nB455.org][J39nB455]] 通天逸叟高禪師語錄
+*** KR6q0569 通天逸叟高禪師語錄-清-行高
 :PROPERTIES: 
+:KR_ID: KR6q0569
 :BASEEDITION:  J
 :CBETA_ID:  J39nB455
 :CUSTOM_ID: ZB6q0569
@@ -17809,8 +18378,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0570 [[mandoku:ZB6q0570.org][ZB6q0570]]  [[cbeta:J/J39nB456/J39nB456.org][J39nB456]] 通天澹崖原禪師語錄
+*** KR6q0570 通天澹崖原禪師語錄-清-超原
 :PROPERTIES: 
+:KR_ID: KR6q0570
 :BASEEDITION:  J
 :CBETA_ID:  J39nB456
 :CUSTOM_ID: ZB6q0570
@@ -17839,8 +18409,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0571 [[mandoku:ZB6q0571.org][ZB6q0571]]  [[cbeta:J/J39nB457/J39nB457.org][J39nB457]] 白雲象林本真禪師語錄
+*** KR6q0571 白雲象林本真禪師語錄-清-本真
 :PROPERTIES: 
+:KR_ID: KR6q0571
 :BASEEDITION:  J
 :CBETA_ID:  J39nB457
 :CUSTOM_ID: ZB6q0571
@@ -17873,8 +18444,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0572 [[mandoku:ZB6q0572.org][ZB6q0572]]  [[cbeta:J/J39nB459/J39nB459.org][J39nB459]] 香巖洗心水禪師語錄
+*** KR6q0572 香巖洗心水禪師語錄-清-照水
 :PROPERTIES: 
+:KR_ID: KR6q0572
 :BASEEDITION:  J
 :CBETA_ID:  J39nB459
 :CUSTOM_ID: ZB6q0572
@@ -17907,8 +18479,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0573 [[mandoku:ZB6q0573.org][ZB6q0573]]  [[cbeta:J/J39nB460/J39nB460.org][J39nB460]] 灤州萬善暉州昊禪師語錄
+*** KR6q0573 灤州萬善暉州昊禪師語錄-清-昊
 :PROPERTIES: 
+:KR_ID: KR6q0573
 :BASEEDITION:  J
 :CBETA_ID:  J39nB460
 :CUSTOM_ID: ZB6q0573
@@ -17941,8 +18514,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0574 [[mandoku:ZB6q0574.org][ZB6q0574]]  [[cbeta:J/J39nB461/J39nB461.org][J39nB461]] 性空臻禪師語錄
+*** KR6q0574 性空臻禪師語錄-清-行臻
 :PROPERTIES: 
+:KR_ID: KR6q0574
 :BASEEDITION:  J
 :CBETA_ID:  J39nB461
 :CUSTOM_ID: ZB6q0574
@@ -17971,8 +18545,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0575 [[mandoku:ZB6q0575.org][ZB6q0575]]  [[cbeta:J/J39nB462/J39nB462.org][J39nB462]] 何一自禪師語錄
+*** KR6q0575 何一自禪師語錄-清-超自
 :PROPERTIES: 
+:KR_ID: KR6q0575
 :BASEEDITION:  J
 :CBETA_ID:  J39nB462
 :CUSTOM_ID: ZB6q0575
@@ -18009,8 +18584,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0576 [[mandoku:ZB6q0576.org][ZB6q0576]]  [[cbeta:J/J39nB463/J39nB463.org][J39nB463]] 溈山古梅冽禪師語錄
+*** KR6q0576 溈山古梅冽禪師語錄-清-定冽
 :PROPERTIES: 
+:KR_ID: KR6q0576
 :BASEEDITION:  J
 :CBETA_ID:  J39nB463
 :CUSTOM_ID: ZB6q0576
@@ -18039,8 +18615,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0577 [[mandoku:ZB6q0577.org][ZB6q0577]]  [[cbeta:J/J39nB464/J39nB464.org][J39nB464]] 華嚴起宗真禪師語錄
+*** KR6q0577 華嚴起宗真禪師語錄-清-真
 :PROPERTIES: 
+:KR_ID: KR6q0577
 :BASEEDITION:  J
 :CBETA_ID:  J39nB464
 :CUSTOM_ID: ZB6q0577
@@ -18069,8 +18646,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0578 [[mandoku:ZB6q0578.org][ZB6q0578]]  [[cbeta:J/J39nB465/J39nB465.org][J39nB465]] 子雍如禪師語錄
+*** KR6q0578 子雍如禪師語錄-清-成如尼
 :PROPERTIES: 
+:KR_ID: KR6q0578
 :BASEEDITION:  J
 :CBETA_ID:  J39nB465
 :CUSTOM_ID: ZB6q0578
@@ -18099,8 +18677,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0579 [[mandoku:ZB6q0579.org][ZB6q0579]]  [[cbeta:J/J39nB466/J39nB466.org][J39nB466]] 山西柏山楷禪師語錄
+*** KR6q0579 山西柏山楷禪師語錄-清-德楷
 :PROPERTIES: 
+:KR_ID: KR6q0579
 :BASEEDITION:  J
 :CBETA_ID:  J39nB466
 :CUSTOM_ID: ZB6q0579
@@ -18129,8 +18708,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0580 [[mandoku:ZB6q0580.org][ZB6q0580]]  [[cbeta:J/J39nB468/J39nB468.org][J39nB468]] 善一純禪師語錄
+*** KR6q0580 善一純禪師語錄-清-如純
 :PROPERTIES: 
+:KR_ID: KR6q0580
 :BASEEDITION:  J
 :CBETA_ID:  J39nB468
 :CUSTOM_ID: ZB6q0580
@@ -18159,8 +18739,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0581 [[mandoku:ZB6q0581.org][ZB6q0581]]  [[cbeta:J/J39nB469/J39nB469.org][J39nB469]] 善權位禪師語錄
+*** KR6q0581 善權位禪師語錄-清-達位
 :PROPERTIES: 
+:KR_ID: KR6q0581
 :BASEEDITION:  J
 :CBETA_ID:  J39nB469
 :CUSTOM_ID: ZB6q0581
@@ -18189,8 +18770,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0582 [[mandoku:ZB6q0582.org][ZB6q0582]]  [[cbeta:J/J39nB470/J39nB470.org][J39nB470]] 天一悅禪師語錄
+*** KR6q0582 天一悅禪師語錄-清-大悅
 :PROPERTIES: 
+:KR_ID: KR6q0582
 :BASEEDITION:  J
 :CBETA_ID:  J39nB470
 :CUSTOM_ID: ZB6q0582
@@ -18219,8 +18801,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0583 [[mandoku:ZB6q0583.org][ZB6q0583]]  [[cbeta:J/J39nB471/J39nB471.org][J39nB471]] 空谷道澄禪師語錄
+*** KR6q0583 空谷道澄禪師語錄-清-道澄
 :PROPERTIES: 
+:KR_ID: KR6q0583
 :BASEEDITION:  J
 :CBETA_ID:  J39nB471
 :CUSTOM_ID: ZB6q0583
@@ -18249,8 +18832,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0584 [[mandoku:ZB6q0584.org][ZB6q0584]]  [[cbeta:J/J40nB472/J40nB472.org][J40nB472]] 大博乾禪師語錄
+*** KR6q0584 大博乾禪師語錄-清-乾
 :PROPERTIES: 
+:KR_ID: KR6q0584
 :BASEEDITION:  J
 :CBETA_ID:  J40nB472
 :CUSTOM_ID: ZB6q0584
@@ -18279,8 +18863,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0585 [[mandoku:ZB6q0585.org][ZB6q0585]]  [[cbeta:J/J40nB473/J40nB473.org][J40nB473]] 盤山朗空順禪師語錄
+*** KR6q0585 盤山朗空順禪師語錄-清-順
 :PROPERTIES: 
+:KR_ID: KR6q0585
 :BASEEDITION:  J
 :CBETA_ID:  J40nB473
 :CUSTOM_ID: ZB6q0585
@@ -18309,8 +18894,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0586 [[mandoku:ZB6q0586.org][ZB6q0586]]  [[cbeta:J/J40nB474/J40nB474.org][J40nB474]] 盤山了宗禪師語錄
+*** KR6q0586 盤山了宗禪師語錄-清-超見
 :PROPERTIES: 
+:KR_ID: KR6q0586
 :BASEEDITION:  J
 :CBETA_ID:  J40nB474
 :CUSTOM_ID: ZB6q0586
@@ -18343,8 +18929,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0587 [[mandoku:ZB6q0587.org][ZB6q0587]]  [[cbeta:J/J40nB475/J40nB475.org][J40nB475]] 逕庭宗禪師語錄
+*** KR6q0587 逕庭宗禪師語錄-清-德宗
 :PROPERTIES: 
+:KR_ID: KR6q0587
 :BASEEDITION:  J
 :CBETA_ID:  J40nB475
 :CUSTOM_ID: ZB6q0587
@@ -18373,8 +18960,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0588 [[mandoku:ZB6q0588.org][ZB6q0588]]  [[cbeta:J/J40nB476/J40nB476.org][J40nB476]] 別牧純禪師語錄
+*** KR6q0588 別牧純禪師語錄-清-純
 :PROPERTIES: 
+:KR_ID: KR6q0588
 :BASEEDITION:  J
 :CBETA_ID:  J40nB476
 :CUSTOM_ID: ZB6q0588
@@ -18407,8 +18995,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0589 [[mandoku:ZB6q0589.org][ZB6q0589]]  [[cbeta:J/J40nB477/J40nB477.org][J40nB477]] 天翼翔禪師語錄
+*** KR6q0589 天翼翔禪師語錄-清-巨翔
 :PROPERTIES: 
+:KR_ID: KR6q0589
 :BASEEDITION:  J
 :CBETA_ID:  J40nB477
 :CUSTOM_ID: ZB6q0589
@@ -18441,8 +19030,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0590 [[mandoku:ZB6q0590.org][ZB6q0590]]  [[cbeta:J/J40nB478/J40nB478.org][J40nB478]] 雲山燕居申禪師語錄
+*** KR6q0590 雲山燕居申禪師語錄-清-德申
 :PROPERTIES: 
+:KR_ID: KR6q0590
 :BASEEDITION:  J
 :CBETA_ID:  J40nB478
 :CUSTOM_ID: ZB6q0590
@@ -18471,8 +19061,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0591 [[mandoku:ZB6q0591.org][ZB6q0591]]  [[cbeta:J/J40nB479/J40nB479.org][J40nB479]] 昭覺竹峰續禪師語錄
+*** KR6q0591 昭覺竹峰續禪師語錄-清-真續
 :PROPERTIES: 
+:KR_ID: KR6q0591
 :BASEEDITION:  J
 :CBETA_ID:  J40nB479
 :CUSTOM_ID: ZB6q0591
@@ -18501,8 +19092,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0592 [[mandoku:ZB6q0592.org][ZB6q0592]]  [[cbeta:J/J40nB483/J40nB483.org][J40nB483]] 竺峰敏禪師語錄
+*** KR6q0592 竺峰敏禪師語錄-清-幻敏
 :PROPERTIES: 
+:KR_ID: KR6q0592
 :BASEEDITION:  J
 :CBETA_ID:  J40nB483
 :CUSTOM_ID: ZB6q0592
@@ -18543,8 +19135,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0593 [[mandoku:ZB6q0593.org][ZB6q0593]]  [[cbeta:J/J40nB485/J40nB485.org][J40nB485]] 普門顯禪師語錄
+*** KR6q0593 普門顯禪師語錄-清-燈顯
 :PROPERTIES: 
+:KR_ID: KR6q0593
 :BASEEDITION:  J
 :CBETA_ID:  J40nB485
 :CUSTOM_ID: ZB6q0593
@@ -18573,8 +19166,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0594 [[mandoku:ZB6q0594.org][ZB6q0594]]  [[cbeta:J/J40nB486/J40nB486.org][J40nB486]] 鑑堂一禪師語錄
+*** KR6q0594 鑑堂一禪師語錄-清-一
 :PROPERTIES: 
+:KR_ID: KR6q0594
 :BASEEDITION:  J
 :CBETA_ID:  J40nB486
 :CUSTOM_ID: ZB6q0594
@@ -18606,8 +19200,9 @@
 :WITID: wit1
 :END:
 
-*** KR6q0595 [[mandoku:ZB6q0595.org][ZB6q0595]]  [[cbeta:J/J40nB487/J40nB487.org][J40nB487]] 翠崖必禪師語錄
+*** KR6q0595 翠崖必禪師語錄-清-必
 :PROPERTIES: 
+:KR_ID: KR6q0595
 :BASEEDITION:  J
 :CBETA_ID:  J40nB487
 :CUSTOM_ID: ZB6q0595
@@ -18636,8 +19231,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0596 [[mandoku:ZB6q0596.org][ZB6q0596]]  [[cbeta:J/J40nB488/J40nB488.org][J40nB488]] 斗南暐禪師語錄
+*** KR6q0596 斗南暐禪師語錄-清-暐
 :PROPERTIES: 
+:KR_ID: KR6q0596
 :BASEEDITION:  J
 :CBETA_ID:  J40nB488
 :CUSTOM_ID: ZB6q0596
@@ -18666,8 +19262,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0597 [[mandoku:ZB6q0597.org][ZB6q0597]]  [[cbeta:J/J40nB490/J40nB490.org][J40nB490]] 博山粟如瀚禪師語錄
+*** KR6q0597 博山粟如瀚禪師語錄-清-弘瀚
 :PROPERTIES: 
+:KR_ID: KR6q0597
 :BASEEDITION:  J
 :CBETA_ID:  J40nB490
 :CUSTOM_ID: ZB6q0597
@@ -18696,8 +19293,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0598 [[mandoku:ZB6q0598.org][ZB6q0598]]  [[cbeta:J/J40nB492/J40nB492.org][J40nB492]] 萬峰和尚語錄
+*** KR6q0598 萬峰和尚語錄-明-時蔚
 :PROPERTIES: 
+:KR_ID: KR6q0598
 :BASEEDITION:  J
 :CBETA_ID:  J40nB492
 :CUSTOM_ID: ZB6q0598
@@ -18726,8 +19324,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0599 [[mandoku:ZB6q0599.org][ZB6q0599]]  [[cbeta:J/J40nB493/J40nB493.org][J40nB493]] 磬山牧亭樸夫拙禪師語錄
+*** KR6q0599 磬山牧亭樸夫拙禪師語錄-清-拙
 :PROPERTIES: 
+:KR_ID: KR6q0599
 :BASEEDITION:  J
 :CBETA_ID:  J40nB493
 :CUSTOM_ID: ZB6q0599
@@ -18756,8 +19355,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0600 [[mandoku:ZB6q0600.org][ZB6q0600]]  [[cbeta:J/J40nB494/J40nB494.org][J40nB494]] 雨山和尚語錄
+*** KR6q0600 雨山和尚語錄-清-上思
 :PROPERTIES: 
+:KR_ID: KR6q0600
 :BASEEDITION:  J
 :CBETA_ID:  J40nB494
 :CUSTOM_ID: ZB6q0600
@@ -18782,8 +19382,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0601 [[mandoku:ZB6q0601.org][ZB6q0601]]  [[cbeta:L/L153n1637/L153n1637.org][L153n1637]] 幻有傳禪師語錄
+*** KR6q0601 幻有傳禪師語錄-明-圓悟
 :PROPERTIES: 
+:KR_ID: KR6q0601
 :BASEEDITION:  L
 :CBETA_ID:  L153n1637
 :CUSTOM_ID: ZB6q0601
@@ -18812,8 +19413,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0602 [[mandoku:ZB6q0602.org][ZB6q0602]]  [[cbeta:L/L153n1638/L153n1638.org][L153n1638]] 雪嶠信禪師語錄
+*** KR6q0602 雪嶠信禪師語錄-明-弘歇
 :PROPERTIES: 
+:KR_ID: KR6q0602
 :BASEEDITION:  L
 :CBETA_ID:  L153n1638
 :CUSTOM_ID: ZB6q0602
@@ -18838,8 +19440,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0603 [[mandoku:ZB6q0603.org][ZB6q0603]]  [[cbeta:L/L154n1639/L154n1639.org][L154n1639]] 天隱修禪師語錄
+*** KR6q0603 天隱修禪師語錄-明-通琇
 :PROPERTIES: 
+:KR_ID: KR6q0603
 :BASEEDITION:  L
 :CBETA_ID:  L154n1639
 :CUSTOM_ID: ZB6q0603
@@ -18864,8 +19467,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0604 [[mandoku:ZB6q0604.org][ZB6q0604]]  [[cbeta:L/L154n1640/L154n1640.org][L154n1640]] 密雲怡禪師語錄
+*** KR6q0604 密雲怡禪師語錄-明-道忞
 :PROPERTIES: 
+:KR_ID: KR6q0604
 :BASEEDITION:  L
 :CBETA_ID:  L154n1640
 :CUSTOM_ID: ZB6q0604
@@ -18890,8 +19494,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0605 [[mandoku:ZB6q0605.org][ZB6q0605]]  [[cbeta:L/L154n1641/L154n1641.org][L154n1641]] 大覺普濟能仁琇國師語錄
+*** KR6q0605 大覺普濟能仁琇國師語錄-清-行岳
 :PROPERTIES: 
+:KR_ID: KR6q0605
 :BASEEDITION:  L
 :CBETA_ID:  L154n1641
 :CUSTOM_ID: ZB6q0605
@@ -18916,8 +19521,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0606 [[mandoku:ZB6q0606.org][ZB6q0606]]  [[cbeta:L/L155n1642/L155n1642.org][L155n1642]] 明道正覺森禪師語錄
+*** KR6q0606 明道正覺森禪師語錄-清-超德
 :PROPERTIES: 
+:KR_ID: KR6q0606
 :BASEEDITION:  L
 :CBETA_ID:  L155n1642
 :CUSTOM_ID: ZB6q0606
@@ -18942,8 +19548,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0607 [[mandoku:ZB6q0607.org][ZB6q0607]]  [[cbeta:L/L155n1643/L155n1643.org][L155n1643]] 弘覺忞禪師語錄
+*** KR6q0607 弘覺忞禪師語錄-清-顯權
 :PROPERTIES: 
+:KR_ID: KR6q0607
 :BASEEDITION:  L
 :CBETA_ID:  L155n1643
 :CUSTOM_ID: ZB6q0607
@@ -18968,8 +19575,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0608 [[mandoku:ZB6q0608.org][ZB6q0608]]  [[cbeta:L/L157n1649/L157n1649.org][L157n1649]] 山茨際禪師語錄
+*** KR6q0608 山茨際禪師語錄-清-達尊
 :PROPERTIES: 
+:KR_ID: KR6q0608
 :BASEEDITION:  L
 :CBETA_ID:  L157n1649
 :CUSTOM_ID: ZB6q0608
@@ -18998,8 +19606,9 @@
 :WITID: wit99
 :END:
 
-*** KR6q0609 [[mandoku:ZB6q0609.org][ZB6q0609]]  [[cbeta:L/L158n1652/L158n1652.org][L158n1652]] 明覺聰禪師語錄
+*** KR6q0609 明覺聰禪師語錄-清-寂空
 :PROPERTIES: 
+:KR_ID: KR6q0609
 :BASEEDITION:  L
 :CBETA_ID:  L158n1652
 :CUSTOM_ID: ZB6q0609

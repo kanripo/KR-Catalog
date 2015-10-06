@@ -1,7 +1,8 @@
 #-*- mode: org; -*-
 ** KR6g ZB6g 涅槃部類
-*** KR6g0001 [[mandoku:ZB6g0001.org][ZB6g0001]]  [[cbeta:T/T12n0374/T12n0374.org][T12n0374]] 大般涅槃經
+*** KR6g0001 大般涅槃經-北涼-曇無讖
 :PROPERTIES: 
+:KR_ID: KR6g0001
 :BASEEDITION:  T
 :CBETA_ID:  T12n0374
 :RELATED: T12n0376@經, T37n1764@疏
@@ -58,8 +59,9 @@
 :WITID: wit15
 :END:
 
-*** KR6g0002 [[mandoku:ZB6g0002.org][ZB6g0002]]  [[cbeta:T/T37n1764/T37n1764.org][T37n1764]] 大般涅槃經義記
+*** KR6g0002 大般涅槃經義記-隋-慧遠
 :PROPERTIES: 
+:KR_ID: KR6g0002
 :BASEEDITION:  T
 :CBETA_ID:  T37n1764
 :RELATED: T12n0374@經
@@ -91,8 +93,9 @@
 :WITID: wit6
 :END:
 
-*** KR6g0003 [[mandoku:ZB6g0003.org][ZB6g0003]]  [[cbeta:T/T12n0375/T12n0375.org][T12n0375]] 大般涅槃經
+*** KR6g0003 大般涅槃經-宋-慧嚴
 :PROPERTIES: 
+:KR_ID: KR6g0003
 :BASEEDITION:  T
 :CBETA_ID:  T12n0375
 :RELATED: T12n0376@經, T37n1763@疏, T38n1765@疏, T38n1766@疏, T38n1767@疏, T38n1768@疏, T38n1769@疏, T85n2764@古逸, T85n2765@古逸
@@ -169,8 +172,9 @@
 :WITID: wit41
 :END:
 
-*** KR6g0004 [[mandoku:ZB6g0004.org][ZB6g0004]]  [[cbeta:T/T37n1763/T37n1763.org][T37n1763]] 大般涅槃經集解
+*** KR6g0004 大般涅槃經集解-梁-寶亮
 :PROPERTIES: 
+:KR_ID: KR6g0004
 :BASEEDITION:  T
 :CBETA_ID:  T37n1763
 :RELATED: T12n0375@經
@@ -212,8 +216,9 @@
 :WITID: wit13
 :END:
 
-*** KR6g0005 [[mandoku:ZB6g0005.org][ZB6g0005]]  [[cbeta:T/T38n1765/T38n1765.org][T38n1765]] 大般涅槃經玄義
+*** KR6g0005 大般涅槃經玄義-隋-灌頂
 :PROPERTIES: 
+:KR_ID: KR6g0005
 :BASEEDITION:  T
 :CBETA_ID:  T38n1765
 :RELATED: T12n0375@經, T38n1766@疏, T38n1767@疏
@@ -245,8 +250,9 @@
 :WITID: wit49
 :END:
 
-*** KR6g0006 [[mandoku:ZB6g0006.org][ZB6g0006]]  [[cbeta:T/T38n1766/T38n1766.org][T38n1766]] 涅槃玄義發源機要
+*** KR6g0006 涅槃玄義發源機要-宋-智圓
 :PROPERTIES: 
+:KR_ID: KR6g0006
 :BASEEDITION:  T
 :CBETA_ID:  T38n1766
 :RELATED: T12n0375@經, T38n1765@疏, T38n1767@疏
@@ -278,8 +284,9 @@
 :WITID: wit49
 :END:
 
-*** KR6g0007 [[mandoku:ZB6g0007.org][ZB6g0007]]  [[cbeta:T/T38n1767/T38n1767.org][T38n1767]] 大般涅槃經疏
+*** KR6g0007 大般涅槃經疏-隋-灌頂
 :PROPERTIES: 
+:KR_ID: KR6g0007
 :BASEEDITION:  T
 :CBETA_ID:  T38n1767
 :RELATED: T12n0375@經, T38n1765@疏, T38n1766@疏
@@ -311,8 +318,9 @@
 :WITID: wit6
 :END:
 
-*** KR6g0008 [[mandoku:ZB6g0008.org][ZB6g0008]]  [[cbeta:T/T38n1768/T38n1768.org][T38n1768]] 涅槃經遊意
+*** KR6g0008 涅槃經遊意-隋-吉藏
 :PROPERTIES: 
+:KR_ID: KR6g0008
 :BASEEDITION:  T
 :CBETA_ID:  T38n1768
 :RELATED: T12n0375@經
@@ -344,8 +352,9 @@
 :WITID: wit99
 :END:
 
-*** KR6g0009 [[mandoku:ZB6g0009.org][ZB6g0009]]  [[cbeta:T/T38n1769/T38n1769.org][T38n1769]] 涅槃宗要
+*** KR6g0009 涅槃宗要-新羅-元曉
 :PROPERTIES: 
+:KR_ID: KR6g0009
 :BASEEDITION:  T
 :CBETA_ID:  T38n1769
 :RELATED: T12n0375@經
@@ -372,8 +381,9 @@
 :WITID: wit4
 :END:
 
-*** KR6g0010 [[mandoku:ZB6g0010.org][ZB6g0010]]  [[cbeta:T/T85n2764A/T85n2764A.org][T85n2764A]] 涅槃經義記
+*** KR6g0010 涅槃經義記--
 :PROPERTIES: 
+:KR_ID: KR6g0010
 :BASEEDITION:  T
 :CBETA_ID:  T85n2764A
 :GENRE: 古逸
@@ -393,8 +403,9 @@
 :WITID: wit4
 :END:
 
-*** KR6g0011 [[mandoku:ZB6g0011.org][ZB6g0011]]  [[cbeta:T/T85n2764B/T85n2764B.org][T85n2764B]] 大涅槃經義記卷第四
+*** KR6g0011 大涅槃經義記卷第四--
 :PROPERTIES: 
+:KR_ID: KR6g0011
 :BASEEDITION:  T
 :CBETA_ID:  T85n2764B
 :GENRE: 古逸
@@ -414,8 +425,9 @@
 :WITID: wit4
 :END:
 
-*** KR6g0012 [[mandoku:ZB6g0012.org][ZB6g0012]]  [[cbeta:T/T85n2765/T85n2765.org][T85n2765]] 涅槃經疏
+*** KR6g0012 涅槃經疏--
 :PROPERTIES: 
+:KR_ID: KR6g0012
 :BASEEDITION:  T
 :CBETA_ID:  T85n2765
 :RELATED: T12n0375@經, T85n2764B@古逸
@@ -431,8 +443,9 @@
 :WITID: wit1
 :END:
 
-*** KR6g0013 [[mandoku:ZB6g0013.org][ZB6g0013]]  [[cbeta:X/X36n0656/X36n0656.org][X36n0656]] 涅槃經玄義文句
+*** KR6g0013 涅槃經玄義文句-隋-灌頂
 :PROPERTIES: 
+:KR_ID: KR6g0013
 :BASEEDITION:  X
 :CBETA_ID:  X36n0656
 :GENRE: 疏
@@ -468,8 +481,9 @@
 :WITID: wit99
 :END:
 
-*** KR6g0014 [[mandoku:ZB6g0014.org][ZB6g0014]]  [[cbeta:X/X36n0657/X36n0657.org][X36n0657]] 涅槃經治定疏科
+*** KR6g0014 涅槃經治定疏科-宋-智圓
 :PROPERTIES: 
+:KR_ID: KR6g0014
 :BASEEDITION:  X
 :CBETA_ID:  X36n0657
 :GENRE: 疏
@@ -495,8 +509,9 @@
 :WITID: wit99
 :END:
 
-*** KR6g0015 [[mandoku:ZB6g0015.org][ZB6g0015]]  [[cbeta:X/X36n0658/X36n0658.org][X36n0658]] 涅槃經會疏條箇
+*** KR6g0015 涅槃經會疏條箇--
 :PROPERTIES: 
+:KR_ID: KR6g0015
 :BASEEDITION:  X
 :CBETA_ID:  X36n0658
 :GENRE: 疏
@@ -516,8 +531,9 @@
 :WITID: wit99
 :END:
 
-*** KR6g0016 [[mandoku:ZB6g0016.org][ZB6g0016]]  [[cbeta:X/X36n0659/X36n0659.org][X36n0659]] 涅槃經會疏
+*** KR6g0016 涅槃經會疏-隋-灌頂
 :PROPERTIES: 
+:KR_ID: KR6g0016
 :BASEEDITION:  X
 :CBETA_ID:  X36n0659
 :GENRE: 疏
@@ -553,8 +569,9 @@
 :WITID: wit99
 :END:
 
-*** KR6g0017 [[mandoku:ZB6g0017.org][ZB6g0017]]  [[cbeta:X/X37n0660/X37n0660.org][X37n0660]] 涅槃經疏私記
+*** KR6g0017 涅槃經疏私記-唐-行滿
 :PROPERTIES: 
+:KR_ID: KR6g0017
 :BASEEDITION:  X
 :CBETA_ID:  X37n0660
 :GENRE: 疏
@@ -580,8 +597,9 @@
 :WITID: wit99
 :END:
 
-*** KR6g0018 [[mandoku:ZB6g0018.org][ZB6g0018]]  [[cbeta:X/X37n0661/X37n0661.org][X37n0661]] 涅槃經疏私記
+*** KR6g0018 涅槃經疏私記-唐-道暹
 :PROPERTIES: 
+:KR_ID: KR6g0018
 :BASEEDITION:  X
 :CBETA_ID:  X37n0661
 :GENRE: 疏
@@ -607,8 +625,9 @@
 :WITID: wit99
 :END:
 
-*** KR6g0019 [[mandoku:ZB6g0019.org][ZB6g0019]]  [[cbeta:X/X37n0662/X37n0662.org][X37n0662]] 涅槃經疏三德指歸
+*** KR6g0019 涅槃經疏三德指歸-宋-智圓
 :PROPERTIES: 
+:KR_ID: KR6g0019
 :BASEEDITION:  X
 :CBETA_ID:  X37n0662
 :GENRE: 疏
@@ -639,8 +658,9 @@
 :WITID: wit7
 :END:
 
-*** KR6g0020 [[mandoku:ZB6g0020.org][ZB6g0020]]  [[cbeta:X/X37n0663/X37n0663.org][X37n0663]] 科南本涅槃經
+*** KR6g0020 科南本涅槃經-元-師正
 :PROPERTIES: 
+:KR_ID: KR6g0020
 :BASEEDITION:  X
 :CBETA_ID:  X37n0663
 :GENRE: 疏
@@ -670,8 +690,9 @@
 :WITID: wit99
 :END:
 
-*** KR6g0021 [[mandoku:ZB6g0021.org][ZB6g0021]]  [[cbeta:X/X37n0664/X37n0664.org][X37n0664]] 涅槃經會疏解
+*** KR6g0021 涅槃經會疏解-元-師正
 :PROPERTIES: 
+:KR_ID: KR6g0021
 :BASEEDITION:  X
 :CBETA_ID:  X37n0664
 :GENRE: 疏
@@ -701,8 +722,9 @@
 :WITID: wit99
 :END:
 
-*** KR6g0022 [[mandoku:ZB6g0022.org][ZB6g0022]]  [[cbeta:T/T12n0376/T12n0376.org][T12n0376]] 佛說大般泥洹經
+*** KR6g0022 佛說大般泥洹經-東晉-法顯
 :PROPERTIES: 
+:KR_ID: KR6g0022
 :BASEEDITION:  T
 :CBETA_ID:  T12n0376
 :RELATED: T12n0374@經, T12n0375@經
@@ -759,8 +781,9 @@
 :WITID: wit8
 :END:
 
-*** KR6g0023 [[mandoku:ZB6g0023.org][ZB6g0023]]  [[cbeta:T/T12n0377/T12n0377.org][T12n0377]] 大般涅槃經後分
+*** KR6g0023 大般涅槃經後分-唐-若那跋陀羅
 :PROPERTIES: 
+:KR_ID: KR6g0023
 :BASEEDITION:  T
 :CBETA_ID:  T12n0377
 :GENRE: 經
@@ -821,8 +844,9 @@
 :WITID: wit22
 :END:
 
-*** KR6g0024 [[mandoku:ZB6g0024.org][ZB6g0024]]  [[cbeta:T/T12n0378/T12n0378.org][T12n0378]] 佛說方等般泥洹經
+*** KR6g0024 佛說方等般泥洹經-西晉-竺法護
 :PROPERTIES: 
+:KR_ID: KR6g0024
 :BASEEDITION:  T
 :CBETA_ID:  T12n0378
 :RELATED: T12n0379@經
@@ -879,8 +903,9 @@
 :WITID: wit15
 :END:
 
-*** KR6g0025 [[mandoku:ZB6g0025.org][ZB6g0025]]  [[cbeta:T/T12n0379/T12n0379.org][T12n0379]] 四童子三昧經
+*** KR6g0025 四童子三昧經-隋-闍那崛多
 :PROPERTIES: 
+:KR_ID: KR6g0025
 :BASEEDITION:  T
 :CBETA_ID:  T12n0379
 :RELATED: T12n0378@經
@@ -942,8 +967,9 @@
 :WITID: wit8
 :END:
 
-*** KR6g0026 [[mandoku:ZB6g0026.org][ZB6g0026]]  [[cbeta:T/T12n0380/T12n0380.org][T12n0380]] 大悲經
+*** KR6g0026 大悲經-高齊-那連提耶舍
 :PROPERTIES: 
+:KR_ID: KR6g0026
 :BASEEDITION:  T
 :CBETA_ID:  T12n0380
 :GENRE: 經
@@ -1009,8 +1035,9 @@
 :WITID: wit15
 :END:
 
-*** KR6g0027 [[mandoku:ZB6g0027.org][ZB6g0027]]  [[cbeta:T/T12n0381/T12n0381.org][T12n0381]] 等集眾德三昧經
+*** KR6g0027 等集眾德三昧經-西晉-竺法護
 :PROPERTIES: 
+:KR_ID: KR6g0027
 :BASEEDITION:  T
 :CBETA_ID:  T12n0381
 :RELATED: T12n0382@經
@@ -1062,8 +1089,9 @@
 :WITID: wit13
 :END:
 
-*** KR6g0028 [[mandoku:ZB6g0028.org][ZB6g0028]]  [[cbeta:T/T12n0382/T12n0382.org][T12n0382]] 集一切福德三昧經
+*** KR6g0028 集一切福德三昧經-姚秦-鳩摩羅什
 :PROPERTIES: 
+:KR_ID: KR6g0028
 :BASEEDITION:  T
 :CBETA_ID:  T12n0382
 :RELATED: T12n0381@經
@@ -1115,8 +1143,9 @@
 :WITID: wit25
 :END:
 
-*** KR6g0029 [[mandoku:ZB6g0029.org][ZB6g0029]]  [[cbeta:T/T12n0383/T12n0383.org][T12n0383]] 摩訶摩耶經
+*** KR6g0029 摩訶摩耶經-蕭齊-曇景
 :PROPERTIES: 
+:KR_ID: KR6g0029
 :BASEEDITION:  T
 :CBETA_ID:  T12n0383
 :GENRE: 經
@@ -1167,8 +1196,9 @@
 :WITID: wit25
 :END:
 
-*** KR6g0030 [[mandoku:ZB6g0030.org][ZB6g0030]]  [[cbeta:T/T12n0384/T12n0384.org][T12n0384]] 菩薩從兜術天降神母胎說廣普經
+*** KR6g0030 菩薩從兜術天降神母胎說廣普經-姚秦-竺佛念
 :PROPERTIES: 
+:KR_ID: KR6g0030
 :BASEEDITION:  T
 :CBETA_ID:  T12n0384
 :GENRE: 經
@@ -1234,8 +1264,9 @@
 :WITID: wit15
 :END:
 
-*** KR6g0031 [[mandoku:ZB6g0031.org][ZB6g0031]]  [[cbeta:T/T12n0385/T12n0385.org][T12n0385]] 中陰經
+*** KR6g0031 中陰經-姚秦-竺佛念
 :PROPERTIES: 
+:KR_ID: KR6g0031
 :BASEEDITION:  T
 :CBETA_ID:  T12n0385
 :GENRE: 經
@@ -1296,8 +1327,9 @@
 :WITID: wit15
 :END:
 
-*** KR6g0032 [[mandoku:ZB6g0032.org][ZB6g0032]]  [[cbeta:T/T12n0386/T12n0386.org][T12n0386]] 蓮華面經
+*** KR6g0032 蓮華面經-隋-那連提耶舍
 :PROPERTIES: 
+:KR_ID: KR6g0032
 :BASEEDITION:  T
 :CBETA_ID:  T12n0386
 :GENRE: 經
@@ -1353,8 +1385,9 @@
 :WITID: wit15
 :END:
 
-*** KR6g0033 [[mandoku:ZB6g0033.org][ZB6g0033]]  [[cbeta:T/T12n0387/T12n0387.org][T12n0387]] 大方等無想經
+*** KR6g0033 大方等無想經-北涼-曇無讖
 :PROPERTIES: 
+:KR_ID: KR6g0033
 :BASEEDITION:  T
 :CBETA_ID:  T12n0387
 :GENRE: 經
@@ -1410,8 +1443,9 @@
 :WITID: wit15
 :END:
 
-*** KR6g0034 [[mandoku:ZB6g0034.org][ZB6g0034]]  [[cbeta:T/T12n0388/T12n0388.org][T12n0388]] 大雲無想經卷第九
+*** KR6g0034 大雲無想經卷第九-姚秦-竺佛念
 :PROPERTIES: 
+:KR_ID: KR6g0034
 :BASEEDITION:  T
 :CBETA_ID:  T12n0388
 :GENRE: 經
@@ -1437,8 +1471,9 @@
 :WITID: wit99
 :END:
 
-*** KR6g0035 [[mandoku:ZB6g0035.org][ZB6g0035]]  [[cbeta:T/T12n0390/T12n0390.org][T12n0390]] 佛臨涅槃記法住經
+*** KR6g0035 佛臨涅槃記法住經-唐-玄奘
 :PROPERTIES: 
+:KR_ID: KR6g0035
 :BASEEDITION:  T
 :CBETA_ID:  T12n0390
 :GENRE: 經
@@ -1484,8 +1519,9 @@
 :WITID: wit11
 :END:
 
-*** KR6g0036 [[mandoku:ZB6g0036.org][ZB6g0036]]  [[cbeta:T/T12n0391/T12n0391.org][T12n0391]] 般泥洹後灌臘經
+*** KR6g0036 般泥洹後灌臘經-西晉-竺法護
 :PROPERTIES: 
+:KR_ID: KR6g0036
 :BASEEDITION:  T
 :CBETA_ID:  T12n0391
 :GENRE: 經
@@ -1531,8 +1567,9 @@
 :WITID: wit25
 :END:
 
-*** KR6g0037 [[mandoku:ZB6g0037.org][ZB6g0037]]  [[cbeta:T/T12n0392/T12n0392.org][T12n0392]] 佛滅度後棺斂葬送經
+*** KR6g0037 佛滅度後棺斂葬送經--失譯
 :PROPERTIES: 
+:KR_ID: KR6g0037
 :BASEEDITION:  T
 :CBETA_ID:  T12n0392
 :GENRE: 經
@@ -1577,8 +1614,9 @@
 :WITID: wit12
 :END:
 
-*** KR6g0038 [[mandoku:ZB6g0038.org][ZB6g0038]]  [[cbeta:T/T12n0393/T12n0393.org][T12n0393]] 迦葉赴佛般涅槃經
+*** KR6g0038 迦葉赴佛般涅槃經-東晉-竺曇無蘭
 :PROPERTIES: 
+:KR_ID: KR6g0038
 :BASEEDITION:  T
 :CBETA_ID:  T12n0393
 :GENRE: 經
@@ -1624,8 +1662,9 @@
 :WITID: wit12
 :END:
 
-*** KR6g0039 [[mandoku:ZB6g0039.org][ZB6g0039]]  [[cbeta:T/T12n0394/T12n0394.org][T12n0394]] 佛入涅槃密迹金剛力士哀戀經
+*** KR6g0039 佛入涅槃密迹金剛力士哀戀經--失譯
 :PROPERTIES: 
+:KR_ID: KR6g0039
 :BASEEDITION:  T
 :CBETA_ID:  T12n0394
 :GENRE: 經
@@ -1680,8 +1719,9 @@
 :WITID: wit8
 :END:
 
-*** KR6g0040 [[mandoku:ZB6g0040.org][ZB6g0040]]  [[cbeta:T/T12n0395/T12n0395.org][T12n0395]] 佛說當來變經
+*** KR6g0040 佛說當來變經-西晉-竺法護
 :PROPERTIES: 
+:KR_ID: KR6g0040
 :BASEEDITION:  T
 :CBETA_ID:  T12n0395
 :GENRE: 經
@@ -1732,8 +1772,9 @@
 :WITID: wit13
 :END:
 
-*** KR6g0041 [[mandoku:ZB6g0041.org][ZB6g0041]]  [[cbeta:T/T12n0396/T12n0396.org][T12n0396]] 佛說法滅盡經
+*** KR6g0041 佛說法滅盡經--失譯
 :PROPERTIES: 
+:KR_ID: KR6g0041
 :BASEEDITION:  T
 :CBETA_ID:  T12n0396
 :RELATED: T85n2874@古逸
@@ -1779,8 +1820,9 @@
 :WITID: wit12
 :END:
 
-*** KR6g0042 [[mandoku:ZB6g0042.org][ZB6g0042]]  [[cbeta:F/F03n0248/F03n0248.org][F03n0248]] 佛說救護身命經
+*** KR6g0042 佛說救護身命經--比丘道真
 :PROPERTIES: 
+:KR_ID: KR6g0042
 :BASEEDITION:  F
 :CBETA_ID:  F03n0248
 :CUSTOM_ID: ZB6g0042
@@ -1804,8 +1846,9 @@
 :WITID: wit99
 :END:
 
-*** KR6g0043 [[mandoku:ZB6g0043.org][ZB6g0043]]  [[cbeta:T/T12n0389/T12n0389.org][T12n0389]] 佛垂般涅槃略說教誡經
+*** KR6g0043 佛垂般涅槃略說教誡經-姚秦-鳩摩羅什
 :PROPERTIES: 
+:KR_ID: KR6g0043
 :BASEEDITION:  T
 :CBETA_ID:  T12n0389
 :RELATED: T40n1820@疏
@@ -1857,8 +1900,9 @@
 :WITID: wit12
 :END:
 
-*** KR6g0044 [[mandoku:ZB6g0044.org][ZB6g0044]]  [[cbeta:T/T26n1529/T26n1529.org][T26n1529]] 遺教經論
+*** KR6g0044 遺教經論-陳-天親菩薩
 :PROPERTIES: 
+:KR_ID: KR6g0044
 :BASEEDITION:  T
 :CBETA_ID:  T26n1529
 :RELATED: T40n1820@疏
@@ -1905,8 +1949,9 @@
 :WITID: wit12
 :END:
 
-*** KR6g0045 [[mandoku:ZB6g0045.org][ZB6g0045]]  [[cbeta:T/T40n1820/T40n1820.org][T40n1820]] 佛遺教經論疏節要
+*** KR6g0045 佛遺教經論疏節要-宋-淨源
 :PROPERTIES: 
+:KR_ID: KR6g0045
 :BASEEDITION:  T
 :CBETA_ID:  T40n1820
 :RELATED: T12n0389@經, T26n1529@論
@@ -1943,8 +1988,9 @@
 :WITID: wit49
 :END:
 
-*** KR6g0046 [[mandoku:ZB6g0046.org][ZB6g0046]]  [[cbeta:P/P174n1590/P174n1590.org][P174n1590]] 佛遺教經論疏節要
+*** KR6g0046 佛遺教經論疏節要-宋-淨源
 :PROPERTIES: 
+:KR_ID: KR6g0046
 :BASEEDITION:  P
 :CBETA_ID:  P174n1590
 :CUSTOM_ID: ZB6g0046
@@ -1969,8 +2015,9 @@
 :WITID: wit99
 :END:
 
-*** KR6g0047 [[mandoku:ZB6g0047.org][ZB6g0047]]  [[cbeta:X/X37n0665/X37n0665.org][X37n0665]] 遺教經補註
+*** KR6g0047 遺教經補註-宋-守遂
 :PROPERTIES: 
+:KR_ID: KR6g0047
 :BASEEDITION:  X
 :CBETA_ID:  X37n0665
 :GENRE: 疏
@@ -2001,8 +2048,9 @@
 :WITID: wit99
 :END:
 
-*** KR6g0048 [[mandoku:ZB6g0048.org][ZB6g0048]]  [[cbeta:X/X37n0666/X37n0666.org][X37n0666]] 遺教經解
+*** KR6g0048 遺教經解-明-智旭
 :PROPERTIES: 
+:KR_ID: KR6g0048
 :BASEEDITION:  X
 :CBETA_ID:  X37n0666
 :GENRE: 疏
@@ -2028,8 +2076,9 @@
 :WITID: wit99
 :END:
 
-*** KR6g0049 [[mandoku:ZB6g0049.org][ZB6g0049]]  [[cbeta:X/X53n0845/X53n0845.org][X53n0845]] 遺教經論住法記
+*** KR6g0049 遺教經論住法記-宋-元照
 :PROPERTIES: 
+:KR_ID: KR6g0049
 :BASEEDITION:  X
 :CBETA_ID:  X53n0845
 :GENRE: 疏
@@ -2055,8 +2104,9 @@
 :WITID: wit99
 :END:
 
-*** KR6g0050 [[mandoku:ZB6g0050.org][ZB6g0050]]  [[cbeta:X/X53n0846/X53n0846.org][X53n0846]] 遺教經論記
+*** KR6g0050 遺教經論記-宋-觀復
 :PROPERTIES: 
+:KR_ID: KR6g0050
 :BASEEDITION:  X
 :CBETA_ID:  X53n0846
 :GENRE: 疏
@@ -2082,8 +2132,9 @@
 :WITID: wit99
 :END:
 
-*** KR6g0051 [[mandoku:ZB6g0051.org][ZB6g0051]]  [[cbeta:T/T26n1527/T26n1527.org][T26n1527]] 涅槃論
+*** KR6g0051 涅槃論-元魏-婆藪槃豆
 :PROPERTIES: 
+:KR_ID: KR6g0051
 :BASEEDITION:  T
 :CBETA_ID:  T26n1527
 :GENRE: 論
@@ -2129,8 +2180,9 @@
 :WITID: wit12
 :END:
 
-*** KR6g0052 [[mandoku:ZB6g0052.org][ZB6g0052]]  [[cbeta:T/T26n1528/T26n1528.org][T26n1528]] 涅槃經本有今無偈論
+*** KR6g0052 涅槃經本有今無偈論-陳-天親菩薩
 :PROPERTIES: 
+:KR_ID: KR6g0052
 :BASEEDITION:  T
 :CBETA_ID:  T26n1528
 :GENRE: 論

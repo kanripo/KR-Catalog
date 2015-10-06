@@ -1,8 +1,9 @@
 #-*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID
 ** KR2l ZB2l 職官類
-*** KR2l0001 [[mandoku:ZB2l0001.org][ZB2l0001]] 唐六典
+*** KR2l0001 唐六典-唐-張九齡
 :PROPERTIES:
+:KR_ID: KR2l0001
 :CUSTOM_ID:  ZB2l0001
 :SOURCE:   四庫全書 文淵閣版, V595.1, p1
 :EXTENT: 30 卷
@@ -25,8 +26,9 @@
 
 **** 版本
 ***** WYG
-*** KR2l0002 [[mandoku:ZB2l0002.org][ZB2l0002]] 翰林志
+*** KR2l0002 翰林志-唐-李肇
 :PROPERTIES:
+:KR_ID: KR2l0002
 :CUSTOM_ID:  ZB2l0002
 :SOURCE:   四庫全書 文淵閣版, V595.2, p295
 :EXTENT: 1 卷
@@ -43,8 +45,9 @@
 
 **** 版本
 ***** WYG
-*** KR2l0003 [[mandoku:ZB2l0003.org][ZB2l0003]] 麟臺故事
+*** KR2l0003 麟臺故事-宋-程俱
 :PROPERTIES:
+:KR_ID: KR2l0003
 :CUSTOM_ID:  ZB2l0003
 :SOURCE:   四庫全書 文淵閣版, V595.3, p303
 :EXTENT: 5 卷
@@ -61,8 +64,9 @@
 
 **** 版本
 ***** WYG
-*** KR2l0004 [[mandoku:ZB2l0004.org][ZB2l0004]] 翰苑羣書
+*** KR2l0004 翰苑羣書-宋-洪遵
 :PROPERTIES:
+:KR_ID: KR2l0004
 :CUSTOM_ID:  ZB2l0004
 :SOURCE:   四庫全書 文淵閣版, V595.4, p341
 :EXTENT: 12 卷
@@ -79,8 +83,9 @@
 
 **** 版本
 ***** WYG
-*** KR2l0005 [[mandoku:ZB2l0005.org][ZB2l0005]] 南宋館閣錄
+*** KR2l0005 南宋館閣錄-宋-陳騤
 :PROPERTIES:
+:KR_ID: KR2l0005
 :CUSTOM_ID:  ZB2l0005
 :SOURCE:   四庫全書 文淵閣版, V595.5, p417
 :EXTENT: 存9 卷
@@ -97,7 +102,7 @@
 
 **** 版本
 ***** WYG
-**** [[mandoku:ZB2l0005a.org][ZB2l0005a]] 續錄
+**** 續錄
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 10 卷
@@ -109,8 +114,9 @@
       :FUNCTION: 撰
       :END:
 
-*** KR2l0006 [[mandoku:ZB2l0006.org][ZB2l0006]] 玉堂雜記
+*** KR2l0006 玉堂雜記-宋-周必大
 :PROPERTIES:
+:KR_ID: KR2l0006
 :CUSTOM_ID:  ZB2l0006
 :SOURCE:   四庫全書 文淵閣版, V595.6, p549
 :EXTENT: 3 卷
@@ -127,8 +133,9 @@
 
 **** 版本
 ***** WYG
-*** KR2l0007 [[mandoku:ZB2l0007.org][ZB2l0007]] 宋宰輔編年錄
+*** KR2l0007 宋宰輔編年錄-宋-徐自明
 :PROPERTIES:
+:KR_ID: KR2l0007
 :CUSTOM_ID:  ZB2l0007
 :SOURCE:   四庫全書 文淵閣版, V596.1, p1
 :EXTENT: 20 卷
@@ -144,8 +151,9 @@
 
 **** 版本
 ***** WYG
-*** KR2l0008 [[mandoku:ZB2l0008.org][ZB2l0008]] 祕書監志
+*** KR2l0008 祕書監志-元-王士點
 :PROPERTIES:
+:KR_ID: KR2l0008
 :CUSTOM_ID:  ZB2l0008
 :SOURCE:   四庫全書 文淵閣版, V596.2, p753
 :EXTENT: 11 卷
@@ -167,8 +175,9 @@
 
 **** 版本
 ***** WYG
-*** KR2l0009 [[mandoku:ZB2l0009.org][ZB2l0009]] 翰林志
+*** KR2l0009 翰林志-明-黃佐
 :PROPERTIES:
+:KR_ID: KR2l0009
 :CUSTOM_ID:  ZB2l0009
 :SOURCE:   四庫全書 文淵閣版, V596.3, p859
 :EXTENT: 20 卷
@@ -185,8 +194,9 @@
 
 **** 版本
 ***** WYG
-*** KR2l0010 [[mandoku:ZB2l0010.org][ZB2l0010]] 禮部志稿
+*** KR2l0010 禮部志稿-明-林堯俞
 :PROPERTIES:
+:KR_ID: KR2l0010
 :CUSTOM_ID:  ZB2l0010
 :SOURCE:   四庫全書 文淵閣版, V597.1, p1 - V598.1
 :EXTENT: 100 卷
@@ -208,8 +218,9 @@
 
 **** 版本
 ***** WYG
-*** KR2l0011 [[mandoku:ZB2l0011.org][ZB2l0011]] 太常續考
+*** KR2l0011 太常續考-明-闕名
 :PROPERTIES:
+:KR_ID: KR2l0011
 :CUSTOM_ID:  ZB2l0011
 :SOURCE:   四庫全書 文淵閣版, V599.1, p1
 :EXTENT: 8 卷
@@ -225,8 +236,9 @@
 
 **** 版本
 ***** WYG
-*** KR2l0012 [[mandoku:ZB2l0012.org][ZB2l0012]] 土官底簿
+*** KR2l0012 土官底簿-明-闕名
 :PROPERTIES:
+:KR_ID: KR2l0012
 :CUSTOM_ID:  ZB2l0012
 :SOURCE:   四庫全書 文淵閣版, V599.2, p331
 :EXTENT: 2 卷
@@ -242,8 +254,9 @@
 
 **** 版本
 ***** WYG
-*** KR2l0013 [[mandoku:ZB2l0013.org][ZB2l0013]] 詞林典故
+*** KR2l0013 詞林典故-清-鄂爾泰
 :PROPERTIES:
+:KR_ID: KR2l0013
 :CUSTOM_ID:  ZB2l0013
 :SOURCE:   四庫全書 文淵閣版, V599.3, p421
 :EXTENT: 8 卷
@@ -267,8 +280,9 @@
 
 **** 版本
 ***** WYG
-*** KR2l0014 [[mandoku:ZB2l0014.org][ZB2l0014]] 欽定國子監志
+*** KR2l0014 欽定國子監志-清-梁國治
 :PROPERTIES:
+:KR_ID: KR2l0014
 :CUSTOM_ID:  ZB2l0014
 :SOURCE:   四庫全書 文淵閣版, V600.1, p1
 :EXTENT: 62 卷
@@ -285,8 +299,9 @@
 
 **** 版本
 ***** WYG
-*** KR2l0015 [[mandoku:ZB2l0015.org][ZB2l0015]] 欽定歷代職官表
+*** KR2l0015 欽定歷代職官表-清-永瑢
 :PROPERTIES:
+:KR_ID: KR2l0015
 :CUSTOM_ID:  ZB2l0015
 :SOURCE:   四庫全書 文淵閣版, V601.1, p1 - V602.1
 :EXTENT: 72 卷
@@ -310,8 +325,9 @@
 
 **** 版本
 ***** WYG
-*** KR2l0016 [[mandoku:ZB2l0016.org][ZB2l0016]] 州縣提綱
+*** KR2l0016 州縣提綱-宋-闕名
 :PROPERTIES:
+:KR_ID: KR2l0016
 :CUSTOM_ID:  ZB2l0016
 :SOURCE:   四庫全書 文淵閣版, V602.2, p617
 :EXTENT: 4 卷
@@ -327,8 +343,9 @@
 
 **** 版本
 ***** WYG
-*** KR2l0017 [[mandoku:ZB2l0017.org][ZB2l0017]] 官箴
+*** KR2l0017 官箴-宋-呂本中
 :PROPERTIES:
+:KR_ID: KR2l0017
 :CUSTOM_ID:  ZB2l0017
 :SOURCE:   四庫全書 文淵閣版, V602.3, p651
 :EXTENT: 1 卷
@@ -345,8 +362,9 @@
 
 **** 版本
 ***** WYG
-*** KR2l0018 [[mandoku:ZB2l0018.org][ZB2l0018]] 百官箴
+*** KR2l0018 百官箴-宋-許月卿
 :PROPERTIES:
+:KR_ID: KR2l0018
 :CUSTOM_ID:  ZB2l0018
 :SOURCE:   四庫全書 文淵閣版, V602.4, p657
 :EXTENT: 6 卷
@@ -363,8 +381,9 @@
 
 **** 版本
 ***** WYG
-*** KR2l0019 SB22n350 作邑自箴
+*** KR2l0019 作邑自箴-宋-
 :PROPERTIES:
+:KR_ID: KR2l0019
 :TYPE:  text
 :CUSTOM_ID: SB22n350
 :EXTENT: 十卷
@@ -389,8 +408,9 @@
 
 **** 电子版
 [[krpimg:sbck/SB2/SB22n350/SB22n350_001-002.tif][冊 1]]
-*** KR2l0020 [[mandoku:ZB2l0019.org][ZB2l0019]] 晝簾緒論
+*** KR2l0020 晝簾緒論-宋-胡太初
 :PROPERTIES:
+:KR_ID: KR2l0020
 :CUSTOM_ID:  ZB2l0019
 :SOURCE:   四庫全書 文淵閣版, V602.5, p705
 :EXTENT: 1 卷
@@ -407,8 +427,9 @@
 
 **** 版本
 ***** WYG
-*** KR2l0021 [[mandoku:ZB2l0020.org][ZB2l0020]] 三事忠告
+*** KR2l0021 三事忠告-元-張養浩
 :PROPERTIES:
+:KR_ID: KR2l0021
 :CUSTOM_ID:  ZB2l0020
 :SOURCE:   四庫全書 文淵閣版, V602.6, p729
 :EXTENT: 4 卷
@@ -425,8 +446,9 @@
 
 **** 版本
 ***** WYG
-*** KR2l0022 [[mandoku:ZB2l0021.org][ZB2l0021]] 御定人臣儆心錄
+*** KR2l0022 御定人臣儆心錄-清-世祖
 :PROPERTIES:
+:KR_ID: KR2l0022
 :CUSTOM_ID:  ZB2l0021
 :SOURCE:   四庫全書 文淵閣版, V602.7, p761
 :EXTENT: 1 卷

@@ -1,8 +1,9 @@
 #-*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID
 ** KR3e ZB3e 醫家類
-*** KR3e0001 [[mandoku:ZB3e0001.org][ZB3e0001]] 黃帝內經素問
+*** KR3e0001 黃帝內經素問-唐-王冰
 :PROPERTIES:
+:KR_ID: KR3e0001
 :CUSTOM_ID:  ZB3e0001
 :SOURCE:   四庫全書 文淵閣版, V733.1, p1
 :EXTENT: 24 卷
@@ -32,8 +33,9 @@
      :BOOK:   (14)
      :END:
 
-*** KR3e0002 [[mandoku:ZB3e0002.org][ZB3e0002]] 靈樞經
+*** KR3e0002 靈樞經-唐-王冰
 :PROPERTIES:
+:KR_ID: KR3e0002
 :CUSTOM_ID:  ZB3e0002
 :SOURCE:   四庫全書 文淵閣版, V733.2, p317
 :EXTENT: 12 卷
@@ -56,8 +58,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0003 SB13n072 王翰林集註黃帝八十一難經
+*** KR3e0003 王翰林集註黃帝八十一難經-明-
 :PROPERTIES:
+:KR_ID: KR3e0003
 :TYPE:  text
 :CUSTOM_ID: SB13n072
 :EXTENT: 五卷
@@ -83,8 +86,9 @@
 **** 电子版
 [[krpimg:sbck/SB1/SB13n072/SB13n072_001-002.tif][冊 1]]
 [[krpimg:sbck/SB1/SB13n072/SB13n072_002-002.tif][冊 2]]
-*** KR3e0004 [[mandoku:ZB3e0003.org][ZB3e0003]] 難經本義
+*** KR3e0004 難經本義-周-秦越人
 :PROPERTIES:
+:KR_ID: KR3e0004
 :CUSTOM_ID:  ZB3e0003
 :SOURCE:   四庫全書 文淵閣版, V733.3, p429
 :EXTENT: 2 卷
@@ -127,8 +131,9 @@
      :BOOK:   (2)
      :END:
 
-*** KR3e0005 [[mandoku:ZB3e0004.org][ZB3e0004]] 鍼灸甲乙經
+*** KR3e0005 鍼灸甲乙經-晉-皇甫謐
 :PROPERTIES:
+:KR_ID: KR3e0005
 :CUSTOM_ID:  ZB3e0004
 :SOURCE:   四庫全書 文淵閣版, V733.4, p509
 :EXTENT: 12 卷
@@ -157,8 +162,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0006 [[mandoku:ZB3e0005.org][ZB3e0005]] 金匱要畧論註
+*** KR3e0006 金匱要畧論註-漢-張機
 :PROPERTIES:
+:KR_ID: KR3e0006
 :CUSTOM_ID:  ZB3e0005
 :SOURCE:   四庫全書 文淵閣版, V734.1, p1
 :EXTENT: 24 卷
@@ -181,8 +187,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0007 SB13n073 新編金匱要略方論
+*** KR3e0007 新編金匱要略方論-漢-
 :PROPERTIES:
+:KR_ID: KR3e0007
 :TYPE:  text
 :CUSTOM_ID: SB13n073
 :EXTENT: 三卷
@@ -220,8 +227,9 @@
 **** 电子版
 [[krpimg:sbck/SB1/SB13n073/SB13n073_001-002.tif][冊 1]]
 [[krpimg:sbck/SB1/SB13n073/SB13n073_002-002.tif][冊 2]]
-*** KR3e0008 [[mandoku:ZB3e0006.org][ZB3e0006]] 傷寒論注釋
+*** KR3e0008 傷寒論注釋-漢-張機
 :PROPERTIES:
+:KR_ID: KR3e0008
 :CUSTOM_ID:  ZB3e0006
 :SOURCE:   四庫全書 文淵閣版, V734.2, p201
 :EXTENT: 10 卷
@@ -276,8 +284,9 @@
      :FUNCTION: 撰
      :END:
 
-*** KR3e0009 SB13n075 新刊王氏脈經
+*** KR3e0009 新刊王氏脈經-晉-
 :PROPERTIES:
+:KR_ID: KR3e0009
 :TYPE:  text
 :CUSTOM_ID: SB13n075
 :EXTENT: 十卷
@@ -303,8 +312,9 @@
 **** 电子版
 [[krpimg:sbck/SB1/SB13n075/SB13n075_001-002.tif][冊 1]]
 [[krpimg:sbck/SB1/SB13n075/SB13n075_002-002.tif][冊 2]]
-*** KR3e0010 [[mandoku:ZB3e0007.org][ZB3e0007]] 肘後備急方
+*** KR3e0010 肘後備急方-晉-葛洪
 :PROPERTIES:
+:KR_ID: KR3e0010
 :CUSTOM_ID:  ZB3e0007
 :SOURCE:   四庫全書 文淵閣版, V734.3, p365
 :EXTENT: 8 卷
@@ -333,8 +343,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0011 [[mandoku:ZB3e0008.org][ZB3e0008]] 褚氏遺書
+*** KR3e0011 褚氏遺書-南齊-褚澄
 :PROPERTIES:
+:KR_ID: KR3e0011
 :CUSTOM_ID:  ZB3e0008
 :SOURCE:   四庫全書 文淵閣版, V734.4, p541
 :EXTENT: 1 卷
@@ -350,8 +361,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0012 [[mandoku:ZB3e0009.org][ZB3e0009]] 巢氏諸病源候總論
+*** KR3e0012 巢氏諸病源候總論-隋-巢元方
 :PROPERTIES:
+:KR_ID: KR3e0012
 :CUSTOM_ID:  ZB3e0009
 :SOURCE:   四庫全書 文淵閣版, V734.5, p549
 :EXTENT: 50 卷
@@ -367,8 +379,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0013 [[mandoku:ZB3e0010.org][ZB3e0010]] 備急千金要方
+*** KR3e0013 備急千金要方-唐-孫思邈
 :PROPERTIES:
+:KR_ID: KR3e0013
 :CUSTOM_ID:  ZB3e0010
 :SOURCE:   四庫全書 文淵閣版, V735.1, p1
 :EXTENT: 93 卷
@@ -397,8 +410,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0014 [[mandoku:ZB3e0011.org][ZB3e0011]] 銀海精微
+*** KR3e0014 銀海精微-唐-孫思邈
 :PROPERTIES:
+:KR_ID: KR3e0014
 :CUSTOM_ID:  ZB3e0011
 :SOURCE:   四庫全書 文淵閣版, V735.2, p945
 :EXTENT: 2 卷
@@ -415,8 +429,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0015 [[mandoku:ZB3e0012.org][ZB3e0012]] 外臺秘要方
+*** KR3e0015 外臺秘要方-唐-王燾
 :PROPERTIES:
+:KR_ID: KR3e0015
 :CUSTOM_ID:  ZB3e0012
 :SOURCE:   四庫全書 文淵閣版, V736.1, p1 - V737.1
 :EXTENT: 40 卷
@@ -452,8 +467,9 @@
      :BOOK:   (40)
      :END:
 
-*** KR3e0016 [[mandoku:ZB3e0013.org][ZB3e0013]] 顱顖經
+*** KR3e0016 顱顖經-宋-闕名
 :PROPERTIES:
+:KR_ID: KR3e0016
 :CUSTOM_ID:  ZB3e0013
 :SOURCE:   四庫全書 文淵閣版, V738.1, p1
 :EXTENT: 2 卷
@@ -469,8 +485,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0017 [[mandoku:ZB3e0014.org][ZB3e0014]] 銅人鍼灸經
+*** KR3e0017 銅人鍼灸經-宋-闕名
 :PROPERTIES:
+:KR_ID: KR3e0017
 :CUSTOM_ID:  ZB3e0014
 :SOURCE:   四庫全書 文淵閣版, V738.2, p15
 :EXTENT: 7 卷
@@ -486,8 +503,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0018 [[mandoku:ZB3e0015.org][ZB3e0015]] 明堂灸經
+*** KR3e0018 明堂灸經--西方子
 :PROPERTIES:
+:KR_ID: KR3e0018
 :CUSTOM_ID:  ZB3e0015
 :SOURCE:   四庫全書 文淵閣版, V738.3, p51
 :EXTENT: 8 卷
@@ -502,8 +520,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0019 [[mandoku:ZB3e0016.org][ZB3e0016]] 博濟方
+*** KR3e0019 博濟方-宋-王袞
 :PROPERTIES:
+:KR_ID: KR3e0019
 :CUSTOM_ID:  ZB3e0016
 :SOURCE:   四庫全書 文淵閣版, V738.4, p97
 :EXTENT: 5 卷
@@ -520,8 +539,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0020 [[mandoku:ZB3e0017.org][ZB3e0017]] 蘇沈良方
+*** KR3e0020 蘇沈良方-宋-蘇軾
 :PROPERTIES:
+:KR_ID: KR3e0020
 :CUSTOM_ID:  ZB3e0017
 :SOURCE:   四庫全書 文淵閣版, V738.5, p217
 :EXTENT: 8 卷
@@ -544,8 +564,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0021 [[mandoku:ZB3e0018.org][ZB3e0018]] 壽親養老新書
+*** KR3e0021 壽親養老新書-宋-陳直
 :PROPERTIES:
+:KR_ID: KR3e0021
 :CUSTOM_ID:  ZB3e0018
 :SOURCE:   四庫全書 文淵閣版, V738.6, p283
 :EXTENT: 4 卷
@@ -568,8 +589,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0022 [[mandoku:ZB3e0019.org][ZB3e0019]] 腳氣治法總要
+*** KR3e0022 腳氣治法總要-宋-董汲
 :PROPERTIES:
+:KR_ID: KR3e0022
 :CUSTOM_ID:  ZB3e0019
 :SOURCE:   四庫全書 文淵閣版, V738.7, p417
 :EXTENT: 2 卷
@@ -585,8 +607,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0023 [[mandoku:ZB3e0020.org][ZB3e0020]] 旅舍備要方
+*** KR3e0023 旅舍備要方-宋-董汲
 :PROPERTIES:
+:KR_ID: KR3e0023
 :CUSTOM_ID:  ZB3e0020
 :SOURCE:   四庫全書 文淵閣版, V738.8, p439
 :EXTENT: 1 卷
@@ -602,8 +625,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0024 [[mandoku:ZB3e0021.org][ZB3e0021]] 素問入式運氣論奧
+*** KR3e0024 素問入式運氣論奧-宋-劉溫舒
 :PROPERTIES:
+:KR_ID: KR3e0024
 :CUSTOM_ID:  ZB3e0021
 :SOURCE:   四庫全書 文淵閣版, V738.9, p451
 :EXTENT: 3 卷
@@ -626,8 +650,9 @@
      :BOOK:   1
      :END:
 
-*** KR3e0025 [[mandoku:ZB3e0022.org][ZB3e0022]] 傷寒微旨論
+*** KR3e0025 傷寒微旨論-宋-韓祗和
 :PROPERTIES:
+:KR_ID: KR3e0025
 :CUSTOM_ID:  ZB3e0022
 :SOURCE:   四庫全書 文淵閣版, V738.10, p541
 :EXTENT: 2 卷
@@ -644,8 +669,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0026 [[mandoku:ZB3e0023.org][ZB3e0023]] 傷寒總病論
+*** KR3e0026 傷寒總病論-宋-龐安時
 :PROPERTIES:
+:KR_ID: KR3e0026
 :CUSTOM_ID:  ZB3e0023
 :SOURCE:   四庫全書 文淵閣版, V738.11, p575
 :EXTENT: 6 卷
@@ -682,8 +708,9 @@
      :FUNCTION: 編
      :END:
 
-*** KR3e0027 [[mandoku:ZB3e0024.org][ZB3e0024]] 聖濟總錄纂要
+*** KR3e0027 聖濟總錄纂要-宋-徽宗
 :PROPERTIES:
+:KR_ID: KR3e0027
 :CUSTOM_ID:  ZB3e0024
 :SOURCE:   四庫全書 文淵閣版, V739.1, p1
 :EXTENT: 26 卷
@@ -706,8 +733,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0028 [[mandoku:ZB3e0025.org][ZB3e0025]] 證類本草
+*** KR3e0028 證類本草-宋-唐愼微
 :PROPERTIES:
+:KR_ID: KR3e0028
 :CUSTOM_ID:  ZB3e0025
 :SOURCE:   四庫全書 文淵閣版, V740.1, p1
 :EXTENT: 30 卷
@@ -736,8 +764,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0029 SB13n076 重修政和經史證類備用本草
+*** KR3e0029 重修政和經史證類備用本草-宋-
 :PROPERTIES:
+:KR_ID: KR3e0029
 :TYPE:  text
 :CUSTOM_ID: SB13n076
 :EXTENT: 三十卷
@@ -785,8 +814,9 @@
 [[krpimg:sbck/SB1/SB13n076/SB13n076_010-002.tif][冊 10]]
 [[krpimg:sbck/SB1/SB13n076/SB13n076_011-002.tif][冊 11]]
 [[krpimg:sbck/SB1/SB13n076/SB13n076_012-002.tif][冊 12]]
-*** KR3e0030 [[mandoku:ZB3e0026.org][ZB3e0026]] 金生指迷方
+*** KR3e0030 金生指迷方-宋-王貺
 :PROPERTIES:
+:KR_ID: KR3e0030
 :CUSTOM_ID:  ZB3e0026
 :SOURCE:   四庫全書 文淵閣版, V741.1, p1
 :EXTENT: 4 卷
@@ -803,8 +833,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0031 [[mandoku:ZB3e0027.org][ZB3e0027]] 小兒衞生總散論方
+*** KR3e0031 小兒衞生總散論方-宋-闕名
 :PROPERTIES:
+:KR_ID: KR3e0031
 :CUSTOM_ID:  ZB3e0027
 :SOURCE:   四庫全書 文淵閣版, V741.2, p49
 :EXTENT: 20 卷
@@ -825,8 +856,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0032 [[mandoku:ZB3e0028.org][ZB3e0028]] 類證普濟本事方
+*** KR3e0032 類證普濟本事方-宋-許叔微
 :PROPERTIES:
+:KR_ID: KR3e0032
 :CUSTOM_ID:  ZB3e0028
 :SOURCE:   四庫全書 文淵閣版, V741.3, p375
 :EXTENT: 10 卷
@@ -843,8 +875,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0033 [[mandoku:ZB3e0029.org][ZB3e0029]] 太平惠民和劑局方
+*** KR3e0033 太平惠民和劑局方-宋-陳師文
 :PROPERTIES:
+:KR_ID: KR3e0033
 :CUSTOM_ID:  ZB3e0029
 :SOURCE:   四庫全書 文淵閣版, V741.4, p469
 :EXTENT: 10 卷
@@ -867,8 +900,9 @@
      :BOOK:   2
      :END:
 
-*** KR3e0034 [[mandoku:ZB3e0030.org][ZB3e0030]] 傳信適用方
+*** KR3e0034 傳信適用方-宋-吳彥夔
 :PROPERTIES:
+:KR_ID: KR3e0034
 :CUSTOM_ID:  ZB3e0030
 :SOURCE:   四庫全書 文淵閣版, V741.5, p745
 :EXTENT: 2 卷
@@ -884,8 +918,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0035 [[mandoku:ZB3e0031.org][ZB3e0031]] 衞濟寶書
+*** KR3e0035 衞濟寶書-宋-東軒居士
 :PROPERTIES:
+:KR_ID: KR3e0035
 :CUSTOM_ID:  ZB3e0031
 :SOURCE:   四庫全書 文淵閣版, V741.6, p813
 :EXTENT: 2 卷
@@ -901,8 +936,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0036 [[mandoku:ZB3e0032.org][ZB3e0032]] 醫說
+*** KR3e0036 醫說-宋-張杲
 :PROPERTIES:
+:KR_ID: KR3e0036
 :CUSTOM_ID:  ZB3e0032
 :SOURCE:   四庫全書 文淵閣版, V742.1, p1
 :EXTENT: 10 卷
@@ -925,8 +961,9 @@
      :BOOK:   (6)
      :END:
 
-*** KR3e0037 [[mandoku:ZB3e0033.org][ZB3e0033]] 鍼灸資生經
+*** KR3e0037 鍼灸資生經-宋-王執中
 :PROPERTIES:
+:KR_ID: KR3e0037
 :CUSTOM_ID:  ZB3e0033
 :SOURCE:   四庫全書 文淵閣版, V742.2, p229
 :EXTENT: 7 卷
@@ -942,8 +979,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0038 [[mandoku:ZB3e0034.org][ZB3e0034]] 婦人大全良方
+*** KR3e0038 婦人大全良方-宋-陳自明
 :PROPERTIES:
+:KR_ID: KR3e0038
 :CUSTOM_ID:  ZB3e0034
 :SOURCE:   四庫全書 文淵閣版, V742.3, p435
 :EXTENT: 24 卷
@@ -973,8 +1011,9 @@
      :BOOK:   (14)
      :END:
 
-*** KR3e0039 [[mandoku:ZB3e0035.org][ZB3e0035]] 太醫局諸科程文格
+*** KR3e0039 太醫局諸科程文格-宋-何大任
 :PROPERTIES:
+:KR_ID: KR3e0039
 :CUSTOM_ID:  ZB3e0035
 :SOURCE:   四庫全書 文淵閣版, V743.1, p1
 :EXTENT: 9 卷
@@ -990,8 +1029,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0040 [[mandoku:ZB3e0036.org][ZB3e0036]] 產育寶慶集
+*** KR3e0040 產育寶慶集-宋-陳師聖
 :PROPERTIES:
+:KR_ID: KR3e0040
 :CUSTOM_ID:  ZB3e0036
 :SOURCE:   四庫全書 文淵閣版, V743.2, p117
 :EXTENT: 2 卷
@@ -1013,8 +1053,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0041 [[mandoku:ZB3e0037.org][ZB3e0037]] 三因極一病證方論
+*** KR3e0041 三因極一病證方論-宋-陳言
 :PROPERTIES:
+:KR_ID: KR3e0041
 :CUSTOM_ID:  ZB3e0037
 :SOURCE:   四庫全書 文淵閣版, V743.3, p149
 :EXTENT: 18 卷
@@ -1031,8 +1072,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0042 [[mandoku:ZB3e0038.org][ZB3e0038]] 集驗背疽方
+*** KR3e0042 集驗背疽方-宋-李迅
 :PROPERTIES:
+:KR_ID: KR3e0042
 :CUSTOM_ID:  ZB3e0038
 :SOURCE:   四庫全書 文淵閣版, V743.4, p433
 :EXTENT: 1 卷
@@ -1048,8 +1090,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0043 [[mandoku:ZB3e0039.org][ZB3e0039]] 濟生方
+*** KR3e0043 濟生方-宋-嚴用和
 :PROPERTIES:
+:KR_ID: KR3e0043
 :CUSTOM_ID:  ZB3e0039
 :SOURCE:   四庫全書 文淵閣版, V743.5, p449
 :EXTENT: 8 卷
@@ -1066,8 +1109,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0044 [[mandoku:ZB3e0040.org][ZB3e0040]] 產寶諸寶
+*** KR3e0044 產寶諸寶-宋-闕名
 :PROPERTIES:
+:KR_ID: KR3e0044
 :CUSTOM_ID:  ZB3e0040
 :SOURCE:   四庫全書 文淵閣版, V743.6, p525
 :EXTENT: 1 卷
@@ -1083,8 +1127,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0045 [[mandoku:ZB3e0041.org][ZB3e0041]] 仁齋直指
+*** KR3e0045 仁齋直指-宋-楊士瀛
 :PROPERTIES:
+:KR_ID: KR3e0045
 :CUSTOM_ID:  ZB3e0041
 :SOURCE:   四庫全書 文淵閣版, V744.1, p1
 :EXTENT: 26 卷
@@ -1113,8 +1158,9 @@
      :BOOK:   4
      :END:
 
-*** KR3e0046 [[mandoku:ZB3e0042.org][ZB3e0042]] 急救仙方
+*** KR3e0046 急救仙方--闕名
 :PROPERTIES:
+:KR_ID: KR3e0046
 :CUSTOM_ID:  ZB3e0042
 :SOURCE:   四庫全書 文淵閣版, V744.2, p665
 :EXTENT: 6 卷
@@ -1129,8 +1175,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0047 [[mandoku:ZB3e0043.org][ZB3e0043]] 素問玄機原病式
+*** KR3e0047 素問玄機原病式-金-劉完素
 :PROPERTIES:
+:KR_ID: KR3e0047
 :CUSTOM_ID:  ZB3e0043
 :SOURCE:   四庫全書 文淵閣版, V744.3, p703
 :EXTENT: 1 卷
@@ -1147,8 +1194,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0048 [[mandoku:ZB3e0044.org][ZB3e0044]] 宣明方論
+*** KR3e0048 宣明方論-金-劉完素
 :PROPERTIES:
+:KR_ID: KR3e0048
 :CUSTOM_ID:  ZB3e0044
 :SOURCE:   四庫全書 文淵閣版, V744.4, p745
 :EXTENT: 15 卷
@@ -1165,8 +1213,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0049 [[mandoku:ZB3e0045.org][ZB3e0045]] 傷寒直格方
+*** KR3e0049 傷寒直格方-金-劉完素
 :PROPERTIES:
+:KR_ID: KR3e0049
 :CUSTOM_ID:  ZB3e0045
 :SOURCE:   四庫全書 文淵閣版, V744.5, p847
 :EXTENT: 3 卷
@@ -1190,8 +1239,9 @@
      :BOOK:   (2)
      :END:
 
-*** KR3e0050 [[mandoku:ZB3e0046.org][ZB3e0046]] 保命集
+*** KR3e0050 保命集-金-張元素
 :PROPERTIES:
+:KR_ID: KR3e0050
 :CUSTOM_ID:  ZB3e0046
 :SOURCE:   四庫全書 文淵閣版, V745.1, p1
 :EXTENT: 3 卷
@@ -1214,8 +1264,9 @@
      :BOOK:   (2)
      :END:
 
-*** KR3e0051 [[mandoku:ZB3e0047.org][ZB3e0047]] 儒門事親
+*** KR3e0051 儒門事親-金-張從正
 :PROPERTIES:
+:KR_ID: KR3e0051
 :CUSTOM_ID:  ZB3e0047
 :SOURCE:   四庫全書 文淵閣版, V745.2, p99
 :EXTENT: 15 卷
@@ -1232,8 +1283,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0052 [[mandoku:ZB3e0048.org][ZB3e0048]] 內外傷辯惑論
+*** KR3e0052 內外傷辯惑論-元-李杲
 :PROPERTIES:
+:KR_ID: KR3e0052
 :CUSTOM_ID:  ZB3e0048
 :SOURCE:   四庫全書 文淵閣版, V745.3, p363
 :EXTENT: 3 卷
@@ -1250,8 +1302,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0053 [[mandoku:ZB3e0049.org][ZB3e0049]] 脾胃論
+*** KR3e0053 脾胃論-元-李杲
 :PROPERTIES:
+:KR_ID: KR3e0053
 :CUSTOM_ID:  ZB3e0049
 :SOURCE:   四庫全書 文淵閣版, V745.4, p401
 :EXTENT: 3 卷
@@ -1268,8 +1321,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0054 [[mandoku:ZB3e0050.org][ZB3e0050]] 蘭室祕藏
+*** KR3e0054 蘭室祕藏-元-李杲
 :PROPERTIES:
+:KR_ID: KR3e0054
 :CUSTOM_ID:  ZB3e0050
 :SOURCE:   四庫全書 文淵閣版, V745.5, p469
 :EXTENT: 3 卷
@@ -1286,8 +1340,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0055 [[mandoku:ZB3e0051.org][ZB3e0051]] 此事難知
+*** KR3e0055 此事難知-元-王好古
 :PROPERTIES:
+:KR_ID: KR3e0055
 :CUSTOM_ID:  ZB3e0051
 :SOURCE:   四庫全書 文淵閣版, V745.6, p573
 :EXTENT: 2 卷
@@ -1304,8 +1359,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0056 [[mandoku:ZB3e0052.org][ZB3e0052]] 醫壘元戎
+*** KR3e0056 醫壘元戎-元-王好古
 :PROPERTIES:
+:KR_ID: KR3e0056
 :CUSTOM_ID:  ZB3e0052
 :SOURCE:   四庫全書 文淵閣版, V745.7, p631
 :EXTENT: 12 卷
@@ -1322,8 +1378,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0057 [[mandoku:ZB3e0053.org][ZB3e0053]] 湯液本章
+*** KR3e0057 湯液本章-元-王好古
 :PROPERTIES:
+:KR_ID: KR3e0057
 :CUSTOM_ID:  ZB3e0053
 :SOURCE:   四庫全書 文淵閣版, V745.8, p909
 :EXTENT: 3 卷
@@ -1340,8 +1397,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0058 [[mandoku:ZB3e0054.org][ZB3e0054]] 瑞竹堂經驗方
+*** KR3e0058 瑞竹堂經驗方-元-沙圖穆蘇
 :PROPERTIES:
+:KR_ID: KR3e0058
 :CUSTOM_ID:  ZB3e0054
 :SOURCE:   四庫全書 文淵閣版, V746.1, p1
 :EXTENT: 5 卷
@@ -1357,8 +1415,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0059 [[mandoku:ZB3e0055.org][ZB3e0055]] 世醫得效方
+*** KR3e0059 世醫得效方-元-危亦林
 :PROPERTIES:
+:KR_ID: KR3e0059
 :CUSTOM_ID:  ZB3e0055
 :SOURCE:   四庫全書 文淵閣版, V746.2, p43
 :EXTENT: 20 卷
@@ -1374,8 +1433,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0060 [[mandoku:ZB3e0056.org][ZB3e0056]] 格致餘論
+*** KR3e0060 格致餘論-元-朱震亨
 :PROPERTIES:
+:KR_ID: KR3e0060
 :CUSTOM_ID:  ZB3e0056
 :SOURCE:   四庫全書 文淵閣版, V746.3, p637
 :EXTENT: 1 卷
@@ -1392,8 +1452,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0061 [[mandoku:ZB3e0057.org][ZB3e0057]] 局方發揮
+*** KR3e0061 局方發揮-元-朱震亨
 :PROPERTIES:
+:KR_ID: KR3e0061
 :CUSTOM_ID:  ZB3e0057
 :SOURCE:   四庫全書 文淵閣版, V746.4, p675
 :EXTENT: 1 卷
@@ -1410,8 +1471,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0062 [[mandoku:ZB3e0058.org][ZB3e0058]] 金匱鈎玄
+*** KR3e0062 金匱鈎玄-元-朱震亨
 :PROPERTIES:
+:KR_ID: KR3e0062
 :CUSTOM_ID:  ZB3e0058
 :SOURCE:   四庫全書 文淵閣版, V746.5, p697
 :EXTENT: 3 卷
@@ -1434,8 +1496,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0063 [[mandoku:ZB3e0059.org][ZB3e0059]] 扁鵲神應鍼灸玉龍經
+*** KR3e0063 扁鵲神應鍼灸玉龍經-元-王國瑞
 :PROPERTIES:
+:KR_ID: KR3e0063
 :CUSTOM_ID:  ZB3e0059
 :SOURCE:   四庫全書 文淵閣版, V746.6, p755
 :EXTENT: 1 卷
@@ -1451,8 +1514,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0064 [[mandoku:ZB3e0060.org][ZB3e0060]] 外科精義
+*** KR3e0064 外科精義-元-齊德之
 :PROPERTIES:
+:KR_ID: KR3e0064
 :CUSTOM_ID:  ZB3e0060
 :SOURCE:   四庫全書 文淵閣版, V746.7, p799
 :EXTENT: 2 卷
@@ -1468,8 +1532,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0065 [[mandoku:ZB3e0061.org][ZB3e0061]] 脉訣刊誤
+*** KR3e0065 脉訣刊誤-元-戴啟宗
 :PROPERTIES:
+:KR_ID: KR3e0065
 :CUSTOM_ID:  ZB3e0061
 :SOURCE:   四庫全書 文淵閣版, V746.8, p863
 :EXTENT: 2 卷
@@ -1512,8 +1577,9 @@
      :FUNCTION: 撰
      :END:
 
-*** KR3e0066 [[mandoku:ZB3e0062.org][ZB3e0062]] 醫經溯洄集
+*** KR3e0066 醫經溯洄集-元-王履
 :PROPERTIES:
+:KR_ID: KR3e0066
 :CUSTOM_ID:  ZB3e0062
 :SOURCE:   四庫全書 文淵閣版, V746.9, p937
 :EXTENT: 2 卷
@@ -1530,8 +1596,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0067 [[mandoku:ZB3e0063.org][ZB3e0063]] 普濟方
+*** KR3e0067 普濟方-明-朱橚
 :PROPERTIES:
+:KR_ID: KR3e0067
 :CUSTOM_ID:  ZB3e0063
 :SOURCE:   四庫全書 文淵閣版, V747.1, p1 - V761.1
 :EXTENT: 426 卷
@@ -1555,8 +1622,9 @@
      :BOOK:   (300)
      :END:
 
-*** KR3e0068 [[mandoku:ZB3e0064.org][ZB3e0064]] 玉機微義
+*** KR3e0068 玉機微義-明-徐用誠
 :PROPERTIES:
+:KR_ID: KR3e0068
 :CUSTOM_ID:  ZB3e0064
 :SOURCE:   四庫全書 文淵閣版, V762.1, p1
 :EXTENT: 50 卷
@@ -1578,8 +1646,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0069 [[mandoku:ZB3e0065.org][ZB3e0065]] 仁端錄
+*** KR3e0069 仁端錄-明-徐謙
 :PROPERTIES:
+:KR_ID: KR3e0069
 :CUSTOM_ID:  ZB3e0065
 :SOURCE:   四庫全書 文淵閣版, V762.2, p571
 :EXTENT: 16 卷
@@ -1601,8 +1670,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0070 [[mandoku:ZB3e0066.org][ZB3e0066]] 薛氏醫案
+*** KR3e0070 薛氏醫案-明-薛己
 :PROPERTIES:
+:KR_ID: KR3e0070
 :CUSTOM_ID:  ZB3e0066
 :SOURCE:   四庫全書 文淵閣版, V763.1, p1 - V764.1
 :EXTENT: 77 卷
@@ -1618,8 +1688,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0071 [[mandoku:ZB3e0067.org][ZB3e0067]] 推求師竟
+*** KR3e0071 推求師竟-明-戴原禮
 :PROPERTIES:
+:KR_ID: KR3e0071
 :CUSTOM_ID:  ZB3e0067
 :SOURCE:   四庫全書 文淵閣版, V765.1, p1
 :EXTENT: 2 卷
@@ -1636,8 +1707,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0072 [[mandoku:ZB3e0068.org][ZB3e0068]] 針灸問對
+*** KR3e0072 針灸問對-明-汪機
 :PROPERTIES:
+:KR_ID: KR3e0072
 :CUSTOM_ID:  ZB3e0068
 :SOURCE:   四庫全書 文淵閣版, V765.2, p41
 :EXTENT: 3 卷
@@ -1654,8 +1726,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0073 [[mandoku:ZB3e0069.org][ZB3e0069]] 外料理例
+*** KR3e0073 外料理例-明-汪機
 :PROPERTIES:
+:KR_ID: KR3e0073
 :CUSTOM_ID:  ZB3e0069
 :SOURCE:   四庫全書 文淵閣版, V765.3, p111
 :EXTENT: 7 卷
@@ -1679,8 +1752,9 @@
      :BOOK:   (6)
      :END:
 
-*** KR3e0074 [[mandoku:ZB3e0070.org][ZB3e0070]] 石山醫案
+*** KR3e0074 石山醫案-明-陳桷
 :PROPERTIES:
+:KR_ID: KR3e0074
 :CUSTOM_ID:  ZB3e0070
 :SOURCE:   四庫全書 文淵閣版, V765.4, p325
 :EXTENT: 3 卷
@@ -1703,8 +1777,9 @@
      :BOOK:   (4)
      :END:
 
-*** KR3e0075 [[mandoku:ZB3e0071.org][ZB3e0071]] 名醫類案
+*** KR3e0075 名醫類案-明-江瓘
 :PROPERTIES:
+:KR_ID: KR3e0075
 :CUSTOM_ID:  ZB3e0071
 :SOURCE:   四庫全書 文淵閣版, V765.5, p411
 :EXTENT: 12 卷
@@ -1733,8 +1808,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0076 [[mandoku:ZB3e0072.org][ZB3e0072]] 赤水元珠
+*** KR3e0076 赤水元珠-明-孫一奎
 :PROPERTIES:
+:KR_ID: KR3e0076
 :CUSTOM_ID:  ZB3e0072
 :SOURCE:   四庫全書 文淵閣版, V766.1, p1
 :EXTENT: 30 卷
@@ -1750,8 +1826,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0077 [[mandoku:ZB3e0073.org][ZB3e0073]] 醫旨緒餘
+*** KR3e0077 醫旨緒餘-明-孫一奎
 :PROPERTIES:
+:KR_ID: KR3e0077
 :CUSTOM_ID:  ZB3e0073
 :SOURCE:   四庫全書 文淵閣版, V766.2, p1079
 :EXTENT: 2 卷
@@ -1767,8 +1844,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0078 [[mandoku:ZB3e0074.org][ZB3e0074]] 證治準繩
+*** KR3e0078 證治準繩-明-王肯堂
 :PROPERTIES:
+:KR_ID: KR3e0078
 :CUSTOM_ID:  ZB3e0074
 :SOURCE:   四庫全書 文淵閣版, V767.1, p1 - V771.1
 :EXTENT: 120 卷
@@ -1784,8 +1862,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0079 [[mandoku:ZB3e0075.org][ZB3e0075]] 本草綱目
+*** KR3e0079 本草綱目-明-李時珍
 :PROPERTIES:
+:KR_ID: KR3e0079
 :CUSTOM_ID:  ZB3e0075
 :SOURCE:   四庫全書 文淵閣版, V772.1, p1 - V774.1
 :EXTENT: 52 卷
@@ -1809,8 +1888,9 @@
      :BOOK:   (64)
      :END:
 
-*** KR3e0080 [[mandoku:ZB3e0076.org][ZB3e0076]] 奇經八脉攷
+*** KR3e0080 奇經八脉攷-明-李時珍
 :PROPERTIES:
+:KR_ID: KR3e0080
 :CUSTOM_ID:  ZB3e0076
 :SOURCE:   四庫全書 文淵閣版, V774.2, p549
 :EXTENT: 1 卷
@@ -1827,8 +1907,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0081 [[mandoku:ZB3e0077.org][ZB3e0077]] 瀕湖脉學
+*** KR3e0081 瀕湖脉學-明-李時珍
 :PROPERTIES:
+:KR_ID: KR3e0081
 :CUSTOM_ID:  ZB3e0077
 :SOURCE:   四庫全書 文淵閣版, V774.3, p571
 :EXTENT: 1 卷
@@ -1845,8 +1926,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0082 [[mandoku:ZB3e0078.org][ZB3e0078]] 傷寒論條辦
+*** KR3e0082 傷寒論條辦-明-方有執
 :PROPERTIES:
+:KR_ID: KR3e0082
 :CUSTOM_ID:  ZB3e0078
 :SOURCE:   四庫全書 文淵閣版, V775.1, p1
 :EXTENT: 8 卷
@@ -1883,8 +1965,9 @@
      :BOOK:   (6)
      :END:
 
-*** KR3e0083 [[mandoku:ZB3e0079.org][ZB3e0079]] 先醒齋廣筆記
+*** KR3e0083 先醒齋廣筆記-明-繆希雍
 :PROPERTIES:
+:KR_ID: KR3e0083
 :CUSTOM_ID:  ZB3e0079
 :SOURCE:   四庫全書 文淵閣版, V775.2, p159
 :EXTENT: 4 卷
@@ -1901,8 +1984,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0084 [[mandoku:ZB3e0080.org][ZB3e0080]] 神農本草經疏
+*** KR3e0084 神農本草經疏-明-繆希雍
 :PROPERTIES:
+:KR_ID: KR3e0084
 :CUSTOM_ID:  ZB3e0080
 :SOURCE:   四庫全書 文淵閣版, V775.3, p287
 :EXTENT: 30 卷
@@ -1919,8 +2003,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0085 [[mandoku:ZB3e0081.org][ZB3e0081]] 類經
+*** KR3e0085 類經-明-張介賓
 :PROPERTIES:
+:KR_ID: KR3e0085
 :CUSTOM_ID:  ZB3e0081
 :SOURCE:   四庫全書 文淵閣版, V776.1, p1
 :EXTENT: 32 卷
@@ -1950,8 +2035,9 @@
      :BOOK:   (40)
      :END:
 
-*** KR3e0086 [[mandoku:ZB3e0082.org][ZB3e0082]] 景岳全書
+*** KR3e0086 景岳全書-明-張介賓
 :PROPERTIES:
+:KR_ID: KR3e0086
 :CUSTOM_ID:  ZB3e0082
 :SOURCE:   四庫全書 文淵閣版, V777.1, p1 - V778.1
 :EXTENT: 64 卷
@@ -1967,8 +2053,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0087 [[mandoku:ZB3e0083.org][ZB3e0083]] 瘟疫論
+*** KR3e0087 瘟疫論-明-吳有性
 :PROPERTIES:
+:KR_ID: KR3e0087
 :CUSTOM_ID:  ZB3e0083
 :SOURCE:   四庫全書 文淵閣版, V779.1, p1
 :EXTENT: 2 卷
@@ -1991,8 +2078,9 @@
      :BOOK:   (2)
      :END:
 
-*** KR3e0088 [[mandoku:ZB3e0084.org][ZB3e0084]] 痎瘧論疏
+*** KR3e0088 痎瘧論疏-明-廬之頤
 :PROPERTIES:
+:KR_ID: KR3e0088
 :CUSTOM_ID:  ZB3e0084
 :SOURCE:   四庫全書 文淵閣版, V779.2, p63
 :EXTENT: 1 卷
@@ -2008,8 +2096,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0089 [[mandoku:ZB3e0085.org][ZB3e0085]] 本草乘雅半偈
+*** KR3e0089 本草乘雅半偈-明-廬之頤
 :PROPERTIES:
+:KR_ID: KR3e0089
 :CUSTOM_ID:  ZB3e0085
 :SOURCE:   四庫全書 文淵閣版, V779.3, p97
 :EXTENT: 10 卷
@@ -2025,8 +2114,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0090 [[mandoku:ZB3e0086.org][ZB3e0086]] 御纂醫宗金鑑
+*** KR3e0090 御纂醫宗金鑑-清-吳謙
 :PROPERTIES:
+:KR_ID: KR3e0090
 :CUSTOM_ID:  ZB3e0086
 :SOURCE:   四庫全書 文淵閣版, V780.1, p1 - V782.1
 :EXTENT: 90 卷
@@ -2055,8 +2145,9 @@
      :BOOK:   (80)
      :END:
 
-*** KR3e0091 [[mandoku:ZB3e0087.org][ZB3e0087]] 尚論篇
+*** KR3e0091 尚論篇-清-喻昌
 :PROPERTIES:
+:KR_ID: KR3e0091
 :CUSTOM_ID:  ZB3e0087
 :SOURCE:   四庫全書 文淵閣版, V783.1, p1
 :EXTENT: 4 卷
@@ -2087,8 +2178,9 @@
      :BOOK:   (8)
      :END:
 
-*** KR3e0092 [[mandoku:ZB3e0088.org][ZB3e0088]] 醫門法律
+*** KR3e0092 醫門法律-清-喻昌
 :PROPERTIES:
+:KR_ID: KR3e0092
 :CUSTOM_ID:  ZB3e0088
 :SOURCE:   四庫全書 文淵閣版, V783.2, p271
 :EXTENT: 12 卷
@@ -2112,8 +2204,9 @@
      :BOOK:   (16)
      :END:
 
-*** KR3e0093 [[mandoku:ZB3e0089.org][ZB3e0089]] 傷寒舌鑑
+*** KR3e0093 傷寒舌鑑-清-張登
 :PROPERTIES:
+:KR_ID: KR3e0093
 :CUSTOM_ID:  ZB3e0089
 :SOURCE:   四庫全書 文淵閣版, V783.3, p699
 :EXTENT: 1 卷
@@ -2129,8 +2222,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0094 [[mandoku:ZB3e0090.org][ZB3e0090]] 傷寒兼證析義
+*** KR3e0094 傷寒兼證析義-清-張倬
 :PROPERTIES:
+:KR_ID: KR3e0094
 :CUSTOM_ID:  ZB3e0090
 :SOURCE:   四庫全書 文淵閣版, V783.4, p735
 :EXTENT: 1 卷
@@ -2146,8 +2240,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0095 [[mandoku:ZB3e0091.org][ZB3e0091]] 絳雪園古方選註
+*** KR3e0095 絳雪園古方選註-清-王子接
 :PROPERTIES:
+:KR_ID: KR3e0095
 :CUSTOM_ID:  ZB3e0091
 :SOURCE:   四庫全書 文淵閣版, V783.5, p779
 :EXTENT: 16 卷
@@ -2170,8 +2265,9 @@
      :BOOK:   (6)
      :END:
 
-*** KR3e0096 [[mandoku:ZB3e0092.org][ZB3e0092]] 續名醫類案
+*** KR3e0096 續名醫類案-清-魏之琇
 :PROPERTIES:
+:KR_ID: KR3e0096
 :CUSTOM_ID:  ZB3e0092
 :SOURCE:   四庫全書 文淵閣版, V784.1, p1 - V785.1
 :EXTENT: 60 卷
@@ -2188,8 +2284,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0097 [[mandoku:ZB3e0093.org][ZB3e0093]] 蘭臺軌範
+*** KR3e0097 蘭臺軌範-清-徐大椿
 :PROPERTIES:
+:KR_ID: KR3e0097
 :CUSTOM_ID:  ZB3e0093
 :SOURCE:   四庫全書 文淵閣版, V785.2, p343
 :EXTENT: 8 卷
@@ -2206,8 +2303,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0098 [[mandoku:ZB3e0094.org][ZB3e0094]] 神農本草經百种錄
+*** KR3e0098 神農本草經百种錄-清-徐大椿
 :PROPERTIES:
+:KR_ID: KR3e0098
 :CUSTOM_ID:  ZB3e0094
 :SOURCE:   四庫全書 文淵閣版, V785.3, p557
 :EXTENT: 1 卷
@@ -2224,8 +2322,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0099 [[mandoku:ZB3e0095.org][ZB3e0095]] 傷寒類方
+*** KR3e0099 傷寒類方-清-徐大椿
 :PROPERTIES:
+:KR_ID: KR3e0099
 :CUSTOM_ID:  ZB3e0095
 :SOURCE:   四庫全書 文淵閣版, V785.4, p581
 :EXTENT: 2 卷
@@ -2242,8 +2341,9 @@
 
 **** 版本
 ***** WYG
-*** KR3e0100 [[mandoku:ZB3e0096.org][ZB3e0096]] 醫學源流論
+*** KR3e0100 醫學源流論-清-徐大椿
 :PROPERTIES:
+:KR_ID: KR3e0100
 :CUSTOM_ID:  ZB3e0096
 :SOURCE:   四庫全書 文淵閣版, V785.5, p639
 :EXTENT: 2 卷

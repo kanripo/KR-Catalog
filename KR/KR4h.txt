@@ -1,8 +1,9 @@
 #-*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID
 ** KR4h ZB4h 總集類
-*** KR4h0001 [[at:text/chant/H12-10-0046/H12-10-0046_001.txt][H12-10-0046]] 文選
+*** KR4h0001 文選-梁-蕭統
     :PROPERTIES:
+:KR_ID: KR4h0001
     :_RESP:    （梁）蕭統
     :CUSTOM_ID: H12-10-0046
     :END:
@@ -14,8 +15,9 @@
       :FUNCTION: 編
       :DATES:    501 - 531
       :END:
-*** KR4h0002 [[mandoku:ZB4c0001.org][ZB4c0001]] 文選註
+*** KR4h0002 文選註-梁-蕭統
 :PROPERTIES:
+:KR_ID: KR4h0002
 :CUSTOM_ID:  ZB4c0001
 :SOURCE:   四庫全書 文淵閣版, V1329.1, p1
 :EXTENT: 60 卷
@@ -38,8 +40,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0003 [[mandoku:ZB4c0002.org][ZB4c0002]] 六臣註文選
+*** KR4h0003 六臣註文選-梁-蕭統
 :PROPERTIES:
+:KR_ID: KR4h0003
 :CUSTOM_ID:  ZB4c0002
 :SOURCE:   四庫全書 文淵閣版, V1330.1, p1 - V1331.1
 :EXTENT: 60 卷
@@ -93,8 +96,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0004 [[mandoku:ZB4c0003.org][ZB4c0003]] 文選顏鮑謝詩評
+*** KR4h0004 文選顏鮑謝詩評-元-方回
 :PROPERTIES:
+:KR_ID: KR4h0004
 :CUSTOM_ID:  ZB4c0003
 :SOURCE:   四庫全書 文淵閣版, V1331.2, p573
 :EXTENT: 4 卷
@@ -111,8 +115,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0005 [[mandoku:ZB4c0004.org][ZB4c0004]] 玉臺新詠
+*** KR4h0005 玉臺新詠-陳-徐陵
 :PROPERTIES:
+:KR_ID: KR4h0005
 :CUSTOM_ID:  ZB4c0004
 :SOURCE:   四庫全書 文淵閣版, V1331.3, p631
 :EXTENT: 10 卷
@@ -129,8 +134,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0006 [[mandoku:ZB4c0005.org][ZB4c0005]] 玉臺新詠考異
+*** KR4h0006 玉臺新詠考異-清-紀容舒
 :PROPERTIES:
+:KR_ID: KR4h0006
 :CUSTOM_ID:  ZB4c0005
 :SOURCE:   四庫全書 文淵閣版, V1331.4, p725
 :EXTENT: 10 卷
@@ -147,8 +153,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0007 [[mandoku:ZB4c0006.org][ZB4c0006]] 高氏三宴詩集
+*** KR4h0007 高氏三宴詩集-唐-高正臣
 :PROPERTIES:
+:KR_ID: KR4h0007
 :CUSTOM_ID:  ZB4c0006
 :SOURCE:   四庫全書 文淵閣版, V1332.1, p1
 :EXTENT: 3 卷
@@ -171,8 +178,9 @@
       :BOOK:   (1)
       :END:
 
-*** KR4h0008 [[mandoku:ZB4c0007.org][ZB4c0007]] 篋中集
+*** KR4h0008 篋中集-唐-元結
 :PROPERTIES:
+:KR_ID: KR4h0008
 :CUSTOM_ID:  ZB4c0007
 :SOURCE:   四庫全書 文淵閣版, V1332.2, p11
 :EXTENT: 1 卷
@@ -189,8 +197,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0009 [[mandoku:ZB4c0008.org][ZB4c0008]] 河嶽英靈集
+*** KR4h0009 河嶽英靈集-唐-殷璠
 :PROPERTIES:
+:KR_ID: KR4h0009
 :CUSTOM_ID:  ZB4c0008
 :SOURCE:   四庫全書 文淵閣版, V1332.3, p19
 :EXTENT: 3 卷
@@ -206,8 +215,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0010 [[mandoku:ZB4c0009.org][ZB4c0009]] 國秀集
+*** KR4h0010 國秀集-唐-芮挺章
 :PROPERTIES:
+:KR_ID: KR4h0010
 :CUSTOM_ID:  ZB4c0009
 :SOURCE:   四庫全書 文淵閣版, V1332.4, p63
 :EXTENT: 3 卷
@@ -224,8 +234,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0011 [[mandoku:ZB4c0010.org][ZB4c0010]] 御覽詩
+*** KR4h0011 御覽詩-唐-令狐楚
 :PROPERTIES:
+:KR_ID: KR4h0011
 :CUSTOM_ID:  ZB4c0010
 :SOURCE:   四庫全書 文淵閣版, V1332.5, p95
 :EXTENT: 1 卷
@@ -242,8 +253,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0012 [[mandoku:ZB4c0011.org][ZB4c0011]] 中興間氣集
+*** KR4h0012 中興間氣集-唐-高仲武
 :PROPERTIES:
+:KR_ID: KR4h0012
 :CUSTOM_ID:  ZB4c0011
 :SOURCE:   四庫全書 文淵閣版, V1332.6, p125
 :EXTENT: 2 卷
@@ -259,8 +271,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0013 [[mandoku:ZB4c0012.org][ZB4c0012]] 極玄集
+*** KR4h0013 極玄集-唐-姚合
 :PROPERTIES:
+:KR_ID: KR4h0013
 :CUSTOM_ID:  ZB4c0012
 :SOURCE:   四庫全書 文淵閣版, V1332.7, p149
 :EXTENT: 2 卷
@@ -277,8 +290,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0014 [[mandoku:ZB4c0013.org][ZB4c0013]] 松陵集
+*** KR4h0014 松陵集-唐-皮日休
 :PROPERTIES:
+:KR_ID: KR4h0014
 :CUSTOM_ID:  ZB4c0013
 :SOURCE:   四庫全書 文淵閣版, V1332.8, p163
 :EXTENT: 10 卷
@@ -295,8 +309,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0015 [[mandoku:ZB4c0014.org][ZB4c0014]] 二皇甫集
+*** KR4h0015 二皇甫集-唐-皇甫冉
 :PROPERTIES:
+:KR_ID: KR4h0015
 :CUSTOM_ID:  ZB4c0014
 :SOURCE:   四庫全書 文淵閣版, V1332.9, p281
 :EXTENT: 8 卷
@@ -325,8 +340,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0016 [[mandoku:ZB4c0015.org][ZB4c0015]] 唐四僧詩
+*** KR4h0016 唐四僧詩-唐-釋靈澈
 :PROPERTIES:
+:KR_ID: KR4h0016
 :CUSTOM_ID:  ZB4c0015
 :SOURCE:   四庫全書 文淵閣版, V1332.10, p321
 :EXTENT: 6 卷
@@ -343,8 +359,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0017 [[mandoku:ZB4c0016.org][ZB4c0016]] 薛濤李冶詩集
+*** KR4h0017 薛濤李冶詩集-唐-薛濤
 :PROPERTIES:
+:KR_ID: KR4h0017
 :CUSTOM_ID:  ZB4c0016
 :SOURCE:   四庫全書 文淵閣版, V1332.11, p341
 :EXTENT: 2 卷
@@ -367,8 +384,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0018 [[mandoku:ZB4c0017.org][ZB4c0017]] 竇氏聯珠集
+*** KR4h0018 竇氏聯珠集-唐-竇常
 :PROPERTIES:
+:KR_ID: KR4h0018
 :CUSTOM_ID:  ZB4c0017
 :SOURCE:   四庫全書 文淵閣版, V1332.12, p357
 :EXTENT: 5 卷
@@ -391,8 +409,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0019 [[mandoku:ZB4c0018.org][ZB4c0018]] 才調集
+*** KR4h0019 才調集-蜀-韋縠
 :PROPERTIES:
+:KR_ID: KR4h0019
 :CUSTOM_ID:  ZB4c0018
 :SOURCE:   四庫全書 文淵閣版, V1332.13, p381
 :EXTENT: 10 卷
@@ -409,8 +428,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0020 [[mandoku:ZB4c0019.org][ZB4c0019]] 搜玉小集
+*** KR4h0020 搜玉小集-唐-闕名
 :PROPERTIES:
+:KR_ID: KR4h0020
 :CUSTOM_ID:  ZB4c0019
 :SOURCE:   四庫全書 文淵閣版, V1332.14, p561
 :EXTENT: 1 卷
@@ -426,8 +446,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0021 [[mandoku:ZB4c0020.org][ZB4c0020]] 古文苑
+*** KR4h0021 古文苑-宋-章樵
 :PROPERTIES:
+:KR_ID: KR4h0021
 :CUSTOM_ID:  ZB4c0020
 :SOURCE:   四庫全書 文淵閣版, V1332.15, p573
 :EXTENT: 21 卷
@@ -444,8 +465,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0022 [[mandoku:ZB4c0021.org][ZB4c0021]] 文苑英華
+*** KR4h0022 文苑英華-宋-李昉
 :PROPERTIES:
+:KR_ID: KR4h0022
 :CUSTOM_ID:  ZB4c0021
 :SOURCE:   四庫全書 文淵閣版, V1333.1, p1 - V1342.1
 :EXTENT: 存999 卷
@@ -469,8 +491,9 @@
       :BOOK:   (292)
       :END:
 
-*** KR4h0023 [[mandoku:ZB4c0021a.org][ZB4c0021a]] 文苑英華辨證
+*** KR4h0023 文苑英華辨證-宋-彭叔夏
 :PROPERTIES:
+:KR_ID: KR4h0023
 :CUSTOM_ID:  ZB4c0021a
 :SOURCE:   四庫全書 文淵閣版, V1342.2, p733
 :EXTENT: 10 卷
@@ -487,8 +510,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0024 [[mandoku:ZB4c0022.org][ZB4c0022]] 唐文粹
+*** KR4h0024 唐文粹-宋-姚鉉
 :PROPERTIES:
+:KR_ID: KR4h0024
 :CUSTOM_ID:  ZB4c0022
 :SOURCE:   四庫全書 文淵閣版, V1343.1, p1 - V1344.1
 :EXTENT: 100 卷
@@ -505,8 +529,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0025 [[mandoku:ZB4c0023.org][ZB4c0023]] 西崑詶唱集
+*** KR4h0025 西崑詶唱集-宋-楊億
 :PROPERTIES:
+:KR_ID: KR4h0025
 :CUSTOM_ID:  ZB4c0023
 :SOURCE:   四庫全書 文淵閣版, V1344.2, p487
 :EXTENT: 2 卷
@@ -523,8 +548,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0026 [[mandoku:ZB4c0024.org][ZB4c0024]] 同文館唱和詩
+*** KR4h0026 同文館唱和詩-宋-鄧忠臣
 :PROPERTIES:
+:KR_ID: KR4h0026
 :CUSTOM_ID:  ZB4c0024
 :SOURCE:   四庫全書 文淵閣版, V1344.2, p523
 :EXTENT: 10 卷
@@ -541,8 +567,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0027 [[mandoku:ZB4c0025.org][ZB4c0025]] 唐百家詩選
+*** KR4h0027 唐百家詩選-宋-王安石
 :PROPERTIES:
+:KR_ID: KR4h0027
 :CUSTOM_ID:  ZB4c0025
 :SOURCE:   四庫全書 文淵閣版, V1344.3, p563
 :EXTENT: 20 卷
@@ -559,8 +586,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0028 [[mandoku:ZB4c0026.org][ZB4c0026]] 會稽掇英總集
+*** KR4h0028 會稽掇英總集-宋-孔延之
 :PROPERTIES:
+:KR_ID: KR4h0028
 :CUSTOM_ID:  ZB4c0026
 :SOURCE:   四庫全書 文淵閣版, V1345.1, p1
 :EXTENT: 20 卷
@@ -577,8 +605,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0029 [[mandoku:ZB4c0027.org][ZB4c0027]] 清江三孔集
+*** KR4h0029 清江三孔集-宋-孔文仲
 :PROPERTIES:
+:KR_ID: KR4h0029
 :CUSTOM_ID:  ZB4c0027
 :SOURCE:   四庫全書 文淵閣版, V1345.2, p177
 :EXTENT: 30 卷
@@ -595,8 +624,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0030 [[mandoku:ZB4c0028.org][ZB4c0028]] 三劉家集
+*** KR4h0030 三劉家集-宋-劉渙
 :PROPERTIES:
+:KR_ID: KR4h0030
 :CUSTOM_ID:  ZB4c0028
 :SOURCE:   四庫全書 文淵閣版, V1345.3, p543
 :EXTENT: 1 卷
@@ -619,8 +649,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0031 [[mandoku:ZB4c0029.org][ZB4c0029]] 二程文集
+*** KR4h0031 二程文集-宋-程顥
 :PROPERTIES:
+:KR_ID: KR4h0031
 :CUSTOM_ID:  ZB4c0029
 :SOURCE:   四庫全書 文淵閣版, V1345.4, p585
 :EXTENT: 13 卷
@@ -662,8 +693,9 @@
       :BOOK:   (6)
       :END:
 
-*** KR4h0032 [[mandoku:ZB4c0030.org][ZB4c0030]] 宋文選
+*** KR4h0032 宋文選-宋-闕名
 :PROPERTIES:
+:KR_ID: KR4h0032
 :CUSTOM_ID:  ZB4c0030
 :SOURCE:   四庫全書 文淵閣版, V1346.1, p1
 :EXTENT: 32 卷
@@ -679,8 +711,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0033 [[mandoku:ZB4c0031.org][ZB4c0031]] 坡門酬唱集
+*** KR4h0033 坡門酬唱集-宋-邵浩
 :PROPERTIES:
+:KR_ID: KR4h0033
 :CUSTOM_ID:  ZB4c0031
 :SOURCE:   四庫全書 文淵閣版, V1346.2, p463
 :EXTENT: 23 卷
@@ -696,8 +729,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0034 [[mandoku:ZB4c0032.org][ZB4c0032]] 樂府詩集
+*** KR4h0034 樂府詩集-宋-郭茂倩
 :PROPERTIES:
+:KR_ID: KR4h0034
 :CUSTOM_ID:  ZB4c0032
 :SOURCE:   四庫全書 文淵閣版, V1347.1, p1 - V1348.1
 :EXTENT: 100 卷
@@ -714,8 +748,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0035 [[mandoku:ZB4c0033.org][ZB4c0033]] 歲時雜詠
+*** KR4h0035 歲時雜詠-宋-蒲積中
 :PROPERTIES:
+:KR_ID: KR4h0035
 :CUSTOM_ID:  ZB4c0033
 :SOURCE:   四庫全書 文淵閣版, V1348.2, p207
 :EXTENT: 46 卷
@@ -731,8 +766,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0036 [[mandoku:ZB4c0034.org][ZB4c0034]] 嚴陵集
+*** KR4h0036 嚴陵集-宋-董弅
 :PROPERTIES:
+:KR_ID: KR4h0036
 :CUSTOM_ID:  ZB4c0034
 :SOURCE:   四庫全書 文淵閣版, V1348.3, p523
 :EXTENT: 9 卷
@@ -749,8 +785,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0037 [[mandoku:ZB4c0035.org][ZB4c0035]] 南嶽倡酬集
+*** KR4h0037 南嶽倡酬集-宋-朱熹
 :PROPERTIES:
+:KR_ID: KR4h0037
 :CUSTOM_ID:  ZB4c0035
 :SOURCE:   四庫全書 文淵閣版, V1348.4, p607
 :EXTENT: 1 卷
@@ -786,8 +823,9 @@
       :BOOK:   (1)
       :END:
 
-*** KR4h0038 [[mandoku:ZB4c0036.org][ZB4c0036]] 萬首唐人絕句
+*** KR4h0038 萬首唐人絕句-宋-洪邁
 :PROPERTIES:
+:KR_ID: KR4h0038
 :CUSTOM_ID:  ZB4c0036
 :SOURCE:   四庫全書 文淵閣版, V1349.1, p1
 :EXTENT: 存91 卷
@@ -816,8 +854,9 @@
       :BOOK:   (3)
       :END:
 
-*** KR4h0039 [[mandoku:ZB4c0037.org][ZB4c0037]] 聲畫集
+*** KR4h0039 聲畫集-宋-孫紹遠
 :PROPERTIES:
+:KR_ID: KR4h0039
 :CUSTOM_ID:  ZB4c0037
 :SOURCE:   四庫全書 文淵閣版, V1349.2, p805
 :EXTENT: 8 卷
@@ -834,8 +873,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0040 ZB4c0038_0 宋文鑑
+*** KR4h0040 宋文鑑-宋-呂祖謙
 :PROPERTIES:
+:KR_ID: KR4h0040
 :CUSTOM_ID: ZB4c0038_0
 :SOURCE:   四庫全書 文淵閣版, V1350.1, p1 - V1351.1
 :EXTENT: 150 卷
@@ -852,8 +892,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0041 [[mandoku:ZB4c0038.org][ZB4c0038]] 古文關鍵
+*** KR4h0041 古文關鍵-宋-呂祖謙
 :PROPERTIES:
+:KR_ID: KR4h0041
 :CUSTOM_ID:  ZB4c0038
 :SOURCE:   四庫全書 文淵閣版, V1351.2, p715
 :EXTENT: 2 卷
@@ -870,8 +911,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0042 [[mandoku:ZB4c0039.org][ZB4c0039]] 囘文類聚
+*** KR4h0042 囘文類聚-宋-桑世昌
 :PROPERTIES:
+:KR_ID: KR4h0042
 :CUSTOM_ID:  ZB4c0039
 :SOURCE:   四庫全書 文淵閣版, V1351.3, p793
 :EXTENT: 4 卷
@@ -901,8 +943,9 @@
       :FUNCTION: 輯
       :END:
 
-*** KR4h0043 [[mandoku:ZB4c0040.org][ZB4c0040]] 五百家播芳大全文粹
+*** KR4h0043 五百家播芳大全文粹-宋-魏齊賢
 :PROPERTIES:
+:KR_ID: KR4h0043
 :CUSTOM_ID:  ZB4c0040
 :SOURCE:   四庫全書 文淵閣版, V1352.1, p1 - V1353.1
 :EXTENT: 110 卷
@@ -932,8 +975,9 @@
       :BOOK:   (66)
       :END:
 
-*** KR4h0044 [[mandoku:ZB4c0041.org][ZB4c0041]] 崇古文訣
+*** KR4h0044 崇古文訣-宋-樓昉
 :PROPERTIES:
+:KR_ID: KR4h0044
 :CUSTOM_ID:  ZB4c0041
 :SOURCE:   四庫全書 文淵閣版, V1354.1, p1
 :EXTENT: 35 卷
@@ -950,8 +994,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0045 [[mandoku:ZB4c0042.org][ZB4c0042]] 成都文類
+*** KR4h0045 成都文類-宋-扈仲榮
 :PROPERTIES:
+:KR_ID: KR4h0045
 :CUSTOM_ID:  ZB4c0042
 :SOURCE:   四庫全書 文淵閣版, V1354.2, p291
 :EXTENT: 50 卷
@@ -973,9 +1018,10 @@
 
 **** 版本
 ***** WYG
-# *** [[mandoku:ZB4c0042a.org][ZB4c0042a]] 文章正宗
-*** KR4h0046 [[mandoku:ZB4c0043.org][ZB4c0043]] 文章正宗
+# *** 文章正宗
+*** KR4h0046 文章正宗-宋-眞德秀
 :PROPERTIES:
+:KR_ID: KR4h0046
 :CUSTOM_ID:  ZB4c0043
 :SOURCE:   四庫全書 文淵閣版, V1355.1, p1
 :EXTENT: 24 卷
@@ -999,8 +1045,9 @@
       :BOOK:   (24)
       :END:
 
-*** KR4h0047 [[mandoku:ZB4c0043a.org][ZB4c0043a]] 續文章正宗
+*** KR4h0047 續文章正宗-宋-眞德秀
 :PROPERTIES:
+:KR_ID: KR4h0047
 :CUSTOM_ID:  ZB4c0043a
 :SOURCE:   四庫全書 文淵閣版, V1356.1, p1
 :EXTENT: 20 卷
@@ -1030,8 +1077,9 @@
 **** 版本
 ***** WYG
 
-*** KR4h0048 [[mandoku:ZB4c0044.org][ZB4c0044]] 天台前集
+*** KR4h0048 天台前集-宋-李庚
 :PROPERTIES:
+:KR_ID: KR4h0048
 :CUSTOM_ID:  ZB4c0044
 :SOURCE:   四庫全書 文淵閣版, V1356.2, p409
 :EXTENT: 3 卷
@@ -1059,29 +1107,30 @@
 
 **** 版本
 ***** WYG
-**** [[mandoku:ZB4c0044b.org][ZB4c0044b]] 前集别編
+**** 前集别編
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 1 卷
       :BOOK:   (8)
       :END:
 
-**** [[mandoku:ZB4c0044a.org][ZB4c0044a]] 續集
+**** 續集
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 3 卷
       :BOOK:   (8)
       :END:
 
-**** [[mandoku:ZB4c0044c.org][ZB4c0044c]] 續集别編
+**** 續集别編
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 6 卷
       :BOOK:   (8)
       :END:
 
-*** KR4h0049 [[mandoku:ZB4c0045.org][ZB4c0045]] 赤城集
+*** KR4h0049 赤城集-宋-林表民
 :PROPERTIES:
+:KR_ID: KR4h0049
 :CUSTOM_ID:  ZB4c0045
 :SOURCE:   四庫全書 文淵閣版, V1356.3, p615
 :EXTENT: 18 卷
@@ -1098,8 +1147,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0050 [[mandoku:ZB4c0046.org][ZB4c0046]] 妙絕古今
+*** KR4h0050 妙絕古今-宋-湯漢
 :PROPERTIES:
+:KR_ID: KR4h0050
 :CUSTOM_ID:  ZB4c0046
 :SOURCE:   四庫全書 文淵閣版, V1356.4, p783
 :EXTENT: 4 卷
@@ -1116,8 +1166,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0051 [[mandoku:ZB4c0047.org][ZB4c0047]] 唐僧弘秀集
+*** KR4h0051 唐僧弘秀集-宋-李龏
 :PROPERTIES:
+:KR_ID: KR4h0051
 :CUSTOM_ID:  ZB4c0047
 :SOURCE:   四庫全書 文淵閣版, V1356.5, p861
 :EXTENT: 10 卷
@@ -1133,8 +1184,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0052 [[mandoku:ZB4c0048.org][ZB4c0048]] 衆妙集
+*** KR4h0052 衆妙集-宋-趙師秀
 :PROPERTIES:
+:KR_ID: KR4h0052
 :CUSTOM_ID:  ZB4c0048
 :SOURCE:   四庫全書 文淵閣版, V1356.6, p925
 :EXTENT: 1 卷
@@ -1151,8 +1203,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0053 [[mandoku:ZB4c0049.org][ZB4c0049]] 江湖小集
+*** KR4h0053 江湖小集-宋-陳起
 :PROPERTIES:
+:KR_ID: KR4h0053
 :CUSTOM_ID:  ZB4c0049
 :SOURCE:   四庫全書 文淵閣版, V1357.1, p1
 :EXTENT: 95 卷
@@ -1169,8 +1222,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0054 [[mandoku:ZB4c0050.org][ZB4c0050]] 江湖後集
+*** KR4h0054 江湖後集-宋-陳起
 :PROPERTIES:
+:KR_ID: KR4h0054
 :CUSTOM_ID:  ZB4c0050
 :SOURCE:   四庫全書 文淵閣版, V1357.2, p719
 :EXTENT: 24 卷
@@ -1187,8 +1241,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0055 [[mandoku:ZB4c0051.org][ZB4c0051]] 三體唐詩
+*** KR4h0055 三體唐詩-宋-周弼
 :PROPERTIES:
+:KR_ID: KR4h0055
 :CUSTOM_ID:  ZB4c0051
 :SOURCE:   四庫全書 文淵閣版, V1358.1, p1
 :EXTENT: 6 卷
@@ -1211,8 +1266,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0056 [[mandoku:ZB4c0052.org][ZB4c0052]] 論學繩尺
+*** KR4h0056 論學繩尺-宋-魏天應
 :PROPERTIES:
+:KR_ID: KR4h0056
 :CUSTOM_ID:  ZB4c0052
 :SOURCE:   四庫全書 文淵閣版, V1358.2, p71
 :EXTENT: 10 卷
@@ -1241,8 +1297,9 @@
       :BOOK:   (10)
       :END:
 
-*** KR4h0057 [[mandoku:ZB4c0053.org][ZB4c0053]] 吳都文粹
+*** KR4h0057 吳都文粹-宋-鄭虎臣
 :PROPERTIES:
+:KR_ID: KR4h0057
 :CUSTOM_ID:  ZB4c0053
 :SOURCE:   四庫全書 文淵閣版, V1358.3, p589
 :EXTENT: 10 卷
@@ -1265,8 +1322,9 @@
       :BOOK:   (10)
       :END:
 
-*** KR4h0058 [[mandoku:ZB4c0054.org][ZB4c0054]] 古文集成前集
+*** KR4h0058 古文集成前集-宋-王霆震
 :PROPERTIES:
+:KR_ID: KR4h0058
 :CUSTOM_ID:  ZB4c0054
 :SOURCE:   四庫全書 文淵閣版, V1359.1, p1
 :EXTENT: 78 卷
@@ -1282,8 +1340,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0059 [[mandoku:ZB4c0055.org][ZB4c0055]] 文章軌範
+*** KR4h0059 文章軌範-宋-謝枋得
 :PROPERTIES:
+:KR_ID: KR4h0059
 :CUSTOM_ID:  ZB4c0055
 :SOURCE:   四庫全書 文淵閣版, V1359.2, p541
 :EXTENT: 7 卷
@@ -1300,8 +1359,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0060 [[mandoku:ZB4c0056.org][ZB4c0056]] 月泉吟社詩
+*** KR4h0060 月泉吟社詩-宋-吳渭
 :PROPERTIES:
+:KR_ID: KR4h0060
 :CUSTOM_ID:  ZB4c0056
 :SOURCE:   四庫全書 文淵閣版, V1359.3, p617
 :EXTENT: 1 卷
@@ -1318,8 +1378,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0061 [[mandoku:ZB4c0057.org][ZB4c0057]] 文選補遺
+*** KR4h0061 文選補遺-宋-陳仁子
 :PROPERTIES:
+:KR_ID: KR4h0061
 :CUSTOM_ID:  ZB4c0057
 :SOURCE:   四庫全書 文淵閣版, V1360.1, p1
 :EXTENT: 40 卷
@@ -1335,8 +1396,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0062 [[mandoku:ZB4c0058.org][ZB4c0058]] 蘇門六君子文粹
+*** KR4h0062 蘇門六君子文粹-宋-張耒
 :PROPERTIES:
+:KR_ID: KR4h0062
 :CUSTOM_ID:  ZB4c0058
 :SOURCE:   四庫全書 文淵閣版, V1361.1, p1
 :EXTENT: 70 卷
@@ -1353,8 +1415,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0063 [[mandoku:ZB4c0059.org][ZB4c0059]] 三國志文類
+*** KR4h0063 三國志文類-宋-闕名
 :PROPERTIES:
+:KR_ID: KR4h0063
 :CUSTOM_ID:  ZB4c0059
 :SOURCE:   四庫全書 文淵閣版, V1361.2, p505
 :EXTENT: 60 卷
@@ -1370,8 +1433,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0064 [[mandoku:ZB4c0060.org][ZB4c0060]] 增注唐策
+*** KR4h0064 增注唐策-宋-闕名
 :PROPERTIES:
+:KR_ID: KR4h0064
 :CUSTOM_ID:  ZB4c0060
 :SOURCE:   四庫全書 文淵閣版, V1361.3, p781
 :EXTENT: 10 卷
@@ -1387,8 +1451,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0065 [[mandoku:ZB4c0061.org][ZB4c0061]] 詩家鼎臠
+*** KR4h0065 詩家鼎臠-宋-闕名
 :PROPERTIES:
+:KR_ID: KR4h0065
 :CUSTOM_ID:  ZB4c0061
 :SOURCE:   四庫全書 文淵閣版, V1362.1, p1
 :EXTENT: 2 卷
@@ -1404,8 +1469,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0066 [[mandoku:ZB4c0062.org][ZB4c0062]] 十先生奧論註
+*** KR4h0066 十先生奧論註-宋-闕名
 :PROPERTIES:
+:KR_ID: KR4h0066
 :CUSTOM_ID:  ZB4c0062
 :SOURCE:   四庫全書 文淵閣版, V1362.2, p27
 :EXTENT: 存40 卷
@@ -1427,20 +1493,21 @@
       :BOOK:   (4)
       :END:
 
-**** [[mandoku:ZB4c0062a.org][ZB4c0062a]] 後集
+**** 後集
       :PROPERTIES:
       :EXTENT: (15) 卷
       :BOOK:   (5)
       :END:
 
-**** [[mandoku:ZB4c0062b.org][ZB4c0062b]] 續集
+**** 續集
       :PROPERTIES:
       :EXTENT: (存10) 卷
       :BOOK:   (3)
       :END:
 
-*** KR4h0067 [[mandoku:ZB4c0063.org][ZB4c0063]] 兩宋名賢小集
+*** KR4h0067 兩宋名賢小集-宋-陳思
 :PROPERTIES:
+:KR_ID: KR4h0067
 :CUSTOM_ID:  ZB4c0063
 :SOURCE:   四庫全書 文淵閣版, V1362.3, p327 - V1364.1
 :EXTENT: 380 卷
@@ -1470,8 +1537,9 @@
       :BOOK:   (76)
       :END:
 
-*** KR4h0068 [[mandoku:ZB4c0064.org][ZB4c0064]] 柴氏四隱集
+*** KR4h0068 柴氏四隱集-宋-柴望
 :PROPERTIES:
+:KR_ID: KR4h0068
 :CUSTOM_ID:  ZB4c0064
 :SOURCE:   四庫全書 文淵閣版, V1364.2, p871
 :EXTENT: 3 卷
@@ -1494,8 +1562,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0069 [[mandoku:ZB4c0065.org][ZB4c0065]] 中州集
+*** KR4h0069 中州集-金-元好問
 :PROPERTIES:
+:KR_ID: KR4h0069
 :CUSTOM_ID:  ZB4c0065
 :SOURCE:   四庫全書 文淵閣版, V1365.1, p1
 :EXTENT: 10 卷
@@ -1519,15 +1588,16 @@
       :BOOK:   (10)
       :END:
 
-**** [[mandoku:ZB4c0065a.org][ZB4c0065a]] (附)中州樂府
+**** (附)中州樂府
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 1 卷
       :BOOK:   (10)
       :END:
 
-*** KR4h0070 [[mandoku:ZB4c0066.org][ZB4c0066]] 唐詩鼓吹
+*** KR4h0070 唐詩鼓吹-金-元好問
 :PROPERTIES:
+:KR_ID: KR4h0070
 :CUSTOM_ID:  ZB4c0066
 :SOURCE:   四庫全書 文淵閣版, V1365.2, p379
 :EXTENT: 10 卷
@@ -1550,8 +1620,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0071 [[mandoku:ZB4c0067.org][ZB4c0067]] 二妙集
+*** KR4h0071 二妙集-金-段克己
 :PROPERTIES:
+:KR_ID: KR4h0071
 :CUSTOM_ID:  ZB4c0067
 :SOURCE:   四庫全書 文淵閣版, V1365.3, p523
 :EXTENT: 8 卷
@@ -1573,8 +1644,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0072 [[mandoku:ZB4c0068.org][ZB4c0068]] 谷音
+*** KR4h0072 谷音-元-杜本
 :PROPERTIES:
+:KR_ID: KR4h0072
 :CUSTOM_ID:  ZB4c0068
 :SOURCE:   四庫全書 文淵閣版, V1365.4, p593
 :EXTENT: 8 卷
@@ -1591,8 +1663,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0073 [[mandoku:ZB4c0069.org][ZB4c0069]] 河汾諸老詩集
+*** KR4h0073 河汾諸老詩集-元-房祺
 :PROPERTIES:
+:KR_ID: KR4h0073
 :CUSTOM_ID:  ZB4c0069
 :SOURCE:   四庫全書 文淵閣版, V1365.5, p613
 :EXTENT: 8 卷
@@ -1609,8 +1682,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0074 [[mandoku:ZB4c0070.org][ZB4c0070]] 瀛奎律隨
+*** KR4h0074 瀛奎律隨-元-方回
 :PROPERTIES:
+:KR_ID: KR4h0074
 :CUSTOM_ID:  ZB4c0070
 :SOURCE:   四庫全書 文淵閣版, V1366.1, p1
 :EXTENT: 49 卷
@@ -1627,8 +1701,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0075 [[mandoku:ZB4c0071.org][ZB4c0071]] 梅花百詠
+*** KR4h0075 梅花百詠-元-馮子振
 :PROPERTIES:
+:KR_ID: KR4h0075
 :CUSTOM_ID:  ZB4c0071
 :SOURCE:   四庫全書 文淵閣版, V1366.2, p559
 :EXTENT: 1 卷
@@ -1658,8 +1733,9 @@
       :BOOK:   (1)
       :END:
 
-*** KR4h0076 [[mandoku:ZB4c0072.org][ZB4c0072]] 天下同文集
+*** KR4h0076 天下同文集-元-周南瑞
 :PROPERTIES:
+:KR_ID: KR4h0076
 :CUSTOM_ID:  ZB4c0072
 :SOURCE:   四庫全書 文淵閣版, V1366.3, p591
 :EXTENT: 存43 卷
@@ -1675,8 +1751,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0077 [[mandoku:ZB4c0073.org][ZB4c0073]] 古賦辯體
+*** KR4h0077 古賦辯體-元-祝堯
 :PROPERTIES:
+:KR_ID: KR4h0077
 :CUSTOM_ID:  ZB4c0073
 :SOURCE:   四庫全書 文淵閣版, V1366.4, p711
 :EXTENT: 10 卷
@@ -1692,8 +1769,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0078 [[mandoku:ZB4c0074.org][ZB4c0074]] 圭塘欸乃集
+*** KR4h0078 圭塘欸乃集-元-許有壬
 :PROPERTIES:
+:KR_ID: KR4h0078
 :CUSTOM_ID:  ZB4c0074
 :SOURCE:   四庫全書 文淵閣版, V1366.5, p863
 :EXTENT: 2 卷
@@ -1710,8 +1788,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0079 [[mandoku:ZB4c0075.org][ZB4c0075]] 忠義集
+*** KR4h0079 忠義集-元-趙景良
 :PROPERTIES:
+:KR_ID: KR4h0079
 :CUSTOM_ID:  ZB4c0075
 :SOURCE:   四庫全書 文淵閣版, V1366.6, p913
 :EXTENT: 7 卷
@@ -1727,8 +1806,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0080 [[mandoku:ZB4c0076.org][ZB4c0076]] 宛陵羣英集
+*** KR4h0080 宛陵羣英集-元-汪澤民
 :PROPERTIES:
+:KR_ID: KR4h0080
 :CUSTOM_ID:  ZB4c0076
 :SOURCE:   四庫全書 文淵閣版, V1366.7, p955
 :EXTENT: 12 卷
@@ -1751,8 +1831,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0081 [[mandoku:ZB4c0077.org][ZB4c0077]] 元文類
+*** KR4h0081 元文類-元-蘇天爵
 :PROPERTIES:
+:KR_ID: KR4h0081
 :CUSTOM_ID:  ZB4c0077
 :SOURCE:   四庫全書 文淵閣版, V1367.1, p1
 :EXTENT: 70 卷
@@ -1776,8 +1857,9 @@
       :BOOK:   (48)
       :END:
 
-*** KR4h0082 [[mandoku:ZB4c0078.org][ZB4c0078]] 元風雅
+*** KR4h0082 元風雅-元-傳習
 :PROPERTIES:
+:KR_ID: KR4h0082
 :CUSTOM_ID:  ZB4c0078
 :SOURCE:   四庫全書 文淵閣版, V1368.1, p1
 :EXTENT: 24 卷
@@ -1805,14 +1887,15 @@
       :BOOK:   (4)
       :END:
 
-**** [[mandoku:ZB4c0078a.org][ZB4c0078a]] 後集
+**** 後集
       :PROPERTIES:
       :EXTENT: (12) 卷
       :BOOK:   (4)
       :END:
 
-*** KR4h0083 [[mandoku:ZB4c0079.org][ZB4c0079]] 唐音
+*** KR4h0083 唐音-元-楊士弘
 :PROPERTIES:
+:KR_ID: KR4h0083
 :CUSTOM_ID:  ZB4c0079
 :SOURCE:   四庫全書 文淵閣版, V1368.2, p173
 :EXTENT: 14 卷
@@ -1834,8 +1917,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0084 [[mandoku:ZB4c0080.org][ZB4c0080]] 古樂府
+*** KR4h0084 古樂府-元-左克明
 :PROPERTIES:
+:KR_ID: KR4h0084
 :CUSTOM_ID:  ZB4c0080
 :SOURCE:   四庫全書 文淵閣版, V1368.3, p427
 :EXTENT: 10 卷
@@ -1851,8 +1935,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0085 [[mandoku:ZB4c0081.org][ZB4c0081]] 玉山名勝集
+*** KR4h0085 玉山名勝集-元-顧英
 :PROPERTIES:
+:KR_ID: KR4h0085
 :CUSTOM_ID:  ZB4c0081
 :SOURCE:   四庫全書 文淵閣版, V1369.1, p1
 :EXTENT: 8 卷
@@ -1876,8 +1961,9 @@
       :BOOK:   (6)
       :END:
 
-*** KR4h0086 [[mandoku:ZB4c0082.org][ZB4c0082]] 草堂雅集
+*** KR4h0086 草堂雅集-元-顧英
 :PROPERTIES:
+:KR_ID: KR4h0086
 :CUSTOM_ID:  ZB4c0082
 :SOURCE:   四庫全書 文淵閣版, V1369.2, p175
 :EXTENT: 14 卷
@@ -1894,8 +1980,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0087 [[mandoku:ZB4c0083.org][ZB4c0083]] 玉山紀遊
+*** KR4h0087 玉山紀遊-元-顧英
 :PROPERTIES:
+:KR_ID: KR4h0087
 :CUSTOM_ID:  ZB4c0083
 :SOURCE:   四庫全書 文淵閣版, V1369.3, p481
 :EXTENT: 1 卷
@@ -1918,8 +2005,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0088 [[mandoku:ZB4c0084.org][ZB4c0084]] 大雅集
+*** KR4h0088 大雅集-元-賴良
 :PROPERTIES:
+:KR_ID: KR4h0088
 :CUSTOM_ID:  ZB4c0084
 :SOURCE:   四庫全書 文淵閣版, V1369.4, p511
 :EXTENT: 8 卷
@@ -1935,8 +2023,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0089 [[mandoku:ZB4c0085.org][ZB4c0085]] 元音遺響
+*** KR4h0089 元音遺響-元-胡布
 :PROPERTIES:
+:KR_ID: KR4h0089
 :CUSTOM_ID:  ZB4c0085
 :SOURCE:   四庫全書 文淵閣版, V1369.5, p579
 :EXTENT: 10 卷
@@ -1952,8 +2041,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0090 [[mandoku:ZB4c0086.org][ZB4c0086]] 風雅翼
+*** KR4h0090 風雅翼-元-劉履
 :PROPERTIES:
+:KR_ID: KR4h0090
 :CUSTOM_ID:  ZB4c0086
 :SOURCE:   四庫全書 文淵閣版, V1370.1, p1
 :EXTENT: 14 卷
@@ -1969,8 +2059,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0091 [[mandoku:ZB4c0087.org][ZB4c0087]] 荊南倡和詩集
+*** KR4h0091 荊南倡和詩集-元-周砥
 :PROPERTIES:
+:KR_ID: KR4h0091
 :CUSTOM_ID:  ZB4c0087
 :SOURCE:   四庫全書 文淵閣版, V1370.2, p229
 :EXTENT: 1 卷
@@ -1999,8 +2090,9 @@
       :BOOK:   (1)
       :END:
 
-*** KR4h0092 [[mandoku:ZB4c0088.org][ZB4c0088]] 乾坤清氣
+*** KR4h0092 乾坤清氣-明-偶桓
 :PROPERTIES:
+:KR_ID: KR4h0092
 :CUSTOM_ID:  ZB4c0088
 :SOURCE:   四庫全書 文淵閣版, V1370.3, p259
 :EXTENT: 14 卷
@@ -2023,8 +2115,9 @@
       :BOOK:   (6)
       :END:
 
-*** KR4h0093 [[mandoku:ZB4c0089.org][ZB4c0089]] 元音
+*** KR4h0093 元音-明-孫原理
 :PROPERTIES:
+:KR_ID: KR4h0093
 :CUSTOM_ID:  ZB4c0089
 :SOURCE:   四庫全書 文淵閣版, V1370.4, p403
 :EXTENT: 12 卷
@@ -2041,8 +2134,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0094 [[mandoku:ZB4c0090.org][ZB4c0090]] 雅頌正音
+*** KR4h0094 雅頌正音-明-劉仔肩
 :PROPERTIES:
+:KR_ID: KR4h0094
 :CUSTOM_ID:  ZB4c0090
 :SOURCE:   四庫全書 文淵閣版, V1370.5, p583
 :EXTENT: 5 卷
@@ -2058,8 +2152,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0095 [[mandoku:ZB4c0091.org][ZB4c0091]] 唐詩品彙
+*** KR4h0095 唐詩品彙-明-高棅
 :PROPERTIES:
+:KR_ID: KR4h0095
 :CUSTOM_ID:  ZB4c0091
 :SOURCE:   四庫全書 文淵閣版, V1371.1, p1
 :EXTENT: 90 卷
@@ -2097,15 +2192,16 @@
       :BOOK:   (26)
       :END:
 
-**** [[mandoku:ZB4c0091a.org][ZB4c0091a]] (附)唐詩拾遺
+**** (附)唐詩拾遺
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 10 卷
       :BOOK:   (26)
       :END:
 
-*** KR4h0096 [[mandoku:ZB4c0092.org][ZB4c0092]] 廣州四先生詩
+*** KR4h0096 廣州四先生詩-明-闕名
 :PROPERTIES:
+:KR_ID: KR4h0096
 :CUSTOM_ID:  ZB4c0092
 :SOURCE:   四庫全書 文淵閣版, V1372.1, p1
 :EXTENT: 4 卷
@@ -2121,8 +2217,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0097 [[mandoku:ZB4c0093.org][ZB4c0093]] 三華集
+*** KR4h0097 三華集-明-錢公善
 :PROPERTIES:
+:KR_ID: KR4h0097
 :CUSTOM_ID:  ZB4c0093
 :SOURCE:   四庫全書 文淵閣版, V1372.2, p33
 :EXTENT: 18 卷
@@ -2175,8 +2272,9 @@
       :FUNCTION: 撰
       :END:
 
-*** KR4h0098 [[mandoku:ZB4c0094.org][ZB4c0094]] 閩中十子詩
+*** KR4h0098 閩中十子詩-明-袁表
 :PROPERTIES:
+:KR_ID: KR4h0098
 :CUSTOM_ID:  ZB4c0094
 :SOURCE:   四庫全書 文淵閣版, V1372.3, p183
 :EXTENT: 30 卷
@@ -2198,8 +2296,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0099 [[mandoku:ZB4c0095.org][ZB4c0095]] 滄海遺珠
+*** KR4h0099 滄海遺珠-明-沐昂
 :PROPERTIES:
+:KR_ID: KR4h0099
 :CUSTOM_ID:  ZB4c0095
 :SOURCE:   四庫全書 文淵閣版, V1372.4, p441
 :EXTENT: 4 卷
@@ -2222,8 +2321,9 @@
       :BOOK:   (2)
       :END:
 
-*** KR4h0100 [[mandoku:ZB4c0096.org][ZB4c0096]] 元詩體要
+*** KR4h0100 元詩體要-明-宋公傳
 :PROPERTIES:
+:KR_ID: KR4h0100
 :CUSTOM_ID:  ZB4c0096
 :SOURCE:   四庫全書 文淵閣版, V1372.5, p491
 :EXTENT: 14 卷
@@ -2239,8 +2339,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0101 [[mandoku:ZB4c0097.org][ZB4c0097]] 中州名賢文表
+*** KR4h0101 中州名賢文表-明-劉昌
 :PROPERTIES:
+:KR_ID: KR4h0101
 :CUSTOM_ID:  ZB4c0097
 :SOURCE:   四庫全書 文淵閣版, V1373.1, p1
 :EXTENT: 30 卷
@@ -2264,8 +2365,9 @@
       :BOOK:   (18)
       :END:
 
-*** KR4h0102 [[mandoku:ZB4c0098.org][ZB4c0098]] 明文衡
+*** KR4h0102 明文衡-明-程敏政
 :PROPERTIES:
+:KR_ID: KR4h0102
 :CUSTOM_ID:  ZB4c0098
 :SOURCE:   四庫全書 文淵閣版, V1373.2, p483 - V1374.1
 :EXTENT: 100 卷
@@ -2282,8 +2384,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0103 [[mandoku:ZB4c0099.org][ZB4c0099]] 新安文獻志
+*** KR4h0103 新安文獻志-明-程敏政
 :PROPERTIES:
+:KR_ID: KR4h0103
 :CUSTOM_ID:  ZB4c0099
 :SOURCE:   四庫全書 文淵閣版, V1375.1, p1 - V1376.1
 :EXTENT: 100 卷
@@ -2307,8 +2410,9 @@
       :BOOK:   (42)
       :END:
 
-*** KR4h0104 [[mandoku:ZB4c0100.org][ZB4c0100]] 海岱會集
+*** KR4h0104 海岱會集-明-石存禮
 :PROPERTIES:
+:KR_ID: KR4h0104
 :CUSTOM_ID:  ZB4c0100
 :SOURCE:   四庫全書 文淵閣版, V1377.1, p1
 :EXTENT: 12 卷
@@ -2330,8 +2434,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0105 [[mandoku:ZB4c0101.org][ZB4c0101]] 經義模範
+*** KR4h0105 經義模範-明-闕名
 :PROPERTIES:
+:KR_ID: KR4h0105
 :CUSTOM_ID:  ZB4c0101
 :SOURCE:   四庫全書 文淵閣版, V1377.2, p79
 :EXTENT: 1 卷
@@ -2347,8 +2452,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0106 [[mandoku:ZB4c0102.org][ZB4c0102]] 文編
+*** KR4h0106 文編-明-唐順之
 :PROPERTIES:
+:KR_ID: KR4h0106
 :CUSTOM_ID:  ZB4c0102
 :SOURCE:   四庫全書 文淵閣版, V1377.3, p101 - V1378.1
 :EXTENT: 64 卷
@@ -2365,8 +2471,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0107 [[mandoku:ZB4c0103.org][ZB4c0103]] 古詩紀
+*** KR4h0107 古詩紀-明-馮惟訥
 :PROPERTIES:
+:KR_ID: KR4h0107
 :CUSTOM_ID:  ZB4c0103
 :SOURCE:   四庫全書 文淵閣版, V1379.1, p1 - V1380.1
 :EXTENT: 156 卷
@@ -2383,8 +2490,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0108 [[mandoku:ZB4c0104.org][ZB4c0104]] 詩紀匡謬
+*** KR4h0108 詩紀匡謬-清-馮舒
 :PROPERTIES:
+:KR_ID: KR4h0108
 :CUSTOM_ID:  ZB4c0104
 :SOURCE:   四庫全書 文淵閣版, V1380.2, p703
 :EXTENT: 1 卷
@@ -2401,8 +2509,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0109 [[mandoku:ZB4c0105.org][ZB4c0105]] 全蜀藝文志
+*** KR4h0109 全蜀藝文志-明-周復俊
 :PROPERTIES:
+:KR_ID: KR4h0109
 :CUSTOM_ID:  ZB4c0105
 :SOURCE:   四庫全書 文淵閣版, V1381.1, p1
 :EXTENT: 64 卷
@@ -2418,8 +2527,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0110 [[mandoku:ZB4c0106.org][ZB4c0106]] 古今詩刪
+*** KR4h0110 古今詩刪-明-李攀龍
 :PROPERTIES:
+:KR_ID: KR4h0110
 :CUSTOM_ID:  ZB4c0106
 :SOURCE:   四庫全書 文淵閣版, V1382.1, p1
 :EXTENT: 34 卷
@@ -2436,8 +2546,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0111 [[mandoku:ZB4c0107.org][ZB4c0107]] 唐宋元名表
+*** KR4h0111 唐宋元名表-明-胡松
 :PROPERTIES:
+:KR_ID: KR4h0111
 :CUSTOM_ID:  ZB4c0107
 :SOURCE:   四庫全書 文淵閣版, V1382.2, p291
 :EXTENT: 5 卷
@@ -2454,8 +2565,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0112 [[mandoku:ZB4c0108.org][ZB4c0108]] 文氏五家集
+*** KR4h0112 文氏五家集-明-文洪
 :PROPERTIES:
+:KR_ID: KR4h0112
 :CUSTOM_ID:  ZB4c0108
 :SOURCE:   四庫全書 文淵閣版, V1382.3, p421
 :EXTENT: 14 卷
@@ -2478,8 +2590,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0113 [[mandoku:ZB4c0109.org][ZB4c0109]] 宋藝圃集
+*** KR4h0113 宋藝圃集-明-李蓘
 :PROPERTIES:
+:KR_ID: KR4h0113
 :CUSTOM_ID:  ZB4c0109
 :SOURCE:   四庫全書 文淵閣版, V1382.4, p597
 :EXTENT: 22 卷
@@ -2495,8 +2608,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0114 [[mandoku:ZB4c0110.org][ZB4c0110]] 元藝圃集
+*** KR4h0114 元藝圃集-明-李蓘
 :PROPERTIES:
+:KR_ID: KR4h0114
 :CUSTOM_ID:  ZB4c0110
 :SOURCE:   四庫全書 文淵閣版, V1382.5, p941
 :EXTENT: 4 卷
@@ -2512,8 +2626,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0115 [[mandoku:ZB4c0111.org][ZB4c0111]] 唐宋八大家文鈔
+*** KR4h0115 唐宋八大家文鈔-明-茅坤
 :PROPERTIES:
+:KR_ID: KR4h0115
 :CUSTOM_ID:  ZB4c0111
 :SOURCE:   四庫全書 文淵閣版, V1383.1, p1 - V1384.1
 :EXTENT: 164 卷
@@ -2537,8 +2652,9 @@
       :BOOK:   (54)
       :END:
 
-*** KR4h0116 [[mandoku:ZB4c0112.org][ZB4c0112]] 吳都文粹續集
+*** KR4h0116 吳都文粹續集-明-錢穀
 :PROPERTIES:
+:KR_ID: KR4h0116
 :CUSTOM_ID:  ZB4c0112
 :SOURCE:   四庫全書 文淵閣版, V1385.1, p1 - V1386.1
 :EXTENT: 存54 卷
@@ -2562,8 +2678,9 @@
       :BOOK:   (32)
       :END:
 
-*** KR4h0117 [[mandoku:ZB4c0113.org][ZB4c0113]] 石倉歷代詩選
+*** KR4h0117 石倉歷代詩選-明-曹學佺
 :PROPERTIES:
+:KR_ID: KR4h0117
 :CUSTOM_ID:  ZB4c0113
 :SOURCE:   四庫全書 文淵閣版, V1387.1, p1 - V1394.1
 :EXTENT: 506 卷
@@ -2580,8 +2697,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0118 [[mandoku:ZB4c0114.org][ZB4c0114]] 四六法海
+*** KR4h0118 四六法海-明-王志堅
 :PROPERTIES:
+:KR_ID: KR4h0118
 :CUSTOM_ID:  ZB4c0114
 :SOURCE:   四庫全書 文淵閣版, V1394.2, p293
 :EXTENT: 12 卷
@@ -2598,8 +2716,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0119 [[mandoku:ZB4c0115.org][ZB4c0115]] 古樂苑
+*** KR4h0119 古樂苑-明-梅鼎祚
 :PROPERTIES:
+:KR_ID: KR4h0119
 :CUSTOM_ID:  ZB4c0115
 :SOURCE:   四庫全書 文淵閣版, V1395.1, p1
 :EXTENT: 52 卷
@@ -2623,15 +2742,16 @@
       :BOOK:   (26)
       :END:
 
-**** [[mandoku:ZB4c0115a.org][ZB4c0115a]] 衍錄
+**** 衍錄
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 4 卷
       :BOOK:   (26)
       :END:
 
-*** KR4h0120 [[mandoku:ZB4c0116.org][ZB4c0116]] 皇霸文紀
+*** KR4h0120 皇霸文紀-明-梅鼎祚
 :PROPERTIES:
+:KR_ID: KR4h0120
 :CUSTOM_ID:  ZB4c0116
 :SOURCE:   四庫全書 文淵閣版, V1396.1, p1
 :EXTENT: 13 卷
@@ -2648,8 +2768,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0121 [[mandoku:ZB4c0117.org][ZB4c0117]] 西漢文紀
+*** KR4h0121 西漢文紀-明-梅鼎祚
 :PROPERTIES:
+:KR_ID: KR4h0121
 :CUSTOM_ID:  ZB4c0117
 :SOURCE:   四庫全書 文淵閣版, V1396.2, p185
 :EXTENT: 24 卷
@@ -2666,8 +2787,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0122 [[mandoku:ZB4c0118.org][ZB4c0118]] 東漢文紀
+*** KR4h0122 東漢文紀-明-梅鼎祚
 :PROPERTIES:
+:KR_ID: KR4h0122
 :CUSTOM_ID:  ZB4c0118
 :SOURCE:   四庫全書 文淵閣版, V1397.1, p1
 :EXTENT: 32 卷
@@ -2684,8 +2806,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0123 [[mandoku:ZB4c0119.org][ZB4c0119]] 西晉文紀
+*** KR4h0123 西晉文紀-明-梅鼎祚
 :PROPERTIES:
+:KR_ID: KR4h0123
 :CUSTOM_ID:  ZB4c0119
 :SOURCE:   四庫全書 文淵閣版, V1398.1, p1
 :EXTENT: 20 卷
@@ -2702,8 +2825,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0124 [[mandoku:ZB4c0120.org][ZB4c0120]] 宋文紀
+*** KR4h0124 宋文紀-明-梅鼎祚
 :PROPERTIES:
+:KR_ID: KR4h0124
 :CUSTOM_ID:  ZB4c0120
 :SOURCE:   四庫全書 文淵閣版, V1398.2, p471
 :EXTENT: 18 卷
@@ -2720,8 +2844,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0125 [[mandoku:ZB4c0121.org][ZB4c0121]] 南齊文紀
+*** KR4h0125 南齊文紀-明-梅鼎祚
 :PROPERTIES:
+:KR_ID: KR4h0125
 :CUSTOM_ID:  ZB4c0121
 :SOURCE:   四庫全書 文淵閣版, V1399.1, p1
 :EXTENT: 10 卷
@@ -2738,8 +2863,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0126 [[mandoku:ZB4c0122.org][ZB4c0122]] 梁文紀
+*** KR4h0126 梁文紀-明-梅鼎祚
 :PROPERTIES:
+:KR_ID: KR4h0126
 :CUSTOM_ID:  ZB4c0122
 :SOURCE:   四庫全書 文淵閣版, V1399.2, p231
 :EXTENT: 14 卷
@@ -2756,8 +2882,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0127 [[mandoku:ZB4c0123.org][ZB4c0123]] 陳文紀
+*** KR4h0127 陳文紀-明-梅鼎祚
 :PROPERTIES:
+:KR_ID: KR4h0127
 :CUSTOM_ID:  ZB4c0123
 :SOURCE:   四庫全書 文淵閣版, V1399.3, p595
 :EXTENT: 8 卷
@@ -2774,8 +2901,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0128 [[mandoku:ZB4c0124.org][ZB4c0124]] 北齊文紀
+*** KR4h0128 北齊文紀-明-梅鼎祚
 :PROPERTIES:
+:KR_ID: KR4h0128
 :CUSTOM_ID:  ZB4c0124
 :SOURCE:   四庫全書 文淵閣版, V1400.1, p1
 :EXTENT: 3 卷
@@ -2792,8 +2920,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0129 [[mandoku:ZB4c0125.org][ZB4c0125]] 後周文紀
+*** KR4h0129 後周文紀-明-梅鼎祚
 :PROPERTIES:
+:KR_ID: KR4h0129
 :CUSTOM_ID:  ZB4c0125
 :SOURCE:   四庫全書 文淵閣版, V1400.2, p57
 :EXTENT: 8 卷
@@ -2810,8 +2939,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0130 [[mandoku:ZB4c0126.org][ZB4c0126]] 隋文紀
+*** KR4h0130 隋文紀-明-梅鼎祚
 :PROPERTIES:
+:KR_ID: KR4h0130
 :CUSTOM_ID:  ZB4c0126
 :SOURCE:   四庫全書 文淵閣版, V1400.3, p197
 :EXTENT: 8 卷
@@ -2828,8 +2958,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0131 [[mandoku:ZB4c0127.org][ZB4c0127]] 釋文紀
+*** KR4h0131 釋文紀-明-梅鼎祚
 :PROPERTIES:
+:KR_ID: KR4h0131
 :CUSTOM_ID:  ZB4c0127
 :SOURCE:   四庫全書 文淵閣版, V1400.4, p409 - V1401.1
 :EXTENT: 45 卷
@@ -2846,8 +2977,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0132 [[mandoku:ZB4c0128.org][ZB4c0128]] 文章辨體彙選
+*** KR4h0132 文章辨體彙選-明-賀復徵
 :PROPERTIES:
+:KR_ID: KR4h0132
 :CUSTOM_ID:  ZB4c0128
 :SOURCE:   四庫全書 文淵閣版, V1402.1, p1 - V1410.1
 :EXTENT: 存779 卷
@@ -2863,8 +2995,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0133 [[mandoku:ZB4c0129.org][ZB4c0129]] 古詩鏡
+*** KR4h0133 古詩鏡-明-陸時雍
 :PROPERTIES:
+:KR_ID: KR4h0133
 :CUSTOM_ID:  ZB4c0129
 :SOURCE:   四庫全書 文淵閣版, V1411.1, p1
 :EXTENT: 36 卷
@@ -2888,15 +3021,16 @@
       :BOOK:   (24)
       :END:
 
-**** [[mandoku:ZB4c0129a.org][ZB4c0129a]] 唐詩鏡
+**** 唐詩鏡
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 54 卷
       :BOOK:   (24)
       :END:
 
-*** KR4h0134 [[mandoku:ZB4c0130.org][ZB4c0130]] 漢魏六朝百三家集
+*** KR4h0134 漢魏六朝百三家集-明-張溥
 :PROPERTIES:
+:KR_ID: KR4h0134
 :CUSTOM_ID:  ZB4c0130
 :SOURCE:   四庫全書 文淵閣版, V1412.1, p1 - V1416.1
 :EXTENT: 118 卷
@@ -2913,8 +3047,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0135 [[mandoku:ZB4c0131.org][ZB4c0131]] 古今禪藻集
+*** KR4h0135 古今禪藻集-明-釋正勉
 :PROPERTIES:
+:KR_ID: KR4h0135
 :CUSTOM_ID:  ZB4c0131
 :SOURCE:   四庫全書 文淵閣版, V1416.2, p291
 :EXTENT: 28 卷
@@ -2936,8 +3071,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0136 [[mandoku:ZB4c0132.org][ZB4c0132]] 三家宮詞
+*** KR4h0136 三家宮詞-明-毛晉
 :PROPERTIES:
+:KR_ID: KR4h0136
 :CUSTOM_ID:  ZB4c0132
 :SOURCE:   四庫全書 文淵閣版, V1416.3, p665
 :EXTENT: 3 卷
@@ -2954,8 +3090,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0137 [[mandoku:ZB4c0133.org][ZB4c0133]] 二家宮詞
+*** KR4h0137 二家宮詞-明-毛晉
 :PROPERTIES:
+:KR_ID: KR4h0137
 :CUSTOM_ID:  ZB4c0133
 :SOURCE:   四庫全書 文淵閣版, V1416.4, p689
 :EXTENT: 2 卷
@@ -2972,8 +3109,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0138 [[mandoku:ZB4c0134.org][ZB4c0134]] 御選古文淵鑒
+*** KR4h0138 御選古文淵鑒-清-聖祖玄燁
 :PROPERTIES:
+:KR_ID: KR4h0138
 :CUSTOM_ID:  ZB4c0134
 :SOURCE:   四庫全書 文淵閣版, V1417.1, p1 - V1418.1
 :EXTENT: 64 卷
@@ -3003,8 +3141,9 @@
       :BOOK:   (54)
       :END:
 
-*** KR4h0139 [[mandoku:ZB4c0135.org][ZB4c0135]] 御定歷代賦彙
+*** KR4h0139 御定歷代賦彙-清-陳元龍
 :PROPERTIES:
+:KR_ID: KR4h0139
 :CUSTOM_ID:  ZB4c0135
 :SOURCE:   四庫全書 文淵閣版, V1419.1, p1 - V1422.1
 :EXTENT: 184 卷
@@ -3035,26 +3174,27 @@
       :BOOK:   (#)
       :END:
 
-**** [[mandoku:ZB4c0135a.org][ZB4c0135a]] 外集
+**** 外集
       :PROPERTIES:
       :EXTENT: (20) 卷
       :BOOK:   (15)
       :END:
 
-**** [[mandoku:ZB4c0135b.org][ZB4c0135b]] 逸句
+**** 逸句
       :PROPERTIES:
       :EXTENT: (2) 卷
       :BOOK:   (1)
       :END:
 
-**** [[mandoku:ZB4c0135c.org][ZB4c0135c]] 補遺
+**** 補遺
       :PROPERTIES:
       :EXTENT: (22) 卷
       :BOOK:   (12)
       :END:
 
-*** KR4h0140 [[mandoku:ZB4c0136.org][ZB4c0136]] 御定全唐詩
+*** KR4h0140 御定全唐詩-清-聖祖玄燁
 :PROPERTIES:
+:KR_ID: KR4h0140
 :CUSTOM_ID:  ZB4c0136
 :SOURCE:   四庫全書 文淵閣版, V1423.1, p1 - V1431.1
 :EXTENT: 900 卷
@@ -3084,8 +3224,9 @@
       :BOOK:   (254)
       :END:
 
-*** KR4h0141 [[mandoku:ZB4c0137.org][ZB4c0137]] 御定佩文齋詠物詩選
+*** KR4h0141 御定佩文齋詠物詩選-清-張玉書
 :PROPERTIES:
+:KR_ID: KR4h0141
 :CUSTOM_ID:  ZB4c0137
 :SOURCE:   四庫全書 文淵閣版, V1432.1, p1 - V1434.1
 :EXTENT: 486 卷
@@ -3115,8 +3256,9 @@
       :BOOK:   (70)
       :END:
 
-*** KR4h0142 [[mandoku:ZB4c0138.org][ZB4c0138]] 御定歷代題畫詩類
+*** KR4h0142 御定歷代題畫詩類-清-陳邦彥
 :PROPERTIES:
+:KR_ID: KR4h0142
 :CUSTOM_ID:  ZB4c0138
 :SOURCE:   四庫全書 文淵閣版, V1435.1, p1 - V1436.1
 :EXTENT: 120 卷
@@ -3141,8 +3283,9 @@
       :BOOK:   (38)
       :END:
 
-*** KR4h0143 [[mandoku:ZB4c0139.org][ZB4c0139]] 御選宋金元明四朝詩
+*** KR4h0143 御選宋金元明四朝詩-清-聖祖玄燁
 :PROPERTIES:
+:KR_ID: KR4h0143
 :CUSTOM_ID:  ZB4c0139
 :SOURCE:   四庫全書 文淵閣版, V1437.1, p1 - V1444.1
 :EXTENT: 317 卷
@@ -3165,7 +3308,7 @@
 
 **** 版本
 ***** WYG
-**** [[mandoku:ZB4c0139a.org][ZB4c0139a]] 御選宋詩
+**** 御選宋詩
       :PROPERTIES:
       :EXTENT: (78) 卷
       :BOOK:   (56)
@@ -3178,7 +3321,7 @@
       :BOOK:   (#)
       :END:
 
-**** [[mandoku:ZB4c0139b.org][ZB4c0139b]] 御選金詩
+**** 御選金詩
       :PROPERTIES:
       :EXTENT: (25) 卷
       :BOOK:   (16)
@@ -3191,7 +3334,7 @@
       :BOOK:   (#)
       :END:
 
-**** [[mandoku:ZB4c0139c.org][ZB4c0139c]] 御選元詩
+**** 御選元詩
       :PROPERTIES:
       :EXTENT: (81) 卷
       :BOOK:   (64)
@@ -3204,7 +3347,7 @@
       :BOOK:   (#)
       :END:
 
-**** [[mandoku:ZB4c0139d.org][ZB4c0139d]] 御選明詩
+**** 御選明詩
       :PROPERTIES:
       :EXTENT: (120) 卷
       :BOOK:   (96)
@@ -3217,8 +3360,9 @@
       :BOOK:   (#)
       :END:
 
-*** KR4h0144 [[mandoku:ZB4c0140.org][ZB4c0140]] 御訂全金詩增補中州集
+*** KR4h0144 御訂全金詩增補中州集-清-郭元釪
 :PROPERTIES:
+:KR_ID: KR4h0144
 :CUSTOM_ID:  ZB4c0140
 :SOURCE:   四庫全書 文淵閣版, V1445.1, p1
 :EXTENT: 72 卷
@@ -3255,8 +3399,9 @@
       :BOOK:   (40)
       :END:
 
-*** KR4h0145 [[mandoku:ZB4c0141.org][ZB4c0141]] 御選唐詩
+*** KR4h0145 御選唐詩-清-聖祖玄燁
 :PROPERTIES:
+:KR_ID: KR4h0145
 :CUSTOM_ID:  ZB4c0141
 :SOURCE:   四庫全書 文淵閣版, V1446.1, p1
 :EXTENT: 32 卷
@@ -3286,8 +3431,9 @@
       :BOOK:   (32)
       :END:
 
-*** KR4h0146 [[mandoku:ZB4c0142.org][ZB4c0142]] 御定千叟宴詩
+*** KR4h0146 御定千叟宴詩-清-聖祖玄燁
 :PROPERTIES:
+:KR_ID: KR4h0146
 :CUSTOM_ID:  ZB4c0142
 :SOURCE:   四庫全書 文淵閣版, V1447.1, p1
 :EXTENT: 4 卷
@@ -3305,8 +3451,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0147 [[mandoku:ZB4c0143.org][ZB4c0143]] 御選唐宋文醇
+*** KR4h0147 御選唐宋文醇-清-高宗弘曆
 :PROPERTIES:
+:KR_ID: KR4h0147
 :CUSTOM_ID:  ZB4c0143
 :SOURCE:   四庫全書 文淵閣版, V1447.2, p99
 :EXTENT: 58 卷
@@ -3331,8 +3478,9 @@
       :BOOK:   (30)
       :END:
 
-*** KR4h0148 [[mandoku:ZB4c0144.org][ZB4c0144]] 御選唐宋詩醇
+*** KR4h0148 御選唐宋詩醇-清-高宗弘曆
 :PROPERTIES:
+:KR_ID: KR4h0148
 :CUSTOM_ID:  ZB4c0144
 :SOURCE:   四庫全書 文淵閣版, V1448.1, p1
 :EXTENT: 47 卷
@@ -3359,8 +3507,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0149 [[mandoku:ZB4c0145.org][ZB4c0145]] 皇清文頴
+*** KR4h0149 皇清文頴-清-陳廷敬
 :PROPERTIES:
+:KR_ID: KR4h0149
 :CUSTOM_ID:  ZB4c0145
 :SOURCE:   四庫全書 文淵閣版, V1449.1, p1 - V1450.1
 :EXTENT: 100 卷
@@ -3398,8 +3547,9 @@
       :BOOK:   (68)
       :END:
 
-*** KR4h0150 [[mandoku:ZB4c0146.org][ZB4c0146]] 欽定四書文
+*** KR4h0150 欽定四書文-清-方苞
 :PROPERTIES:
+:KR_ID: KR4h0150
 :CUSTOM_ID:  ZB4c0146
 :SOURCE:   四庫全書 文淵閣版, V1451.1, p1
 :EXTENT: 41 卷
@@ -3416,38 +3566,39 @@
 
 **** 版本
 ***** WYG
-**** [[mandoku:ZB4c0146a.org][ZB4c0146a]] 化治四書文
+**** 化治四書文
       :PROPERTIES:
       :EXTENT: (6) 卷
       :BOOK:   (2)
       :END:
 
-**** [[mandoku:ZB4c0146b.org][ZB4c0146b]] 正嘉四書文
+**** 正嘉四書文
       :PROPERTIES:
       :EXTENT: (6) 卷
       :BOOK:   (4)
       :END:
 
-**** [[mandoku:ZB4c0146c.org][ZB4c0146c]] 隆萬四書文
+**** 隆萬四書文
       :PROPERTIES:
       :EXTENT: (6) 卷
       :BOOK:   (4)
       :END:
 
-**** [[mandoku:ZB4c0146d.org][ZB4c0146d]] 啟禎四書文
+**** 啟禎四書文
       :PROPERTIES:
       :EXTENT: (9) 卷
       :BOOK:   (8)
       :END:
 
-**** [[mandoku:ZB4c0146e.org][ZB4c0146e]] 本朝四書文
+**** 本朝四書文
       :PROPERTIES:
       :EXTENT: (14) 卷
       :BOOK:   (14)
       :END:
 
-*** KR4h0151 [[mandoku:ZB4c0147.org][ZB4c0147]] 欽定千叟宴詩
+*** KR4h0151 欽定千叟宴詩-清-高宗弘曆
 :PROPERTIES:
+:KR_ID: KR4h0151
 :CUSTOM_ID:  ZB4c0147
 :SOURCE:   四庫全書 文淵閣版, V1452.1, p1
 :EXTENT: 34 卷
@@ -3472,8 +3623,9 @@
       :BOOK:   (35)
       :END:
 
-*** KR4h0152 [[mandoku:ZB4c0148.org][ZB4c0148]] 明文海
+*** KR4h0152 明文海-清-黃宗羲
 :PROPERTIES:
+:KR_ID: KR4h0152
 :CUSTOM_ID:  ZB4c0148
 :SOURCE:   四庫全書 文淵閣版, V1453.1, p1 - V1458.1
 :EXTENT: 480 卷
@@ -3490,8 +3642,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0153 [[mandoku:ZB4c0149.org][ZB4c0149]] 唐賢三昧集
+*** KR4h0153 唐賢三昧集-清-王士禛
 :PROPERTIES:
+:KR_ID: KR4h0153
 :CUSTOM_ID:  ZB4c0149
 :SOURCE:   四庫全書 文淵閣版, V1459.1, p1
 :EXTENT: 3 卷
@@ -3508,8 +3661,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0154 [[mandoku:ZB4c0150.org][ZB4c0150]] 二家詩選
+*** KR4h0154 二家詩選-清-王士禛
 :PROPERTIES:
+:KR_ID: KR4h0154
 :CUSTOM_ID:  ZB4c0150
 :SOURCE:   四庫全書 文淵閣版, V1459.2, p61
 :EXTENT: 2 卷
@@ -3526,8 +3680,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0155 [[mandoku:ZB4c0151.org][ZB4c0151]] 唐人萬首絕句選
+*** KR4h0155 唐人萬首絕句選-宋-洪遂
 :PROPERTIES:
+:KR_ID: KR4h0155
 :CUSTOM_ID:  ZB4c0151
 :SOURCE:   四庫全書 文淵閣版, V1459.3, p85
 :EXTENT: 7 卷
@@ -3550,8 +3705,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0156 [[mandoku:ZB4c0152.org][ZB4c0152]] 明詩綜
+*** KR4h0156 明詩綜-清-朱彝尊
 :PROPERTIES:
+:KR_ID: KR4h0156
 :CUSTOM_ID:  ZB4c0152
 :SOURCE:   四庫全書 文淵閣版, V1459.4, p173 - V1460.1
 :EXTENT: 100 卷
@@ -3568,8 +3724,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0157 [[mandoku:ZB4c0153.org][ZB4c0153]] 宋詩鈔
+*** KR4h0157 宋詩鈔-清-吳之振
 :PROPERTIES:
+:KR_ID: KR4h0157
 :CUSTOM_ID:  ZB4c0153
 :SOURCE:   四庫全書 文淵閣版, V1461.1, p1 - V1462.1
 :EXTENT: 106 卷
@@ -3586,8 +3743,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0158 [[mandoku:ZB4c0154.org][ZB4c0154]] 宋元詩會
+*** KR4h0158 宋元詩會-清-陳焯
 :PROPERTIES:
+:KR_ID: KR4h0158
 :CUSTOM_ID:  ZB4c0154
 :SOURCE:   四庫全書 文淵閣版, V1463.1, p1 - V1464.1
 :EXTENT: 100 卷
@@ -3604,8 +3762,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0159 [[mandoku:ZB4c0155.org][ZB4c0155]] 粵西詩載
+*** KR4h0159 粵西詩載-清-汪森
 :PROPERTIES:
+:KR_ID: KR4h0159
 :CUSTOM_ID:  ZB4c0155
 :SOURCE:   四庫全書 文淵閣版, V1465.1, p1 - V1467.1
 :EXTENT: 25 卷
@@ -3622,22 +3781,23 @@
 
 **** 版本
 ***** WYG
-**** [[mandoku:ZB4c0155a.org][ZB4c0155a]] 粵西文載
+**** 粵西文載
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 75 卷
       :BOOK:   54
       :END:
 
-**** [[mandoku:ZB4c0155b.org][ZB4c0155b]] 粵西叢載
+**** 粵西叢載
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 30 卷
       :BOOK:   14
       :END:
 
-*** KR4h0160 [[mandoku:ZB4c0156.org][ZB4c0156]] 元詩選
+*** KR4h0160 元詩選-清-顧嗣立
 :PROPERTIES:
+:KR_ID: KR4h0160
 :CUSTOM_ID:  ZB4c0156
 :SOURCE:   四庫全書 文淵閣版, V1468.1, p1 - V1471.1
 :EXTENT: 111 卷
@@ -3667,20 +3827,21 @@
       :BOOK:   (#)
       :END:
 
-**** [[mandoku:ZB4c0156a.org][ZB4c0156a]] 二集
+**** 二集
       :PROPERTIES:
       :EXTENT: (26) 卷
       :BOOK:   (25)
       :END:
 
-**** [[mandoku:ZB4c0156b.org][ZB4c0156b]] 三集
+**** 三集
       :PROPERTIES:
       :EXTENT: (16) 卷
       :BOOK:   (14)
       :END:
 
-*** KR4h0161 [[mandoku:ZB4c0157.org][ZB4c0157]] 御定全唐詩錄
+*** KR4h0161 御定全唐詩錄-清-徐倬
 :PROPERTIES:
+:KR_ID: KR4h0161
 :CUSTOM_ID:  ZB4c0157
 :SOURCE:   四庫全書 文淵閣版, V1472.1, p1 - V1473.1
 :EXTENT: 100 卷
@@ -3703,8 +3864,9 @@
       :BOOK:   (54)
       :END:
 
-*** KR4h0162 [[mandoku:ZB4c0158.org][ZB4c0158]] 甬上耆舊詩
+*** KR4h0162 甬上耆舊詩-清-胡文學
 :PROPERTIES:
+:KR_ID: KR4h0162
 :CUSTOM_ID:  ZB4c0158
 :SOURCE:   四庫全書 文淵閣版, V1474.1, p1
 :EXTENT: 30 卷
@@ -3720,8 +3882,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0163 [[mandoku:ZB4c0159.org][ZB4c0159]] 檇李詩繫
+*** KR4h0163 檇李詩繫-清-沈季友
 :PROPERTIES:
+:KR_ID: KR4h0163
 :CUSTOM_ID:  ZB4c0159
 :SOURCE:   四庫全書 文淵閣版, V1475.1, p1
 :EXTENT: 42 卷
@@ -3737,8 +3900,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0164 [[mandoku:ZB4c0160.org][ZB4c0160]] 古文雅正
+*** KR4h0164 古文雅正-清-蔡世遠
 :PROPERTIES:
+:KR_ID: KR4h0164
 :CUSTOM_ID:  ZB4c0160
 :SOURCE:   四庫全書 文淵閣版, V1476.1, p1
 :EXTENT: 14 卷
@@ -3755,8 +3919,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0165 [[mandoku:ZB4c0161.org][ZB4c0161]] 鄱陽五家集
+*** KR4h0165 鄱陽五家集-清-史簡
 :PROPERTIES:
+:KR_ID: KR4h0165
 :CUSTOM_ID:  ZB4c0161
 :SOURCE:   四庫全書 文淵閣版, V1476.2, p267
 :EXTENT: 15 卷
@@ -3772,8 +3937,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0166 [[mandoku:ZB4c0162.org][ZB4c0162]] 南宋襍事詩
+*** KR4h0166 南宋襍事詩-清-沈嘉轍
 :PROPERTIES:
+:KR_ID: KR4h0166
 :CUSTOM_ID:  ZB4c0162
 :SOURCE:   四庫全書 文淵閣版, V1476.3, p489
 :EXTENT: 7 卷
@@ -3790,8 +3956,9 @@
 
 **** 版本
 ***** WYG
-*** KR4h0167 [[mandoku:ZB4c0163.org][ZB4c0163]] 宋百家詩存
+*** KR4h0167 宋百家詩存-清-曹庭棟
 :PROPERTIES:
+:KR_ID: KR4h0167
 :CUSTOM_ID:  ZB4c0163
 :SOURCE:   四庫全書 文淵閣版, V1477.1, p1
 :EXTENT: 40 卷
@@ -3809,8 +3976,9 @@
 **** 版本
 ***** WYG
 
-*** KR4h0168 全唐文
+*** KR4h0168 全唐文-清-周紹良
 :PROPERTIES:
+:KR_ID: KR4h0168
 :CUSTOM_ID:  QTW
 :SOURCE:   
 :EXTENT: 1000 卷

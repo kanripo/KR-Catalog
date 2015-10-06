@@ -1,14 +1,16 @@
 #-*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID
 ** KR1f ZB1f 孝經類
-*** KR1f0001 [[at:text/chant/H15-22-0082/H15-22-0082_001.txt][H15-22-0082]] 孝經(正文)
+*** KR1f0001 孝經(正文)--
     :PROPERTIES:
+:KR_ID: KR1f0001
     :CUSTOM_ID: H15-22-0082
     :SOURCE:   據清嘉慶二十年(1816)江西南昌府學重刊之宋本《孝經注疏》。
     :END:
 
-*** KR1f0002 SB11n010 孝經
+*** KR1f0002 孝經-唐-
 :PROPERTIES:
+:KR_ID: KR1f0002
 :TYPE:  text
 :CUSTOM_ID: SB11n010
 :EXTENT: 一卷
@@ -33,8 +35,9 @@
 
 **** 电子版
 [[krpimg:sbck/SB1/SB11n010/SB11n010_001-002.tif][冊 1]]
-*** KR1f0003 [[mandoku:ZB1f0001.org][ZB1f0001]] 古文孝經孔氏傳
+*** KR1f0003 古文孝經孔氏傳-漢-孔安國
 :PROPERTIES:
+:KR_ID: KR1f0003
 :CUSTOM_ID:  ZB1f0001
 :SOURCE:   四庫全書 文淵閣版, V182.1, p1
 :EXTENT: 1 卷
@@ -62,8 +65,9 @@
      :BOOK:   (1)
      :END:
 
-*** KR1f0004 [[mandoku:ZB1f0002.org][ZB1f0002]] 孝經注疏
+*** KR1f0004 孝經注疏-唐-玄宗
 :PROPERTIES:
+:KR_ID: KR1f0004
 :CUSTOM_ID:  ZB1f0002
 :SOURCE:   四庫全書 文淵閣版, V182.2, p23
 :EXTENT: 9 卷
@@ -104,8 +108,9 @@
      :BOOK:   (2)
      :END:
 
-*** KR1f0005 [[mandoku:ZB1f0003.org][ZB1f0003]] 孝經指解
+*** KR1f0005 孝經指解-唐-玄宗
 :PROPERTIES:
+:KR_ID: KR1f0005
 :CUSTOM_ID:  ZB1f0003
 :SOURCE:   四庫全書 文淵閣版, V182.3, p85
 :EXTENT: 1 卷
@@ -134,8 +139,9 @@
 
 **** 版本
 ***** WYG
-*** KR1f0006 [[mandoku:ZB1f0004.org][ZB1f0004]] 孝經刋誤
+*** KR1f0006 孝經刋誤-宋-朱熹
 :PROPERTIES:
+:KR_ID: KR1f0006
 :CUSTOM_ID:  ZB1f0004
 :SOURCE:   四庫全書 文淵閣版, V182.4, p103
 :EXTENT: 1 卷
@@ -151,8 +157,9 @@
 
 **** 版本
 ***** WYG
-*** KR1f0007 [[mandoku:ZB1f0005.org][ZB1f0005]] 孝經大義
+*** KR1f0007 孝經大義-元-董鼎
 :PROPERTIES:
+:KR_ID: KR1f0007
 :CUSTOM_ID:  ZB1f0005
 :SOURCE:   四庫全書 文淵閣版, V182.5, p111
 :EXTENT: 1 卷
@@ -168,8 +175,9 @@
 
 **** 版本
 ***** WYG
-*** KR1f0008 [[mandoku:ZB1f0006.org][ZB1f0006]] 孝經定本
+*** KR1f0008 孝經定本-元-吳澄
 :PROPERTIES:
+:KR_ID: KR1f0008
 :CUSTOM_ID:  ZB1f0006
 :SOURCE:   四庫全書 文淵閣版, V182.6, p127
 :EXTENT: 1 卷
@@ -185,8 +193,9 @@
 
 **** 版本
 ***** WYG
-*** KR1f0009 [[mandoku:ZB1f0007.org][ZB1f0007]] 孝經述註
+*** KR1f0009 孝經述註-明-項霦
 :PROPERTIES:
+:KR_ID: KR1f0009
 :CUSTOM_ID:  ZB1f0007
 :SOURCE:   四庫全書 文淵閣版, V182.7, p141
 :EXTENT: 1 卷
@@ -201,8 +210,9 @@
 
 **** 版本
 ***** WYG
-*** KR1f0010 [[mandoku:ZB1f0008.org][ZB1f0008]] 孝經集傳
+*** KR1f0010 孝經集傳-明-黃道周
 :PROPERTIES:
+:KR_ID: KR1f0010
 :CUSTOM_ID:  ZB1f0008
 :SOURCE:   四庫全書 文淵閣版, V182.8, p155
 :EXTENT: 4 卷
@@ -218,8 +228,9 @@
 
 **** 版本
 ***** WYG
-*** KR1f0011 [[mandoku:ZB1f0009.org][ZB1f0009]] 御定孝經注
+*** KR1f0011 御定孝經注-清-世祖
 :PROPERTIES:
+:KR_ID: KR1f0011
 :CUSTOM_ID:  ZB1f0009
 :SOURCE:   四庫全書 文淵閣版, V182.9, p255
 :EXTENT: 1 卷
@@ -241,8 +252,9 @@
 
 **** 版本
 ***** WYG
-*** KR1f0012 [[mandoku:ZB1f0010.org][ZB1f0010]] 御纂孝經集註
+*** KR1f0012 御纂孝經集註-清-世宗胤禎
 :PROPERTIES:
+:KR_ID: KR1f0012
 :CUSTOM_ID:  ZB1f0010
 :SOURCE:   四庫全書 文淵閣版, V182.10, p269
 :EXTENT: 1 卷
@@ -259,8 +271,9 @@
 
 **** 版本
 ***** WYG
-*** KR1f0013 [[mandoku:ZB1f0011.org][ZB1f0011]] 孝經問
+*** KR1f0013 孝經問-清-毛奇齡
 :PROPERTIES:
+:KR_ID: KR1f0013
 :CUSTOM_ID:  ZB1f0011
 :SOURCE:   四庫全書 文淵閣版, V182.11, p281
 :EXTENT: 1 卷

@@ -1,8 +1,9 @@
 # -*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID
 ** KR1g ZB1g 五經總義類
-*** KR1g0001 [[mandoku:ZB1g0001.org][ZB1g0001]] 駁五經異義
+*** KR1g0001 駁五經異義-漢-許愼
 :PROPERTIES:
+:KR_ID: KR1g0001
 :CUSTOM_ID:  ZB1g0001
 :SOURCE:   四庫全書 文淵閣版, V182.12, p295
 :EXTENT: 1 卷
@@ -31,8 +32,9 @@
      :BOOK:   (2)
      :END:
 
-*** KR1g0002 [[mandoku:ZB1g0002.org][ZB1g0002]] 鄭志
+*** KR1g0002 鄭志-魏-鄭小同
 :PROPERTIES:
+:KR_ID: KR1g0002
 :CUSTOM_ID:  ZB1g0002
 :SOURCE:   四庫全書 文淵閣版, V182.13, p325
 :EXTENT: 3 卷
@@ -48,8 +50,9 @@
 
 **** 版本
 ***** WYG
-*** KR1g0003 [[mandoku:ZB1g0003.org][ZB1g0003]] 經典釋文
+*** KR1g0003 經典釋文-唐-陸德明
 :PROPERTIES:
+:KR_ID: KR1g0003
 :CUSTOM_ID:  ZB1g0003
 :SOURCE:   四庫全書 文淵閣版, V182.14, p355
 :EXTENT: 30 卷
@@ -65,8 +68,9 @@
 
 **** 版本
 ***** WYG
-*** KR1g0004 [[mandoku:ZB1g0004.org][ZB1g0004]] 公是七經小傳
+*** KR1g0004 公是七經小傳-宋-劉敞
 :PROPERTIES:
+:KR_ID: KR1g0004
 :CUSTOM_ID:  ZB1g0004
 :SOURCE:   四庫全書 文淵閣版, V183.1, p1
 :EXTENT: 3 卷
@@ -82,8 +86,9 @@
 
 **** 版本
 ***** WYG
-*** KR1g0005 [[mandoku:ZB1g0005.org][ZB1g0005]] 程氏經說
+*** KR1g0005 程氏經說-宋-程頤
 :PROPERTIES:
+:KR_ID: KR1g0005
 :CUSTOM_ID:  ZB1g0005
 :SOURCE:   四庫全書 文淵閣版, V183.2, p45
 :EXTENT: 7 卷
@@ -99,8 +104,9 @@
 
 **** 版本
 ***** WYG
-*** KR1g0006 [[mandoku:ZB1g0006.org][ZB1g0006]] 六經圖
+*** KR1g0006 六經圖-宋-楊甲
 :PROPERTIES:
+:KR_ID: KR1g0006
 :CUSTOM_ID:  ZB1g0006
 :SOURCE:   四庫全書 文淵閣版, V183.3, p137
 :EXTENT: 10 卷
@@ -121,8 +127,9 @@
 
 **** 版本
 ***** WYG
-*** KR1g0007 [[mandoku:ZB1g0007.org][ZB1g0007]] 六經正誤
+*** KR1g0007 六經正誤-宋-毛居正
 :PROPERTIES:
+:KR_ID: KR1g0007
 :CUSTOM_ID:  ZB1g0007
 :SOURCE:   四庫全書 文淵閣版, V183.4, p455
 :EXTENT: 6 卷
@@ -137,8 +144,9 @@
 
 **** 版本
 ***** WYG
-*** KR1g0008 [[mandoku:ZB1g0008.org][ZB1g0008]] 九經三傳沿革例
+*** KR1g0008 九經三傳沿革例-宋-岳珂
 :PROPERTIES:
+:KR_ID: KR1g0008
 :CUSTOM_ID:  ZB1g0008
 :SOURCE:   四庫全書 文淵閣版, V183.5, p559
 :EXTENT: 1 卷
@@ -154,8 +162,9 @@
 
 **** 版本
 ***** WYG
-*** KR1g0009 [[mandoku:ZB1g0009.org][ZB1g0009]] 融堂四書管見
+*** KR1g0009 融堂四書管見-宋-錢時
 :PROPERTIES:
+:KR_ID: KR1g0009
 :CUSTOM_ID:  ZB1g0009
 :SOURCE:   四庫全書 文淵閣版, V183.6, p579
 :EXTENT: 13 卷
@@ -170,8 +179,9 @@
 
 **** 版本
 ***** WYG
-*** KR1g0010 [[mandoku:ZB1g0010.org][ZB1g0010]] 四如講稿
+*** KR1g0010 四如講稿-宋-黃仲元
 :PROPERTIES:
+:KR_ID: KR1g0010
 :CUSTOM_ID:  ZB1g0010
 :SOURCE:   四庫全書 文淵閣版, V183.7, p737
 :EXTENT: 6 卷
@@ -187,8 +197,9 @@
 
 **** 版本
 ***** WYG
-*** KR1g0011 [[mandoku:ZB1g0011.org][ZB1g0011]] 六經奧論
+*** KR1g0011 六經奧論-宋-鄭樵
 :PROPERTIES:
+:KR_ID: KR1g0011
 :CUSTOM_ID:  ZB1g0011
 :SOURCE:   四庫全書 文淵閣版, V184.1, p1
 :EXTENT: 6 卷
@@ -211,8 +222,9 @@
      :BOOK:   (5)
      :END:
 
-*** KR1g0012 [[mandoku:ZB1g0012.org][ZB1g0012]] 明本排字九經直音
+*** KR1g0012 明本排字九經直音--闕名
 :PROPERTIES:
+:KR_ID: KR1g0012
 :CUSTOM_ID:  ZB1g0012
 :SOURCE:   四庫全書 文淵閣版, V184.2, p123
 :EXTENT: 2 卷
@@ -226,8 +238,9 @@
 
 **** 版本
 ***** WYG
-*** KR1g0013 [[mandoku:ZB1g0013.org][ZB1g0013]] 五經說
+*** KR1g0013 五經說-元-熊明來
 :PROPERTIES:
+:KR_ID: KR1g0013
 :CUSTOM_ID:  ZB1g0013
 :SOURCE:   四庫全書 文淵閣版, V184.3, p245
 :EXTENT: 7 卷
@@ -243,8 +256,9 @@
 
 **** 版本
 ***** WYG
-*** KR1g0014 [[mandoku:ZB1g0014.org][ZB1g0014]] 十一經問對
+*** KR1g0014 十一經問對-元-何異孫
 :PROPERTIES:
+:KR_ID: KR1g0014
 :CUSTOM_ID:  ZB1g0014
 :SOURCE:   四庫全書 文淵閣版, V184.4, p343
 :EXTENT: 5 卷
@@ -259,8 +273,9 @@
 
 **** 版本
 ***** WYG
-*** KR1g0015 [[mandoku:ZB1g0015.org][ZB1g0015]] 五經蠡測
+*** KR1g0015 五經蠡測-明-蔣悌生
 :PROPERTIES:
+:KR_ID: KR1g0015
 :CUSTOM_ID:  ZB1g0015
 :SOURCE:   四庫全書 文淵閣版, V184.5, p433
 :EXTENT: 6 卷
@@ -275,8 +290,9 @@
 
 **** 版本
 ***** WYG
-*** KR1g0016 [[mandoku:ZB1g0016.org][ZB1g0016]] 簡端錄
+*** KR1g0016 簡端錄-明-邵寶
 :PROPERTIES:
+:KR_ID: KR1g0016
 :CUSTOM_ID:  ZB1g0016
 :SOURCE:   四庫全書 文淵閣版, V184.6, p539
 :EXTENT: 12 卷
@@ -292,8 +308,9 @@
 
 **** 版本
 ***** WYG
-*** KR1g0017 [[mandoku:ZB1g0017.org][ZB1g0017]] 五經稽疑
+*** KR1g0017 五經稽疑-明-朱睦㮮
 :PROPERTIES:
+:KR_ID: KR1g0017
 :CUSTOM_ID:  ZB1g0017
 :SOURCE:   四庫全書 文淵閣版, V184.7, p679
 :EXTENT: 8 卷
@@ -309,8 +326,9 @@
 
 **** 版本
 ***** WYG
-*** KR1g0018 [[mandoku:ZB1g0018.org][ZB1g0018]] 經典稽疑
+*** KR1g0018 經典稽疑-明-陳耀文
 :PROPERTIES:
+:KR_ID: KR1g0018
 :CUSTOM_ID:  ZB1g0018
 :SOURCE:   四庫全書 文淵閣版, V184.8, p779
 :EXTENT: 2 卷
@@ -326,8 +344,9 @@
 
 **** 版本
 ***** WYG
-*** KR1g0019 ZB1g0019 欽定繙譯五經四書
+*** KR1g0019 欽定繙譯五經四書-清-高宗弘曆
 :PROPERTIES:
+:KR_ID: KR1g0019
 :CUSTOM_ID:  ZB1g0019
 :SOURCE:   四庫全書 文淵閣版, V185.1, p1 - V189.1
 :EXTENT: 131 卷
@@ -431,8 +450,9 @@
      :BOOK:   (7)
      :END:
 
-*** KR1g0020 ZB1g0020 七經孟子考文補遺
+*** KR1g0020 七經孟子考文補遺-日本-山井鼎
 :PROPERTIES:
+:KR_ID: KR1g0020
 :CUSTOM_ID:  ZB1g0020
 :SOURCE:   四庫全書 文淵閣版, V190.1, p1
 :EXTENT: 200 卷
@@ -453,8 +473,9 @@
 
 **** 版本
 ***** WYG
-*** KR1g0021 ZB1g0021 九經誤字
+*** KR1g0021 九經誤字-清-顧炎武
 :PROPERTIES:
+:KR_ID: KR1g0021
 :CUSTOM_ID:  ZB1g0021
 :SOURCE:   四庫全書 文淵閣版, V191.1, p1
 :EXTENT: 1 卷
@@ -470,8 +491,9 @@
 
 **** 版本
 ***** WYG
-*** KR1g0022 ZB1g0022 經問
+*** KR1g0022 經問-清-毛奇齡
 :PROPERTIES:
+:KR_ID: KR1g0022
 :CUSTOM_ID:  ZB1g0022
 :SOURCE:   四庫全書 文淵閣版, V191.2, p7
 :EXTENT: 18 卷
@@ -500,8 +522,9 @@
      :FUNCTION: 輯
      :END:
 
-*** KR1g0023 ZB1g0023 十三經義疑
+*** KR1g0023 十三經義疑-清-吳浩
 :PROPERTIES:
+:KR_ID: KR1g0023
 :CUSTOM_ID:  ZB1g0023
 :SOURCE:   四庫全書 文淵閣版, V191.3, p251
 :EXTENT: 12 卷
@@ -516,8 +539,9 @@
 
 **** 版本
 ***** WYG
-*** KR1g0024 ZB1g0024 九經古義
+*** KR1g0024 九經古義-清-惠棟
 :PROPERTIES:
+:KR_ID: KR1g0024
 :CUSTOM_ID:  ZB1g0024
 :SOURCE:   四庫全書 文淵閣版, V191.4, p359
 :EXTENT: 16 卷
@@ -533,8 +557,9 @@
 
 **** 版本
 ***** WYG
-*** KR1g0025 ZB1g0025 經稗
+*** KR1g0025 經稗-清-鄭方坤
 :PROPERTIES:
+:KR_ID: KR1g0025
 :CUSTOM_ID:  ZB1g0025
 :SOURCE:   四庫全書 文淵閣版, V191.5, p503
 :EXTENT: 12 卷
@@ -550,8 +575,9 @@
 
 **** 版本
 ***** WYG
-*** KR1g0026 ZB1g0026 十三經注疏正字
+*** KR1g0026 十三經注疏正字-清-沈廷芳
 :PROPERTIES:
+:KR_ID: KR1g0026
 :CUSTOM_ID:  ZB1g0026
 :SOURCE:   四庫全書 文淵閣版, V192.1, p1
 :EXTENT: 81 卷
@@ -567,8 +593,9 @@
 
 **** 版本
 ***** WYG
-*** KR1g0027 ZB1g0027 朱子五經語類
+*** KR1g0027 朱子五經語類-清-程川
 :PROPERTIES:
+:KR_ID: KR1g0027
 :CUSTOM_ID:  ZB1g0027
 :SOURCE:   四庫全書 文淵閣版, V193.1, p1
 :EXTENT: 80 卷
@@ -613,8 +640,9 @@
      :BOOK:   (5)
      :END:
 
-*** KR1g0028 ZB1g0028 羣經補義
+*** KR1g0028 羣經補義-清-江永
 :PROPERTIES:
+:KR_ID: KR1g0028
 :CUSTOM_ID:  ZB1g0028
 :SOURCE:   四庫全書 文淵閣版, V194.1, p1
 :EXTENT: 5 卷
@@ -630,8 +658,9 @@
 
 **** 版本
 ***** WYG
-*** KR1g0029 ZB1g0029 經咫
+*** KR1g0029 經咫-清-陳祖范
 :PROPERTIES:
+:KR_ID: KR1g0029
 :CUSTOM_ID:  ZB1g0029
 :SOURCE:   四庫全書 文淵閣版, V194.2, p61
 :EXTENT: 1 卷
@@ -647,8 +676,9 @@
 
 **** 版本
 ***** WYG
-*** KR1g0030 ZB1g0030 九經辨字瀆蒙
+*** KR1g0030 九經辨字瀆蒙-清-沈炳震
 :PROPERTIES:
+:KR_ID: KR1g0030
 :CUSTOM_ID:  ZB1g0030
 :SOURCE:   四庫全書 文淵閣版, V194.3, p93
 :EXTENT: 12 卷
@@ -664,8 +694,9 @@
 
 **** 版本
 ***** WYG
-*** KR1g0031 ZB1g0031 古經解鉤沉
+*** KR1g0031 古經解鉤沉-清-余蕭客
 :PROPERTIES:
+:KR_ID: KR1g0031
 :CUSTOM_ID:  ZB1g0031
 :SOURCE:   四庫全書 文淵閣版, V194.4, p353
 :EXTENT: 30 卷
@@ -681,8 +712,9 @@
 
 **** 版本
 ***** WYG
-*** KR1g0032 ZB1g0032 古微書
+*** KR1g0032 古微書-明-孫瑴
 :PROPERTIES:
+:KR_ID: KR1g0032
 :CUSTOM_ID:  ZB1g0032
 :SOURCE:   四庫全書 文淵閣版, V194.5, p807
 :EXTENT: 36 卷

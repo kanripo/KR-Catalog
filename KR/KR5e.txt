@@ -1,7 +1,8 @@
 #-*- mode: org; -*-
 ** KR5e ZB5e 太平部
-*** KR5e0001 [[mandoku:ZB5e0001.org][ZB5e0001]] 太平經鈔
+*** KR5e0001 太平經鈔-唐-
 :PROPERTIES:
+:KR_ID: KR5e0001
 :CUSTOM_ID: ZB5e0001
 :TTC: 493 - 494
 :DZ: DZ1101b
@@ -22,8 +23,9 @@
 :SOURCE: CHANT V60
 :CUSTOM_ID: H11-06-0028
 :END:
-*** KR5e0002 [[mandoku:ZB5e0002.org][ZB5e0002]] 太平經
+*** KR5e0002 太平經-六朝-
 :PROPERTIES:
+:KR_ID: KR5e0002
 :CUSTOM_ID: ZB5e0002
 :TTC: 277 - 280
 :DZ: DZ1101a
@@ -39,8 +41,9 @@
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0003 [[mandoku:ZB5e0003.org][ZB5e0003]] 太平經復文序
+*** KR5e0003 太平經復文序--
 :PROPERTIES:
+:KR_ID: KR5e0003
 :CUSTOM_ID: ZB5e0003
 :TTC: 279
 :DZ: DZ1101c
@@ -55,8 +58,9 @@
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0004 [[mandoku:ZB5e0004.org][ZB5e0004]] 太平經聖君祕旨
+*** KR5e0004 太平經聖君祕旨-唐-
 :PROPERTIES:
+:KR_ID: KR5e0004
 :CUSTOM_ID: ZB5e0004
 :TTC: 494 - 495
 :DZ: DZ1102
@@ -72,8 +76,9 @@
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0005 [[mandoku:ZB5e0005.org][ZB5e0005]] 太上靈寶淨明洞神上品經
+*** KR5e0005 太上靈寶淨明洞神上品經--
 :PROPERTIES:
+:KR_ID: KR5e0005
 :CUSTOM_ID: ZB5e0005
 :TTC: 1123
 :DZ: DZ1103
@@ -88,8 +93,9 @@
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0006 [[mandoku:ZB5e0006.org][ZB5e0006]] 太上靈寶淨明玉真樞真經
+*** KR5e0006 太上靈寶淨明玉真樞真經--
 :PROPERTIES:
+:KR_ID: KR5e0006
 :CUSTOM_ID: ZB5e0006
 :TTC: 1123
 :DZ: DZ1104
@@ -104,8 +110,9 @@
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0007 [[mandoku:ZB5e0007.org][ZB5e0007]] 太上靈寶淨明道元正印經　　
+*** KR5e0007 太上靈寶淨明道元正印經--
 :PROPERTIES:
+:KR_ID: KR5e0007
 :CUSTOM_ID: ZB5e0007
 :TTC: 1123 - 1124
 :DZ: DZ1105
@@ -120,8 +127,9 @@
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0008 [[mandoku:ZB5e0008.org][ZB5e0008]] 太上靈寶淨明天尊說禦瘟經　
+*** KR5e0008 太上靈寶淨明天尊說禦瘟經--
 :PROPERTIES:
+:KR_ID: KR5e0008
 :CUSTOM_ID: ZB5e0008
 :TTC: 1124
 :DZ: DZ1106
@@ -136,8 +144,9 @@
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0009 [[mandoku:ZB5e0009.org][ZB5e0009]] 太上靈寶首入淨明四規明鑑經
+*** KR5e0009 太上靈寶首入淨明四規明鑑經--
 :PROPERTIES:
+:KR_ID: KR5e0009
 :CUSTOM_ID: ZB5e0009
 :TTC: 1124
 :DZ: DZ1107
@@ -152,8 +161,9 @@
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0010 [[mandoku:ZB5e0010.org][ZB5e0010]] 太上靈寶淨明九仙水經　　　
+*** KR5e0010 太上靈寶淨明九仙水經--
 :PROPERTIES:
+:KR_ID: KR5e0010
 :CUSTOM_ID: ZB5e0010
 :TTC: 1125
 :DZ: DZ1108
@@ -168,8 +178,9 @@
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0011 [[mandoku:ZB5e0011.org][ZB5e0011]] 太上靈寶淨明中黃八柱經
+*** KR5e0011 太上靈寶淨明中黃八柱經--
 :PROPERTIES:
+:KR_ID: KR5e0011
 :CUSTOM_ID: ZB5e0011
 :TTC: 1125
 :DZ: DZ1109
@@ -184,8 +195,9 @@
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0012 [[mandoku:ZB5e0012.org][ZB5e0012]] 淨明忠孝全書
+*** KR5e0012 淨明忠孝全書--黃元吉
 :PROPERTIES:
+:KR_ID: KR5e0012
 :CUSTOM_ID: ZB5e0012
 :TTC: 1125 - 1126
 :DZ: DZ1110
@@ -212,8 +224,9 @@
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0013 [[mandoku:ZB5e0013.org][ZB5e0013]] 太玄真一本際妙經
+*** KR5e0013 太玄真一本際妙經--
 :PROPERTIES:
+:KR_ID: KR5e0013
 :CUSTOM_ID: ZB5e0013
 :TTC: 520 - 521
 :DZ: DZ1111
@@ -229,8 +242,9 @@
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0014 [[mandoku:ZB5e0014.org][ZB5e0014]] 太上洞玄靈寶八仙王教誡經
+*** KR5e0014 太上洞玄靈寶八仙王教誡經-唐-
 :PROPERTIES:
+:KR_ID: KR5e0014
 :CUSTOM_ID: ZB5e0014
 :TTC: 553
 :DZ: DZ1112
@@ -262,8 +276,9 @@ DZJ0: [[dzjy:JY024/JY024_01.txt][JY024 洞玄靈寶八仙王教誡經 ]]
 ****** Comments
 
 
-*** KR5e0015 [[mandoku:ZB5e0015.org][ZB5e0015]] 太上洞玄靈寶國王行道經
+*** KR5e0015 太上洞玄靈寶國王行道經-唐-
 :PROPERTIES:
+:KR_ID: KR5e0015
 :CUSTOM_ID: ZB5e0015
 :TTC: 540 - 541
 :DZ: DZ1113
@@ -295,8 +310,9 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 ****** Comments
 
 
-*** KR5e0016 [[mandoku:ZB5e0016.org][ZB5e0016]] 太上洞玄靈寶本行宿緣經
+*** KR5e0016 太上洞玄靈寶本行宿緣經-六朝-
 :PROPERTIES:
+:KR_ID: KR5e0016
 :CUSTOM_ID: ZB5e0016
 :TTC: 239
 :DZ: DZ1114
@@ -312,8 +328,9 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0017 [[mandoku:ZB5e0017.org][ZB5e0017]] 太上洞玄靈寶本行因緣經
+*** KR5e0017 太上洞玄靈寶本行因緣經-六朝-
 :PROPERTIES:
+:KR_ID: KR5e0017
 :CUSTOM_ID: ZB5e0017
 :TTC: 240
 :DZ: DZ1115
@@ -329,8 +346,9 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0018 [[mandoku:ZB5e0018.org][ZB5e0018]] 洞玄靈寶太上真人問疾經
+*** KR5e0018 洞玄靈寶太上真人問疾經-唐-
 :PROPERTIES:
+:KR_ID: KR5e0018
 :CUSTOM_ID: ZB5e0018
 :TTC: 541 - 542
 :DZ: DZ1116
@@ -346,8 +364,9 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0019 [[mandoku:ZB5e0019.org][ZB5e0019]] 太極左仙公說神符經
+*** KR5e0019 太極左仙公說神符經--
 :PROPERTIES:
+:KR_ID: KR5e0019
 :CUSTOM_ID: ZB5e0019
 :TTC: 565
 :DZ: DZ1117
@@ -362,8 +381,9 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0020 [[mandoku:ZB5e0020.org][ZB5e0020]] 太上洞玄靈寶飛行三界通微內思妙經
+*** KR5e0020 太上洞玄靈寶飛行三界通微內思妙經-六朝-
 :PROPERTIES:
+:KR_ID: KR5e0020
 :CUSTOM_ID: ZB5e0020
 :TTC: 243 - 244
 :DZ: DZ1118
@@ -379,8 +399,9 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0021 [[mandoku:ZB5e0021.org][ZB5e0021]] 洞玄靈寶玄一真人說生死輪轉因緣經
+*** KR5e0021 洞玄靈寶玄一真人說生死輪轉因緣經-六朝-
 :PROPERTIES:
+:KR_ID: KR5e0021
 :CUSTOM_ID: ZB5e0021
 :TTC: 242
 :DZ: DZ1119
@@ -396,8 +417,9 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0022 [[mandoku:ZB5e0022.org][ZB5e0022]] 太上洞玄靈寶中和經
+*** KR5e0022 太上洞玄靈寶中和經-六朝-
 :PROPERTIES:
+:KR_ID: KR5e0022
 :CUSTOM_ID: ZB5e0022
 :TTC: 275
 :DZ: DZ1120
@@ -413,8 +435,9 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0023 [[mandoku:ZB5e0023.org][ZB5e0023]] 太上洞玄靈寶三十二天尊應號經
+*** KR5e0023 太上洞玄靈寶三十二天尊應號經-唐-
 :PROPERTIES:
+:KR_ID: KR5e0023
 :CUSTOM_ID: ZB5e0023
 :TTC: 570 - 571
 :DZ: DZ1121
@@ -430,8 +453,9 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0024 [[mandoku:ZB5e0024.org][ZB5e0024]] 太上靈寶昇玄內教經中和品述議疏
+*** KR5e0024 太上靈寶昇玄內教經中和品述議疏-六朝-
 :PROPERTIES:
+:KR_ID: KR5e0024
 :CUSTOM_ID: ZB5e0024
 :TTC: 276
 :DZ: DZ1122
@@ -447,8 +471,9 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0025 [[mandoku:ZB5e0025.org][ZB5e0025]] 一切道經音義妙門由起
+*** KR5e0025 一切道經音義妙門由起--史崇
 :PROPERTIES:
+:KR_ID: KR5e0025
 :CUSTOM_ID: ZB5e0025
 :TTC: 442 - 444
 :DZ: DZ1123
@@ -469,8 +494,9 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0026 [[mandoku:ZB5e0026.org][ZB5e0026]] 洞玄靈寶玄門大義
+*** KR5e0026 洞玄靈寶玄門大義--
 :PROPERTIES:
+:KR_ID: KR5e0026
 :CUSTOM_ID: ZB5e0026
 :TTC: 439 - 440
 :DZ: DZ1124
@@ -486,8 +512,9 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0027 [[mandoku:ZB5e0027.org][ZB5e0027]] 洞玄靈寶三洞奉道科戒營始
+*** KR5e0027 洞玄靈寶三洞奉道科戒營始-唐初期-金明七真
 :PROPERTIES:
+:KR_ID: KR5e0027
 :CUSTOM_ID: ZB5e0027
 :TTC: 451 - 453
 :DZ: DZ1125
@@ -507,8 +534,9 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0028 [[mandoku:ZB5e0028.org][ZB5e0028]] 洞玄靈寶道學科儀
+*** KR5e0028 洞玄靈寶道學科儀-唐-太極太虛真人
 :PROPERTIES:
+:KR_ID: KR5e0028
 :CUSTOM_ID: ZB5e0028
 :TTC: 464
 :DZ: DZ1126
@@ -529,8 +557,9 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0029 [[mandoku:ZB5e0029.org][ZB5e0029]] 陸先生道門科略
+*** KR5e0029 陸先生道門科略--陸修靜
 :PROPERTIES:
+:KR_ID: KR5e0029
 :CUSTOM_ID: ZB5e0029
 :TTC: 126 - 127
 :DZ: DZ1127
@@ -550,8 +579,9 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0030 [[mandoku:ZB5e0030.org][ZB5e0030]] 道門經法相承次序
+*** KR5e0030 道門經法相承次序--潘師正
 :PROPERTIES:
+:KR_ID: KR5e0030
 :CUSTOM_ID: ZB5e0030
 :TTC: 454
 :DZ: DZ1128
@@ -571,8 +601,9 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0031 [[mandoku:ZB5e0031.org][ZB5e0031]] 道教義樞
+*** KR5e0031 道教義樞--孟安排
 :PROPERTIES:
+:KR_ID: KR5e0031
 :CUSTOM_ID: ZB5e0031
 :TTC: 442
 :DZ: DZ1129
@@ -592,8 +623,9 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0032 [[mandoku:ZB5e0032.org][ZB5e0032]] 道典論
+*** KR5e0032 道典論-唐-
 :PROPERTIES:
+:KR_ID: KR5e0032
 :CUSTOM_ID: ZB5e0032
 :TTC: 445 - 446
 :DZ: DZ1130
@@ -609,8 +641,9 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0033 [[mandoku:ZB5e0033.org][ZB5e0033]] 太上妙法本相經
+*** KR5e0033 太上妙法本相經-唐初期-
 :PROPERTIES:
+:KR_ID: KR5e0033
 :CUSTOM_ID: ZB5e0033
 :TTC: 523 - 525
 :DZ: DZ1131
@@ -626,8 +659,9 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0034 [[mandoku:ZB5e0034.org][ZB5e0034]] 上清道類事相
+*** KR5e0034 上清道類事相--王懸河
 :PROPERTIES:
+:KR_ID: KR5e0034
 :CUSTOM_ID: ZB5e0034
 :TTC: 628 - 629
 :DZ: DZ1132
@@ -647,8 +681,9 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0035 [[mandoku:ZB5e0035.org][ZB5e0035]] 上方靈寶無極至道開化真經
+*** KR5e0035 上方靈寶無極至道開化真經--
 :PROPERTIES:
+:KR_ID: KR5e0035
 :CUSTOM_ID: ZB5e0035
 :TTC: 1222 - 1223
 :DZ: DZ1133
@@ -663,8 +698,9 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0036 [[mandoku:ZB5e0036.org][ZB5e0036]] 上方鈞天演範真經
+*** KR5e0036 上方鈞天演範真經--
 :PROPERTIES:
+:KR_ID: KR5e0036
 :CUSTOM_ID: ZB5e0036
 :TTC: 1223
 :DZ: DZ1134
@@ -679,8 +715,9 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0037 [[mandoku:ZB5e0037.org][ZB5e0037]] 太平兩同書
+*** KR5e0037 太平兩同書--羅隱
 :PROPERTIES:
+:KR_ID: KR5e0037
 :CUSTOM_ID: ZB5e0037
 :TTC: 314 - 316
 :DZ: DZ1135
@@ -701,8 +738,9 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0038 [[mandoku:ZB5e0038.org][ZB5e0038]] 洞玄靈寶左玄論
+*** KR5e0038 洞玄靈寶左玄論--
 :PROPERTIES:
+:KR_ID: KR5e0038
 :CUSTOM_ID: ZB5e0038
 :TTC: 446
 :DZ: DZ1136
@@ -718,8 +756,9 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0039 [[mandoku:ZB5e0039.org][ZB5e0039]] 上清太玄鑑誡論
+*** KR5e0039 上清太玄鑑誡論-金-侯善淵
 :PROPERTIES:
+:KR_ID: KR5e0039
 :CUSTOM_ID: ZB5e0039
 :TTC: 927
 :DZ: DZ1137
@@ -740,8 +779,9 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0040 [[mandoku:ZB5e0040.org][ZB5e0040]] 無上祕要
+*** KR5e0040 無上祕要--
 :PROPERTIES:
+:KR_ID: KR5e0040
 :CUSTOM_ID: ZB5e0040
 :TTC: 118 - 119
 :DZ: DZ1138
@@ -757,8 +797,9 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0041 [[mandoku:ZB5e0041.org][ZB5e0041]] 三洞珠囊
+*** KR5e0041 三洞珠囊--王懸河
 :PROPERTIES:
+:KR_ID: KR5e0041
 :CUSTOM_ID: ZB5e0041
 :TTC: 440 - 441
 :DZ: DZ1139
@@ -780,8 +821,9 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0042 [[mandoku:ZB5e0042.org][ZB5e0042]] 雲山集
+*** KR5e0042 雲山集--姬志真
 :PROPERTIES:
+:KR_ID: KR5e0042
 :CUSTOM_ID: ZB5e0042
 :TTC: 1152
 :DZ: DZ1140
@@ -827,8 +869,9 @@ DZJ0: [[dzjy:JY221/JY221_01.txt][JY221 雲山集 ]]
 ****** Comments
 
 
-*** KR5e0043 [[mandoku:ZB5e0043.org][ZB5e0043]] 仙樂集
+*** KR5e0043 仙樂集--劉處玄
 :PROPERTIES:
+:KR_ID: KR5e0043
 :CUSTOM_ID: ZB5e0043
 :TTC: 1152 - 1153
 :DZ: DZ1141
@@ -865,8 +908,9 @@ DZJ0: [[dzjy:JY196/JY196_01.txt][JY196 仙樂集 ]]
 ****** Comments
 
 
-*** KR5e0044 [[mandoku:ZB5e0044.org][ZB5e0044]] 漸悟集
+*** KR5e0044 漸悟集--馬丹陽
 :PROPERTIES:
+:KR_ID: KR5e0044
 :CUSTOM_ID: ZB5e0044
 :TTC: 1153
 :DZ: DZ1142
@@ -902,8 +946,9 @@ DZJ0: [[dzjy:JY200/JY200_01.txt][JY200 漸悟集 ]]
 ****** Comments
 
 
-*** KR5e0045 [[mandoku:ZB5e0045.org][ZB5e0045]] 草堂集
+*** KR5e0045 草堂集--王丹桂
 :PROPERTIES:
+:KR_ID: KR5e0045
 :CUSTOM_ID: ZB5e0045
 :TTC: 1153 - 1154
 :DZ: DZ1143
@@ -941,8 +986,9 @@ DZJ0: [[dzjy:JY222/JY222_01.txt][JY222 草堂集 ]]
 ****** Comments
 
 
-*** KR5e0046 [[mandoku:ZB5e0046.org][ZB5e0046]] 自然集
+*** KR5e0046 自然集-元-
 :PROPERTIES:
+:KR_ID: KR5e0046
 :CUSTOM_ID: ZB5e0046
 :TTC: 1154
 :DZ: DZ1144
@@ -974,8 +1020,9 @@ DZJ0: [[dzjy:JY223/JY223_01.txt][JY223 自然集 ]]
 ****** Comments
 
 
-*** KR5e0047 [[mandoku:ZB5e0047.org][ZB5e0047]] 玄虛子鳴真集
+*** KR5e0047 玄虛子鳴真集--玄沖師
 :PROPERTIES:
+:KR_ID: KR5e0047
 :CUSTOM_ID: ZB5e0047
 :TTC: 1154
 :DZ: DZ1145
@@ -1015,8 +1062,9 @@ DZJ0: [[dzjy:JY224/JY224_01.txt][JY224 鳴真集 ]]
 ****** Comments
 
 
-*** KR5e0048 [[mandoku:ZB5e0048.org][ZB5e0048]] 葆光集
+*** KR5e0048 葆光集--尹志平
 :PROPERTIES:
+:KR_ID: KR5e0048
 :CUSTOM_ID: ZB5e0048
 :TTC: 1155
 :DZ: DZ1146
@@ -1060,8 +1108,9 @@ DZJ0: [[dzjy:JY207/JY207_01.txt][JY207 葆光集 ]]
 ****** Comments
 
 
-*** KR5e0049 [[mandoku:ZB5e0049.org][ZB5e0049]] 西雲集
+*** KR5e0049 西雲集--郭志誠
 :PROPERTIES:
+:KR_ID: KR5e0049
 :CUSTOM_ID: ZB5e0049
 :TTC: 1156
 :DZ: DZ1147
@@ -1098,8 +1147,9 @@ DZJ0: [[dzjy:JY225/JY225_01.txt][JY225 西雲集 ]]
 ****** Comments
 
 
-*** KR5e0050 [[mandoku:ZB5e0050.org][ZB5e0050]] 勿齋先生文集
+*** KR5e0050 勿齋先生文集--楊至質
 :PROPERTIES:
+:KR_ID: KR5e0050
 :CUSTOM_ID: ZB5e0050
 :TTC: 937 - 938
 :DZ: DZ1148
@@ -1121,8 +1171,9 @@ DZJ0: [[dzjy:JY225/JY225_01.txt][JY225 西雲集 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0051 [[mandoku:ZB5e0051.org][ZB5e0051]] 洞玄金玉集　　　　　　
+*** KR5e0051 洞玄金玉集--馬丹陽
 :PROPERTIES:
+:KR_ID: KR5e0051
 :CUSTOM_ID: ZB5e0051
 :TTC: 1157
 :DZ: DZ1149
@@ -1159,8 +1210,9 @@ DZJ0: [[dzjy:JY199/JY199_01.txt][JY199 洞玄金玉集 ]]
 ****** Comments
 
 
-*** KR5e0052 [[mandoku:ZB5e0052.org][ZB5e0052]] 丹陽神光燦
+*** KR5e0052 丹陽神光燦--馬鈺
 :PROPERTIES:
+:KR_ID: KR5e0052
 :CUSTOM_ID: ZB5e0052
 :TTC: 1157
 :DZ: DZ1150
@@ -1200,8 +1252,9 @@ DZJ0: [[dzjy:JY201/JY201_01.txt][JY201 丹陽神光燦 ]]
 ****** Comments
 
 
-*** KR5e0053 [[mandoku:ZB5e0053.org][ZB5e0053]] 悟真集
+*** KR5e0053 悟真集--李先生
 :PROPERTIES:
+:KR_ID: KR5e0053
 :CUSTOM_ID: ZB5e0053
 :TTC: 1158
 :DZ: DZ1151
@@ -1222,8 +1275,9 @@ DZJ0: [[dzjy:JY201/JY201_01.txt][JY201 丹陽神光燦 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0054 [[mandoku:ZB5e0054.org][ZB5e0054]] 雲光集　　
+*** KR5e0054 雲光集--王處一
 :PROPERTIES:
+:KR_ID: KR5e0054
 :CUSTOM_ID: ZB5e0054
 :TTC: 1143 - 1144
 :DZ: DZ1152
@@ -1259,8 +1313,9 @@ DZJ0: [[dzjy:JY206/JY206_01.txt][JY206 雲光集 ]]
 ****** Comments
 
 
-*** KR5e0055 [[mandoku:ZB5e0055.org][ZB5e0055]] 重陽全真集
+*** KR5e0055 重陽全真集--王嚞
 :PROPERTIES:
+:KR_ID: KR5e0055
 :CUSTOM_ID: ZB5e0055
 :TTC: 1158 - 1159
 :DZ: DZ1153
@@ -1304,8 +1359,9 @@ SEC 1 seems to be at the wrong position, most part is missing, in the file this 
 <pb:CK-KZ_JY187_p0004a>¶
 but <pb:CK-KZ_JY187_p0003a> seems to be 3a of SEC 1...¶
 
-*** KR5e0056 [[mandoku:ZB5e0056.org][ZB5e0056]] 重陽教化集
+*** KR5e0056 重陽教化集--王嚞
 :PROPERTIES:
+:KR_ID: KR5e0056
 :CUSTOM_ID: ZB5e0056
 :TTC: 1159
 :DZ: DZ1154
@@ -1342,8 +1398,9 @@ DZJ0: [[dzjy:JY188/JY188_01.txt][JY188 重陽教化集 ]]
 ****** Comments
 
 
-*** KR5e0057 [[mandoku:ZB5e0057.org][ZB5e0057]] 重陽分梨十化集　　　
+*** KR5e0057 重陽分梨十化集--王嚞
 :PROPERTIES:
+:KR_ID: KR5e0057
 :CUSTOM_ID: ZB5e0057
 :TTC: 1159 - 1160
 :DZ: DZ1155
@@ -1384,8 +1441,9 @@ DZJ0: [[dzjy:JY189/JY189_01.txt][JY189 重陽分梨十化集 ]]
 ****** Comments
 
 
-*** KR5e0058 [[mandoku:ZB5e0058.org][ZB5e0058]] 重陽真人金關玉鎖訣
+*** KR5e0058 重陽真人金關玉鎖訣--王嚞
 :PROPERTIES:
+:KR_ID: KR5e0058
 :CUSTOM_ID: ZB5e0058
 :TTC: 1185
 :DZ: DZ1156
@@ -1405,8 +1463,9 @@ DZJ0: [[dzjy:JY189/JY189_01.txt][JY189 重陽分梨十化集 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0059 [[mandoku:ZB5e0059.org][ZB5e0059]] 馬自然金丹口訣　
+*** KR5e0059 馬自然金丹口訣--馬自然
 :PROPERTIES:
+:KR_ID: KR5e0059
 :CUSTOM_ID: ZB5e0059
 :TTC: 782
 :DZ: DZ1157
@@ -1426,8 +1485,9 @@ DZJ0: [[dzjy:JY189/JY189_01.txt][JY189 重陽分梨十化集 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0060 [[mandoku:ZB5e0060.org][ZB5e0060]] 重陽真人授丹陽二十四訣　　　
+*** KR5e0060 重陽真人授丹陽二十四訣--
 :PROPERTIES:
+:KR_ID: KR5e0060
 :CUSTOM_ID: ZB5e0060
 :TTC: 1160
 :DZ: DZ1158
@@ -1443,8 +1503,9 @@ DZJ0: [[dzjy:JY189/JY189_01.txt][JY189 重陽分梨十化集 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0061 [[mandoku:ZB5e0061.org][ZB5e0061]] 磻溪集　　
+*** KR5e0061 磻溪集--丘處機
 :PROPERTIES:
+:KR_ID: KR5e0061
 :CUSTOM_ID: ZB5e0061
 :TTC: 1160 - 1161
 :DZ: DZ1159
@@ -1481,8 +1542,9 @@ DZJ0: [[dzjy:JY195/JY195_01.txt][JY195 磻溪集 ]]
 ****** Comments
 
 
-*** KR5e0062 [[mandoku:ZB5e0062.org][ZB5e0062]] 水雲集
+*** KR5e0062 水雲集--譚處端
 :PROPERTIES:
+:KR_ID: KR5e0062
 :CUSTOM_ID: ZB5e0062
 :TTC: 1167
 :DZ: DZ1160
@@ -1519,8 +1581,9 @@ DZJ0: [[dzjy:JY198/JY198_01.txt][JY198 水雲集 ]]
 ****** Comments
 
 
-*** KR5e0063 [[mandoku:ZB5e0063.org][ZB5e0063]] 太古集　
+*** KR5e0063 太古集--郝大通
 :PROPERTIES:
+:KR_ID: KR5e0063
 :CUSTOM_ID: ZB5e0063
 :TTC: 1161
 :DZ: DZ1161
@@ -1564,8 +1627,9 @@ DZJ0: [[dzjy:JY205/JY205_01.txt][JY205 太古集 ]]
 ****** Comments
 
 
-*** KR5e0064 [[mandoku:ZB5e0064.org][ZB5e0064]] 孫真人備急千金要方目錄
+*** KR5e0064 孫真人備急千金要方目錄--
 :PROPERTIES:
+:KR_ID: KR5e0064
 :CUSTOM_ID: ZB5e0064
 :TTC: 339
 :DZ: DZ1162
@@ -1577,8 +1641,9 @@ PROPERROR xx DZ1162 xx x 孫真人備急千金要方目錄
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0065 [[mandoku:ZB5e0065.org][ZB5e0065]] 孫真人備急千金要方　　　　
+*** KR5e0065 孫真人備急千金要方--孫思邈
 :PROPERTIES:
+:KR_ID: KR5e0065
 :CUSTOM_ID: ZB5e0065
 :TTC: 339 - 340
 :DZ: DZ1163
@@ -1619,8 +1684,9 @@ DZJ0: [[dzjy:JY147/JY147_01.txt][JY147 孫真人備急千金要方 ]]
 ****** Comments
 
 
-*** KR5e0066 [[mandoku:ZB5e0066.org][ZB5e0066]] 急救仙方
+*** KR5e0066 急救仙方--
 :PROPERTIES:
+:KR_ID: KR5e0066
 :CUSTOM_ID: ZB5e0066
 :TTC: 774 - 777
 :DZ: DZ1164
@@ -1636,8 +1702,9 @@ DZJ0: [[dzjy:JY147/JY147_01.txt][JY147 孫真人備急千金要方 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0067 [[mandoku:ZB5e0067.org][ZB5e0067]] 仙傳外科祕方
+*** KR5e0067 仙傳外科祕方--趙宜真
 :PROPERTIES:
+:KR_ID: KR5e0067
 :CUSTOM_ID: ZB5e0067
 :TTC: 777 - 779
 :DZ: DZ1165
@@ -1663,8 +1730,9 @@ DZJ0: [[dzjy:JY147/JY147_01.txt][JY147 孫真人備急千金要方 ]]
 **** 版本
 ***** SJB
 ***** ZHDZ
-*** KR5e0068 [[mandoku:ZB5e0068.org][ZB5e0068]] 法海遺珠　
+*** KR5e0068 法海遺珠-明-
 :PROPERTIES:
+:KR_ID: KR5e0068
 :CUSTOM_ID: ZB5e0068
 :TTC: 1090 - 1091
 :DZ: DZ1166

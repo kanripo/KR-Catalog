@@ -1,8 +1,9 @@
 #-*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID
 ** KR3d ZB3d 農家類
-*** KR3d0001 [[mandoku:ZB3c0009.org][ZB3c0009]] 齊民要術
+*** KR3d0001 齊民要術-後魏-賈思勰
 :PROPERTIES:
+:KR_ID: KR3d0001
 :CUSTOM_ID:  ZB3c0009
 :SOURCE:   四庫全書 文淵閣版, V730.1, p1
 :EXTENT: 10 卷
@@ -27,8 +28,9 @@
 # *** ZB3c0009a	南華真經義海纂微
 # *** ZB3c0009b	周易參同契解
 # *** ZB3c0009c	莊子翼
-*** KR3d0002 [[mandoku:ZB3d0001.org][ZB3d0001]] 農書
+*** KR3d0002 農書-宋-陳旉
 :PROPERTIES:
+:KR_ID: KR3d0002
 :CUSTOM_ID:  ZB3d0001
 :SOURCE:   四庫全書 文淵閣版, V730.2, p169
 :EXTENT: 3 卷
@@ -57,8 +59,9 @@
      :FUNCTION: 撰
      :END:
 
-*** KR3d0003 [[mandoku:ZB3d0003.org][ZB3d0003]] 農桑輯要
+*** KR3d0003 農桑輯要-元-司農司
 :PROPERTIES:
+:KR_ID: KR3d0003
 :CUSTOM_ID:  ZB3d0003
 :SOURCE:   四庫全書 文淵閣版, V730.3, p195
 :EXTENT: 7 卷
@@ -73,8 +76,9 @@
 
 **** 版本
 ***** WYG
-*** KR3d0004 [[mandoku:ZB3d0004.org][ZB3d0004]] 農桑衣食撮要
+*** KR3d0004 農桑衣食撮要-元-魯明善
 :PROPERTIES:
+:KR_ID: KR3d0004
 :CUSTOM_ID:  ZB3d0004
 :SOURCE:   四庫全書 文淵閣版, V730.4, p291
 :EXTENT: 2 卷
@@ -90,8 +94,9 @@
 
 **** 版本
 ***** WYG
-*** KR3d0005 [[mandoku:ZB3d0005.org][ZB3d0005]] 農書
+*** KR3d0005 農書-元-王禎
 :PROPERTIES:
+:KR_ID: KR3d0005
 :CUSTOM_ID:  ZB3d0005
 :SOURCE:   四庫全書 文淵閣版, V730.5, p315
 :EXTENT: 22 卷
@@ -107,8 +112,9 @@
 
 **** 版本
 ***** WYG
-*** KR3d0006 [[mandoku:ZB3d0006.org][ZB3d0006]] 救荒本草
+*** KR3d0006 救荒本草-明-朱橚
 :PROPERTIES:
+:KR_ID: KR3d0006
 :CUSTOM_ID:  ZB3d0006
 :SOURCE:   四庫全書 文淵閣版, V730.6, p609
 :EXTENT: 8 卷
@@ -124,8 +130,9 @@
 
 **** 版本
 ***** WYG
-*** KR3d0007 [[mandoku:ZB3d0007.org][ZB3d0007]] 農政全書
+*** KR3d0007 農政全書-明-徐光啟
 :PROPERTIES:
+:KR_ID: KR3d0007
 :CUSTOM_ID:  ZB3d0007
 :SOURCE:   四庫全書 文淵閣版, V731.1, p1
 :EXTENT: 60 卷
@@ -141,8 +148,9 @@
 
 **** 版本
 ***** WYG
-*** KR3d0008 [[mandoku:ZB3d0008.org][ZB3d0008]] 秦西水法
+*** KR3d0008 秦西水法-明-西洋熊三拔
 :PROPERTIES:
+:KR_ID: KR3d0008
 :CUSTOM_ID:  ZB3d0008
 :SOURCE:   四庫全書 文淵閣版, V731.2, p931
 :EXTENT: 6 卷
@@ -158,8 +166,9 @@
 
 **** 版本
 ***** WYG
-*** KR3d0009 [[mandoku:ZB3d0009.org][ZB3d0009]] 野菜博錄
+*** KR3d0009 野菜博錄-明-鮑山
 :PROPERTIES:
+:KR_ID: KR3d0009
 :CUSTOM_ID:  ZB3d0009
 :SOURCE:   四庫全書 文淵閣版, V731.3, p979
 :EXTENT: 4 卷
@@ -174,8 +183,9 @@
 
 **** 版本
 ***** WYG
-*** KR3d0010 [[mandoku:ZB3d0010.org][ZB3d0010]] 欽定授時通考
+*** KR3d0010 欽定授時通考-清-鄂爾泰
 :PROPERTIES:
+:KR_ID: KR3d0010
 :CUSTOM_ID:  ZB3d0010
 :SOURCE:   四庫全書 文淵閣版, V732.1, p1
 :EXTENT: 78 卷

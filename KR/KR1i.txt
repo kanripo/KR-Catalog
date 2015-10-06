@@ -1,8 +1,9 @@
 #-*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID
 ** KR1i ZB1i 樂類
-*** KR1i0001 ZB1i0001 皇祐新樂圖記
+*** KR1i0001 皇祐新樂圖記-宋-阮逸
 :PROPERTIES:
+:KR_ID: KR1i0001
 :CUSTOM_ID:  ZB1i0001
 :SOURCE:   四庫全書 文淵閣版, V211.1, p1
 :EXTENT: 3 卷
@@ -24,8 +25,9 @@
 
 **** 版本
 ***** WYG
-*** KR1i0002 ZB1i0002 樂書
+*** KR1i0002 樂書-宋-陳暘
 :PROPERTIES:
+:KR_ID: KR1i0002
 :CUSTOM_ID:  ZB1i0002
 :SOURCE:   四庫全書 文淵閣版, V211.2, p23
 :EXTENT: 200 卷
@@ -40,8 +42,9 @@
 
 **** 版本
 ***** WYG
-*** KR1i0003 ZB1i0003 律呂新書
+*** KR1i0003 律呂新書-宋-蔡元定
 :PROPERTIES:
+:KR_ID: KR1i0003
 :CUSTOM_ID:  ZB1i0003
 :SOURCE:   四庫全書 文淵閣版, V212.1, p1
 :EXTENT: 2 卷
@@ -57,8 +60,9 @@
 
 **** 版本
 ***** WYG
-*** KR1i0004 ZB1i0004 瑟譜
+*** KR1i0004 瑟譜-元-熊朋來
 :PROPERTIES:
+:KR_ID: KR1i0004
 :CUSTOM_ID:  ZB1i0004
 :SOURCE:   四庫全書 文淵閣版, V212.2, p49
 :EXTENT: 6 卷
@@ -74,8 +78,9 @@
 
 **** 版本
 ***** WYG
-*** KR1i0005 ZB1i0005 韶舞九成樂補
+*** KR1i0005 韶舞九成樂補-元-余載
 :PROPERTIES:
+:KR_ID: KR1i0005
 :CUSTOM_ID:  ZB1i0005
 :SOURCE:   四庫全書 文淵閣版, V212.3, p93
 :EXTENT: 1 卷
@@ -91,8 +96,9 @@
 
 **** 版本
 ***** WYG
-*** KR1i0006 ZB1i0006 律呂成書
+*** KR1i0006 律呂成書-元-劉瑾
 :PROPERTIES:
+:KR_ID: KR1i0006
 :CUSTOM_ID:  ZB1i0006
 :SOURCE:   四庫全書 文淵閣版, V212.4, p115
 :EXTENT: 2 卷
@@ -108,8 +114,9 @@
 
 **** 版本
 ***** WYG
-*** KR1i0007 ZB1i0007 苑洛志樂
+*** KR1i0007 苑洛志樂-明-韓邦奇
 :PROPERTIES:
+:KR_ID: KR1i0007
 :CUSTOM_ID:  ZB1i0007
 :SOURCE:   四庫全書 文淵閣版, V212.5, p189
 :EXTENT: 20 卷
@@ -125,8 +132,9 @@
 
 **** 版本
 ***** WYG
-*** KR1i0008 ZB1i0008 鐘律通考
+*** KR1i0008 鐘律通考-明-倪復
 :PROPERTIES:
+:KR_ID: KR1i0008
 :CUSTOM_ID:  ZB1i0008
 :SOURCE:   四庫全書 文淵閣版, V212.6, p643
 :EXTENT: 6 卷
@@ -141,8 +149,9 @@
 
 **** 版本
 ***** WYG
-*** KR1i0009 ZB1i0009 樂律全書
+*** KR1i0009 樂律全書-明-朱載堉
 :PROPERTIES:
+:KR_ID: KR1i0009
 :CUSTOM_ID:  ZB1i0009
 :SOURCE:   四庫全書 文淵閣版, V213.1, p1 - V214.1
 :EXTENT: 42 卷
@@ -158,8 +167,9 @@
 
 **** 版本
 ***** WYG
-*** KR1i0010 ZB1i0010 御製律呂正義
+*** KR1i0010 御製律呂正義-清-聖祖玄燁
 :PROPERTIES:
+:KR_ID: KR1i0010
 :CUSTOM_ID:  ZB1i0010
 :SOURCE:   四庫全書 文淵閣版, V215.1, p1
 :EXTENT: 5 卷
@@ -194,8 +204,9 @@
      :BOOK:   (1)
      :END:
 
-*** KR1i0011 ZB1i0011 御製律呂正義後編
+*** KR1i0011 御製律呂正義後編-清-允祿
 :PROPERTIES:
+:KR_ID: KR1i0011
 :CUSTOM_ID:  ZB1i0011
 :SOURCE:   四庫全書 文淵閣版, V215.2, p223 - V218.1
 :EXTENT: 128 卷
@@ -224,8 +235,9 @@
      :BOOK:   (60)
      :END:
 
-*** KR1i0012 ZB1i0012 欽定詩經樂譜全書
+*** KR1i0012 欽定詩經樂譜全書-清-永瑢
 :PROPERTIES:
+:KR_ID: KR1i0012
 :CUSTOM_ID:  ZB1i0012
 :SOURCE:   四庫全書 文淵閣版, V219.1, p1
 :EXTENT: 30 卷
@@ -261,8 +273,9 @@
      :BOOK:   (24)
      :END:
 
-*** KR1i0013 ZB1i0013 古樂經傳
+*** KR1i0013 古樂經傳-清-李光地
 :PROPERTIES:
+:KR_ID: KR1i0013
 :CUSTOM_ID:  ZB1i0013
 :SOURCE:   四庫全書 文淵閣版, V220.1, p1
 :EXTENT: 5 卷
@@ -278,8 +291,9 @@
 
 **** 版本
 ***** WYG
-*** KR1i0014 ZB1i0014 古樂書
+*** KR1i0014 古樂書-清-應撝謙
 :PROPERTIES:
+:KR_ID: KR1i0014
 :CUSTOM_ID:  ZB1i0014
 :SOURCE:   四庫全書 文淵閣版, V220.2, p97
 :EXTENT: 2 卷
@@ -295,8 +309,9 @@
 
 **** 版本
 ***** WYG
-*** KR1i0015 ZB1i0015 聖諭樂本解說
+*** KR1i0015 聖諭樂本解說-清-毛奇齡
 :PROPERTIES:
+:KR_ID: KR1i0015
 :CUSTOM_ID:  ZB1i0015
 :SOURCE:   四庫全書 文淵閣版, V220.3, p197
 :EXTENT: 2 卷
@@ -312,8 +327,9 @@
 
 **** 版本
 ***** WYG
-*** KR1i0016 ZB1i0016 皇言定聲錄
+*** KR1i0016 皇言定聲錄-清-毛奇齡
 :PROPERTIES:
+:KR_ID: KR1i0016
 :CUSTOM_ID:  ZB1i0016
 :SOURCE:   四庫全書 文淵閣版, V220.4, p219
 :EXTENT: 8 卷
@@ -329,8 +345,9 @@
 
 **** 版本
 ***** WYG
-*** KR1i0017 ZB1i0017 竟山樂錄
+*** KR1i0017 竟山樂錄-清-毛奇齡
 :PROPERTIES:
+:KR_ID: KR1i0017
 :CUSTOM_ID:  ZB1i0017
 :SOURCE:   四庫全書 文淵閣版, V220.5, p291
 :EXTENT: 4 卷
@@ -346,8 +363,9 @@
 
 **** 版本
 ***** WYG
-*** KR1i0018 ZB1i0018 李氏學樂錄
+*** KR1i0018 李氏學樂錄-清-李塨
 :PROPERTIES:
+:KR_ID: KR1i0018
 :CUSTOM_ID:  ZB1i0018
 :SOURCE:   四庫全書 文淵閣版, V220.6, p339
 :EXTENT: 2 卷
@@ -363,8 +381,9 @@
 
 **** 版本
 ***** WYG
-*** KR1i0019 ZB1i0019 樂律表微
+*** KR1i0019 樂律表微-清-胡彥昇
 :PROPERTIES:
+:KR_ID: KR1i0019
 :CUSTOM_ID:  ZB1i0019
 :SOURCE:   四庫全書 文淵閣版, V220.7, p369
 :EXTENT: 8 卷
@@ -379,8 +398,9 @@
 
 **** 版本
 ***** WYG
-*** KR1i0020 ZB1i0020 律呂新論
+*** KR1i0020 律呂新論-清-江永
 :PROPERTIES:
+:KR_ID: KR1i0020
 :CUSTOM_ID:  ZB1i0020
 :SOURCE:   四庫全書 文淵閣版, V220.8, p511
 :EXTENT: 2 卷
@@ -396,8 +416,9 @@
 
 **** 版本
 ***** WYG
-*** KR1i0021 ZB1i0021 律呂闡微
+*** KR1i0021 律呂闡微-清-江永
 :PROPERTIES:
+:KR_ID: KR1i0021
 :CUSTOM_ID:  ZB1i0021
 :SOURCE:   四庫全書 文淵閣版, V220.9, p547
 :EXTENT: 10 卷
@@ -420,8 +441,9 @@
      :BOOK:   (4)
      :END:
 
-*** KR1i0022 ZB1i0022 琴旨
+*** KR1i0022 琴旨-清-王坦
 :PROPERTIES:
+:KR_ID: KR1i0022
 :CUSTOM_ID:  ZB1i0022
 :SOURCE:   四庫全書 文淵閣版, V220.10, p687
 :EXTENT: 2 卷

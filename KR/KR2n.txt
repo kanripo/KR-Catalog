@@ -1,8 +1,9 @@
 #-*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID
 ** KR2n ZB2n 目錄類
-*** KR2n0001 [[mandoku:ZB2n0001.org][ZB2n0001]] 崇文總目
+*** KR2n0001 崇文總目-宋-王堯臣
 :PROPERTIES:
+:KR_ID: KR2n0001
 :CUSTOM_ID:  ZB2n0001
 :SOURCE:   四庫全書 文淵閣版, V674.1, p1
 :EXTENT: 12 卷
@@ -30,8 +31,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0002 [[mandoku:ZB2n0002.org][ZB2n0002]] 郡齋讀書志
+*** KR2n0002 郡齋讀書志-宋-晁公武
 :PROPERTIES:
+:KR_ID: KR2n0002
 :CUSTOM_ID:  ZB2n0002
 :SOURCE:   四庫全書 文淵閣版, V674.2, p153
 :EXTENT: 4 卷
@@ -60,7 +62,7 @@
       :BOOK:   1
       :END:
 
-**** [[mandoku:ZB2n0002a.org][ZB2n0002a]] 後志
+**** 後志
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 2 卷
@@ -73,8 +75,9 @@
       :FUNCTION: 編
       :END:
 
-*** KR2n0003 [[mandoku:ZB2n0003.org][ZB2n0003]] 遂初堂書目
+*** KR2n0003 遂初堂書目-宋-尤袤
 :PROPERTIES:
+:KR_ID: KR2n0003
 :CUSTOM_ID:  ZB2n0003
 :SOURCE:   四庫全書 文淵閣版, V674.3, p435
 :EXTENT: 1 卷
@@ -90,8 +93,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0004 [[mandoku:ZB2n0004.org][ZB2n0004]] 子略
+*** KR2n0004 子略-宋-高似孫
 :PROPERTIES:
+:KR_ID: KR2n0004
 :CUSTOM_ID:  ZB2n0004
 :SOURCE:   四庫全書 文淵閣版, V674.4, p491
 :EXTENT: 4 卷
@@ -107,8 +111,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0005 [[mandoku:ZB2n0005.org][ZB2n0005]] 直齋書錄解題
+*** KR2n0005 直齋書錄解題-宋-陳振孫
 :PROPERTIES:
+:KR_ID: KR2n0005
 :CUSTOM_ID:  ZB2n0005
 :SOURCE:   四庫全書 文淵閣版, V674.5, p525
 :EXTENT: 22 卷
@@ -124,8 +129,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0006 [[mandoku:ZB2n0006.org][ZB2n0006]] 漢藝文志考證
+*** KR2n0006 漢藝文志考證-宋-王應麟
 :PROPERTIES:
+:KR_ID: KR2n0006
 :CUSTOM_ID:  ZB2n0006
 :SOURCE:   四庫全書 文淵閣版, V675.1, p1
 :EXTENT: 10 卷
@@ -141,8 +147,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0007 [[mandoku:ZB2n0007.org][ZB2n0007]] 文淵閣書目
+*** KR2n0007 文淵閣書目-明-楊士奇
 :PROPERTIES:
+:KR_ID: KR2n0007
 :CUSTOM_ID:  ZB2n0007
 :SOURCE:   四庫全書 文淵閣版, V675.2, p111
 :EXTENT: 4 卷
@@ -158,8 +165,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0008 [[mandoku:ZB2n0008.org][ZB2n0008]] 授經圖義例
+*** KR2n0008 授經圖義例-明-朱睦㮮
 :PROPERTIES:
+:KR_ID: KR2n0008
 :CUSTOM_ID:  ZB2n0008
 :SOURCE:   四庫全書 文淵閣版, V675.3, p231
 :EXTENT: 20 卷
@@ -175,8 +183,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0009 [[mandoku:ZB2n0009.org][ZB2n0009]] 欽定天祿琳琅書目
+*** KR2n0009 欽定天祿琳琅書目-清-于敏中
 :PROPERTIES:
+:KR_ID: KR2n0009
 :CUSTOM_ID:  ZB2n0009
 :SOURCE:   四庫全書 文淵閣版, V675.4, p335
 :EXTENT: 10 卷
@@ -205,8 +214,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0010 [[mandoku:ZB2n0010.org][ZB2n0010]] 千頃堂書目
+*** KR2n0010 千頃堂書目-清-黃虞稷
 :PROPERTIES:
+:KR_ID: KR2n0010
 :CUSTOM_ID:  ZB2n0010
 :SOURCE:   四庫全書 文淵閣版, V676.1, p1
 :EXTENT: 32 卷
@@ -222,8 +232,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0011 [[mandoku:ZB2n0011.org][ZB2n0011]] 經義考
+*** KR2n0011 經義考-清-朱彝尊
 :PROPERTIES:
+:KR_ID: KR2n0011
 :CUSTOM_ID:  ZB2n0011
 :SOURCE:   四庫全書 文淵閣版, V677.1, p1 - V680.1
 :EXTENT: 存297 卷
@@ -239,8 +250,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0012 [[mandoku:ZB2n0012.org][ZB2n0012]] 集古錄
+*** KR2n0012 集古錄-宋-歐陽修
 :PROPERTIES:
+:KR_ID: KR2n0012
 :CUSTOM_ID:  ZB2n0012
 :SOURCE:   四庫全書 文淵閣版, V681.1, p1
 :EXTENT: 10 卷
@@ -256,8 +268,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0013 [[mandoku:ZB2n0013.org][ZB2n0013]] 金石錄
+*** KR2n0013 金石錄-宋-趙明誠
 :PROPERTIES:
+:KR_ID: KR2n0013
 :CUSTOM_ID:  ZB2n0013
 :SOURCE:   四庫全書 文淵閣版, V681.2, p147
 :EXTENT: 30 卷
@@ -273,8 +286,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0014 [[mandoku:ZB2n0014.org][ZB2n0014]] 法帖刋誤
+*** KR2n0014 法帖刋誤-宋-黃伯思
 :PROPERTIES:
+:KR_ID: KR2n0014
 :CUSTOM_ID:  ZB2n0014
 :SOURCE:   四庫全書 文淵閣版, V681.3, p377
 :EXTENT: 2 卷
@@ -290,8 +304,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0015 [[mandoku:ZB2n0015.org][ZB2n0015]] 法帖釋文
+*** KR2n0015 法帖釋文-宋-劉次莊
 :PROPERTIES:
+:KR_ID: KR2n0015
 :CUSTOM_ID:  ZB2n0015
 :SOURCE:   四庫全書 文淵閣版, V681.4, p395
 :EXTENT: 10 卷
@@ -307,8 +322,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0016 [[mandoku:ZB2n0016.org][ZB2n0016]] 籀史
+*** KR2n0016 籀史-宋-翟耆年
 :PROPERTIES:
+:KR_ID: KR2n0016
 :CUSTOM_ID:  ZB2n0016
 :SOURCE:   四庫全書 文淵閣版, V681.5, p427
 :EXTENT: 1 卷
@@ -324,8 +340,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0017 [[mandoku:ZB2n0017.org][ZB2n0017]] 隸釋
+*** KR2n0017 隸釋-宋-洪适
 :PROPERTIES:
+:KR_ID: KR2n0017
 :CUSTOM_ID:  ZB2n0017
 :SOURCE:   四庫全書 文淵閣版, V681.6, p443
 :EXTENT: 27 卷
@@ -341,8 +358,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0018 [[mandoku:ZB2n0018.org][ZB2n0018]] 隸續
+*** KR2n0018 隸續-宋-洪适
 :PROPERTIES:
+:KR_ID: KR2n0018
 :CUSTOM_ID:  ZB2n0018
 :SOURCE:   四庫全書 文淵閣版, V681.7, p759
 :EXTENT: 21 卷
@@ -358,8 +376,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0019 [[mandoku:ZB2n0019.org][ZB2n0019]] 絳帖平
+*** KR2n0019 絳帖平-宋-姜夔
 :PROPERTIES:
+:KR_ID: KR2n0019
 :CUSTOM_ID:  ZB2n0019
 :SOURCE:   四庫全書 文淵閣版, V682.1, p1
 :EXTENT: 6 卷
@@ -375,8 +394,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0020 [[mandoku:ZB2n0020.org][ZB2n0020]] 石刻鋪敍
+*** KR2n0020 石刻鋪敍-宋-曾宏父
 :PROPERTIES:
+:KR_ID: KR2n0020
 :CUSTOM_ID:  ZB2n0020
 :SOURCE:   四庫全書 文淵閣版, V682.2, p37
 :EXTENT: 2 卷
@@ -392,8 +412,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0021 [[mandoku:ZB2n0021.org][ZB2n0021]] 法帖譜系
+*** KR2n0021 法帖譜系-宋-曹士冕
 :PROPERTIES:
+:KR_ID: KR2n0021
 :CUSTOM_ID:  ZB2n0021
 :SOURCE:   四庫全書 文淵閣版, V682.3, p61
 :EXTENT: 2 卷
@@ -409,8 +430,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0022 [[mandoku:ZB2n0022.org][ZB2n0022]] 蘭亭考
+*** KR2n0022 蘭亭考-宋-桑世昌
 :PROPERTIES:
+:KR_ID: KR2n0022
 :CUSTOM_ID:  ZB2n0022
 :SOURCE:   四庫全書 文淵閣版, V682.4, p73
 :EXTENT: 12 卷
@@ -432,8 +454,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0023 [[mandoku:ZB2n0023.org][ZB2n0023]] 蘭亭續考
+*** KR2n0023 蘭亭續考-宋-俞松
 :PROPERTIES:
+:KR_ID: KR2n0023
 :CUSTOM_ID:  ZB2n0023
 :SOURCE:   四庫全書 文淵閣版, V682.5, p155
 :EXTENT: 2 卷
@@ -449,8 +472,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0024 [[mandoku:ZB2n0024.org][ZB2n0024]] 寶刻叢編
+*** KR2n0024 寶刻叢編-宋-陳思
 :PROPERTIES:
+:KR_ID: KR2n0024
 :CUSTOM_ID:  ZB2n0024
 :SOURCE:   四庫全書 文淵閣版, V682.6, p181
 :EXTENT: 20 卷
@@ -466,8 +490,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0025 [[mandoku:ZB2n0025.org][ZB2n0025]] 輿地碑記目
+*** KR2n0025 輿地碑記目-宋-王象之
 :PROPERTIES:
+:KR_ID: KR2n0025
 :CUSTOM_ID:  ZB2n0025
 :SOURCE:   四庫全書 文淵閣版, V682.7, p517
 :EXTENT: 4 卷
@@ -483,8 +508,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0026 [[mandoku:ZB2n0026.org][ZB2n0026]] 寶刻類編
+*** KR2n0026 寶刻類編-宋-闕名
 :PROPERTIES:
+:KR_ID: KR2n0026
 :CUSTOM_ID:  ZB2n0026
 :SOURCE:   四庫全書 文淵閣版, V682.8, p583
 :EXTENT: 8 卷
@@ -499,8 +525,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0027 [[mandoku:ZB2n0027.org][ZB2n0027]] 古刻叢鈔
+*** KR2n0027 古刻叢鈔-明-陶宗儀
 :PROPERTIES:
+:KR_ID: KR2n0027
 :CUSTOM_ID:  ZB2n0027
 :SOURCE:   四庫全書 文淵閣版, V683.1, p1
 :EXTENT: 1 卷
@@ -516,8 +543,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0028 [[mandoku:ZB2n0028.org][ZB2n0028]] 名蹟錄
+*** KR2n0028 名蹟錄-明-朱珪
 :PROPERTIES:
+:KR_ID: KR2n0028
 :CUSTOM_ID:  ZB2n0028
 :SOURCE:   四庫全書 文淵閣版, V683.2, p25
 :EXTENT: 5 卷
@@ -540,8 +568,9 @@
       :BOOK:   (2)
       :END:
 
-*** KR2n0029 [[mandoku:ZB2n0029.org][ZB2n0029]] 吳中金石新編
+*** KR2n0029 吳中金石新編-明-陳暐
 :PROPERTIES:
+:KR_ID: KR2n0029
 :CUSTOM_ID:  ZB2n0029
 :SOURCE:   四庫全書 文淵閣版, V683.3, p93
 :EXTENT: 8 卷
@@ -556,8 +585,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0030 [[mandoku:ZB2n0030.org][ZB2n0030]] 金薤琳琅
+*** KR2n0030 金薤琳琅-明-都穆
 :PROPERTIES:
+:KR_ID: KR2n0030
 :CUSTOM_ID:  ZB2n0030
 :SOURCE:   四庫全書 文淵閣版, V683.4, p223
 :EXTENT: 20 卷
@@ -573,8 +603,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0031 [[mandoku:ZB2n0031.org][ZB2n0031]] 法帖釋文考異
+*** KR2n0031 法帖釋文考異-明-顧從義
 :PROPERTIES:
+:KR_ID: KR2n0031
 :CUSTOM_ID:  ZB2n0031
 :SOURCE:   四庫全書 文淵閣版, V683.5, p357
 :EXTENT: 10 卷
@@ -590,8 +621,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0032 [[mandoku:ZB2n0032.org][ZB2n0032]] 金石林時地考
+*** KR2n0032 金石林時地考-明-趙均
 :PROPERTIES:
+:KR_ID: KR2n0032
 :CUSTOM_ID:  ZB2n0032
 :SOURCE:   四庫全書 文淵閣版, V683.6, p417
 :EXTENT: 2 卷
@@ -607,8 +639,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0033 [[mandoku:ZB2n0033.org][ZB2n0033]] 石墨鐫華
+*** KR2n0033 石墨鐫華-明-趙崡
 :PROPERTIES:
+:KR_ID: KR2n0033
 :CUSTOM_ID:  ZB2n0033
 :SOURCE:   四庫全書 文淵閣版, V683.7, p445
 :EXTENT: 6 卷
@@ -631,8 +664,9 @@
       :BOOK:   (4)
       :END:
 
-*** KR2n0034 [[mandoku:ZB2n0034.org][ZB2n0034]] 金石史
+*** KR2n0034 金石史-明-郭宗昌
 :PROPERTIES:
+:KR_ID: KR2n0034
 :CUSTOM_ID:  ZB2n0034
 :SOURCE:   四庫全書 文淵閣版, V683.8, p533
 :EXTENT: 2 卷
@@ -648,8 +682,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0035 [[mandoku:ZB2n0035.org][ZB2n0035]] 欽定重刻淳化閣帖釋文
+*** KR2n0035 欽定重刻淳化閣帖釋文-清-于敏中
 :PROPERTIES:
+:KR_ID: KR2n0035
 :CUSTOM_ID:  ZB2n0035
 :SOURCE:   四庫全書 文淵閣版, V683.9, p559
 :EXTENT: 10 卷
@@ -678,8 +713,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0036 [[mandoku:ZB2n0036.org][ZB2n0036]] 求古錄
+*** KR2n0036 求古錄-清-顧炎武
 :PROPERTIES:
+:KR_ID: KR2n0036
 :CUSTOM_ID:  ZB2n0036
 :SOURCE:   四庫全書 文淵閣版, V683.10, p659
 :EXTENT: 1 卷
@@ -695,8 +731,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0037 [[mandoku:ZB2n0037.org][ZB2n0037]] 金石文字記
+*** KR2n0037 金石文字記-清-顧炎武
 :PROPERTIES:
+:KR_ID: KR2n0037
 :CUSTOM_ID:  ZB2n0037
 :SOURCE:   四庫全書 文淵閣版, V683.11, p701
 :EXTENT: 6 卷
@@ -712,8 +749,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0038 [[mandoku:ZB2n0038.org][ZB2n0038]] 石經考
+*** KR2n0038 石經考-清-顧炎武
 :PROPERTIES:
+:KR_ID: KR2n0038
 :CUSTOM_ID:  ZB2n0038
 :SOURCE:   四庫全書 文淵閣版, V683.12, p833
 :EXTENT: 1 卷
@@ -729,8 +767,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0039 [[mandoku:ZB2n0039.org][ZB2n0039]] 萬氏石經考
+*** KR2n0039 萬氏石經考-清-萬斯同
 :PROPERTIES:
+:KR_ID: KR2n0039
 :CUSTOM_ID:  ZB2n0039
 :SOURCE:   四庫全書 文淵閣版, V683.13, p853
 :EXTENT: 2 卷
@@ -746,8 +785,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0040 [[mandoku:ZB2n0040.org][ZB2n0040]] 來齋金石刻考略
+*** KR2n0040 來齋金石刻考略-清-林侗
 :PROPERTIES:
+:KR_ID: KR2n0040
 :CUSTOM_ID:  ZB2n0040
 :SOURCE:   四庫全書 文淵閣版, V684.1, p1
 :EXTENT: 3 卷
@@ -763,8 +803,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0041 [[mandoku:ZB2n0041.org][ZB2n0041]] 崇陽石刻集記
+*** KR2n0041 崇陽石刻集記-清-葉封
 :PROPERTIES:
+:KR_ID: KR2n0041
 :CUSTOM_ID:  ZB2n0041
 :SOURCE:   四庫全書 文淵閣版, V684.2, p97
 :EXTENT: 2 卷
@@ -787,8 +828,9 @@
       :BOOK:   (2)
       :END:
 
-*** KR2n0042 [[mandoku:ZB2n0042.org][ZB2n0042]] 金石文考略
+*** KR2n0042 金石文考略-清-李光暎
 :PROPERTIES:
+:KR_ID: KR2n0042
 :CUSTOM_ID:  ZB2n0042
 :SOURCE:   四庫全書 文淵閣版, V684.3, p169
 :EXTENT: 16 卷
@@ -804,8 +846,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0043 [[mandoku:ZB2n0043.org][ZB2n0043]] 分隸偶存
+*** KR2n0043 分隸偶存-清-萬經
 :PROPERTIES:
+:KR_ID: KR2n0043
 :CUSTOM_ID:  ZB2n0043
 :SOURCE:   四庫全書 文淵閣版, V684.4, p447
 :EXTENT: 2 卷
@@ -821,8 +864,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0044 [[mandoku:ZB2n0044.org][ZB2n0044]] 淳化祕閣法帖考正
+*** KR2n0044 淳化祕閣法帖考正-清-王澍
 :PROPERTIES:
+:KR_ID: KR2n0044
 :CUSTOM_ID:  ZB2n0044
 :SOURCE:   四庫全書 文淵閣版, V684.5, p503
 :EXTENT: 12 卷
@@ -838,8 +882,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0045 [[mandoku:ZB2n0045.org][ZB2n0045]] 竹雲題跋
+*** KR2n0045 竹雲題跋-清-王澍
 :PROPERTIES:
+:KR_ID: KR2n0045
 :CUSTOM_ID:  ZB2n0045
 :SOURCE:   四庫全書 文淵閣版, V684.6, p643
 :EXTENT: 4 卷
@@ -855,8 +900,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0046 [[mandoku:ZB2n0046.org][ZB2n0046]] 金石經眼錄
+*** KR2n0046 金石經眼錄-清-褚峻
 :PROPERTIES:
+:KR_ID: KR2n0046
 :CUSTOM_ID:  ZB2n0046
 :SOURCE:   四庫全書 文淵閣版, V684.7, p711
 :EXTENT: 1 卷
@@ -878,8 +924,9 @@
 
 **** 版本
 ***** WYG
-*** KR2n0047 [[mandoku:ZB2n0047.org][ZB2n0047]] 石經考異
+*** KR2n0047 石經考異-清-杭世駿
 :PROPERTIES:
+:KR_ID: KR2n0047
 :CUSTOM_ID:  ZB2n0047
 :SOURCE:   四庫全書 文淵閣版, V684.8, p765
 :EXTENT: 2 卷

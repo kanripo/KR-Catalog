@@ -1,8 +1,9 @@
 #-*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID
 ** KR3b ZB3b 兵家類
-*** KR3b0001 [[mandoku:ZB3b0001.org][ZB3b0001]] 握奇經
+*** KR3b0001 握奇經-漢-公孫宏
 :PROPERTIES:
+:KR_ID: KR3b0001
 :CUSTOM_ID:  ZB3b0001
 :SOURCE:   四庫全書 文淵閣版, V726.1, p1
 :EXTENT: 1 卷
@@ -35,8 +36,9 @@
 
 **** 版本
 ***** WYG
-*** KR3b0002 [[mandoku:ZB3b0002.org][ZB3b0002]] 六韜
+*** KR3b0002 六韜-周-呂望
 :PROPERTIES:
+:KR_ID: KR3b0002
 :CUSTOM_ID:  ZB3b0002
 :SOURCE:   四庫全書 文淵閣版, V726.2, p9
 :EXTENT: 6 卷
@@ -51,8 +53,9 @@
 
 **** 版本
 ***** WYG
-*** KR3b0003 [[mandoku:ZB3b0003.org][ZB3b0003]] 孫子
+*** KR3b0003 孫子-周-孫武
 :PROPERTIES:
+:KR_ID: KR3b0003
 :CUSTOM_ID:  ZB3b0003
 :SOURCE:   四庫全書 文淵閣版, V726.3, p43
 :EXTENT: 1 卷
@@ -68,8 +71,9 @@
 
 **** 版本
 ***** WYG
-*** KR3b0004 [[mandoku:ZB3b0004.org][ZB3b0004]] 吳子
+*** KR3b0004 吳子-周-吳起
 :PROPERTIES:
+:KR_ID: KR3b0004
 :CUSTOM_ID:  ZB3b0004
 :SOURCE:   四庫全書 文淵閣版, V726.4, p57
 :EXTENT: 1 卷
@@ -85,8 +89,9 @@
 
 **** 版本
 ***** WYG
-*** KR3b0005 [[mandoku:ZB3b0005.org][ZB3b0005]] 司馬法
+*** KR3b0005 司馬法-周-司馬穰苴
 :PROPERTIES:
+:KR_ID: KR3b0005
 :CUSTOM_ID:  ZB3b0005
 :SOURCE:   四庫全書 文淵閣版, V726.5, p65
 :EXTENT: 1 卷
@@ -102,8 +107,9 @@
 
 **** 版本
 ***** WYG
-*** KR3b0006 [[mandoku:ZB3b0006.org][ZB3b0006]] 尉繚子
+*** KR3b0006 尉繚子-周-尉繚
 :PROPERTIES:
+:KR_ID: KR3b0006
 :CUSTOM_ID:  ZB3b0006
 :SOURCE:   四庫全書 文淵閣版, V726.6, p71
 :EXTENT: 5 卷
@@ -118,8 +124,9 @@
 
 **** 版本
 ***** WYG
-*** KR3b0007 [[mandoku:ZB3b0007.org][ZB3b0007]] 黃石公三畧
+*** KR3b0007 黃石公三畧-秦-黃石公
 :PROPERTIES:
+:KR_ID: KR3b0007
 :CUSTOM_ID:  ZB3b0007
 :SOURCE:   四庫全書 文淵閣版, V726.7, p89
 :EXTENT: 3 卷
@@ -134,8 +141,9 @@
 
 **** 版本
 ***** WYG
-*** KR3b0008 [[mandoku:ZB3b0008.org][ZB3b0008]] 三畧直解
+*** KR3b0008 三畧直解-明-劉寅
 :PROPERTIES:
+:KR_ID: KR3b0008
 :CUSTOM_ID:  ZB3b0008
 :SOURCE:   四庫全書 文淵閣版, V726.8, p99
 :EXTENT: 3 卷
@@ -151,8 +159,9 @@
 
 **** 版本
 ***** WYG
-*** KR3b0009 [[mandoku:ZB3b0009.org][ZB3b0009]] 黃石公素書
+*** KR3b0009 黃石公素書-秦-黃石公
 :PROPERTIES:
+:KR_ID: KR3b0009
 :CUSTOM_ID:  ZB3b0009
 :SOURCE:   四庫全書 文淵閣版, V726.9, p127
 :EXTENT: 1 卷
@@ -173,8 +182,9 @@
 
 **** 版本
 ***** WYG
-*** KR3b0010 [[mandoku:ZB3b0010.org][ZB3b0010]] 李衞公問對
+*** KR3b0010 李衞公問對-唐-李靖
 :PROPERTIES:
+:KR_ID: KR3b0010
 :CUSTOM_ID:  ZB3b0010
 :SOURCE:   四庫全書 文淵閣版, V726.10, p143
 :EXTENT: 3 卷
@@ -190,8 +200,9 @@
 
 **** 版本
 ***** WYG
-*** KR3b0011 [[mandoku:ZB3b0011.org][ZB3b0011]] 太白陰經
+*** KR3b0011 太白陰經-唐-李筌
 :PROPERTIES:
+:KR_ID: KR3b0011
 :CUSTOM_ID:  ZB3b0011
 :SOURCE:   四庫全書 文淵閣版, V726.11, p163
 :EXTENT: 8 卷
@@ -207,8 +218,9 @@
 
 **** 版本
 ***** WYG
-*** KR3b0012 [[mandoku:ZB3b0012.org][ZB3b0012]] 武經總要
+*** KR3b0012 武經總要-宋-曾公亮
 :PROPERTIES:
+:KR_ID: KR3b0012
 :CUSTOM_ID:  ZB3b0012
 :SOURCE:   四庫全書 文淵閣版, V726.12, p235
 :EXTENT: 40 卷
@@ -242,8 +254,9 @@
      :BOOK:   (18)
      :END:
 
-*** KR3b0013 [[mandoku:ZB3b0013.org][ZB3b0013]] 虎鈴經
+*** KR3b0013 虎鈴經-宋-許洞
 :PROPERTIES:
+:KR_ID: KR3b0013
 :CUSTOM_ID:  ZB3b0013
 :SOURCE:   四庫全書 文淵閣版, V727.1, p1
 :EXTENT: 20 卷
@@ -259,8 +272,9 @@
 
 **** 版本
 ***** WYG
-*** KR3b0014 [[mandoku:ZB3b0014.org][ZB3b0014]] 何博士備論
+*** KR3b0014 何博士備論-宋-何去非
 :PROPERTIES:
+:KR_ID: KR3b0014
 :CUSTOM_ID:  ZB3b0014
 :SOURCE:   四庫全書 文淵閣版, V727.2, p131
 :EXTENT: 2 卷
@@ -276,8 +290,9 @@
 
 **** 版本
 ***** WYG
-*** KR3b0015 [[mandoku:ZB3b0015.org][ZB3b0015]] 守城錄
+*** KR3b0015 守城錄-宋-陳規
 :PROPERTIES:
+:KR_ID: KR3b0015
 :CUSTOM_ID:  ZB3b0015
 :SOURCE:   四庫全書 文淵閣版, V727.3, p175
 :EXTENT: 4 卷
@@ -317,8 +332,9 @@
      :FUNCTION: 撰
      :END:
 
-*** KR3b0016 [[mandoku:ZB3b0016.org][ZB3b0016]] 武編
+*** KR3b0016 武編-明-唐順之
 :PROPERTIES:
+:KR_ID: KR3b0016
 :CUSTOM_ID:  ZB3b0016
 :SOURCE:   四庫全書 文淵閣版, V727.4, p205
 :EXTENT: 10 卷
@@ -346,8 +362,9 @@
      :BOOK:   (4)
      :END:
 
-*** KR3b0017 [[mandoku:ZB3b0017.org][ZB3b0017]] 陣紀
+*** KR3b0017 陣紀-明-何良臣
 :PROPERTIES:
+:KR_ID: KR3b0017
 :CUSTOM_ID:  ZB3b0017
 :SOURCE:   四庫全書 文淵閣版, V727.5, p675
 :EXTENT: 4 卷
@@ -362,8 +379,9 @@
 
 **** 版本
 ***** WYG
-*** KR3b0018 [[mandoku:ZB3b0018.org][ZB3b0018]] 江南經畧
+*** KR3b0018 江南經畧-明-鄭若曾
 :PROPERTIES:
+:KR_ID: KR3b0018
 :CUSTOM_ID:  ZB3b0018
 :SOURCE:   四庫全書 文淵閣版, V728.1, p1
 :EXTENT: 8 卷
@@ -379,8 +397,9 @@
 
 **** 版本
 ***** WYG
-*** KR3b0019 [[mandoku:ZB3b0019.org][ZB3b0019]] 紀效新書
+*** KR3b0019 紀效新書-明-戚繼光
 :PROPERTIES:
+:KR_ID: KR3b0019
 :CUSTOM_ID:  ZB3b0019
 :SOURCE:   四庫全書 文淵閣版, V728.2, p487
 :EXTENT: 18 卷
@@ -403,8 +422,9 @@
      :BOOK:   (6)
      :END:
 
-*** KR3b0020 [[mandoku:ZB3b0020.org][ZB3b0020]] 練兵實紀
+*** KR3b0020 練兵實紀-明-戚繼光
 :PROPERTIES:
+:KR_ID: KR3b0020
 :CUSTOM_ID:  ZB3b0020
 :SOURCE:   四庫全書 文淵閣版, V728.3, p687
 :EXTENT: 9 卷

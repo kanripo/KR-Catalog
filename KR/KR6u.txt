@@ -1,7 +1,8 @@
 #-*- mode: org; -*-
 ** KR6u ZB6t 敦煌寫本部類
-*** KR6u0001 [[mandoku:ZB6t0001.org][ZB6t0001]]  [[cbeta:T/T85n2865/T85n2865.org][T85n2865]] 護身命經
+*** KR6u0001 護身命經--
 :PROPERTIES: 
+:KR_ID: KR6u0001
 :BASEEDITION:  T
 :CBETA_ID:  T85n2865
 :RELATED: T85n2866@古逸
@@ -22,8 +23,9 @@
 :WITID: wit99
 :END:
 
-*** KR6u0002 [[mandoku:ZB6t0002.org][ZB6t0002]]  [[cbeta:T/T85n2866/T85n2866.org][T85n2866]] 護身命經
+*** KR6u0002 護身命經--
 :PROPERTIES: 
+:KR_ID: KR6u0002
 :BASEEDITION:  T
 :CBETA_ID:  T85n2866
 :RELATED: T85n2865@古逸
@@ -44,8 +46,9 @@
 :WITID: wit4
 :END:
 
-*** KR6u0003 [[mandoku:ZB6t0003.org][ZB6t0003]]  [[cbeta:T/T85n2867/T85n2867.org][T85n2867]] 慈仁問八十種好經
+*** KR6u0003 慈仁問八十種好經--
 :PROPERTIES: 
+:KR_ID: KR6u0003
 :BASEEDITION:  T
 :CBETA_ID:  T85n2867
 :GENRE: 古逸
@@ -60,8 +63,9 @@
 :WITID: wit1
 :END:
 
-*** KR6u0004 [[mandoku:ZB6t0004.org][ZB6t0004]]  [[cbeta:T/T85n2868/T85n2868.org][T85n2868]] 決罪福經
+*** KR6u0004 決罪福經--
 :PROPERTIES: 
+:KR_ID: KR6u0004
 :BASEEDITION:  T
 :CBETA_ID:  T85n2868
 :GENRE: 古逸
@@ -86,8 +90,9 @@
 :WITID: wit4
 :END:
 
-*** KR6u0005 [[mandoku:ZB6t0005.org][ZB6t0005]]  [[cbeta:T/T85n2869/T85n2869.org][T85n2869]] 妙好寶車經
+*** KR6u0005 妙好寶車經--
 :PROPERTIES: 
+:KR_ID: KR6u0005
 :BASEEDITION:  T
 :CBETA_ID:  T85n2869
 :GENRE: 古逸
@@ -107,8 +112,9 @@
 :WITID: wit99
 :END:
 
-*** KR6u0006 [[mandoku:ZB6t0006.org][ZB6t0006]]  [[cbeta:T/T85n2870/T85n2870.org][T85n2870]] 像法決疑經
+*** KR6u0006 像法決疑經--
 :PROPERTIES: 
+:KR_ID: KR6u0006
 :BASEEDITION:  T
 :CBETA_ID:  T85n2870
 :GENRE: 古逸
@@ -143,8 +149,9 @@
 :WITID: wit51
 :END:
 
-*** KR6u0007 [[mandoku:ZB6t0007.org][ZB6t0007]]  [[cbeta:T/T85n2871/T85n2871.org][T85n2871]] 大通方廣懺悔滅罪莊嚴成佛經
+*** KR6u0007 大通方廣懺悔滅罪莊嚴成佛經--
 :PROPERTIES: 
+:KR_ID: KR6u0007
 :BASEEDITION:  T
 :CBETA_ID:  T85n2871
 :GENRE: 古逸
@@ -174,8 +181,9 @@
 :WITID: wit49
 :END:
 
-*** KR6u0008 [[mandoku:ZB6t0008.org][ZB6t0008]]  [[cbeta:T/T85n2872/T85n2872.org][T85n2872]] 妙法蓮華經廣量天地品第二十九
+*** KR6u0008 妙法蓮華經廣量天地品第二十九--
 :PROPERTIES: 
+:KR_ID: KR6u0008
 :BASEEDITION:  T
 :CBETA_ID:  T85n2872
 :GENRE: 古逸
@@ -190,8 +198,9 @@
 :WITID: wit1
 :END:
 
-*** KR6u0009 [[mandoku:ZB6t0009.org][ZB6t0009]]  [[cbeta:T/T85n2873/T85n2873.org][T85n2873]] 首羅比丘經
+*** KR6u0009 首羅比丘經--
 :PROPERTIES: 
+:KR_ID: KR6u0009
 :BASEEDITION:  T
 :CBETA_ID:  T85n2873
 :GENRE: 古逸
@@ -206,8 +215,9 @@
 :WITID: wit1
 :END:
 
-*** KR6u0010 [[mandoku:ZB6t0010.org][ZB6t0010]]  [[cbeta:T/T85n2874/T85n2874.org][T85n2874]] 小法滅盡經
+*** KR6u0010 小法滅盡經--
 :PROPERTIES: 
+:KR_ID: KR6u0010
 :BASEEDITION:  T
 :CBETA_ID:  T85n2874
 :RELATED: T12n0396@經
@@ -223,8 +233,9 @@
 :WITID: wit1
 :END:
 
-*** KR6u0011 [[mandoku:ZB6t0011.org][ZB6t0011]]  [[cbeta:T/T85n2875/T85n2875.org][T85n2875]] 大方廣華嚴十惡品經
+*** KR6u0011 大方廣華嚴十惡品經--
 :PROPERTIES: 
+:KR_ID: KR6u0011
 :BASEEDITION:  T
 :CBETA_ID:  T85n2875
 :GENRE: 古逸
@@ -239,8 +250,9 @@
 :WITID: wit1
 :END:
 
-*** KR6u0012 [[mandoku:ZB6t0012.org][ZB6t0012]]  [[cbeta:T/T85n2876/T85n2876.org][T85n2876]] 天公經
+*** KR6u0012 天公經--
 :PROPERTIES: 
+:KR_ID: KR6u0012
 :BASEEDITION:  T
 :CBETA_ID:  T85n2876
 :GENRE: 古逸
@@ -255,8 +267,9 @@
 :WITID: wit1
 :END:
 
-*** KR6u0013 [[mandoku:ZB6t0013.org][ZB6t0013]]  [[cbeta:T/T85n2877/T85n2877.org][T85n2877]] 如來在金棺囑累清淨莊嚴敬福經
+*** KR6u0013 如來在金棺囑累清淨莊嚴敬福經--
 :PROPERTIES: 
+:KR_ID: KR6u0013
 :BASEEDITION:  T
 :CBETA_ID:  T85n2877
 :GENRE: 古逸
@@ -271,8 +284,9 @@
 :WITID: wit1
 :END:
 
-*** KR6u0014 [[mandoku:ZB6t0014.org][ZB6t0014]]  [[cbeta:T/T85n2878/T85n2878.org][T85n2878]] 救疾經
+*** KR6u0014 救疾經--
 :PROPERTIES: 
+:KR_ID: KR6u0014
 :BASEEDITION:  T
 :CBETA_ID:  T85n2878
 :GENRE: 古逸
@@ -302,8 +316,9 @@
 :WITID: wit50
 :END:
 
-*** KR6u0015 [[mandoku:ZB6t0015.org][ZB6t0015]]  [[cbeta:T/T85n2879/T85n2879.org][T85n2879]] 普賢菩薩說證明經
+*** KR6u0015 普賢菩薩說證明經--
 :PROPERTIES: 
+:KR_ID: KR6u0015
 :BASEEDITION:  T
 :CBETA_ID:  T85n2879
 :GENRE: 古逸
@@ -333,8 +348,9 @@
 :WITID: wit50
 :END:
 
-*** KR6u0016 [[mandoku:ZB6t0016.org][ZB6t0016]]  [[cbeta:T/T85n2880/T85n2880.org][T85n2880]] 究竟大悲經卷第二．三．四
+*** KR6u0016 究竟大悲經卷第二．三．四--
 :PROPERTIES: 
+:KR_ID: KR6u0016
 :BASEEDITION:  T
 :CBETA_ID:  T85n2880
 :GENRE: 古逸
@@ -354,8 +370,9 @@
 :WITID: wit99
 :END:
 
-*** KR6u0017 [[mandoku:ZB6t0017.org][ZB6t0017]]  [[cbeta:T/T85n2881/T85n2881.org][T85n2881]] 善惡因果經
+*** KR6u0017 善惡因果經--
 :PROPERTIES: 
+:KR_ID: KR6u0017
 :BASEEDITION:  T
 :CBETA_ID:  T85n2881
 :GENRE: 古逸
@@ -385,8 +402,9 @@
 :WITID: wit49
 :END:
 
-*** KR6u0018 [[mandoku:ZB6t0018.org][ZB6t0018]]  [[cbeta:T/T85n2882/T85n2882.org][T85n2882]] 呪魅經
+*** KR6u0018 呪魅經--
 :PROPERTIES: 
+:KR_ID: KR6u0018
 :BASEEDITION:  T
 :CBETA_ID:  T85n2882
 :GENRE: 古逸
@@ -411,8 +429,9 @@
 :WITID: wit49
 :END:
 
-*** KR6u0019 [[mandoku:ZB6t0019.org][ZB6t0019]]  [[cbeta:T/T85n2883/T85n2883.org][T85n2883]] 法王經
+*** KR6u0019 法王經--
 :PROPERTIES: 
+:KR_ID: KR6u0019
 :BASEEDITION:  T
 :CBETA_ID:  T85n2883
 :GENRE: 古逸
@@ -427,8 +446,9 @@
 :WITID: wit1
 :END:
 
-*** KR6u0020 [[mandoku:ZB6t0020.org][ZB6t0020]]  [[cbeta:T/T85n2884/T85n2884.org][T85n2884]] 大威儀請問
+*** KR6u0020 大威儀請問--
 :PROPERTIES: 
+:KR_ID: KR6u0020
 :BASEEDITION:  T
 :CBETA_ID:  T85n2884
 :GENRE: 古逸
@@ -443,8 +463,9 @@
 :WITID: wit1
 :END:
 
-*** KR6u0021 [[mandoku:ZB6t0021.org][ZB6t0021]]  [[cbeta:T/T85n2885/T85n2885.org][T85n2885]] 佛性海藏智慧解脫破心相經
+*** KR6u0021 佛性海藏智慧解脫破心相經--
 :PROPERTIES: 
+:KR_ID: KR6u0021
 :BASEEDITION:  T
 :CBETA_ID:  T85n2885
 :GENRE: 古逸
@@ -469,8 +490,9 @@
 :WITID: wit49
 :END:
 
-*** KR6u0022 [[mandoku:ZB6t0022.org][ZB6t0022]]  [[cbeta:T/T85n2886/T85n2886.org][T85n2886]] 佛為心王菩薩說投陀經卷上
+*** KR6u0022 佛為心王菩薩說投陀經卷上--
 :PROPERTIES: 
+:KR_ID: KR6u0022
 :BASEEDITION:  T
 :CBETA_ID:  T85n2886
 :GENRE: 古逸
@@ -485,8 +507,9 @@
 :WITID: wit1
 :END:
 
-*** KR6u0023 [[mandoku:ZB6t0023.org][ZB6t0023]]  [[cbeta:T/T85n2887/T85n2887.org][T85n2887]] 父母恩重經
+*** KR6u0023 父母恩重經--
 :PROPERTIES: 
+:KR_ID: KR6u0023
 :BASEEDITION:  T
 :CBETA_ID:  T85n2887
 :GENRE: 古逸
@@ -516,8 +539,9 @@
 :WITID: wit50
 :END:
 
-*** KR6u0024 [[mandoku:ZB6t0024.org][ZB6t0024]]  [[cbeta:T/T85n2888/T85n2888.org][T85n2888]] 延壽命經
+*** KR6u0024 延壽命經--
 :PROPERTIES: 
+:KR_ID: KR6u0024
 :BASEEDITION:  T
 :CBETA_ID:  T85n2888
 :GENRE: 古逸
@@ -537,8 +561,9 @@
 :WITID: wit99
 :END:
 
-*** KR6u0025 [[mandoku:ZB6t0025.org][ZB6t0025]]  [[cbeta:T/T85n2889/T85n2889.org][T85n2889]] 續命經
+*** KR6u0025 續命經--
 :PROPERTIES: 
+:KR_ID: KR6u0025
 :BASEEDITION:  T
 :CBETA_ID:  T85n2889
 :GENRE: 古逸
@@ -558,8 +583,9 @@
 :WITID: wit4
 :END:
 
-*** KR6u0026 [[mandoku:ZB6t0026.org][ZB6t0026]]  [[cbeta:T/T85n2890/T85n2890.org][T85n2890]] 如來成道經
+*** KR6u0026 如來成道經--
 :PROPERTIES: 
+:KR_ID: KR6u0026
 :BASEEDITION:  T
 :CBETA_ID:  T85n2890
 :GENRE: 古逸
@@ -574,8 +600,9 @@
 :WITID: wit1
 :END:
 
-*** KR6u0027 [[mandoku:ZB6t0027.org][ZB6t0027]]  [[cbeta:T/T85n2891/T85n2891.org][T85n2891]] 山海慧菩薩經
+*** KR6u0027 山海慧菩薩經--
 :PROPERTIES: 
+:KR_ID: KR6u0027
 :BASEEDITION:  T
 :CBETA_ID:  T85n2891
 :GENRE: 古逸
@@ -590,8 +617,9 @@
 :WITID: wit1
 :END:
 
-*** KR6u0028 [[mandoku:ZB6t0028.org][ZB6t0028]]  [[cbeta:T/T85n2892/T85n2892.org][T85n2892]] 現報當受經
+*** KR6u0028 現報當受經--
 :PROPERTIES: 
+:KR_ID: KR6u0028
 :BASEEDITION:  T
 :CBETA_ID:  T85n2892
 :GENRE: 古逸
@@ -606,8 +634,9 @@
 :WITID: wit1
 :END:
 
-*** KR6u0029 [[mandoku:ZB6t0029.org][ZB6t0029]]  [[cbeta:T/T85n2893/T85n2893.org][T85n2893]] 大辯邪正經
+*** KR6u0029 大辯邪正經--
 :PROPERTIES: 
+:KR_ID: KR6u0029
 :BASEEDITION:  T
 :CBETA_ID:  T85n2893
 :GENRE: 古逸
@@ -622,8 +651,9 @@
 :WITID: wit1
 :END:
 
-*** KR6u0030 [[mandoku:ZB6t0030.org][ZB6t0030]]  [[cbeta:T/T85n2894/T85n2894.org][T85n2894]] 三廚經
+*** KR6u0030 三廚經--
 :PROPERTIES: 
+:KR_ID: KR6u0030
 :BASEEDITION:  T
 :CBETA_ID:  T85n2894
 :GENRE: 古逸
@@ -638,8 +668,9 @@
 :WITID: wit1
 :END:
 
-*** KR6u0031 [[mandoku:ZB6t0031.org][ZB6t0031]]  [[cbeta:T/T85n2895/T85n2895.org][T85n2895]] 要行捨身經
+*** KR6u0031 要行捨身經--
 :PROPERTIES: 
+:KR_ID: KR6u0031
 :BASEEDITION:  T
 :CBETA_ID:  T85n2895
 :GENRE: 古逸
@@ -664,8 +695,9 @@
 :WITID: wit49
 :END:
 
-*** KR6u0032 [[mandoku:ZB6t0032.org][ZB6t0032]]  [[cbeta:T/T85n2896/T85n2896.org][T85n2896]] 示所犯者瑜伽法鏡經
+*** KR6u0032 示所犯者瑜伽法鏡經--
 :PROPERTIES: 
+:KR_ID: KR6u0032
 :BASEEDITION:  T
 :CBETA_ID:  T85n2896
 :GENRE: 古逸
@@ -690,8 +722,9 @@
 :WITID: wit6
 :END:
 
-*** KR6u0033 [[mandoku:ZB6t0033.org][ZB6t0033]]  [[cbeta:T/T85n2897/T85n2897.org][T85n2897]] 天地八陽神呪經
+*** KR6u0033 天地八陽神呪經--
 :PROPERTIES: 
+:KR_ID: KR6u0033
 :BASEEDITION:  T
 :CBETA_ID:  T85n2897
 :GENRE: 古逸
@@ -721,8 +754,9 @@
 :WITID: wit49
 :END:
 
-*** KR6u0034 [[mandoku:ZB6t0034.org][ZB6t0034]]  [[cbeta:T/T85n2898/T85n2898.org][T85n2898]] 高王觀世音經
+*** KR6u0034 高王觀世音經--
 :PROPERTIES: 
+:KR_ID: KR6u0034
 :BASEEDITION:  T
 :CBETA_ID:  T85n2898
 :GENRE: 古逸
@@ -747,8 +781,9 @@
 :WITID: wit49
 :END:
 
-*** KR6u0035 [[mandoku:ZB6t0035.org][ZB6t0035]]  [[cbeta:T/T85n2899/T85n2899.org][T85n2899]] 妙法蓮華經馬明菩薩品第三十
+*** KR6u0035 妙法蓮華經馬明菩薩品第三十--
 :PROPERTIES: 
+:KR_ID: KR6u0035
 :BASEEDITION:  T
 :CBETA_ID:  T85n2899
 :GENRE: 古逸
@@ -763,8 +798,9 @@
 :WITID: wit1
 :END:
 
-*** KR6u0036 [[mandoku:ZB6t0036.org][ZB6t0036]]  [[cbeta:T/T85n2900/T85n2900.org][T85n2900]] 齋法清淨經
+*** KR6u0036 齋法清淨經--
 :PROPERTIES: 
+:KR_ID: KR6u0036
 :BASEEDITION:  T
 :CBETA_ID:  T85n2900
 :GENRE: 古逸
@@ -779,8 +815,9 @@
 :WITID: wit1
 :END:
 
-*** KR6u0037 [[mandoku:ZB6t0037.org][ZB6t0037]]  [[cbeta:T/T85n2901/T85n2901.org][T85n2901]] 法句經
+*** KR6u0037 法句經--
 :PROPERTIES: 
+:KR_ID: KR6u0037
 :BASEEDITION:  T
 :CBETA_ID:  T85n2901
 :RELATED: T85n2902@古逸
@@ -806,8 +843,9 @@
 :WITID: wit49
 :END:
 
-*** KR6u0038 [[mandoku:ZB6t0038.org][ZB6t0038]]  [[cbeta:T/T85n2902/T85n2902.org][T85n2902]] 法句經疏
+*** KR6u0038 法句經疏--
 :PROPERTIES: 
+:KR_ID: KR6u0038
 :BASEEDITION:  T
 :CBETA_ID:  T85n2902
 :RELATED: T85n2901@古逸
@@ -828,8 +866,9 @@
 :WITID: wit4
 :END:
 
-*** KR6u0039 [[mandoku:ZB6t0039.org][ZB6t0039]]  [[cbeta:T/T85n2903/T85n2903.org][T85n2903]] 無量大慈教經
+*** KR6u0039 無量大慈教經--
 :PROPERTIES: 
+:KR_ID: KR6u0039
 :BASEEDITION:  T
 :CBETA_ID:  T85n2903
 :GENRE: 古逸
@@ -849,8 +888,9 @@
 :WITID: wit4
 :END:
 
-*** KR6u0040 [[mandoku:ZB6t0040.org][ZB6t0040]]  [[cbeta:T/T85n2904/T85n2904.org][T85n2904]] 七千佛神符經
+*** KR6u0040 七千佛神符經--
 :PROPERTIES: 
+:KR_ID: KR6u0040
 :BASEEDITION:  T
 :CBETA_ID:  T85n2904
 :GENRE: 古逸
@@ -865,8 +905,9 @@
 :WITID: wit1
 :END:
 
-*** KR6u0041 [[mandoku:ZB6t0041.org][ZB6t0041]]  [[cbeta:T/T85n2905/T85n2905.org][T85n2905]] 現在十方千五百佛名並雜佛同號
+*** KR6u0041 現在十方千五百佛名並雜佛同號--
 :PROPERTIES: 
+:KR_ID: KR6u0041
 :BASEEDITION:  T
 :CBETA_ID:  T85n2905
 :GENRE: 古逸
@@ -891,8 +932,9 @@
 :WITID: wit99
 :END:
 
-*** KR6u0042 [[mandoku:ZB6t0042.org][ZB6t0042]]  [[cbeta:T/T85n2906/T85n2906.org][T85n2906]] 三萬佛同根本神祕之印並法龍種上尊王佛法
+*** KR6u0042 三萬佛同根本神祕之印並法龍種上尊王佛法--
 :PROPERTIES: 
+:KR_ID: KR6u0042
 :BASEEDITION:  T
 :CBETA_ID:  T85n2906
 :GENRE: 古逸
@@ -907,8 +949,9 @@
 :WITID: wit1
 :END:
 
-*** KR6u0043 [[mandoku:ZB6t0043.org][ZB6t0043]]  [[cbeta:T/T85n2907/T85n2907.org][T85n2907]] 普賢菩薩行願王經
+*** KR6u0043 普賢菩薩行願王經--
 :PROPERTIES: 
+:KR_ID: KR6u0043
 :BASEEDITION:  T
 :CBETA_ID:  T85n2907
 :GENRE: 古逸
@@ -933,8 +976,9 @@
 :WITID: wit49
 :END:
 
-*** KR6u0044 [[mandoku:ZB6t0044.org][ZB6t0044]]  [[cbeta:T/T85n2908/T85n2908.org][T85n2908]] 大方廣佛華嚴經普賢菩薩行願王品
+*** KR6u0044 大方廣佛華嚴經普賢菩薩行願王品--
 :PROPERTIES: 
+:KR_ID: KR6u0044
 :BASEEDITION:  T
 :CBETA_ID:  T85n2908
 :GENRE: 古逸
@@ -949,8 +993,9 @@
 :WITID: wit1
 :END:
 
-*** KR6u0045 [[mandoku:ZB6t0045.org][ZB6t0045]]  [[cbeta:T/T85n2909/T85n2909.org][T85n2909]] 地藏菩薩經
+*** KR6u0045 地藏菩薩經--
 :PROPERTIES: 
+:KR_ID: KR6u0045
 :BASEEDITION:  T
 :CBETA_ID:  T85n2909
 :GENRE: 古逸
@@ -965,8 +1010,9 @@
 :WITID: wit1
 :END:
 
-*** KR6u0046 [[mandoku:ZB6t0046.org][ZB6t0046]]  [[cbeta:T/T85n2910/T85n2910.org][T85n2910]] 金有陀羅尼經
+*** KR6u0046 金有陀羅尼經--
 :PROPERTIES: 
+:KR_ID: KR6u0046
 :BASEEDITION:  T
 :CBETA_ID:  T85n2910
 :GENRE: 古逸
@@ -981,8 +1027,9 @@
 :WITID: wit1
 :END:
 
-*** KR6u0047 [[mandoku:ZB6t0047.org][ZB6t0047]]  [[cbeta:T/T85n2911/T85n2911.org][T85n2911]] 讚僧功德經
+*** KR6u0047 讚僧功德經--
 :PROPERTIES: 
+:KR_ID: KR6u0047
 :BASEEDITION:  T
 :CBETA_ID:  T85n2911
 :GENRE: 古逸
@@ -997,8 +1044,9 @@
 :WITID: wit1
 :END:
 
-*** KR6u0048 [[mandoku:ZB6t0048.org][ZB6t0048]]  [[cbeta:T/T85n2912/T85n2912.org][T85n2912]] 無常三啟經
+*** KR6u0048 無常三啟經--
 :PROPERTIES: 
+:KR_ID: KR6u0048
 :BASEEDITION:  T
 :CBETA_ID:  T85n2912
 :GENRE: 古逸
@@ -1013,8 +1061,9 @@
 :WITID: wit1
 :END:
 
-*** KR6u0049 [[mandoku:ZB6t0049.org][ZB6t0049]]  [[cbeta:T/T85n2913/T85n2913.org][T85n2913]] 七女觀經
+*** KR6u0049 七女觀經--
 :PROPERTIES: 
+:KR_ID: KR6u0049
 :BASEEDITION:  T
 :CBETA_ID:  T85n2913
 :GENRE: 古逸
@@ -1034,8 +1083,9 @@
 :WITID: wit99
 :END:
 
-*** KR6u0050 [[mandoku:ZB6t0050.org][ZB6t0050]]  [[cbeta:T/T85n2914/T85n2914.org][T85n2914]] 觀經
+*** KR6u0050 觀經--
 :PROPERTIES: 
+:KR_ID: KR6u0050
 :BASEEDITION:  T
 :CBETA_ID:  T85n2914
 :GENRE: 古逸
@@ -1055,8 +1105,9 @@
 :WITID: wit99
 :END:
 
-*** KR6u0051 [[mandoku:ZB6t0051.org][ZB6t0051]]  [[cbeta:T/T85n2915/T85n2915.org][T85n2915]] 救諸眾生一切苦難經
+*** KR6u0051 救諸眾生一切苦難經--
 :PROPERTIES: 
+:KR_ID: KR6u0051
 :BASEEDITION:  T
 :CBETA_ID:  T85n2915
 :GENRE: 古逸
@@ -1071,8 +1122,9 @@
 :WITID: wit1
 :END:
 
-*** KR6u0052 [[mandoku:ZB6t0052.org][ZB6t0052]]  [[cbeta:T/T85n2916/T85n2916.org][T85n2916]] 勸善經
+*** KR6u0052 勸善經--
 :PROPERTIES: 
+:KR_ID: KR6u0052
 :BASEEDITION:  T
 :CBETA_ID:  T85n2916
 :GENRE: 古逸
@@ -1087,8 +1139,9 @@
 :WITID: wit1
 :END:
 
-*** KR6u0053 [[mandoku:ZB6t0053.org][ZB6t0053]]  [[cbeta:T/T85n2917A/T85n2917A.org][T85n2917A]] 新菩薩經
+*** KR6u0053 新菩薩經--
 :PROPERTIES: 
+:KR_ID: KR6u0053
 :BASEEDITION:  T
 :CBETA_ID:  T85n2917A
 :GENRE: 古逸
@@ -1103,8 +1156,9 @@
 :WITID: wit1
 :END:
 
-*** KR6u0054 [[mandoku:ZB6t0054.org][ZB6t0054]]  [[cbeta:T/T85n2917B/T85n2917B.org][T85n2917B]] 新菩薩經
+*** KR6u0054 新菩薩經--
 :PROPERTIES: 
+:KR_ID: KR6u0054
 :BASEEDITION:  T
 :CBETA_ID:  T85n2917B
 :GENRE: 古逸
@@ -1119,8 +1173,9 @@
 :WITID: wit1
 :END:
 
-*** KR6u0055 [[mandoku:ZB6t0055.org][ZB6t0055]]  [[cbeta:T/T85n2918/T85n2918.org][T85n2918]] 釋家觀化還愚經
+*** KR6u0055 釋家觀化還愚經--
 :PROPERTIES: 
+:KR_ID: KR6u0055
 :BASEEDITION:  T
 :CBETA_ID:  T85n2918
 :GENRE: 古逸
@@ -1135,8 +1190,9 @@
 :WITID: wit1
 :END:
 
-*** KR6u0056 [[mandoku:ZB6t0056.org][ZB6t0056]]  [[cbeta:T/T85n2919/T85n2919.org][T85n2919]] 佛母經
+*** KR6u0056 佛母經--
 :PROPERTIES: 
+:KR_ID: KR6u0056
 :BASEEDITION:  T
 :CBETA_ID:  T85n2919
 :GENRE: 古逸
@@ -1151,8 +1207,9 @@
 :WITID: wit1
 :END:
 
-*** KR6u0057 [[mandoku:ZB6t0057.org][ZB6t0057]]  [[cbeta:T/T85n2920/T85n2920.org][T85n2920]] 僧伽和尚欲入涅槃說六度經
+*** KR6u0057 僧伽和尚欲入涅槃說六度經--
 :PROPERTIES: 
+:KR_ID: KR6u0057
 :BASEEDITION:  T
 :CBETA_ID:  T85n2920
 :CUSTOM_ID: ZB6t0057

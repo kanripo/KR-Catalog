@@ -1,8 +1,9 @@
 #-*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID
 ** KR3i ZB3i 譜錄類
-*** KR3i0001 [[mandoku:ZB3i0001.org][ZB3i0001]] 奇器圖說
+*** KR3i0001 奇器圖說-明-西洋鄧玉函
 :PROPERTIES:
+:KR_ID: KR3i0001
 :CUSTOM_ID:  ZB3i0001
 :SOURCE:   四庫全書 文淵閣版, V842.2, p407
 :EXTENT: 3 卷
@@ -40,8 +41,9 @@
      :DATES:    1571 - 1644
      :END:
 
-*** KR3i0002 [[mandoku:ZB3i0002.org][ZB3i0002]] 文房四譜
+*** KR3i0002 文房四譜-宋-蘇易簡
 :PROPERTIES:
+:KR_ID: KR3i0002
 :CUSTOM_ID:  ZB3i0002
 :SOURCE:   四庫全書 文淵閣版, V843.1, p1
 :EXTENT: 5 卷
@@ -58,8 +60,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0003 [[mandoku:ZB3i0003.org][ZB3i0003]] 硯史
+*** KR3i0003 硯史-宋-米芾
 :PROPERTIES:
+:KR_ID: KR3i0003
 :CUSTOM_ID:  ZB3i0003
 :SOURCE:   四庫全書 文淵閣版, V843.2, p63
 :EXTENT: 1 卷
@@ -76,8 +79,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0004 [[mandoku:ZB3i0004.org][ZB3i0004]] 歙州硯譜
+*** KR3i0004 歙州硯譜-宋-唐積
 :PROPERTIES:
+:KR_ID: KR3i0004
 :CUSTOM_ID:  ZB3i0004
 :SOURCE:   四庫全書 文淵閣版, V843.3, p73
 :EXTENT: 1 卷
@@ -94,8 +98,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0005 [[mandoku:ZB3i0005.org][ZB3i0005]] 歙硯說
+*** KR3i0005 歙硯說-宋-闕名
 :PROPERTIES:
+:KR_ID: KR3i0005
 :CUSTOM_ID:  ZB3i0005
 :SOURCE:   四庫全書 文淵閣版, V843.4, p79
 :EXTENT: 1 卷
@@ -118,8 +123,9 @@
      :BOOK:   (1)
      :END:
 
-*** KR3i0006 [[mandoku:ZB3i0006.org][ZB3i0006]] 端溪硯譜
+*** KR3i0006 端溪硯譜-宋-闕名
 :PROPERTIES:
+:KR_ID: KR3i0006
 :CUSTOM_ID:  ZB3i0006
 :SOURCE:   四庫全書 文淵閣版, V843.5, p87
 :EXTENT: 1 卷
@@ -135,8 +141,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0007 [[mandoku:ZB3i0007.org][ZB3i0007]] 硯譜
+*** KR3i0007 硯譜-宋-闕名
 :PROPERTIES:
+:KR_ID: KR3i0007
 :CUSTOM_ID:  ZB3i0007
 :SOURCE:   四庫全書 文淵閣版, V843.6, p91
 :EXTENT: 1 卷
@@ -152,8 +159,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0008 [[mandoku:ZB3i0008.org][ZB3i0008]] 硯箋
+*** KR3i0008 硯箋-宋-高似孫
 :PROPERTIES:
+:KR_ID: KR3i0008
 :CUSTOM_ID:  ZB3i0008
 :SOURCE:   四庫全書 文淵閣版, V843.7, p97
 :EXTENT: 4 卷
@@ -170,8 +178,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0009 [[mandoku:ZB3i0009.org][ZB3i0009]] 欽定西清硯譜
+*** KR3i0009 欽定西清硯譜-清-于敏中
 :PROPERTIES:
+:KR_ID: KR3i0009
 :CUSTOM_ID:  ZB3i0009
 :SOURCE:   四庫全書 文淵閣版, V843.8, p133
 :EXTENT: 24 卷
@@ -202,8 +211,9 @@
      :BOOK:   (12)
      :END:
 
-*** KR3i0010 [[mandoku:ZB3i0010.org][ZB3i0010]] 墨譜法式
+*** KR3i0010 墨譜法式-宋-李孝美
 :PROPERTIES:
+:KR_ID: KR3i0010
 :CUSTOM_ID:  ZB3i0010
 :SOURCE:   四庫全書 文淵閣版, V843.9, p625
 :EXTENT: 3 卷
@@ -219,8 +229,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0011 [[mandoku:ZB3i0011.org][ZB3i0011]] 墨經
+*** KR3i0011 墨經-宋-晁貫一
 :PROPERTIES:
+:KR_ID: KR3i0011
 :CUSTOM_ID:  ZB3i0011
 :SOURCE:   四庫全書 文淵閣版, V843.10, p649
 :EXTENT: 1 卷
@@ -237,8 +248,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0012 [[mandoku:ZB3i0012.org][ZB3i0012]] 墨史
+*** KR3i0012 墨史-元-陸友
 :PROPERTIES:
+:KR_ID: KR3i0012
 :CUSTOM_ID:  ZB3i0012
 :SOURCE:   四庫全書 文淵閣版, V843.11, p655
 :EXTENT: 3 卷
@@ -255,8 +267,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0013 [[mandoku:ZB3i0013.org][ZB3i0013]] 墨法集要
+*** KR3i0013 墨法集要-明-沈繼孫
 :PROPERTIES:
+:KR_ID: KR3i0013
 :CUSTOM_ID:  ZB3i0013
 :SOURCE:   四庫全書 文淵閣版, V843.12, p677
 :EXTENT: 1 卷
@@ -272,8 +285,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0014 [[mandoku:ZB3i0014.org][ZB3i0014]] 錢錄
+*** KR3i0014 錢錄-清-梁詩正
 :PROPERTIES:
+:KR_ID: KR3i0014
 :CUSTOM_ID:  ZB3i0014
 :SOURCE:   四庫全書 文淵閣版, V844.1, p1
 :EXTENT: 16 卷
@@ -297,8 +311,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0015 [[mandoku:ZB3i0015.org][ZB3i0015]] 香譜
+*** KR3i0015 香譜-宋-洪芻
 :PROPERTIES:
+:KR_ID: KR3i0015
 :CUSTOM_ID:  ZB3i0015
 :SOURCE:   四庫全書 文淵閣版, V844.2, p217
 :EXTENT: 2 卷
@@ -314,8 +329,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0016 [[mandoku:ZB3i0016.org][ZB3i0016]] 陳氏香譜
+*** KR3i0016 陳氏香譜-宋-陳敬
 :PROPERTIES:
+:KR_ID: KR3i0016
 :CUSTOM_ID:  ZB3i0016
 :SOURCE:   四庫全書 文淵閣版, V844.3, p239
 :EXTENT: 4 卷
@@ -331,8 +347,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0017 [[mandoku:ZB3i0017.org][ZB3i0017]] 香乘
+*** KR3i0017 香乘-明-周嘉胄
 :PROPERTIES:
+:KR_ID: KR3i0017
 :CUSTOM_ID:  ZB3i0017
 :SOURCE:   四庫全書 文淵閣版, V844.4, p349
 :EXTENT: 28 卷
@@ -349,8 +366,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0018 [[mandoku:ZB3i0018.org][ZB3i0018]] 雲林石譜
+*** KR3i0018 雲林石譜-宋-杜綰
 :PROPERTIES:
+:KR_ID: KR3i0018
 :CUSTOM_ID:  ZB3i0018
 :SOURCE:   四庫全書 文淵閣版, V844.5, p583
 :EXTENT: 3 卷
@@ -367,8 +385,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0019 [[mandoku:ZB3i0019.org][ZB3i0019]] 茶經
+*** KR3i0019 茶經-唐-陸羽
 :PROPERTIES:
+:KR_ID: KR3i0019
 :CUSTOM_ID:  ZB3i0019
 :SOURCE:   四庫全書 文淵閣版, V844.6, p609
 :EXTENT: 3 卷
@@ -385,8 +404,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0020 [[mandoku:ZB3i0020.org][ZB3i0020]] 茶錄
+*** KR3i0020 茶錄-宋-蔡襄
 :PROPERTIES:
+:KR_ID: KR3i0020
 :CUSTOM_ID:  ZB3i0020
 :SOURCE:   四庫全書 文淵閣版, V844.7, p627
 :EXTENT: 1 卷
@@ -403,8 +423,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0021 [[mandoku:ZB3i0021.org][ZB3i0021]] 品茶要錄
+*** KR3i0021 品茶要錄-宋-黃儒
 :PROPERTIES:
+:KR_ID: KR3i0021
 :CUSTOM_ID:  ZB3i0021
 :SOURCE:   四庫全書 文淵閣版, V844.8, p631
 :EXTENT: 1 卷
@@ -421,8 +442,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0022 [[mandoku:ZB3i0022.org][ZB3i0022]] 宣和北苑貢茶錄
+*** KR3i0022 宣和北苑貢茶錄-宋-熊蕃
 :PROPERTIES:
+:KR_ID: KR3i0022
 :CUSTOM_ID:  ZB3i0022
 :SOURCE:   四庫全書 文淵閣版, V844.9, p635
 :EXTENT: 1 卷
@@ -457,8 +479,9 @@
       :FUNCTION: 撰
       :END:
 # *** ZB3i0022b	飮饌之屬
-*** KR3i0023 [[mandoku:ZB3i0023.org][ZB3i0023]] 東溪試茶錄
+*** KR3i0023 東溪試茶錄-宋-宋子安
 :PROPERTIES:
+:KR_ID: KR3i0023
 :CUSTOM_ID:  ZB3i0023
 :SOURCE:   四庫全書 文淵閣版, V844.10, p655
 :EXTENT: 1 卷
@@ -474,8 +497,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0024 [[mandoku:ZB3i0024.org][ZB3i0024]] 續茶經
+*** KR3i0024 續茶經-清-陸廷燦
 :PROPERTIES:
+:KR_ID: KR3i0024
 :CUSTOM_ID:  ZB3i0024
 :SOURCE:   四庫全書 文淵閣版, V844.11, p661
 :EXTENT: 3 卷
@@ -498,8 +522,9 @@
      :BOOK:   (4)
      :END:
 
-*** KR3i0025 [[mandoku:ZB3i0025.org][ZB3i0025]] 煎茶水記
+*** KR3i0025 煎茶水記-唐-張又新
 :PROPERTIES:
+:KR_ID: KR3i0025
 :CUSTOM_ID:  ZB3i0025
 :SOURCE:   四庫全書 文淵閣版, V844.12, p807
 :EXTENT: 1 卷
@@ -515,8 +540,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0026 [[mandoku:ZB3i0026.org][ZB3i0026]] 北山酒經
+*** KR3i0026 北山酒經-宋-朱翼中
 :PROPERTIES:
+:KR_ID: KR3i0026
 :CUSTOM_ID:  ZB3i0026
 :SOURCE:   四庫全書 文淵閣版, V844.13, p813
 :EXTENT: 3 卷
@@ -533,8 +559,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0027 [[mandoku:ZB3i0027.org][ZB3i0027]] 酒譜
+*** KR3i0027 酒譜-宋-竇苹
 :PROPERTIES:
+:KR_ID: KR3i0027
 :CUSTOM_ID:  ZB3i0027
 :SOURCE:   四庫全書 文淵閣版, V844.14, p835
 :EXTENT: 1 卷
@@ -550,8 +577,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0028 [[mandoku:ZB3i0028.org][ZB3i0028]] 糖霜譜
+*** KR3i0028 糖霜譜-宋-王灼
 :PROPERTIES:
+:KR_ID: KR3i0028
 :CUSTOM_ID:  ZB3i0028
 :SOURCE:   四庫全書 文淵閣版, V844.14, p839
 :EXTENT: 1 卷
@@ -568,8 +596,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0029 [[mandoku:ZB3i0029.org][ZB3i0029]] 洛陽牡丹記
+*** KR3i0029 洛陽牡丹記-宋-歐陽修
 :PROPERTIES:
+:KR_ID: KR3i0029
 :CUSTOM_ID:  ZB3i0029
 :SOURCE:   四庫全書 文淵閣版, V845.1, p1
 :EXTENT: 1 卷
@@ -586,8 +615,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0030 [[mandoku:ZB3i0039.org][ZB3i0039]] 揚州芍藥譜
+*** KR3i0030 揚州芍藥譜-宋-王觀
 :PROPERTIES:
+:KR_ID: KR3i0030
 :CUSTOM_ID:  ZB3i0039
 :SOURCE:   四庫全書 文淵閣版, V845.2, p9
 :EXTENT: 1 卷
@@ -604,8 +634,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0031 [[mandoku:ZB3i0030.org][ZB3i0030]] 劉氏菊譜
+*** KR3i0031 劉氏菊譜-宋-劉蒙
 :PROPERTIES:
+:KR_ID: KR3i0031
 :CUSTOM_ID:  ZB3i0030
 :SOURCE:   四庫全書 文淵閣版, V845.3, p15
 :EXTENT: 1 卷
@@ -622,8 +653,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0032 [[mandoku:ZB3i0031.org][ZB3i0031]] 史氏菊譜
+*** KR3i0032 史氏菊譜-宋-史正志
 :PROPERTIES:
+:KR_ID: KR3i0032
 :CUSTOM_ID:  ZB3i0031
 :SOURCE:   四庫全書 文淵閣版, V845.4, p29
 :EXTENT: 1 卷
@@ -640,8 +672,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0033 [[mandoku:ZB3i0032.org][ZB3i0032]] 范村梅譜
+*** KR3i0033 范村梅譜-宋-范成大
 :PROPERTIES:
+:KR_ID: KR3i0033
 :CUSTOM_ID:  ZB3i0032
 :SOURCE:   四庫全書 文淵閣版, V845.5, p33
 :EXTENT: 1 卷
@@ -658,8 +691,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0034 [[mandoku:ZB3i0032a.org][ZB3i0032a]] 范村菊譜
+*** KR3i0034 范村菊譜-宋-范成大
 :PROPERTIES:
+:KR_ID: KR3i0034
 :CUSTOM_ID:  ZB3i0032a
 :SOURCE:   四庫全書 文淵閣版, V845.6, p37
 :EXTENT: 1 卷
@@ -676,8 +710,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0035 [[mandoku:ZB3i0033.org][ZB3i0033]] 百菊集譜
+*** KR3i0035 百菊集譜-宋-史鑄
 :PROPERTIES:
+:KR_ID: KR3i0035
 :CUSTOM_ID:  ZB3i0033
 :SOURCE:   四庫全書 文淵閣版, V845.7, p41
 :EXTENT: 6 卷
@@ -708,8 +743,9 @@
      :BOOK:   (3)
      :END:
 
-*** KR3i0036 [[mandoku:ZB3i0034.org][ZB3i0034]] 金漳蘭譜
+*** KR3i0036 金漳蘭譜-宋-趙時庾
 :PROPERTIES:
+:KR_ID: KR3i0036
 :CUSTOM_ID:  ZB3i0034
 :SOURCE:   四庫全書 文淵閣版, V845.8, p121
 :EXTENT: 3 卷
@@ -726,8 +762,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0037 [[mandoku:ZB3i0035.org][ZB3i0035]] 海棠譜
+*** KR3i0037 海棠譜-宋-陳思
 :PROPERTIES:
+:KR_ID: KR3i0037
 :CUSTOM_ID:  ZB3i0035
 :SOURCE:   四庫全書 文淵閣版, V845.9, p133
 :EXTENT: 3 卷
@@ -744,8 +781,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0038 [[mandoku:ZB3i0036.org][ZB3i0036]] 荔枝譜
+*** KR3i0038 荔枝譜-宋-蔡襄
 :PROPERTIES:
+:KR_ID: KR3i0038
 :CUSTOM_ID:  ZB3i0036
 :SOURCE:   四庫全書 文淵閣版, V845.10, p153
 :EXTENT: 1 卷
@@ -762,8 +800,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0039 [[mandoku:ZB3i0037.org][ZB3i0037]] 橘錄
+*** KR3i0039 橘錄-宋-韓彥直
 :PROPERTIES:
+:KR_ID: KR3i0039
 :CUSTOM_ID:  ZB3i0037
 :SOURCE:   四庫全書 文淵閣版, V845.11, p161
 :EXTENT: 3 卷
@@ -780,8 +819,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0040 [[mandoku:ZB3i0038.org][ZB3i0038]] 竹譜
+*** KR3i0040 竹譜-晉-戴凱之
 :PROPERTIES:
+:KR_ID: KR3i0040
 :CUSTOM_ID:  ZB3i0038
 :SOURCE:   四庫全書 文淵閣版, V845.12, p171
 :EXTENT: 1 卷
@@ -798,8 +838,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0041 [[mandoku:ZB3i0040.org][ZB3i0040]] 筍譜
+*** KR3i0041 筍譜-宋-釋贊寧
 :PROPERTIES:
+:KR_ID: KR3i0041
 :CUSTOM_ID:  ZB3i0040
 :SOURCE:   四庫全書 文淵閣版, V845.13, p181
 :EXTENT: 1 卷
@@ -816,8 +857,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0042 [[mandoku:ZB3i0041.org][ZB3i0041]] 菌譜
+*** KR3i0042 菌譜-宋-陳仁玉
 :PROPERTIES:
+:KR_ID: KR3i0042
 :CUSTOM_ID:  ZB3i0041
 :SOURCE:   四庫全書 文淵閣版, V845.14, p205
 :EXTENT: 1 卷
@@ -834,8 +876,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0043 SB23n359 飲膳正要
+*** KR3i0043 飲膳正要-元-
 :PROPERTIES:
+:KR_ID: KR3i0043
 :TYPE:  text
 :CUSTOM_ID: SB23n359
 :EXTENT: 三卷
@@ -862,8 +905,9 @@
 [[krpimg:sbck/SB2/SB23n359/SB23n359_001-002.tif][冊 1]]
 [[krpimg:sbck/SB2/SB23n359/SB23n359_002-002.tif][冊 2]]
 [[krpimg:sbck/SB2/SB23n359/SB23n359_003-002.tif][冊 3]]
-*** KR3i0044 [[mandoku:ZB3i0042.org][ZB3i0042]] 御定佩文齋廣羣芳譜
+*** KR3i0044 御定佩文齋廣羣芳譜-清-汪灝
 :PROPERTIES:
+:KR_ID: KR3i0044
 :CUSTOM_ID:  ZB3i0042
 :SOURCE:   四庫全書 文淵閣版, V845.15, p207 - V847.1
 :EXTENT: 100 卷
@@ -892,8 +936,9 @@
      :BOOK:   (54)
      :END:
 
-*** KR3i0045 [[mandoku:ZB3i0043.org][ZB3i0043]] 禽經
+*** KR3i0045 禽經-周-師曠
 :PROPERTIES:
+:KR_ID: KR3i0045
 :CUSTOM_ID:  ZB3i0043
 :SOURCE:   四庫全書 文淵閣版, V847.2, p677
 :EXTENT: 1 卷
@@ -915,8 +960,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0046 [[mandoku:ZB3i0044.org][ZB3i0044]] 蟹譜
+*** KR3i0046 蟹譜-宋-傅肱
 :PROPERTIES:
+:KR_ID: KR3i0046
 :CUSTOM_ID:  ZB3i0044
 :SOURCE:   四庫全書 文淵閣版, V847.3, p689
 :EXTENT: 2 卷
@@ -933,8 +979,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0047 [[mandoku:ZB3i0045.org][ZB3i0045]] 蟹畧
+*** KR3i0047 蟹畧-宋-高似孫
 :PROPERTIES:
+:KR_ID: KR3i0047
 :CUSTOM_ID:  ZB3i0045
 :SOURCE:   四庫全書 文淵閣版, V847.4, p703
 :EXTENT: 4 卷
@@ -951,8 +998,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0048 [[mandoku:ZB3i0046.org][ZB3i0046]] 異魚圖贊
+*** KR3i0048 異魚圖贊-明-楊愼
 :PROPERTIES:
+:KR_ID: KR3i0048
 :CUSTOM_ID:  ZB3i0046
 :SOURCE:   四庫全書 文淵閣版, V847.5, p733
 :EXTENT: 4 卷
@@ -969,8 +1017,9 @@
 
 **** 版本
 ***** WYG
-*** KR3i0049 [[mandoku:ZB3i0047.org][ZB3i0047]] 異魚圖贊箋
+*** KR3i0049 異魚圖贊箋-明-楊愼
 :PROPERTIES:
+:KR_ID: KR3i0049
 :CUSTOM_ID:  ZB3i0047
 :SOURCE:   四庫全書 文淵閣版, V847.6, p751
 :EXTENT: 4 卷
@@ -1000,8 +1049,9 @@
      :BOOK:   (2)
      :END:
 
-*** KR3i0050 [[mandoku:ZB3i0048.org][ZB3i0048]] 異魚圖贊補
+*** KR3i0050 異魚圖贊補-清-胡世安
 :PROPERTIES:
+:KR_ID: KR3i0050
 :CUSTOM_ID:  ZB3i0048
 :SOURCE:   四庫全書 文淵閣版, V847.7, p815
 :EXTENT: 3 卷

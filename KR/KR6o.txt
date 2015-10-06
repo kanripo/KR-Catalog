@@ -1,7 +1,8 @@
 #-*- mode: org; -*-
 ** KR6o ZB6o 論集部類
-*** KR6o0001 [[mandoku:ZB6o0001.org][ZB6o0001]]  [[cbeta:T/T32n1628/T32n1628.org][T32n1628]] 因明正理門論本
+*** KR6o0001 因明正理門論本-唐-大域龍菩薩
 :PROPERTIES: 
+:KR_ID: KR6o0001
 :BASEEDITION:  T
 :CBETA_ID:  T32n1628
 :RELATED: T32n1629@論, T44n1839@疏
@@ -53,8 +54,9 @@
 :WITID: wit25
 :END:
 
-*** KR6o0002 [[mandoku:ZB6o0002.org][ZB6o0002]]  [[cbeta:T/T32n1629/T32n1629.org][T32n1629]] 因明正理門論
+*** KR6o0002 因明正理門論-唐-大域龍菩薩
 :PROPERTIES: 
+:KR_ID: KR6o0002
 :BASEEDITION:  T
 :CBETA_ID:  T32n1629
 :RELATED: T32n1628@論
@@ -106,8 +108,9 @@
 :WITID: wit25
 :END:
 
-*** KR6o0003 [[mandoku:ZB6o0003.org][ZB6o0003]]  [[cbeta:T/T32n1630/T32n1630.org][T32n1630]] 因明入正理論
+*** KR6o0003 因明入正理論-唐-南羯羅主菩薩
 :PROPERTIES: 
+:KR_ID: KR6o0003
 :BASEEDITION:  T
 :CBETA_ID:  T32n1630
 :RELATED: T44n1840@疏, T44n1841@疏, T44n1842@疏
@@ -159,8 +162,9 @@
 :WITID: wit25
 :END:
 
-*** KR6o0004 [[mandoku:ZB6o0004.org][ZB6o0004]]  [[cbeta:T/T32n1631/T32n1631.org][T32n1631]] 迴諍論
+*** KR6o0004 迴諍論-後魏-龍樹菩薩
 :PROPERTIES: 
+:KR_ID: KR6o0004
 :BASEEDITION:  T
 :CBETA_ID:  T32n1631
 :GENRE: 論
@@ -215,8 +219,9 @@
 :WITID: wit12
 :END:
 
-*** KR6o0005 [[mandoku:ZB6o0005.org][ZB6o0005]]  [[cbeta:T/T32n1632/T32n1632.org][T32n1632]] 方便心論
+*** KR6o0005 方便心論-後魏-吉迦夜
 :PROPERTIES: 
+:KR_ID: KR6o0005
 :BASEEDITION:  T
 :CBETA_ID:  T32n1632
 :GENRE: 論
@@ -262,8 +267,9 @@
 :WITID: wit25
 :END:
 
-*** KR6o0006 [[mandoku:ZB6o0006.org][ZB6o0006]]  [[cbeta:T/T32n1633/T32n1633.org][T32n1633]] 如實論
+*** KR6o0006 如實論-陳-真諦
 :PROPERTIES: 
+:KR_ID: KR6o0006
 :BASEEDITION:  T
 :CBETA_ID:  T32n1633
 :GENRE: 論
@@ -314,8 +320,9 @@
 :WITID: wit8
 :END:
 
-*** KR6o0007 [[mandoku:ZB6o0007.org][ZB6o0007]]  [[cbeta:T/T44n1839/T44n1839.org][T44n1839]] 理門論述記
+*** KR6o0007 理門論述記-唐-神泰
 :PROPERTIES: 
+:KR_ID: KR6o0007
 :BASEEDITION:  T
 :CBETA_ID:  T44n1839
 :RELATED: T32n1628@論
@@ -352,8 +359,9 @@
 :WITID: wit49
 :END:
 
-*** KR6o0008 [[mandoku:ZB6o0008.org][ZB6o0008]]  [[cbeta:T/T44n1840/T44n1840.org][T44n1840]] 因明入正理論疏
+*** KR6o0008 因明入正理論疏-唐-窺基
 :PROPERTIES: 
+:KR_ID: KR6o0008
 :BASEEDITION:  T
 :CBETA_ID:  T44n1840
 :RELATED: T32n1630@論, T68n2270@疏
@@ -400,8 +408,9 @@
 :WITID: wit6
 :END:
 
-*** KR6o0009 T68n2270 因明論疏明燈抄
+*** KR6o0009 因明論疏明燈抄--善珠
 :PROPERTIES:
+:KR_ID: KR6o0009
 :CBETA_ID: T68n2270
 :RELATED: T44n1840@疏, T68n2271@疏, T69n2272@疏, T69n2273@疏, T69n2274@疏
 :GENRE: 疏
@@ -415,8 +424,9 @@
 :PROPERTIES:
 :lang@ja-rom: Zenju
 :END:
-*** KR6o0010 T68n2271 因明大疏抄
+*** KR6o0010 因明大疏抄--藏俊
 :PROPERTIES:
+:KR_ID: KR6o0010
 :CBETA_ID: T68n2271
 :RELATED: T44n1840@疏, T68n2270@疏, T69n2272@疏, T69n2273@疏, T69n2274@疏
 :GENRE: 疏
@@ -430,8 +440,9 @@
 :PROPERTIES:
 :lang@ja-rom: Zōshun
 :END:
-*** KR6o0011 T69n2272 因明大疏融貫鈔
+*** KR6o0011 因明大疏融貫鈔--基辧
 :PROPERTIES:
+:KR_ID: KR6o0011
 :CBETA_ID: T69n2272
 :RELATED: T44n1840@疏, T68n2270@疏, T68n2271@疏, T69n2273@疏, T69n2274@疏
 :GENRE: 疏
@@ -445,8 +456,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kiben
 :END:
-*** KR6o0012 T69n2273 因明大疏ṭ
+*** KR6o0012 因明大疏ṭ--明詮
 :PROPERTIES:
+:KR_ID: KR6o0012
 :CBETA_ID: T69n2273
 :RELATED: T44n1840@疏, T68n2270@疏, T68n2271@疏, T69n2272@疏, T69n2274@疏
 :GENRE: 疏
@@ -460,8 +472,9 @@
 :PROPERTIES:
 :lang@ja-rom: Myōsen
 :END:
-*** KR6o0013 T69n2274 因明大疏裏書
+*** KR6o0013 因明大疏裏書--明詮
 :PROPERTIES:
+:KR_ID: KR6o0013
 :CBETA_ID: T69n2274
 :RELATED: T44n1840@疏, T68n2270@疏, T68n2271@疏, T69n2272@疏, T69n2273@疏
 :GENRE: 疏
@@ -475,8 +488,9 @@
 :PROPERTIES:
 :lang@ja-rom: Myōsen
 :END:
-*** KR6o0014 T69n2275 因明四種相違私記
+*** KR6o0014 因明四種相違私記--觀理
 :PROPERTIES:
+:KR_ID: KR6o0014
 :CBETA_ID: T69n2275
 :RELATED: T44n1840@疏, T69n2276@疏, T69n2277@疏, T69n2278@疏
 :GENRE: 疏
@@ -490,8 +504,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kanri
 :END:
-*** KR6o0015 T69n2276 因明論疏四相違略註釋
+*** KR6o0015 因明論疏四相違略註釋--源信
 :PROPERTIES:
+:KR_ID: KR6o0015
 :CBETA_ID: T69n2276
 :RELATED: T44n1840@疏, T69n2275@疏, T69n2277@疏, T69n2278@疏
 :GENRE: 疏
@@ -505,8 +520,9 @@
 :PROPERTIES:
 :lang@ja-rom: Genshin
 :END:
-*** KR6o0016 T69n2277 因明四種相違略私記
+*** KR6o0016 因明四種相違略私記--眞興
 :PROPERTIES:
+:KR_ID: KR6o0016
 :CBETA_ID: T69n2277
 :RELATED: T44n1840@疏, T69n2275@疏, T69n2276@疏, T69n2278@疏
 :GENRE: 疏
@@ -520,8 +536,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shingō
 :END:
-*** KR6o0017 T69n2278 四種相違斷略記
+*** KR6o0017 四種相違斷略記--眞興
 :PROPERTIES:
+:KR_ID: KR6o0017
 :CBETA_ID: T69n2278
 :RELATED: T69n2275@疏, T69n2276@疏, T69n2277@疏
 :GENRE: 疏
@@ -535,8 +552,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shingō
 :END:
-*** KR6o0018 [[mandoku:ZB6o0009.org][ZB6o0009]]  [[cbeta:T/T44n1841/T44n1841.org][T44n1841]] 因明義斷
+*** KR6o0018 因明義斷-唐-慧沼
 :PROPERTIES: 
+:KR_ID: KR6o0018
 :BASEEDITION:  T
 :CBETA_ID:  T44n1841
 :RELATED: T32n1630@論
@@ -573,8 +591,9 @@
 :WITID: wit6
 :END:
 
-*** KR6o0019 [[mandoku:ZB6o0010.org][ZB6o0010]]  [[cbeta:T/T44n1842/T44n1842.org][T44n1842]] 因明入正理論義纂要
+*** KR6o0019 因明入正理論義纂要-唐-慧沼
 :PROPERTIES: 
+:KR_ID: KR6o0019
 :BASEEDITION:  T
 :CBETA_ID:  T44n1842
 :RELATED: T32n1630@論, T69n2279@疏
@@ -611,8 +630,9 @@
 :WITID: wit6
 :END:
 
-*** KR6o0020 [[mandoku:ZB6o0011.org][ZB6o0011]]  [[cbeta:X/X53n0847/X53n0847.org][X53n0847]] 因明入正理門論述記
+*** KR6o0020 因明入正理門論述記-唐-神泰
 :PROPERTIES: 
+:KR_ID: KR6o0020
 :BASEEDITION:  X
 :CBETA_ID:  X53n0847
 :GENRE: 疏
@@ -638,8 +658,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0021 [[mandoku:ZB6o0012.org][ZB6o0012]]  [[cbeta:X/X53n0848/X53n0848.org][X53n0848]] 因明入正理論疏
+*** KR6o0021 因明入正理論疏-唐-文軌
 :PROPERTIES: 
+:KR_ID: KR6o0021
 :BASEEDITION:  X
 :CBETA_ID:  X53n0848
 :GENRE: 疏
@@ -665,8 +686,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0022 [[mandoku:ZB6o0013.org][ZB6o0013]]  [[cbeta:X/X53n0852/X53n0852.org][X53n0852]] 因明入正理論續疏
+*** KR6o0022 因明入正理論續疏-唐-慧沼
 :PROPERTIES: 
+:KR_ID: KR6o0022
 :BASEEDITION:  X
 :CBETA_ID:  X53n0852
 :GENRE: 疏
@@ -692,8 +714,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0023 [[mandoku:ZB6o0014.org][ZB6o0014]]  [[cbeta:X/X53n0853/X53n0853.org][X53n0853]] 因明入正理論疏前記
+*** KR6o0023 因明入正理論疏前記-唐-智周
 :PROPERTIES: 
+:KR_ID: KR6o0023
 :BASEEDITION:  X
 :CBETA_ID:  X53n0853
 :GENRE: 疏
@@ -719,8 +742,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0024 [[mandoku:ZB6o0015.org][ZB6o0015]]  [[cbeta:X/X53n0854/X53n0854.org][X53n0854]] 因明入正理論疏後記
+*** KR6o0024 因明入正理論疏後記-唐-智周
 :PROPERTIES: 
+:KR_ID: KR6o0024
 :BASEEDITION:  X
 :CBETA_ID:  X53n0854
 :GENRE: 疏
@@ -746,8 +770,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0025 [[mandoku:ZB6o0016.org][ZB6o0016]]  [[cbeta:X/X53n0855/X53n0855.org][X53n0855]] 因明入正理論疏抄
+*** KR6o0025 因明入正理論疏抄-唐-智周
 :PROPERTIES: 
+:KR_ID: KR6o0025
 :BASEEDITION:  X
 :CBETA_ID:  X53n0855
 :GENRE: 疏
@@ -773,8 +798,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0026 [[mandoku:ZB6o0017.org][ZB6o0017]]  [[cbeta:X/X53n0856/X53n0856.org][X53n0856]] 因明入正理論解
+*** KR6o0026 因明入正理論解-明-真界
 :PROPERTIES: 
+:KR_ID: KR6o0026
 :BASEEDITION:  X
 :CBETA_ID:  X53n0856
 :GENRE: 疏
@@ -800,8 +826,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0027 [[mandoku:ZB6o0018.org][ZB6o0018]]  [[cbeta:X/X53n0857/X53n0857.org][X53n0857]] 因明入正理論集解
+*** KR6o0027 因明入正理論集解-明-王肯堂
 :PROPERTIES: 
+:KR_ID: KR6o0027
 :BASEEDITION:  X
 :CBETA_ID:  X53n0857
 :GENRE: 疏
@@ -827,8 +854,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0028 [[mandoku:ZB6o0019.org][ZB6o0019]]  [[cbeta:X/X53n0858/X53n0858.org][X53n0858]] 因明入正理論直疏
+*** KR6o0028 因明入正理論直疏-明-明昱
 :PROPERTIES: 
+:KR_ID: KR6o0028
 :BASEEDITION:  X
 :CBETA_ID:  X53n0858
 :GENRE: 疏
@@ -854,8 +882,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0029 [[mandoku:ZB6o0020.org][ZB6o0020]]  [[cbeta:X/X53n0859/X53n0859.org][X53n0859]] 因明入正理論直解
+*** KR6o0029 因明入正理論直解-明-智旭
 :PROPERTIES: 
+:KR_ID: KR6o0029
 :BASEEDITION:  X
 :CBETA_ID:  X53n0859
 :GENRE: 疏
@@ -881,8 +910,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0030 T69n2279 因明纂要略記
+*** KR6o0030 因明纂要略記--眞興
 :PROPERTIES:
+:KR_ID: KR6o0030
 :CBETA_ID: T69n2279
 :RELATED: T44n1842@疏
 :GENRE: 疏
@@ -896,8 +926,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shingō
 :END:
-*** KR6o0031 T69n2280 因明大疏四種相違抄
+*** KR6o0031 因明大疏四種相違抄--珍海
 :PROPERTIES:
+:KR_ID: KR6o0031
 :CBETA_ID: T69n2280
 :RELATED: T44n1840@疏
 :GENRE: 疏
@@ -911,8 +942,9 @@
 :PROPERTIES:
 :lang@ja-rom: Chinkai
 :END:
-*** KR6o0032 T69n2281 明本抄
+*** KR6o0032 明本抄--貞慶
 :PROPERTIES:
+:KR_ID: KR6o0032
 :CBETA_ID: T69n2281
 :RELATED: T44n1840@疏
 :GENRE: 疏
@@ -926,8 +958,9 @@
 :PROPERTIES:
 :lang@ja-rom: Jōkei
 :END:
-*** KR6o0033 T69n2282 明要抄
+*** KR6o0033 明要抄--貞慶
 :PROPERTIES:
+:KR_ID: KR6o0033
 :CBETA_ID: T69n2282
 :RELATED: T44n1840@疏
 :GENRE: 疏
@@ -941,8 +974,9 @@
 :PROPERTIES:
 :lang@ja-rom: Jōkei
 :END:
-*** KR6o0034 [[mandoku:ZB6o0021.org][ZB6o0021]]  [[cbeta:X/X53n0860/X53n0860.org][X53n0860]] 判比量論
+*** KR6o0034 判比量論-新羅-元曉
 :PROPERTIES: 
+:KR_ID: KR6o0034
 :BASEEDITION:  X
 :CBETA_ID:  X53n0860
 :GENRE: 疏
@@ -963,8 +997,9 @@
 :WITID: wit1
 :END:
 
-*** KR6o0035 [[mandoku:ZB6o0022.org][ZB6o0022]]  [[cbeta:X/X53n0861/X53n0861.org][X53n0861]] 三支比量義鈔
+*** KR6o0035 三支比量義鈔-唐-玄奘
 :PROPERTIES: 
+:KR_ID: KR6o0035
 :BASEEDITION:  X
 :CBETA_ID:  X53n0861
 :GENRE: 疏
@@ -1000,8 +1035,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0036 [[mandoku:ZB6o0023.org][ZB6o0023]]  [[cbeta:X/X53n0862/X53n0862.org][X53n0862]] 真唯識量略解
+*** KR6o0036 真唯識量略解-明-智旭
 :PROPERTIES: 
+:KR_ID: KR6o0036
 :BASEEDITION:  X
 :CBETA_ID:  X53n0862
 :CUSTOM_ID: ZB6o0023
@@ -1026,8 +1062,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0037 [[mandoku:ZB6o0024.org][ZB6o0024]]  [[cbeta:A/A119n1553/A119n1553.org][A119n1553]] 因明論理門十四過類疏
+*** KR6o0037 因明論理門十四過類疏-唐-窺基
 :PROPERTIES: 
+:KR_ID: KR6o0037
 :BASEEDITION:  A
 :CBETA_ID:  A119n1553
 :CUSTOM_ID: ZB6o0024
@@ -1052,8 +1089,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0038 [[mandoku:ZB6o0025.org][ZB6o0025]]  [[cbeta:T/T32n1634/T32n1634.org][T32n1634]] 入大乘論
+*** KR6o0038 入大乘論-北涼-堅意菩薩
 :PROPERTIES: 
+:KR_ID: KR6o0038
 :BASEEDITION:  T
 :CBETA_ID:  T32n1634
 :GENRE: 論
@@ -1104,8 +1142,9 @@
 :WITID: wit25
 :END:
 
-*** KR6o0039 [[mandoku:ZB6o0026.org][ZB6o0026]]  [[cbeta:T/T32n1635/T32n1635.org][T32n1635]] 大乘寶要義論
+*** KR6o0039 大乘寶要義論-宋-法護
 :PROPERTIES: 
+:KR_ID: KR6o0039
 :BASEEDITION:  T
 :CBETA_ID:  T32n1635
 :GENRE: 論
@@ -1156,8 +1195,9 @@
 :WITID: wit8
 :END:
 
-*** KR6o0040 [[mandoku:ZB6o0027.org][ZB6o0027]]  [[cbeta:T/T32n1636/T32n1636.org][T32n1636]] 大乘集菩薩學論
+*** KR6o0040 大乘集菩薩學論-宋-法稱菩薩
 :PROPERTIES: 
+:KR_ID: KR6o0040
 :BASEEDITION:  T
 :CBETA_ID:  T32n1636
 :GENRE: 論
@@ -1193,8 +1233,9 @@
 :WITID: wit12
 :END:
 
-*** KR6o0041 [[mandoku:ZB6o0028.org][ZB6o0028]]  [[cbeta:T/T32n1637/T32n1637.org][T32n1637]] 集大乘相論
+*** KR6o0041 集大乘相論-宋-覺吉祥智菩薩
 :PROPERTIES: 
+:KR_ID: KR6o0041
 :BASEEDITION:  T
 :CBETA_ID:  T32n1637
 :GENRE: 論
@@ -1245,8 +1286,9 @@
 :WITID: wit25
 :END:
 
-*** KR6o0042 [[mandoku:ZB6o0029.org][ZB6o0029]]  [[cbeta:T/T32n1638/T32n1638.org][T32n1638]] 集諸法寶最上義論
+*** KR6o0042 集諸法寶最上義論-宋-善寂菩薩
 :PROPERTIES: 
+:KR_ID: KR6o0042
 :BASEEDITION:  T
 :CBETA_ID:  T32n1638
 :GENRE: 論
@@ -1297,8 +1339,9 @@
 :WITID: wit25
 :END:
 
-*** KR6o0043 [[mandoku:ZB6o0030.org][ZB6o0030]]  [[cbeta:T/T32n1639/T32n1639.org][T32n1639]] 提婆菩薩破楞伽經中外道小乘四宗論
+*** KR6o0043 提婆菩薩破楞伽經中外道小乘四宗論-後魏-提波菩薩
 :PROPERTIES: 
+:KR_ID: KR6o0043
 :BASEEDITION:  T
 :CBETA_ID:  T32n1639
 :GENRE: 論
@@ -1349,8 +1392,9 @@
 :WITID: wit25
 :END:
 
-*** KR6o0044 [[mandoku:ZB6o0031.org][ZB6o0031]]  [[cbeta:T/T32n1640/T32n1640.org][T32n1640]] 提婆菩薩釋楞伽經中外道小乘涅槃論
+*** KR6o0044 提婆菩薩釋楞伽經中外道小乘涅槃論-後魏-提波菩薩
 :PROPERTIES: 
+:KR_ID: KR6o0044
 :BASEEDITION:  T
 :CBETA_ID:  T32n1640
 :GENRE: 論
@@ -1401,8 +1445,9 @@
 :WITID: wit25
 :END:
 
-*** KR6o0045 [[mandoku:ZB6o0032.org][ZB6o0032]]  [[cbeta:T/T32n1641/T32n1641.org][T32n1641]] 隨相論
+*** KR6o0045 隨相論-陳-德慧法師
 :PROPERTIES: 
+:KR_ID: KR6o0045
 :BASEEDITION:  T
 :CBETA_ID:  T32n1641
 :GENRE: 論
@@ -1458,8 +1503,9 @@
 :WITID: wit22
 :END:
 
-*** KR6o0046 [[mandoku:ZB6o0033.org][ZB6o0033]]  [[cbeta:T/T32n1642/T32n1642.org][T32n1642]] 金剛針論
+*** KR6o0046 金剛針論-宋-法稱菩薩
 :PROPERTIES: 
+:KR_ID: KR6o0046
 :BASEEDITION:  T
 :CBETA_ID:  T32n1642
 :GENRE: 論
@@ -1510,8 +1556,9 @@
 :WITID: wit12
 :END:
 
-*** KR6o0047 [[mandoku:ZB6o0034.org][ZB6o0034]]  [[cbeta:T/T32n1643/T32n1643.org][T32n1643]] 尼乾子問無我義經
+*** KR6o0047 尼乾子問無我義經-宋-馬鳴菩薩
 :PROPERTIES: 
+:KR_ID: KR6o0047
 :BASEEDITION:  T
 :CBETA_ID:  T32n1643
 :GENRE: 論
@@ -1537,8 +1584,9 @@
 :WITID: wit1
 :END:
 
-*** KR6o0048 [[mandoku:ZB6o0035.org][ZB6o0035]]  [[cbeta:T/T32n1644/T32n1644.org][T32n1644]] 佛說立世阿毘曇論
+*** KR6o0048 佛說立世阿毘曇論-陳-真諦
 :PROPERTIES: 
+:KR_ID: KR6o0048
 :BASEEDITION:  T
 :CBETA_ID:  T32n1644
 :GENRE: 論
@@ -1584,8 +1632,9 @@
 :WITID: wit25
 :END:
 
-*** KR6o0049 [[mandoku:ZB6o0036.org][ZB6o0036]]  [[cbeta:T/T32n1645/T32n1645.org][T32n1645]] 彰所知論
+*** KR6o0049 彰所知論-元-發合思巴
 :PROPERTIES: 
+:KR_ID: KR6o0049
 :BASEEDITION:  T
 :CBETA_ID:  T32n1645
 :GENRE: 論
@@ -1611,8 +1660,9 @@
 :WITID: wit1
 :END:
 
-*** KR6o0050 [[mandoku:ZB6o0037.org][ZB6o0037]]  [[cbeta:T/T32n1646/T32n1646.org][T32n1646]] 成實論
+*** KR6o0050 成實論-姚秦-訶梨跋摩
 :PROPERTIES: 
+:KR_ID: KR6o0050
 :BASEEDITION:  T
 :CBETA_ID:  T32n1646
 :GENRE: 論
@@ -1673,8 +1723,9 @@
 :WITID: wit13
 :END:
 
-*** KR6o0051 [[mandoku:ZB6o0038.org][ZB6o0038]]  [[cbeta:T/T32n1647/T32n1647.org][T32n1647]] 四諦論
+*** KR6o0051 四諦論-陳-婆藪跋摩
 :PROPERTIES: 
+:KR_ID: KR6o0051
 :BASEEDITION:  T
 :CBETA_ID:  T32n1647
 :GENRE: 論
@@ -1730,8 +1781,9 @@
 :WITID: wit8
 :END:
 
-*** KR6o0052 [[mandoku:ZB6o0039.org][ZB6o0039]]  [[cbeta:T/T32n1648/T32n1648.org][T32n1648]] 解脫道論
+*** KR6o0052 解脫道論-梁-優波底沙
 :PROPERTIES: 
+:KR_ID: KR6o0052
 :BASEEDITION:  T
 :CBETA_ID:  T32n1648
 :GENRE: 論
@@ -1792,8 +1844,9 @@
 :WITID: wit8
 :END:
 
-*** KR6o0053 [[mandoku:ZB6o0040.org][ZB6o0040]]  [[cbeta:T/T32n1649/T32n1649.org][T32n1649]] 三彌底部論
+*** KR6o0053 三彌底部論--失譯
 :PROPERTIES: 
+:KR_ID: KR6o0053
 :BASEEDITION:  T
 :CBETA_ID:  T32n1649
 :GENRE: 論
@@ -1838,8 +1891,9 @@
 :WITID: wit25
 :END:
 
-*** KR6o0054 [[mandoku:ZB6o0041.org][ZB6o0041]]  [[cbeta:T/T32n1650/T32n1650.org][T32n1650]] 辟支佛因緣論
+*** KR6o0054 辟支佛因緣論--失譯
 :PROPERTIES: 
+:KR_ID: KR6o0054
 :BASEEDITION:  T
 :CBETA_ID:  T32n1650
 :GENRE: 論
@@ -1884,8 +1938,9 @@
 :WITID: wit25
 :END:
 
-*** KR6o0055 [[mandoku:ZB6o0042.org][ZB6o0042]]  [[cbeta:T/T32n1651/T32n1651.org][T32n1651]] 十二因緣論
+*** KR6o0055 十二因緣論-後魏-淨意菩薩
 :PROPERTIES: 
+:KR_ID: KR6o0055
 :BASEEDITION:  T
 :CBETA_ID:  T32n1651
 :GENRE: 論
@@ -1936,8 +1991,9 @@
 :WITID: wit25
 :END:
 
-*** KR6o0056 [[mandoku:ZB6o0043.org][ZB6o0043]]  [[cbeta:T/T32n1652/T32n1652.org][T32n1652]] 緣生論
+*** KR6o0056 緣生論-隋-欝楞迦
 :PROPERTIES: 
+:KR_ID: KR6o0056
 :BASEEDITION:  T
 :CBETA_ID:  T32n1652
 :RELATED: T32n1653@論
@@ -1989,8 +2045,9 @@
 :WITID: wit12
 :END:
 
-*** KR6o0057 [[mandoku:ZB6o0044.org][ZB6o0044]]  [[cbeta:T/T32n1653/T32n1653.org][T32n1653]] 大乘緣生論
+*** KR6o0057 大乘緣生論-唐-欝楞迦
 :PROPERTIES: 
+:KR_ID: KR6o0057
 :BASEEDITION:  T
 :CBETA_ID:  T32n1653
 :RELATED: T32n1652@論
@@ -2042,8 +2099,9 @@
 :WITID: wit25
 :END:
 
-*** KR6o0058 [[mandoku:ZB6o0045.org][ZB6o0045]]  [[cbeta:T/T32n1654/T32n1654.org][T32n1654]] 因緣心論頌因緣心論釋
+*** KR6o0058 因緣心論頌因緣心論釋--猛龍菩薩
 :PROPERTIES: 
+:KR_ID: KR6o0058
 :BASEEDITION:  T
 :CBETA_ID:  T32n1654
 :RELATED: T85n2816@古逸
@@ -2075,8 +2133,9 @@
 :WITID: wit34
 :END:
 
-*** KR6o0059 [[mandoku:ZB6o0046.org][ZB6o0046]]  [[cbeta:T/T85n2816/T85n2816.org][T85n2816]] 因緣心釋論開決記
+*** KR6o0059 因緣心釋論開決記--
 :PROPERTIES: 
+:KR_ID: KR6o0059
 :BASEEDITION:  T
 :CBETA_ID:  T85n2816
 :RELATED: T32n1654@論
@@ -2102,8 +2161,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0060 [[mandoku:ZB6o0047.org][ZB6o0047]]  [[cbeta:T/T32n1655/T32n1655.org][T32n1655]] 止觀門論頌
+*** KR6o0060 止觀門論頌-唐-世親菩薩
 :PROPERTIES: 
+:KR_ID: KR6o0060
 :BASEEDITION:  T
 :CBETA_ID:  T32n1655
 :GENRE: 論
@@ -2154,8 +2214,9 @@
 :WITID: wit25
 :END:
 
-*** KR6o0061 [[mandoku:ZB6o0048.org][ZB6o0048]]  [[cbeta:T/T32n1656/T32n1656.org][T32n1656]] 寶行王正論
+*** KR6o0061 寶行王正論-陳-真諦
 :PROPERTIES: 
+:KR_ID: KR6o0061
 :BASEEDITION:  T
 :CBETA_ID:  T32n1656
 :GENRE: 論
@@ -2201,8 +2262,9 @@
 :WITID: wit25
 :END:
 
-*** KR6o0062 [[mandoku:ZB6o0049.org][ZB6o0049]]  [[cbeta:T/T32n1657/T32n1657.org][T32n1657]] 手杖論
+*** KR6o0062 手杖論-唐-釋迦稱
 :PROPERTIES: 
+:KR_ID: KR6o0062
 :BASEEDITION:  T
 :CBETA_ID:  T32n1657
 :GENRE: 論
@@ -2253,8 +2315,9 @@
 :WITID: wit25
 :END:
 
-*** KR6o0063 [[mandoku:ZB6o0050.org][ZB6o0050]]  [[cbeta:T/T32n1658/T32n1658.org][T32n1658]] 諸教決定名義論
+*** KR6o0063 諸教決定名義論-宋-慈氏菩薩
 :PROPERTIES: 
+:KR_ID: KR6o0063
 :BASEEDITION:  T
 :CBETA_ID:  T32n1658
 :GENRE: 論
@@ -2290,8 +2353,9 @@
 :WITID: wit12
 :END:
 
-*** KR6o0064 [[mandoku:ZB6o0051.org][ZB6o0051]]  [[cbeta:T/T32n1659/T32n1659.org][T32n1659]] 發菩提心經論
+*** KR6o0064 發菩提心經論-後秦-天親菩薩
 :PROPERTIES: 
+:KR_ID: KR6o0064
 :BASEEDITION:  T
 :CBETA_ID:  T32n1659
 :GENRE: 論
@@ -2347,8 +2411,9 @@
 :WITID: wit8
 :END:
 
-*** KR6o0065 [[mandoku:ZB6o0052.org][ZB6o0052]]  [[cbeta:T/T32n1660/T32n1660.org][T32n1660]] 菩提資糧論
+*** KR6o0065 菩提資糧論-隋-龍樹
 :PROPERTIES: 
+:KR_ID: KR6o0065
 :BASEEDITION:  T
 :CBETA_ID:  T32n1660
 :GENRE: 論
@@ -2409,8 +2474,9 @@
 :WITID: wit8
 :END:
 
-*** KR6o0066 [[mandoku:ZB6o0053.org][ZB6o0053]]  [[cbeta:T/T32n1661/T32n1661.org][T32n1661]] 菩提心離相論
+*** KR6o0066 菩提心離相論-宋-龍樹菩薩
 :PROPERTIES: 
+:KR_ID: KR6o0066
 :BASEEDITION:  T
 :CBETA_ID:  T32n1661
 :GENRE: 論
@@ -2461,8 +2527,9 @@
 :WITID: wit25
 :END:
 
-*** KR6o0067 [[mandoku:ZB6o0054.org][ZB6o0054]]  [[cbeta:T/T32n1662/T32n1662.org][T32n1662]] 菩提行經
+*** KR6o0067 菩提行經-宋-龍樹菩薩
 :PROPERTIES: 
+:KR_ID: KR6o0067
 :BASEEDITION:  T
 :CBETA_ID:  T32n1662
 :GENRE: 論
@@ -2513,8 +2580,9 @@
 :WITID: wit25
 :END:
 
-*** KR6o0068 [[mandoku:ZB6o0055.org][ZB6o0055]]  [[cbeta:T/T32n1663/T32n1663.org][T32n1663]] 菩提心觀釋
+*** KR6o0068 菩提心觀釋-宋-法天
 :PROPERTIES: 
+:KR_ID: KR6o0068
 :BASEEDITION:  T
 :CBETA_ID:  T32n1663
 :GENRE: 論
@@ -2555,8 +2623,9 @@
 :WITID: wit12
 :END:
 
-*** KR6o0069 [[mandoku:ZB6o0056.org][ZB6o0056]]  [[cbeta:T/T32n1664/T32n1664.org][T32n1664]] 廣釋菩提心論
+*** KR6o0069 廣釋菩提心論-宋-蓮華戒菩薩
 :PROPERTIES: 
+:KR_ID: KR6o0069
 :BASEEDITION:  T
 :CBETA_ID:  T32n1664
 :GENRE: 論
@@ -2607,8 +2676,9 @@
 :WITID: wit25
 :END:
 
-*** KR6o0070 [[mandoku:ZB6o0057.org][ZB6o0057]]  [[cbeta:T/T32n1665/T32n1665.org][T32n1665]] 金剛頂瑜伽中發阿耨多羅三藐三菩提心論
+*** KR6o0070 金剛頂瑜伽中發阿耨多羅三藐三菩提心論-唐-不空
 :PROPERTIES: 
+:KR_ID: KR6o0070
 :BASEEDITION:  T
 :CBETA_ID:  T32n1665
 :RELATED: T70n2291@疏, T70n2292@疏, T70n2293@疏, T70n2294@疏
@@ -2650,8 +2720,9 @@
 :WITID: wit59
 :END:
 
-*** KR6o0071 [[mandoku:ZB6o0058.org][ZB6o0058]]  [[cbeta:X/X46n0777/X46n0777.org][X46n0777]] 金剛頂菩提心論略記
+*** KR6o0071 金剛頂菩提心論略記-唐-遍滿
 :PROPERTIES: 
+:KR_ID: KR6o0071
 :BASEEDITION:  X
 :CBETA_ID:  X46n0777
 :GENRE: 疏
@@ -2677,8 +2748,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0072 T70n2291 金剛頂瑜伽中發阿耨多羅三藐三菩提心論祕釋
+*** KR6o0072 金剛頂瑜伽中發阿耨多羅三藐三菩提心論祕釋--覺鑁
 :PROPERTIES:
+:KR_ID: KR6o0072
 :CBETA_ID: T70n2291
 :RELATED: T32n1665@論, T70n2292@疏, T70n2293@疏, T70n2294@疏
 :GENRE: 疏
@@ -2692,8 +2764,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakuban
 :END:
-*** KR6o0073 T70n2292 金剛頂發菩提心論私抄
+*** KR6o0073 金剛頂發菩提心論私抄--濟暹
 :PROPERTIES:
+:KR_ID: KR6o0073
 :CBETA_ID: T70n2292
 :RELATED: T32n1665@論, T70n2291@疏, T70n2293@疏, T70n2294@疏
 :GENRE: 疏
@@ -2707,8 +2780,9 @@
 :PROPERTIES:
 :lang@ja-rom: Saisen
 :END:
-*** KR6o0074 T70n2293 金剛頂宗菩提心論口決
+*** KR6o0074 金剛頂宗菩提心論口決--榮西
 :PROPERTIES:
+:KR_ID: KR6o0074
 :CBETA_ID: T70n2293
 :RELATED: T32n1665@論, T70n2291@疏, T70n2292@疏, T70n2294@疏
 :GENRE: 疏
@@ -2722,8 +2796,9 @@
 :PROPERTIES:
 :lang@ja-rom: Eisai
 :END:
-*** KR6o0075 T70n2294 菩提心論見聞
+*** KR6o0075 菩提心論見聞--安超
 :PROPERTIES:
+:KR_ID: KR6o0075
 :CBETA_ID: T70n2294
 :RELATED: T32n1665@論, T70n2291@疏, T70n2292@疏, T70n2293@疏
 :GENRE: 疏
@@ -2737,8 +2812,9 @@
 :PROPERTIES:
 :lang@ja-rom: Anchō
 :END:
-*** KR6o0076 T70n2295A 菩提心論異本
+*** KR6o0076 菩提心論異本--尊通
 :PROPERTIES:
+:KR_ID: KR6o0076
 :CBETA_ID: T70n2295A
 :RELATED: T32n1665@論
 :lang@ja-rom: BODAISHIN ROṄ IHON
@@ -2751,8 +2827,9 @@
 :PROPERTIES:
 :lang@ja-rom: Sontsū
 :END:
-*** KR6o0077 T70n2295B 菩提心論愚疑
+*** KR6o0077 菩提心論愚疑--
 :PROPERTIES:
+:KR_ID: KR6o0077
 :CBETA_ID: T70n2295B
 :RELATED: T32n1665@論
 :lang@ja-rom: BODAISHIN RON GUGI
@@ -2760,8 +2837,9 @@
 :EXTENT: I
 :END:
 [[img:T/T70/01/T70-0117.tif][T70, p.117]]
-*** KR6o0078 [[mandoku:ZB6o0059.org][ZB6o0059]]  [[cbeta:T/T32n1666/T32n1666.org][T32n1666]] 大乘起信論
+*** KR6o0078 大乘起信論-梁-馬鳴菩薩
 :PROPERTIES: 
+:KR_ID: KR6o0078
 :BASEEDITION:  T
 :CBETA_ID:  T32n1666
 :RELATED: T32n1667@論, T44n1843@疏, T44n1844@疏, T44n1845@疏, T44n1846@疏, T44n1847@疏, T44n1848@疏, T44n1849@疏, T69n2283@疏
@@ -2833,8 +2911,9 @@
 :WITID: wit22
 :END:
 
-*** KR6o0079 [[mandoku:ZB6o0060.org][ZB6o0060]]  [[cbeta:T/T32n1667/T32n1667.org][T32n1667]] 大乘起信論
+*** KR6o0079 大乘起信論-唐-馬鳴菩薩
 :PROPERTIES: 
+:KR_ID: KR6o0079
 :BASEEDITION:  T
 :CBETA_ID:  T32n1667
 :RELATED: T32n1666@論, T85n2813@古逸, T85n2814@古逸, T85n2815@古逸
@@ -2886,8 +2965,9 @@
 :WITID: wit12
 :END:
 
-*** KR6o0080 T69n2283 起信論抄出
+*** KR6o0080 起信論抄出--尊辧
 :PROPERTIES:
+:KR_ID: KR6o0080
 :CBETA_ID: T69n2283
 :RELATED: T32n1666@論
 :GENRE: 疏
@@ -2901,8 +2981,9 @@
 :PROPERTIES:
 :lang@ja-rom: Somben
 :END:
-*** KR6o0081 T70n2296 大乘三論大義鈔
+*** KR6o0081 大乘三論大義鈔--玄叡
 :PROPERTIES:
+:KR_ID: KR6o0081
 :CBETA_ID: T70n2296
 :GENRE: 諸宗
 :lang@ja-rom: DAIJŌ SANRON DAIGISHŌ
@@ -2915,8 +2996,9 @@
 :PROPERTIES:
 :lang@ja-rom: Geṇei
 :END:
-*** KR6o0082 T70n2297 一乘佛性慧日抄
+*** KR6o0082 一乘佛性慧日抄--
 :PROPERTIES:
+:KR_ID: KR6o0082
 :CBETA_ID: T70n2297
 :GENRE: 諸宗
 :lang@ja-rom: ICHIJŌ BUSSHŌ ENICHISHŌ
@@ -2924,8 +3006,9 @@
 :EXTENT: I
 :END:
 [[img:T/T70/01/T70-0173.tif][T70, p.173]]
-*** KR6o0083 T70n2298 大乘正觀略私記
+*** KR6o0083 大乘正觀略私記--珍海
 :PROPERTIES:
+:KR_ID: KR6o0083
 :CBETA_ID: T70n2298
 :GENRE: 諸宗
 :lang@ja-rom: DAIJŌ SHŌKAN RYAKUSHIKI
@@ -2938,8 +3021,9 @@
 :PROPERTIES:
 :lang@ja-rom: Chinkai
 :END:
-*** KR6o0084 [[mandoku:ZB6o0061.org][ZB6o0061]]  [[cbeta:T/T32n1668/T32n1668.org][T32n1668]] 釋摩訶衍論
+*** KR6o0084 釋摩訶衍論-姚秦-龍樹菩薩
 :PROPERTIES: 
+:KR_ID: KR6o0084
 :BASEEDITION:  T
 :CBETA_ID:  T32n1668
 :RELATED: T69n2284@疏, T69n2285@疏, T69n2286@疏, T69n2287@疏, T69n2288@疏, T69n2289@疏, T69n2290@疏
@@ -2996,8 +3080,9 @@
 :WITID: wit25
 :END:
 
-*** KR6o0085 [[mandoku:ZB6o0062.org][ZB6o0062]]  [[cbeta:X/X45n0770/X45n0770.org][X45n0770]] 釋摩訶衍論記
+*** KR6o0085 釋摩訶衍論記-唐-聖法
 :PROPERTIES: 
+:KR_ID: KR6o0085
 :BASEEDITION:  X
 :CBETA_ID:  X45n0770
 :GENRE: 疏
@@ -3023,8 +3108,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0086 [[mandoku:ZB6o0063.org][ZB6o0063]]  [[cbeta:X/X45n0771/X45n0771.org][X45n0771]] 釋摩訶衍論疏
+*** KR6o0086 釋摩訶衍論疏-唐-法敏
 :PROPERTIES: 
+:KR_ID: KR6o0086
 :BASEEDITION:  X
 :CBETA_ID:  X45n0771
 :GENRE: 疏
@@ -3050,8 +3136,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0087 [[mandoku:ZB6o0064.org][ZB6o0064]]  [[cbeta:X/X45n0772/X45n0772.org][X45n0772]] 釋摩訶衍論贊玄疏
+*** KR6o0087 釋摩訶衍論贊玄疏-宋-法悟
 :PROPERTIES: 
+:KR_ID: KR6o0087
 :BASEEDITION:  X
 :CBETA_ID:  X45n0772
 :GENRE: 疏
@@ -3082,8 +3169,9 @@
 :WITID: wit7
 :END:
 
-*** KR6o0088 [[mandoku:ZB6o0065.org][ZB6o0065]]  [[cbeta:X/X46n0773/X46n0773.org][X46n0773]] 釋摩訶衍論科
+*** KR6o0088 釋摩訶衍論科-宋-普觀
 :PROPERTIES: 
+:KR_ID: KR6o0088
 :BASEEDITION:  X
 :CBETA_ID:  X46n0773
 :GENRE: 疏
@@ -3109,8 +3197,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0089 [[mandoku:ZB6o0066.org][ZB6o0066]]  [[cbeta:X/X46n0774/X46n0774.org][X46n0774]] 釋摩訶衍論記
+*** KR6o0089 釋摩訶衍論記-宋-普觀
 :PROPERTIES: 
+:KR_ID: KR6o0089
 :BASEEDITION:  X
 :CBETA_ID:  X46n0774
 :GENRE: 疏
@@ -3136,8 +3225,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0090 [[mandoku:ZB6o0067.org][ZB6o0067]]  [[cbeta:X/X46n0775/X46n0775.org][X46n0775]] 釋摩訶衍論通玄鈔
+*** KR6o0090 釋摩訶衍論通玄鈔-遼-志福
 :PROPERTIES: 
+:KR_ID: KR6o0090
 :BASEEDITION:  X
 :CBETA_ID:  X46n0775
 :GENRE: 疏
@@ -3163,8 +3253,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0091 T69n2284 釋摩訶衍論指事
+*** KR6o0091 釋摩訶衍論指事--空海
 :PROPERTIES:
+:KR_ID: KR6o0091
 :CBETA_ID: T69n2284
 :RELATED: T32n1668@論, T69n2285@疏, T69n2286@疏, T69n2287@疏, T69n2288@疏, T69n2289@疏, T69n2290@疏
 :GENRE: 疏
@@ -3178,8 +3269,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kūkai
 :END:
-*** KR6o0092 T69n2285 釋摩訶衍論指事
+*** KR6o0092 釋摩訶衍論指事--覺鑁
 :PROPERTIES:
+:KR_ID: KR6o0092
 :CBETA_ID: T69n2285
 :RELATED: 
 :GENRE: 疏
@@ -3193,8 +3285,9 @@
 :PROPERTIES:
 :lang@ja-rom: Kakuban
 :END:
-*** KR6o0093 T69n2286 釋摩訶衍論決疑破難會釋抄
+*** KR6o0093 釋摩訶衍論決疑破難會釋抄--濟暹
 :PROPERTIES:
+:KR_ID: KR6o0093
 :CBETA_ID: T69n2286
 :RELATED: T32n1668@論, T69n2284@疏, T69n2285@疏, T69n2287@疏, T69n2288@疏, T69n2289@疏, T69n2290@疏
 :GENRE: 疏
@@ -3208,8 +3301,9 @@
 :PROPERTIES:
 :lang@ja-rom: Saisen
 :END:
-*** KR6o0094 T69n2287 釋摩訶衍論立義分略釋
+*** KR6o0094 釋摩訶衍論立義分略釋--濟暹
 :PROPERTIES:
+:KR_ID: KR6o0094
 :CBETA_ID: T69n2287
 :RELATED: T32n1668@論, T69n2284@疏, T69n2285@疏, T69n2286@疏, T69n2288@疏, T69n2289@疏, T69n2290@疏
 :GENRE: 疏
@@ -3223,8 +3317,9 @@
 :PROPERTIES:
 :lang@ja-rom: Saisen
 :END:
-*** KR6o0095 T69n2288 釋摩訶衍論應教鈔
+*** KR6o0095 釋摩訶衍論應教鈔--道範
 :PROPERTIES:
+:KR_ID: KR6o0095
 :CBETA_ID: T69n2288
 :RELATED: T32n1668@論, T69n2284@疏, T69n2285@疏, T69n2286@疏, T69n2287@疏, T69n2289@疏, T69n2290@疏
 :GENRE: 疏
@@ -3238,8 +3333,9 @@
 :PROPERTIES:
 :lang@ja-rom: Dōhan
 :END:
-*** KR6o0096 T69n2289 釋摩訶衍論私記
+*** KR6o0096 釋摩訶衍論私記--信堅
 :PROPERTIES:
+:KR_ID: KR6o0096
 :CBETA_ID: T69n2289
 :RELATED: T32n1668@論, T69n2284@疏, T69n2285@疏, T69n2286@疏, T69n2287@疏, T69n2288@疏, T69n2290@疏
 :GENRE: 疏
@@ -3253,8 +3349,9 @@
 :PROPERTIES:
 :lang@ja-rom: Shinken
 :END:
-*** KR6o0097 T69n2290 釋摩訶衍論勘注
+*** KR6o0097 釋摩訶衍論勘注--頼寶
 :PROPERTIES:
+:KR_ID: KR6o0097
 :CBETA_ID: T69n2290
 :RELATED: T32n1668@論, T69n2284@疏, T69n2285@疏, T69n2286@疏, T69n2287@疏, T69n2288@疏, T69n2289@疏
 :GENRE: 疏
@@ -3268,8 +3365,9 @@
 :PROPERTIES:
 :lang@ja-rom: Raihō
 :END:
-*** KR6o0098 [[mandoku:ZB6o0068.org][ZB6o0068]]  [[cbeta:T/T32n1669/T32n1669.org][T32n1669]] 大宗地玄文本論
+*** KR6o0098 大宗地玄文本論-陳-馬鳴菩薩
 :PROPERTIES: 
+:KR_ID: KR6o0098
 :BASEEDITION:  T
 :CBETA_ID:  T32n1669
 :GENRE: 論
@@ -3305,8 +3403,9 @@
 :WITID: wit12
 :END:
 
-*** KR6o0099 [[mandoku:ZB6o0069.org][ZB6o0069]]  [[cbeta:X/X46n0776/X46n0776.org][X46n0776]] 大宗地玄文本論略註
+*** KR6o0099 大宗地玄文本論略註-清-楊文會
 :PROPERTIES: 
+:KR_ID: KR6o0099
 :BASEEDITION:  X
 :CBETA_ID:  X46n0776
 :GENRE: 疏
@@ -3332,8 +3431,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0100 [[mandoku:ZB6o0070.org][ZB6o0070]]  [[cbeta:T/T44n1843/T44n1843.org][T44n1843]] 大乘起信論義疏
+*** KR6o0100 大乘起信論義疏-隋-慧遠
 :PROPERTIES: 
+:KR_ID: KR6o0100
 :BASEEDITION:  T
 :CBETA_ID:  T44n1843
 :RELATED: T32n1666@論
@@ -3360,8 +3460,9 @@
 :WITID: wit4
 :END:
 
-*** KR6o0101 [[mandoku:ZB6o0071.org][ZB6o0071]]  [[cbeta:T/T44n1844/T44n1844.org][T44n1844]] 起信論疏
+*** KR6o0101 起信論疏-新羅-元曉
 :PROPERTIES: 
+:KR_ID: KR6o0101
 :BASEEDITION:  T
 :CBETA_ID:  T44n1844
 :RELATED: T32n1666@論, T44n1845@疏
@@ -3393,8 +3494,9 @@
 :WITID: wit6
 :END:
 
-*** KR6o0102 [[mandoku:ZB6o0072.org][ZB6o0072]]  [[cbeta:J/J07nA123/J07nA123.org][J07nA123]] 起信論疏（選錄「科文」）
+*** KR6o0102 起信論疏（選錄「科文」）-宋-子璿
 :PROPERTIES: 
+:KR_ID: KR6o0102
 :BASEEDITION:  J
 :CBETA_ID:  J07nA123
 :CUSTOM_ID: ZB6o0072
@@ -3419,8 +3521,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0103 [[mandoku:ZB6o0073.org][ZB6o0073]]  [[cbeta:L/L141n1600/L141n1600.org][L141n1600]] 大乘起信論疏
+*** KR6o0103 大乘起信論疏-唐-法藏
 :PROPERTIES: 
+:KR_ID: KR6o0103
 :BASEEDITION:  L
 :CBETA_ID:  L141n1600
 :CUSTOM_ID: ZB6o0073
@@ -3445,8 +3548,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0104 [[mandoku:ZB6o0074.org][ZB6o0074]]  [[cbeta:T/T44n1845/T44n1845.org][T44n1845]] 大乘起信論別記
+*** KR6o0104 大乘起信論別記-新羅-元曉
 :PROPERTIES: 
+:KR_ID: KR6o0104
 :BASEEDITION:  T
 :CBETA_ID:  T44n1845
 :RELATED: T32n1666@論, T44n1844@疏
@@ -3478,8 +3582,9 @@
 :WITID: wit6
 :END:
 
-*** KR6o0105 [[mandoku:ZB6o0075.org][ZB6o0075]]  [[cbeta:T/T44n1846/T44n1846.org][T44n1846]] 大乘起信論義記
+*** KR6o0105 大乘起信論義記-唐-法藏
 :PROPERTIES: 
+:KR_ID: KR6o0105
 :BASEEDITION:  T
 :CBETA_ID:  T44n1846
 :RELATED: T32n1666@論, T44n1847@疏, T44n1848@疏
@@ -3516,8 +3621,9 @@
 :WITID: wit6
 :END:
 
-*** KR6o0106 [[mandoku:ZB6o0076.org][ZB6o0076]]  [[cbeta:T/T44n1847/T44n1847.org][T44n1847]] 大乘起信論義記別記
+*** KR6o0106 大乘起信論義記別記-唐-法藏
 :PROPERTIES: 
+:KR_ID: KR6o0106
 :BASEEDITION:  T
 :CBETA_ID:  T44n1847
 :RELATED: T32n1666@論, T44n1846@疏, T44n1848@疏
@@ -3549,8 +3655,9 @@
 :WITID: wit49
 :END:
 
-*** KR6o0107 [[mandoku:ZB6o0077.org][ZB6o0077]]  [[cbeta:T/T44n1848/T44n1848.org][T44n1848]] 起信論疏筆削記
+*** KR6o0107 起信論疏筆削記-宋-子璿
 :PROPERTIES: 
+:KR_ID: KR6o0107
 :BASEEDITION:  T
 :CBETA_ID:  T44n1848
 :RELATED: T32n1666@論, T44n1846@疏, T44n1847@疏
@@ -3582,8 +3689,9 @@
 :WITID: wit49
 :END:
 
-*** KR6o0108 [[mandoku:ZB6o0078.org][ZB6o0078]]  [[cbeta:T/T44n1849/T44n1849.org][T44n1849]] 大乘起信論內義略探記
+*** KR6o0108 大乘起信論內義略探記-新羅-太賢
 :PROPERTIES: 
+:KR_ID: KR6o0108
 :BASEEDITION:  T
 :CBETA_ID:  T44n1849
 :RELATED: T32n1666@論
@@ -3615,8 +3723,9 @@
 :WITID: wit6
 :END:
 
-*** KR6o0109 [[mandoku:ZB6o0079.org][ZB6o0079]]  [[cbeta:T/T44n1850/T44n1850.org][T44n1850]] 大乘起信論裂網疏
+*** KR6o0109 大乘起信論裂網疏-明-智旭
 :PROPERTIES: 
+:KR_ID: KR6o0109
 :BASEEDITION:  T
 :CBETA_ID:  T44n1850
 :RELATED: T32n1667@論
@@ -3642,8 +3751,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0110 [[mandoku:ZB6o0080.org][ZB6o0080]]  [[cbeta:X/X45n0754/X45n0754.org][X45n0754]] 起信論一心二門大意
+*** KR6o0110 起信論一心二門大意-陳-智愷
 :PROPERTIES: 
+:KR_ID: KR6o0110
 :BASEEDITION:  X
 :CBETA_ID:  X45n0754
 :GENRE: 疏
@@ -3669,8 +3779,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0111 [[mandoku:ZB6o0081.org][ZB6o0081]]  [[cbeta:X/X45n0755/X45n0755.org][X45n0755]] 起信論義疏
+*** KR6o0111 起信論義疏-隋-曇延
 :PROPERTIES: 
+:KR_ID: KR6o0111
 :BASEEDITION:  X
 :CBETA_ID:  X45n0755
 :GENRE: 疏
@@ -3696,8 +3807,9 @@
 :WITID: wit4
 :END:
 
-*** KR6o0112 [[mandoku:ZB6o0082.org][ZB6o0082]]  [[cbeta:X/X45n0757/X45n0757.org][X45n0757]] 起信論疏記
+*** KR6o0112 起信論疏記-新羅-元曉
 :PROPERTIES: 
+:KR_ID: KR6o0112
 :BASEEDITION:  X
 :CBETA_ID:  X45n0757
 :GENRE: 疏
@@ -3723,8 +3835,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0113 [[mandoku:ZB6o0083.org][ZB6o0083]]  [[cbeta:X/X45n0759/X45n0759.org][X45n0759]] 起信論同異集
+*** KR6o0113 起信論同異集-唐-見登
 :PROPERTIES: 
+:KR_ID: KR6o0113
 :BASEEDITION:  X
 :CBETA_ID:  X45n0759
 :GENRE: 疏
@@ -3750,8 +3863,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0114 [[mandoku:ZB6o0084.org][ZB6o0084]]  [[cbeta:X/X45n0762/X45n0762.org][X45n0762]] 起信論纂註
+*** KR6o0114 起信論纂註-明-真界
 :PROPERTIES: 
+:KR_ID: KR6o0114
 :BASEEDITION:  X
 :CBETA_ID:  X45n0762
 :GENRE: 疏
@@ -3777,8 +3891,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0115 [[mandoku:ZB6o0085.org][ZB6o0085]]  [[cbeta:X/X45n0763/X45n0763.org][X45n0763]] 起信論捷要
+*** KR6o0115 起信論捷要-明-正遠
 :PROPERTIES: 
+:KR_ID: KR6o0115
 :BASEEDITION:  X
 :CBETA_ID:  X45n0763
 :GENRE: 疏
@@ -3804,8 +3919,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0116 [[mandoku:ZB6o0086.org][ZB6o0086]]  [[cbeta:X/X45n0764/X45n0764.org][X45n0764]] 起信論續疏
+*** KR6o0116 起信論續疏-明-通潤
 :PROPERTIES: 
+:KR_ID: KR6o0116
 :BASEEDITION:  X
 :CBETA_ID:  X45n0764
 :GENRE: 疏
@@ -3831,8 +3947,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0117 [[mandoku:ZB6o0087.org][ZB6o0087]]  [[cbeta:X/X45n0765/X45n0765.org][X45n0765]] 大乘起信論疏略
+*** KR6o0117 大乘起信論疏略-唐-法藏
 :PROPERTIES: 
+:KR_ID: KR6o0117
 :BASEEDITION:  X
 :CBETA_ID:  X45n0765
 :GENRE: 疏
@@ -3863,8 +3980,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0118 [[mandoku:ZB6o0088.org][ZB6o0088]]  [[cbeta:X/X45n0766/X45n0766.org][X45n0766]] 起信論直解
+*** KR6o0118 起信論直解-明-德清
 :PROPERTIES: 
+:KR_ID: KR6o0118
 :BASEEDITION:  X
 :CBETA_ID:  X45n0766
 :GENRE: 疏
@@ -3890,8 +4008,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0119 [[mandoku:ZB6o0089.org][ZB6o0089]]  [[cbeta:X/X45n0767/X45n0767.org][X45n0767]] 起信論疏記會閱卷首
+*** KR6o0119 起信論疏記會閱卷首--
 :PROPERTIES: 
+:KR_ID: KR6o0119
 :BASEEDITION:  X
 :CBETA_ID:  X45n0767
 :GENRE: 疏
@@ -3911,8 +4030,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0120 [[mandoku:ZB6o0090.org][ZB6o0090]]  [[cbeta:X/X45n0768/X45n0768.org][X45n0768]] 起信論疏記會閱
+*** KR6o0120 起信論疏記會閱-清-續法
 :PROPERTIES: 
+:KR_ID: KR6o0120
 :BASEEDITION:  X
 :CBETA_ID:  X45n0768
 :GENRE: 疏
@@ -3938,8 +4058,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0121 [[mandoku:ZB6o0091.org][ZB6o0091]]  [[cbeta:T/T85n2813/T85n2813.org][T85n2813]] 大乘起信論略述
+*** KR6o0121 大乘起信論略述-唐-曇曠
 :PROPERTIES: 
+:KR_ID: KR6o0121
 :BASEEDITION:  T
 :CBETA_ID:  T85n2813
 :RELATED: T38n1776@疏
@@ -3971,8 +4092,9 @@
 :WITID: wit49
 :END:
 
-*** KR6o0122 [[mandoku:ZB6o0092.org][ZB6o0092]]  [[cbeta:T/T85n2814/T85n2814.org][T85n2814]] 大乘起信論廣釋卷第三．四．五
+*** KR6o0122 大乘起信論廣釋卷第三．四．五-唐-曇曠
 :PROPERTIES: 
+:KR_ID: KR6o0122
 :BASEEDITION:  T
 :CBETA_ID:  T85n2814
 :RELATED: T32n1667@論
@@ -4004,8 +4126,9 @@
 :WITID: wit49
 :END:
 
-*** KR6o0123 [[mandoku:ZB6o0093.org][ZB6o0093]]  [[cbeta:T/T85n2815/T85n2815.org][T85n2815]] 起信論註
+*** KR6o0123 起信論註--
 :PROPERTIES: 
+:KR_ID: KR6o0123
 :BASEEDITION:  T
 :CBETA_ID:  T85n2815
 :RELATED: T32n1667@論
@@ -4026,8 +4149,9 @@
 :WITID: wit4
 :END:
 
-*** KR6o0124 [[mandoku:ZB6o0094.org][ZB6o0094]]  [[cbeta:T/T32n1670A/T32n1670A.org][T32n1670A]] 那先比丘經
+*** KR6o0124 那先比丘經--失譯
 :PROPERTIES: 
+:KR_ID: KR6o0124
 :BASEEDITION:  T
 :CBETA_ID:  T32n1670A
 :GENRE: 論
@@ -4062,8 +4186,9 @@
 :WITID: wit8
 :END:
 
-*** KR6o0125 [[mandoku:ZB6o0095.org][ZB6o0095]]  [[cbeta:T/T32n1670B/T32n1670B.org][T32n1670B]] 那先比丘經
+*** KR6o0125 那先比丘經--失譯
 :PROPERTIES: 
+:KR_ID: KR6o0125
 :BASEEDITION:  T
 :CBETA_ID:  T32n1670B
 :GENRE: 論
@@ -4103,8 +4228,9 @@
 :WITID: wit11
 :END:
 
-*** KR6o0126 [[mandoku:ZB6o0096.org][ZB6o0096]]  [[cbeta:T/T32n1671/T32n1671.org][T32n1671]] 福蓋正行所集經
+*** KR6o0126 福蓋正行所集經-宋-龍樹菩薩
 :PROPERTIES: 
+:KR_ID: KR6o0126
 :BASEEDITION:  T
 :CBETA_ID:  T32n1671
 :GENRE: 論
@@ -4140,8 +4266,9 @@
 :WITID: wit4
 :END:
 
-*** KR6o0127 [[mandoku:ZB6o0097.org][ZB6o0097]]  [[cbeta:T/T32n1672/T32n1672.org][T32n1672]] 龍樹菩薩為禪陀迦王說法要偈
+*** KR6o0127 龍樹菩薩為禪陀迦王說法要偈-宋-求那跋摩
 :PROPERTIES: 
+:KR_ID: KR6o0127
 :BASEEDITION:  T
 :CBETA_ID:  T32n1672
 :RELATED: T32n1673@論, T32n1674@論
@@ -4188,8 +4315,9 @@
 :WITID: wit25
 :END:
 
-*** KR6o0128 [[mandoku:ZB6o0098.org][ZB6o0098]]  [[cbeta:T/T32n1673/T32n1673.org][T32n1673]] 勸發諸王要偈
+*** KR6o0128 勸發諸王要偈-宋-龍樹菩薩
 :PROPERTIES: 
+:KR_ID: KR6o0128
 :BASEEDITION:  T
 :CBETA_ID:  T32n1673
 :RELATED: T32n1672@論, T32n1674@論
@@ -4241,8 +4369,9 @@
 :WITID: wit25
 :END:
 
-*** KR6o0129 [[mandoku:ZB6o0099.org][ZB6o0099]]  [[cbeta:T/T32n1674/T32n1674.org][T32n1674]] 龍樹菩薩勸誡王頌
+*** KR6o0129 龍樹菩薩勸誡王頌-唐-義淨
 :PROPERTIES: 
+:KR_ID: KR6o0129
 :BASEEDITION:  T
 :CBETA_ID:  T32n1674
 :RELATED: T32n1672@論, T32n1673@論
@@ -4289,8 +4418,9 @@
 :WITID: wit25
 :END:
 
-*** KR6o0130 [[mandoku:ZB6o0100.org][ZB6o0100]]  [[cbeta:T/T32n1675/T32n1675.org][T32n1675]] 讚法界頌
+*** KR6o0130 讚法界頌-宋-龍樹菩薩
 :PROPERTIES: 
+:KR_ID: KR6o0130
 :BASEEDITION:  T
 :CBETA_ID:  T32n1675
 :GENRE: 論
@@ -4346,8 +4476,9 @@
 :WITID: wit8
 :END:
 
-*** KR6o0131 [[mandoku:ZB6o0101.org][ZB6o0101]]  [[cbeta:T/T32n1676/T32n1676.org][T32n1676]] 廣大發願頌
+*** KR6o0131 廣大發願頌-宋-龍樹菩薩
 :PROPERTIES: 
+:KR_ID: KR6o0131
 :BASEEDITION:  T
 :CBETA_ID:  T32n1676
 :GENRE: 論
@@ -4383,8 +4514,9 @@
 :WITID: wit12
 :END:
 
-*** KR6o0132 [[mandoku:ZB6o0102.org][ZB6o0102]]  [[cbeta:T/T32n1677/T32n1677.org][T32n1677]] 三身梵讚
+*** KR6o0132 三身梵讚-宋-法賢
 :PROPERTIES: 
+:KR_ID: KR6o0132
 :BASEEDITION:  T
 :CBETA_ID:  T32n1677
 :GENRE: 論
@@ -4430,8 +4562,9 @@
 :WITID: wit12
 :END:
 
-*** KR6o0133 [[mandoku:ZB6o0103.org][ZB6o0103]]  [[cbeta:T/T32n1678/T32n1678.org][T32n1678]] 佛三身讚
+*** KR6o0133 佛三身讚-宋-西土賢聖
 :PROPERTIES: 
+:KR_ID: KR6o0133
 :BASEEDITION:  T
 :CBETA_ID:  T32n1678
 :GENRE: 論
@@ -4482,8 +4615,9 @@
 :WITID: wit25
 :END:
 
-*** KR6o0134 [[mandoku:ZB6o0104.org][ZB6o0104]]  [[cbeta:T/T32n1679/T32n1679.org][T32n1679]] 佛一百八名讚
+*** KR6o0134 佛一百八名讚-宋-法天
 :PROPERTIES: 
+:KR_ID: KR6o0134
 :BASEEDITION:  T
 :CBETA_ID:  T32n1679
 :GENRE: 論
@@ -4529,8 +4663,9 @@
 :WITID: wit25
 :END:
 
-*** KR6o0135 [[mandoku:ZB6o0105.org][ZB6o0105]]  [[cbeta:T/T32n1680/T32n1680.org][T32n1680]] 一百五十讚佛頌
+*** KR6o0135 一百五十讚佛頌-唐-摩咥里制吒
 :PROPERTIES: 
+:KR_ID: KR6o0135
 :BASEEDITION:  T
 :CBETA_ID:  T32n1680
 :GENRE: 論
@@ -4581,8 +4716,9 @@
 :WITID: wit25
 :END:
 
-*** KR6o0136 [[mandoku:ZB6o0106.org][ZB6o0106]]  [[cbeta:T/T32n1681/T32n1681.org][T32n1681]] 佛吉祥德讚
+*** KR6o0136 佛吉祥德讚-宋-寂友尊者
 :PROPERTIES: 
+:KR_ID: KR6o0136
 :BASEEDITION:  T
 :CBETA_ID:  T32n1681
 :GENRE: 論
@@ -4633,8 +4769,9 @@
 :WITID: wit25
 :END:
 
-*** KR6o0137 [[mandoku:ZB6o0107.org][ZB6o0107]]  [[cbeta:T/T32n1682/T32n1682.org][T32n1682]] 七佛讚唄伽他
+*** KR6o0137 七佛讚唄伽他-宋-法天
 :PROPERTIES: 
+:KR_ID: KR6o0137
 :BASEEDITION:  T
 :CBETA_ID:  T32n1682
 :GENRE: 論
@@ -4675,8 +4812,9 @@
 :WITID: wit11
 :END:
 
-*** KR6o0138 [[mandoku:ZB6o0108.org][ZB6o0108]]  [[cbeta:T/T32n1683/T32n1683.org][T32n1683]] 犍稚梵讚
+*** KR6o0138 犍稚梵讚-宋-法賢
 :PROPERTIES: 
+:KR_ID: KR6o0138
 :BASEEDITION:  T
 :CBETA_ID:  T32n1683
 :GENRE: 論
@@ -4722,8 +4860,9 @@
 :WITID: wit12
 :END:
 
-*** KR6o0139 [[mandoku:ZB6o0109.org][ZB6o0109]]  [[cbeta:T/T32n1684/T32n1684.org][T32n1684]] 八大靈塔梵讚
+*** KR6o0139 八大靈塔梵讚-宋-西天戒日王
 :PROPERTIES: 
+:KR_ID: KR6o0139
 :BASEEDITION:  T
 :CBETA_ID:  T32n1684
 :GENRE: 論
@@ -4779,8 +4918,9 @@
 :WITID: wit14
 :END:
 
-*** KR6o0140 [[mandoku:ZB6o0110.org][ZB6o0110]]  [[cbeta:T/T32n1685/T32n1685.org][T32n1685]] 佛說八大靈塔名號經
+*** KR6o0140 佛說八大靈塔名號經-宋-法賢
 :PROPERTIES: 
+:KR_ID: KR6o0140
 :BASEEDITION:  T
 :CBETA_ID:  T32n1685
 :GENRE: 論
@@ -4826,8 +4966,9 @@
 :WITID: wit25
 :END:
 
-*** KR6o0141 [[mandoku:ZB6o0111.org][ZB6o0111]]  [[cbeta:T/T32n1686/T32n1686.org][T32n1686]] 賢聖集伽陀一百頌
+*** KR6o0141 賢聖集伽陀一百頌-宋-天息災
 :PROPERTIES: 
+:KR_ID: KR6o0141
 :BASEEDITION:  T
 :CBETA_ID:  T32n1686
 :GENRE: 論
@@ -4868,8 +5009,9 @@
 :WITID: wit11
 :END:
 
-*** KR6o0142 [[mandoku:ZB6o0112.org][ZB6o0112]]  [[cbeta:T/T32n1687/T32n1687.org][T32n1687]] 事師法五十頌
+*** KR6o0142 事師法五十頌-宋-馬鳴菩薩
 :PROPERTIES: 
+:KR_ID: KR6o0142
 :BASEEDITION:  T
 :CBETA_ID:  T32n1687
 :GENRE: 論
@@ -4905,8 +5047,9 @@
 :WITID: wit12
 :END:
 
-*** KR6o0143 [[mandoku:ZB6o0113.org][ZB6o0113]]  [[cbeta:T/T32n1688/T32n1688.org][T32n1688]] 密跡力士大權神王經偈頌
+*** KR6o0143 密跡力士大權神王經偈頌-元-管主八
 :PROPERTIES: 
+:KR_ID: KR6o0143
 :BASEEDITION:  T
 :CBETA_ID:  T32n1688
 :GENRE: 論
@@ -4932,8 +5075,9 @@
 :WITID: wit99
 :END:
 
-*** KR6o0144 [[mandoku:ZB6o0114.org][ZB6o0114]]  [[cbeta:T/T32n1689/T32n1689.org][T32n1689]] 請賓頭盧法
+*** KR6o0144 請賓頭盧法-劉宋-慧簡
 :PROPERTIES: 
+:KR_ID: KR6o0144
 :BASEEDITION:  T
 :CBETA_ID:  T32n1689
 :GENRE: 論
@@ -4979,8 +5123,9 @@
 :WITID: wit25
 :END:
 
-*** KR6o0145 [[mandoku:ZB6o0115.org][ZB6o0115]]  [[cbeta:T/T32n1690/T32n1690.org][T32n1690]] 賓頭盧突羅闍為優陀延王說法經
+*** KR6o0145 賓頭盧突羅闍為優陀延王說法經-劉宋-求那跋陀羅
 :PROPERTIES: 
+:KR_ID: KR6o0145
 :BASEEDITION:  T
 :CBETA_ID:  T32n1690
 :GENRE: 論
@@ -5031,8 +5176,9 @@
 :WITID: wit8
 :END:
 
-*** KR6o0146 [[mandoku:ZB6o0116.org][ZB6o0116]]  [[cbeta:T/T32n1691/T32n1691.org][T32n1691]] 迦葉仙人說醫女人經
+*** KR6o0146 迦葉仙人說醫女人經-宋-法賢
 :PROPERTIES: 
+:KR_ID: KR6o0146
 :BASEEDITION:  T
 :CBETA_ID:  T32n1691
 :GENRE: 論
@@ -5073,8 +5219,9 @@
 :WITID: wit11
 :END:
 
-*** KR6o0147 [[mandoku:ZB6o0117.org][ZB6o0117]]  [[cbeta:T/T32n1692/T32n1692.org][T32n1692]] 勝軍化世百喻伽他經
+*** KR6o0147 勝軍化世百喻伽他經-宋-天息災
 :PROPERTIES: 
+:KR_ID: KR6o0147
 :BASEEDITION:  T
 :CBETA_ID:  T32n1692
 :CUSTOM_ID: ZB6o0117
