@@ -6,7 +6,7 @@
 *** 史記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0001
+:KR_ID:  KR2a0001
 :CUSTOM_ID: S2a0696
 :SOURCE:   四庫全書 文淵閣版, V243.1, p1 - V244.1
 :EXTENT: 130 卷
@@ -192,7 +192,7 @@
 *** 史記集解
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0002
+:KR_ID:  KR2a0002
 :CUSTOM_ID: S2a0697
 :SOURCE:   四庫全書 文淵閣版, V245.1, p1 - V246.1
 :EXTENT: 130 卷
@@ -275,7 +275,7 @@
 *** 史記索隱
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0003
+:KR_ID:  KR2a0003
 :CUSTOM_ID: S2a0698
 :SOURCE:   四庫全書 文淵閣版, V246.2, p447
 :EXTENT: 30 卷
@@ -313,7 +313,7 @@
 *** 史記正義
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0004
+:KR_ID:  KR2a0004
 :CUSTOM_ID: S2a0699
 :SOURCE:   四庫全書 文淵閣版, V247.1, p1 - V248.1
 :EXTENT: 130 卷
@@ -402,7 +402,7 @@
 *** 讀史記十表
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0005
+:KR_ID:  KR2a0005
 :CUSTOM_ID: S2a0700
 :SOURCE:   四庫全書 文淵閣版, V248.2, p421
 :EXTENT: 10 卷
@@ -443,7 +443,7 @@
 *** 史記疑問
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0006
+:KR_ID:  KR2a0006
 :CUSTOM_ID: S2a0701
 :SOURCE:   四庫全書 文淵閣版, V248.3, p673
 :EXTENT: 3 卷
@@ -464,7 +464,7 @@
 *** 前漢書
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0007
+:KR_ID:  KR2a0007
 :CUSTOM_ID: S2a0702
 :SOURCE:   四庫全書 文淵閣版, V249.1, p1 - V251.1
 :EXTENT: 120 卷
@@ -590,7 +590,7 @@
 *** 班馬異同
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0008
+:KR_ID:  KR2a0008
 :CUSTOM_ID: S2a0703
 :SOURCE:   四庫全書 文淵閣版, V251.2, p431
 :EXTENT: 35 卷
@@ -637,7 +637,7 @@
 *** 後漢書
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0009
+:KR_ID:  KR2a0009
 :CUSTOM_ID: S2a0704
 :SOURCE:   四庫全書 文淵閣版, V252.1, p1 - V253.1
 :EXTENT: 120 卷
@@ -727,7 +727,7 @@
 *** 補後漢書年表
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0010
+:KR_ID:  KR2a0010
 :CUSTOM_ID: S2a0705
 :SOURCE:   四庫全書 文淵閣版, V253.2, p735
 :EXTENT: 10 卷
@@ -748,7 +748,7 @@
 *** 兩漢刋誤補遺
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0011
+:KR_ID:  KR2a0011
 :CUSTOM_ID: S2a0706
 :SOURCE:   四庫全書 文淵閣版, V253.3, p821
 :EXTENT: 10 卷
@@ -777,7 +777,7 @@
 *** 三國志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0012
+:KR_ID:  KR2a0012
 :CUSTOM_ID: S2a0707
 :SOURCE:   四庫全書 文淵閣版, V254.1, p1
 :EXTENT: 65 卷
@@ -924,7 +924,7 @@
 *** 三國史辨誤
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0013
+:KR_ID:  KR2a0013
 :CUSTOM_ID: S2a0708
 :SOURCE:   四庫全書 文淵閣版, V254.2, p937
 :EXTENT: 不分卷
@@ -944,7 +944,7 @@
 *** 三國志補注
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0014
+:KR_ID:  KR2a0014
 :CUSTOM_ID: S2a0709
 :SOURCE:   四庫全書 文淵閣版, V254.3, p949
 :EXTENT: 6 卷
@@ -982,7 +982,7 @@
 *** 晉書
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0015
+:KR_ID:  KR2a0015
 :CUSTOM_ID: S2a0710
 :SOURCE:   四庫全書 文淵閣版, V255.1, p1 - V256.1
 :EXTENT: 130 卷
@@ -1131,7 +1131,7 @@
 *** 宋書
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0016
+:KR_ID:  KR2a0016
 :CUSTOM_ID: S2a0711
 :SOURCE:   四庫全書 文淵閣版, V257.1, p1 - V258.1
 :EXTENT: 100 卷
@@ -1241,7 +1241,7 @@
 *** 南齊書
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0017
+:KR_ID:  KR2a0017
 :CUSTOM_ID: S2a0712
 :SOURCE:   四庫全書 文淵閣版, V259.1, p1
 :EXTENT: 59 卷
@@ -1315,7 +1315,7 @@
 *** 梁書
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0018
+:KR_ID:  KR2a0018
 :CUSTOM_ID: S2a0713
 :SOURCE:   四庫全書 文淵閣版, V260.1, p1
 :EXTENT: 56 卷
@@ -1381,7 +1381,7 @@
 *** 陳書
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0019
+:KR_ID:  KR2a0019
 :CUSTOM_ID: S2a0714
 :SOURCE:   四庫全書 文淵閣版, V260.2, p511
 :EXTENT: 36 卷
@@ -1435,7 +1435,7 @@
 *** 魏書
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0020
+:KR_ID:  KR2a0020
 :CUSTOM_ID: S2a0715
 :SOURCE:   四庫全書 文淵閣版, V261.1, p1 - V262.1
 :EXTENT: 130 卷
@@ -1571,7 +1571,7 @@
 *** 北齊書
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0021
+:KR_ID:  KR2a0021
 :CUSTOM_ID: S2a0716
 :SOURCE:   四庫全書 文淵閣版, V263.1, p1
 :EXTENT: 50 卷
@@ -1639,7 +1639,7 @@
 *** 周書
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0022
+:KR_ID:  KR2a0022
 :CUSTOM_ID: S2a0717
 :SOURCE:   四庫全書 文淵閣版, V263.2, p391
 :EXTENT: 50 卷
@@ -1703,7 +1703,7 @@
 *** 隋書
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0023
+:KR_ID:  KR2a0023
 :CUSTOM_ID: S2a0718
 :SOURCE:   四庫全書 文淵閣版, V264.1, p1
 :EXTENT: 85 卷
@@ -1747,7 +1747,7 @@
 *** 南史
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0024
+:KR_ID:  KR2a0024
 :CUSTOM_ID: S2a0719
 :SOURCE:   四庫全書 文淵閣版, V265.1, p1
 :EXTENT: 80 卷
@@ -1849,7 +1849,7 @@
 *** 北史
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0025
+:KR_ID:  KR2a0025
 :CUSTOM_ID: S2a0720
 :SOURCE:   四庫全書 文淵閣版, V266.1, p1 - V267.1
 :EXTENT: 100 卷
@@ -1977,7 +1977,7 @@
 *** 舊唐書
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0026
+:KR_ID:  KR2a0026
 :CUSTOM_ID: S2a0721
 :SOURCE:   四庫全書 文淵閣版, V268.1, p1 - V271.1
 :EXTENT: 200 卷
@@ -2207,7 +2207,7 @@
 *** 新唐書
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0027
+:KR_ID:  KR2a0027
 :CUSTOM_ID: S2a0722
 :SOURCE:   四庫全書 文淵閣版, V272.1, p1 - V276.1
 :EXTENT: 225 卷
@@ -2480,7 +2480,7 @@
 *** 新唐書糾謬
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0028
+:KR_ID:  KR2a0028
 :CUSTOM_ID: S2a0723
 :SOURCE:   四庫全書 文淵閣版, V276.2, p617
 :EXTENT: 20 卷
@@ -2525,7 +2525,7 @@
 *** 舊五代史
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0029
+:KR_ID:  KR2a0029
 :CUSTOM_ID: S2a0724
 :SOURCE:   四庫全書 文淵閣版, V277.1, p1 - V278.1
 :EXTENT: 150 卷
@@ -2650,7 +2650,7 @@
 *** 新五代史
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0030
+:KR_ID:  KR2a0030
 :CUSTOM_ID: S2a0725
 :SOURCE:   四庫全書 文淵閣版, V279.1, p1
 :EXTENT: 74 卷
@@ -2736,7 +2736,7 @@
 *** 五代史纂誤
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0031
+:KR_ID:  KR2a0031
 :CUSTOM_ID: S2a0726
 :SOURCE:   四庫全書 文淵閣版, V279.2, p539
 :EXTENT: 3 卷
@@ -2757,7 +2757,7 @@
 *** 宋史
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0032
+:KR_ID:  KR2a0032
 :CUSTOM_ID: S2a0727
 :SOURCE:   四庫全書 文淵閣版, V280.1, p1 - V288.1
 :EXTENT: 496 卷
@@ -3188,7 +3188,7 @@
 *** 遼史
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0033
+:KR_ID:  KR2a0033
 :CUSTOM_ID: S2a0728
 :SOURCE:   四庫全書 文淵閣版, V289.1, p1
 :EXTENT: 115 卷
@@ -3268,7 +3268,7 @@
 *** 遼史拾遺
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0034
+:KR_ID:  KR2a0034
 :CUSTOM_ID: S2a0729
 :SOURCE:   四庫全書 文淵閣版, V289.2, p737
 :EXTENT: 24 卷
@@ -3311,7 +3311,7 @@
 *** 金史
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0035
+:KR_ID:  KR2a0035
 :CUSTOM_ID: S2a0730
 :SOURCE:   四庫全書 文淵閣版, V290.1, p1 - V291.1
 :EXTENT: 135 卷
@@ -3422,7 +3422,7 @@
 *** 元史
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0036
+:KR_ID:  KR2a0036
 :CUSTOM_ID: S2a0731
 :SOURCE:   四庫全書 文淵閣版, V292.1, p1 - V295.1
 :EXTENT: 210 卷
@@ -3616,7 +3616,7 @@
 *** 欽定遼金元三史國語解
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0037
+:KR_ID:  KR2a0037
 :CUSTOM_ID: S2a0732
 :SOURCE:   四庫全書 文淵閣版, V296.1, p1
 :EXTENT: 46 卷
@@ -3680,7 +3680,7 @@
 *** 明史
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0038
+:KR_ID:  KR2a0038
 :CUSTOM_ID: S2a0733
 :SOURCE:   四庫全書 文淵閣版, V297.1, p1 - V302.1
 :EXTENT: 332 卷
@@ -3995,7 +3995,7 @@
 *** 清史稿
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2a0039
+:KR_ID:  KR2a0039
 :CUSTOM_ID: +
 :DYNASTY: 民國
 :RESP: 趙爾巽 等
@@ -4013,7 +4013,7 @@
 *** 竹書紀年
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0001
+:KR_ID:  KR2b0001
 :CUSTOM_ID: S2b0734
 :SOURCE:   四庫全書 文淵閣版, V303.1, p1
 :EXTENT: 2 卷
@@ -4035,7 +4035,7 @@
 *** 竹書統箋
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0002
+:KR_ID:  KR2b0002
 :CUSTOM_ID: S2b0735
 :SOURCE:   四庫全書 文淵閣版, V303.2, p43
 :EXTENT: 12 卷
@@ -4071,7 +4071,7 @@
 *** 前漢紀
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0003
+:KR_ID:  KR2b0003
 :CUSTOM_ID: S2b0736
 :SOURCE:   四庫全書 文淵閣版, V303.3, p203
 :EXTENT: 30 卷
@@ -4116,7 +4116,7 @@
 *** 後漢紀
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0004
+:KR_ID:  KR2b0004
 :CUSTOM_ID: S2b0737
 :SOURCE:   四庫全書 文淵閣版, V303.4, p491
 :EXTENT: 30 卷
@@ -4165,7 +4165,7 @@
 *** 元經
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0005
+:KR_ID:  KR2b0005
 :CUSTOM_ID: S2b0738
 :SOURCE:   四庫全書 文淵閣版, V303.5, p829
 :EXTENT: 10 卷
@@ -4209,7 +4209,7 @@
 *** 唐創業起居注
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0006
+:KR_ID:  KR2b0006
 :CUSTOM_ID: S2b0739
 :SOURCE:   四庫全書 文淵閣版, V303.6, p955
 :EXTENT: 3 卷
@@ -4230,7 +4230,7 @@
 *** 資治通鑑
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0007
+:KR_ID:  KR2b0007
 :CUSTOM_ID: S2b0740
 :SOURCE:   四庫全書 文淵閣版, V304.1, p1 - V310.1
 :EXTENT: 294 卷
@@ -4708,7 +4708,7 @@
 *** 資治通鑑考異
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0008
+:KR_ID:  KR2b0008
 :CUSTOM_ID: S2b0741
 :SOURCE:   四庫全書 文淵閣版, V311.1, p1
 :EXTENT: 30 卷
@@ -4754,7 +4754,7 @@
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: S2b0741a
-:ZB_ID:  ZB2b0008a
+:KR_ID:  KR2b0008
 :SOURCE:   四庫全書 文淵閣版, V311.2, p317
 :EXTENT: 1 卷
 :BOOK:   #
@@ -4775,7 +4775,7 @@
 *** 資治通鑑目錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0009
+:KR_ID:  KR2b0010
 :CUSTOM_ID: S2b0742
 :SOURCE:   四庫全書 文淵閣版, V311.3, p321
 :EXTENT: 30 卷
@@ -4834,7 +4834,7 @@
 *** 通鑑地理通釋
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0010
+:KR_ID:  KR2b0011
 :CUSTOM_ID: S2b0743
 :SOURCE:   四庫全書 文淵閣版, V312.1, p1
 :EXTENT: 14 卷
@@ -4871,7 +4871,7 @@
 *** 通鑑釋文辨誤
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0011
+:KR_ID:  KR2b0012
 :CUSTOM_ID: S2b0744
 :SOURCE:   四庫全書 文淵閣版, V312.2, p217
 :EXTENT: 12 卷
@@ -4904,7 +4904,7 @@
 *** 通鑑胡注擧正
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0012
+:KR_ID:  KR2b0013
 :CUSTOM_ID: S2b0745
 :SOURCE:   四庫全書 文淵閣版, V312.3, p381
 :EXTENT: 1 卷
@@ -4926,7 +4926,7 @@
 *** 稽古錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0013
+:KR_ID:  KR2b0014
 :CUSTOM_ID: S2b0746
 :SOURCE:   四庫全書 文淵閣版, V312.4, p391
 :EXTENT: 20 卷
@@ -4959,7 +4959,7 @@
 *** 資治通鑑外紀
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0014
+:KR_ID:  KR2b0015
 :CUSTOM_ID: S2b0747
 :SOURCE:   四庫全書 文淵閣版, V312.5, p527
 :EXTENT: 10 卷
@@ -4997,7 +4997,7 @@
 *** 皇王大紀
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0015
+:KR_ID:  KR2b0017
 :CUSTOM_ID: S2b0748
 :SOURCE:   四庫全書 文淵閣版, V313.1, p1
 :EXTENT: 80 卷
@@ -5063,7 +5063,7 @@
 *** 中興小紀
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0016
+:KR_ID:  KR2b0018
 :CUSTOM_ID: S2b0749
 :SOURCE:   四庫全書 文淵閣版, V313.2, p779
 :EXTENT: 40 卷
@@ -5109,7 +5109,7 @@
 *** 續資治通鑑長編
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0017
+:KR_ID:  KR2b0019
 :CUSTOM_ID: S2b0750
 :SOURCE:   四庫全書 文淵閣版, V314.1, p1 - V322.1
 :EXTENT: 520 卷
@@ -5561,7 +5561,7 @@
 *** 綱目續麟
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0018
+:KR_ID:  KR2b0020
 :CUSTOM_ID: S2b0751
 :SOURCE:   四庫全書 文淵閣版, V323.1, p1
 :EXTENT: 20 卷
@@ -5610,7 +5610,7 @@
 *** 綱目分註拾遺
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0019
+:KR_ID:  KR2b0021
 :CUSTOM_ID: S2b0752
 :SOURCE:   四庫全書 文淵閣版, V323.2, p513
 :EXTENT: 4 卷
@@ -5642,7 +5642,7 @@
 *** 綱目訂誤
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0020
+:KR_ID:  KR2b0022
 :CUSTOM_ID: S2b0753
 :SOURCE:   四庫全書 文淵閣版, V323.3, p647
 :EXTENT: 4 卷
@@ -5664,7 +5664,7 @@
 *** 大事記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0021
+:KR_ID:  KR2b0023
 :CUSTOM_ID: S2b0754
 :SOURCE:   四庫全書 文淵閣版, V324.1, p1
 :EXTENT: 12 卷
@@ -5709,7 +5709,7 @@
 *** 建炎以來繫年要錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0022
+:KR_ID:  KR2b0024
 :CUSTOM_ID: S2b0755
 :SOURCE:   四庫全書 文淵閣版, V325.1, p1 - V327.1
 :EXTENT: 200 卷
@@ -5905,7 +5905,7 @@
 *** 九朝編年備要
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0023
+:KR_ID:  KR2b0025
 :CUSTOM_ID: S2b0756
 :SOURCE:   四庫全書 文淵閣版, V328.1, p1
 :EXTENT: 30 卷
@@ -5976,7 +5976,7 @@
 *** 續宋編年資治通鑑
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0024
+:KR_ID:  KR2b0026
 :CUSTOM_ID: S2b0757
 :SOURCE:   四庫全書 文淵閣版, V328.2, p873
 :EXTENT: 15 卷
@@ -6010,7 +6010,7 @@
 *** 西漢年紀
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0025
+:KR_ID:  KR2b0028
 :CUSTOM_ID: S2b0758
 :SOURCE:   四庫全書 文淵閣版, V329.1, p1
 :EXTENT: 30 卷
@@ -6056,7 +6056,7 @@
 *** 靖康要錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0026
+:KR_ID:  KR2b0029
 :CUSTOM_ID: S2b0759
 :SOURCE:   四庫全書 文淵閣版, V329.2, p407
 :EXTENT: 12 卷
@@ -6094,7 +6094,7 @@
 *** 兩朝綱目備要
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0027
+:KR_ID:  KR2b0030
 :CUSTOM_ID: S2b0760
 :SOURCE:   四庫全書 文淵閣版, V329.3, p685
 :EXTENT: 16 卷
@@ -6132,7 +6132,7 @@
 *** 宋季三朝政要
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0028
+:KR_ID:  KR2b0031
 :CUSTOM_ID: S2b0761
 :SOURCE:   四庫全書 文淵閣版, V329.4, p961
 :EXTENT: 6 卷
@@ -6162,7 +6162,7 @@
 *** 宋史全文
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0029
+:KR_ID:  KR2b0032
 :CUSTOM_ID: S2b0762
 :SOURCE:   四庫全書 文淵閣版, V330.1, p1 - V331.1
 :EXTENT: 36 卷
@@ -6268,7 +6268,7 @@
 *** 資治通鑑前編
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0030
+:KR_ID:  KR2b0033
 :CUSTOM_ID: S2b0763
 :SOURCE:   四庫全書 文淵閣版, V332.1, p1
 :EXTENT: 18 卷
@@ -6321,7 +6321,7 @@
 *** 通鑑續編
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0031
+:KR_ID:  KR2b0034
 :CUSTOM_ID: S2b0764
 :SOURCE:   四庫全書 文淵閣版, V332.2, p435
 :EXTENT: 24 卷
@@ -6375,7 +6375,7 @@
 *** 大事記續編
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0032
+:KR_ID:  KR2b0035
 :CUSTOM_ID: S2b0765
 :SOURCE:   四庫全書 文淵閣版, V333.1, p1 - V334.1
 :EXTENT: 77 卷
@@ -6454,7 +6454,7 @@
 *** 元史續編
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0033
+:KR_ID:  KR2b0036
 :CUSTOM_ID: S2b0766
 :SOURCE:   四庫全書 文淵閣版, V334.2, p449
 :EXTENT: 16 卷
@@ -6486,7 +6486,7 @@
 *** 御批歷代通鑑輯覽
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0034
+:KR_ID:  KR2b0037
 :CUSTOM_ID: S2b0767
 :SOURCE:   四庫全書 文淵閣版, V335.1, p1 - V339.1
 :EXTENT: 116 卷
@@ -6739,7 +6739,7 @@
 *** 御定資治通鑑綱目三編
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0035
+:KR_ID:  KR2b0038
 :CUSTOM_ID: S2b0768
 :SOURCE:   四庫全書 文淵閣版, V340.1, p1
 :EXTENT: 40 卷
@@ -6811,7 +6811,7 @@
 *** 皇清開國方略
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0036
+:KR_ID:  KR2b0039
 :CUSTOM_ID: S2b0769
 :SOURCE:   四庫全書 文淵閣版, V341.1, p1
 :EXTENT: 32 卷
@@ -6883,7 +6883,7 @@
 *** 資治通鑑後編
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2b0037
+:KR_ID:  KR2b0040
 :CUSTOM_ID: S2b0770
 :SOURCE:   四庫全書 文淵閣版, V342.1, p1 - V345.1
 :EXTENT: 184 卷
@@ -7064,7 +7064,7 @@
 *** 通鑑紀事本末
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2c0001
+:KR_ID:  KR2c0001
 :CUSTOM_ID: S2c0771
 :SOURCE:   四庫全書 文淵閣版, V346.1, p1 - V349.1
 :EXTENT: 42 卷
@@ -7294,7 +7294,7 @@
 *** 春秋左傳事類始末
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2c0002
+:KR_ID:  KR2c0003
 :CUSTOM_ID: S2c0772
 :SOURCE:   四庫全書 文淵閣版, V349.2, p445
 :EXTENT: 5 卷
@@ -7346,7 +7346,7 @@
 *** 三朝北盟會編
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2c0003
+:KR_ID:  KR2c0004
 :CUSTOM_ID: S2c0773
 :SOURCE:   四庫全書 文淵閣版, V350.1, p1 - V352.1
 :EXTENT: 250 卷
@@ -7463,7 +7463,7 @@
 *** 蜀鑑
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2c0004
+:KR_ID:  KR2c0005
 :CUSTOM_ID: S2c0774
 :SOURCE:   四庫全書 文淵閣版, V352.2, p481
 :EXTENT: 10 卷
@@ -7492,7 +7492,7 @@
 *** 炎徼紀聞
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2c0005
+:KR_ID:  KR2c0006
 :CUSTOM_ID: S2c0775
 :SOURCE:   四庫全書 文淵閣版, V352.3, p603
 :EXTENT: 4 卷
@@ -7514,7 +7514,7 @@
 *** 宋史紀事本末
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2c0006
+:KR_ID:  KR2c0007
 :CUSTOM_ID: S2c0776
 :SOURCE:   四庫全書 文淵閣版, V353.1, p1
 :EXTENT: 28 卷
@@ -7636,7 +7636,7 @@
 *** 元史紀事本末
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2c0007
+:KR_ID:  KR2c0008
 :CUSTOM_ID: S2c0777
 :SOURCE:   四庫全書 文淵閣版, V353.2, p753
 :EXTENT: 4 卷
@@ -7682,7 +7682,7 @@
 *** 平定三逆方略
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2c0008
+:KR_ID:  KR2c0009
 :CUSTOM_ID: S2c0778
 :SOURCE:   四庫全書 文淵閣版, V354.1, p1
 :EXTENT: 60 卷
@@ -7729,7 +7729,7 @@
 *** 聖祖仁皇帝親征平定朔漠方略
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2c0009
+:KR_ID:  KR2c0010
 :CUSTOM_ID: S2c0779
 :SOURCE:   四庫全書 文淵閣版, V354.2, p425 - V355.1
 :EXTENT: 48 卷
@@ -7807,7 +7807,7 @@
 *** 欽定平定金川方略
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2c0010
+:KR_ID:  KR2c0011
 :CUSTOM_ID: S2c0780
 :SOURCE:   四庫全書 文淵閣版, V356.1, p1
 :EXTENT: 32 卷
@@ -7855,7 +7855,7 @@
 *** 平定準噶爾方略
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2c0011
+:KR_ID:  KR2c0012
 :CUSTOM_ID: S2c0781
 :SOURCE:   四庫全書 文淵閣版, V357.1, p1 - V359.1
 :EXTENT: 173 卷
@@ -7958,7 +7958,7 @@
 *** 平定兩金川方略
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2c0012
+:KR_ID:  KR2c0013
 :CUSTOM_ID: S2c0782
 :SOURCE:   四庫全書 文淵閣版, V360.1, p1 - V361.1
 :EXTENT: 136 卷
@@ -8080,7 +8080,7 @@
 *** 欽定剿捕臨清逆匪紀略
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2c0013
+:KR_ID:  KR2c0014
 :CUSTOM_ID: S2c0783
 :SOURCE:   四庫全書 文淵閣版, V362.1, p1
 :EXTENT: 16 卷
@@ -8122,7 +8122,7 @@
 *** 欽定蘭州紀略
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2c0014
+:KR_ID:  KR2c0015
 :CUSTOM_ID: S2c0784
 :SOURCE:   四庫全書 文淵閣版, V362.2, p233
 :EXTENT: 20 卷
@@ -8167,7 +8167,7 @@
 *** 欽定石峯堡紀略
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2c0015
+:KR_ID:  KR2c0016
 :CUSTOM_ID: S2c0785
 :SOURCE:   四庫全書 文淵閣版, V362.3, p487
 :EXTENT: 20 卷
@@ -8214,7 +8214,7 @@
 *** 欽定平定臺灣紀略
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2c0016
+:KR_ID:  KR2c0017
 :CUSTOM_ID: S2c0786
 :SOURCE:   四庫全書 文淵閣版, V363.1, p1
 :EXTENT: 65 卷
@@ -8287,7 +8287,7 @@
 *** 綏寇紀略
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2c0017
+:KR_ID:  KR2c0018
 :CUSTOM_ID: S2c0787
 :SOURCE:   四庫全書 文淵閣版, V363.2, p847
 :EXTENT: 12 卷
@@ -8320,7 +8320,7 @@
 *** 滇考
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2c0018
+:KR_ID:  KR2c0019
 :CUSTOM_ID: S2c0788
 :SOURCE:   四庫全書 文淵閣版, V364.1, p1
 :EXTENT: 2 卷
@@ -8349,7 +8349,7 @@
 *** 明史紀事本末
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2c0019
+:KR_ID:  KR2c0020
 :CUSTOM_ID: S2c0789
 :SOURCE:   四庫全書 文淵閣版, V364.2, p117
 :EXTENT: 80 卷
@@ -8477,7 +8477,7 @@
 *** 繹史
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2c0020
+:KR_ID:  KR2c0021
 :CUSTOM_ID: S2c0790
 :SOURCE:   四庫全書 文淵閣版, V365.1, p1 - V368.1
 :EXTENT: 160 卷
@@ -8701,7 +8701,7 @@
 *** 左傳紀事本末
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2c0021
+:KR_ID:  KR2c0022
 :CUSTOM_ID: S2c0791
 :SOURCE:   四庫全書 文淵閣版, V369.1, p1
 :EXTENT: 53 卷
@@ -8762,7 +8762,7 @@
 *** 平臺紀略
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2d0001
+:KR_ID:  KR2c0023
 :CUSTOM_ID: S2d0792
 :SOURCE:   四庫全書 文淵閣版, V369.2, p557
 :EXTENT: 1 卷
@@ -8798,7 +8798,7 @@
 *** 逸周書
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2d0002
+:KR_ID:  KR2d0001
 :CUSTOM_ID: S2d0793
 :SOURCE:   四庫全書 文淵閣版, V370.1, p1
 :EXTENT: 10 卷
@@ -8828,7 +8828,7 @@
 *** 東觀漢記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2d0003
+:KR_ID:  KR2d0002
 :CUSTOM_ID: S2d0794
 :SOURCE:   四庫全書 文淵閣版, V370.2, p65
 :EXTENT: 24 卷
@@ -8865,7 +8865,7 @@
 *** 建康實錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2d0004
+:KR_ID:  KR2d0003
 :CUSTOM_ID: S2d0795
 :SOURCE:   四庫全書 文淵閣版, V370.3, p225
 :EXTENT: 20 卷
@@ -8907,7 +8907,7 @@
 *** 隆平集
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2d0005
+:KR_ID:  KR2d0004
 :CUSTOM_ID: S2d0796
 :SOURCE:   四庫全書 文淵閣版, V371.1, p1
 :EXTENT: 20 卷
@@ -8946,7 +8946,7 @@
 *** 古史
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2d0006
+:KR_ID:  KR2d0005
 :CUSTOM_ID: S2d0797
 :SOURCE:   四庫全書 文淵閣版, V371.2, p205
 :EXTENT: 60 卷
@@ -8997,7 +8997,7 @@
 *** 通志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2d0007
+:KR_ID:  KR2d0006
 :CUSTOM_ID: S2d0798
 :SOURCE:   四庫全書 文淵閣版, V372.1, p1 - V381.1
 :EXTENT: 200 卷
@@ -9408,7 +9408,7 @@
 *** 東都事略
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2d0008
+:KR_ID:  KR2d0007
 :CUSTOM_ID: S2d0799
 :SOURCE:   四庫全書 文淵閣版, V382.1, p1
 :EXTENT: 130 卷
@@ -9485,7 +9485,7 @@
 *** 路史
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2d0009
+:KR_ID:  KR2d0008
 :CUSTOM_ID: S2d0800
 :SOURCE:   四庫全書 文淵閣版, V383.1, p1
 :EXTENT: 47 卷
@@ -9546,7 +9546,7 @@
 *** 欽定書訂契丹國志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2d0010
+:KR_ID:  KR2d0009
 :CUSTOM_ID: S2d0801
 :SOURCE:   四庫全書 文淵閣版, V383.2, p655
 :EXTENT: 28 卷
@@ -9588,7 +9588,7 @@
 *** 欽定重訂大金國志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2d0011
+:KR_ID:  KR2d0010
 :CUSTOM_ID: S2d0802
 :SOURCE:   四庫全書 文淵閣版, V383.3, p805
 :EXTENT: 41 卷
@@ -9636,7 +9636,7 @@
 *** 古今紀要
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2d0012
+:KR_ID:  KR2d0011
 :CUSTOM_ID: S2d0803
 :SOURCE:   四庫全書 文淵閣版, V384.1, p1
 :EXTENT: 19 卷
@@ -9681,7 +9681,7 @@
 *** 蕭氏續後漢書
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2d0013
+:KR_ID:  KR2d0012
 :CUSTOM_ID: S2d0804
 :SOURCE:   四庫全書 文淵閣版, V384.2, p385
 :EXTENT: 44 卷
@@ -9723,7 +9723,7 @@
 *** 郝氏續後漢書
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2d0014
+:KR_ID:  KR2d0013
 :CUSTOM_ID: S2d0805
 :SOURCE:   四庫全書 文淵閣版, V385.1, p1 - V386.1
 :EXTENT: 存87 卷
@@ -9786,7 +9786,7 @@
 *** 春秋別典
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2d0015
+:KR_ID:  KR2d0015
 :CUSTOM_ID: S2d0806
 :SOURCE:   四庫全書 文淵閣版, V386.2, p589
 :EXTENT: 15 卷
@@ -9822,7 +9822,7 @@
 *** 御定歷代紀事年表
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2d0016
+:KR_ID:  KR2d0019
 :CUSTOM_ID: S2d0807
 :SOURCE:   四庫全書 文淵閣版, V387.1, p1 - V391.1
 :EXTENT: 100 卷
@@ -10048,7 +10048,7 @@
 *** 欽定續通志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2d0017
+:KR_ID:  KR2d0020
 :CUSTOM_ID: S2d0808
 :SOURCE:   四庫全書 文淵閣版, V392.1, p1 - V401.1
 :EXTENT: 640 卷
@@ -10500,7 +10500,7 @@
 *** 補歷代史表
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2d0018
+:KR_ID:  KR2d0021
 :CUSTOM_ID: S2d0809
 :SOURCE:   四庫全書 文淵閣版, V402.1, p1
 :EXTENT: 53 卷
@@ -10545,7 +10545,7 @@
 *** 後漢書補逸
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2d0019
+:KR_ID:  KR2d0022
 :CUSTOM_ID: S2d0810
 :SOURCE:   四庫全書 文淵閣版, V402.2, p325
 :EXTENT: 21 卷
@@ -10588,7 +10588,7 @@
 *** 春秋戰國異辭
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2d0020
+:KR_ID:  KR2d0023
 :CUSTOM_ID: S2d0811
 :SOURCE:   四庫全書 文淵閣版, V403.1, p1
 :EXTENT: 54 卷
@@ -10679,7 +10679,7 @@
 *** 尚史
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2d0021
+:KR_ID:  KR2d0024
 :CUSTOM_ID: S2d0812
 :SOURCE:   四庫全書 文淵閣版, V404.1, p1 - V405.1
 :EXTENT: 107 卷
@@ -10800,7 +10800,7 @@
 *** 國語
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2e0001
+:KR_ID:  KR2e0001
 :CUSTOM_ID: S2e0813
 :SOURCE:   四庫全書 文淵閣版, V406.1, p1
 :EXTENT: 21 卷
@@ -10852,7 +10852,7 @@
 *** 國語補音
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2e0002
+:KR_ID:  KR2e0002
 :CUSTOM_ID: S2e0814
 :SOURCE:   四庫全書 文淵閣版, V406.2, p187
 :EXTENT: 3 卷
@@ -10881,7 +10881,7 @@
 *** 戰國策
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2e0003
+:KR_ID:  KR2e0003
 :CUSTOM_ID: S2e0815
 :SOURCE:   四庫全書 文淵閣版, V406.3, p239
 :EXTENT: 33 卷
@@ -10949,7 +10949,7 @@
 *** 鮑氏戰國策注
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2e0004
+:KR_ID:  KR2e0004
 :CUSTOM_ID: S2e0816
 :SOURCE:   四庫全書 文淵閣版, V406.4, p469
 :EXTENT: 10 卷
@@ -10986,7 +10986,7 @@
 *** 戰國策校注
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2e0005
+:KR_ID:  KR2e0005
 :CUSTOM_ID: S2e0817
 :SOURCE:   四庫全書 文淵閣版, V407.1, p1
 :EXTENT: 10 卷
@@ -11034,7 +11034,7 @@
 *** 貞觀政要
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2e0006
+:KR_ID:  KR2e0006
 :CUSTOM_ID: S2e0818
 :SOURCE:   四庫全書 文淵閣版, V407.2, p337
 :EXTENT: 10 卷
@@ -11079,7 +11079,7 @@
 *** 渚宮舊事
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2e0007
+:KR_ID:  KR2e0007
 :CUSTOM_ID: S2e0819
 :SOURCE:   四庫全書 文淵閣版, V407.3, p555
 :EXTENT: 5 卷
@@ -11114,7 +11114,7 @@
 *** 東觀奏記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2e0008
+:KR_ID:  KR2e0008
 :CUSTOM_ID: S2e0820
 :SOURCE:   四庫全書 文淵閣版, V407.4, p609
 :EXTENT: 3 卷
@@ -11135,7 +11135,7 @@
 *** 五代史闕文
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2e0009
+:KR_ID:  KR2e0009
 :CUSTOM_ID: S2e0821
 :SOURCE:   四庫全書 文淵閣版, V407.5, p631
 :EXTENT: 1 卷
@@ -11157,7 +11157,7 @@
 *** 五代史補
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2e0010
+:KR_ID:  KR2e0010
 :CUSTOM_ID: S2e0822
 :SOURCE:   四庫全書 文淵閣版, V407.6, p641
 :EXTENT: 5 卷
@@ -11179,7 +11179,7 @@
 *** 北狩見聞錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2e0011
+:KR_ID:  KR2e0011
 :CUSTOM_ID: S2e0823
 :SOURCE:   四庫全書 文淵閣版, V407.7, p685
 :EXTENT: 1 卷
@@ -11201,7 +11201,7 @@
 *** 松漠紀聞
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2e0012
+:KR_ID:  KR2e0012
 :CUSTOM_ID: S2e0824
 :SOURCE:   四庫全書 文淵閣版, V407.8, p695
 :EXTENT: 1 卷
@@ -11230,7 +11230,7 @@
 *** 燕翼詒謀錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2e0013
+:KR_ID:  KR2e0013
 :CUSTOM_ID: S2e0825
 :SOURCE:   四庫全書 文淵閣版, V407.9, p713
 :EXTENT: 5 卷
@@ -11252,7 +11252,7 @@
 *** 太平治迹統類
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2e0014
+:KR_ID:  KR2e0014
 :CUSTOM_ID: S2e0826
 :SOURCE:   四庫全書 文淵閣版, V408.1, p1
 :EXTENT: 30 卷
@@ -11312,7 +11312,7 @@
 *** 咸淳遺事
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2e0015
+:KR_ID:  KR2e0015
 :CUSTOM_ID: S2e0827
 :SOURCE:   四庫全書 文淵閣版, V408.2, p797
 :EXTENT: 2 卷
@@ -11333,7 +11333,7 @@
 *** 大金弔伐錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2e0016
+:KR_ID:  KR2e0016
 :CUSTOM_ID: S2e0828
 :SOURCE:   四庫全書 文淵閣版, V408.3, p833
 :EXTENT: 4 卷
@@ -11360,7 +11360,7 @@
 *** 汝南遺事
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2e0017
+:KR_ID:  KR2e0017
 :CUSTOM_ID: S2e0829
 :SOURCE:   四庫全書 文淵閣版, V408.4, p933
 :EXTENT: 4 卷
@@ -11382,7 +11382,7 @@
 *** 錢塘遺事
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2e0018
+:KR_ID:  KR2e0018
 :CUSTOM_ID: S2e0830
 :SOURCE:   四庫全書 文淵閣版, V408.5, p959
 :EXTENT: 10 卷
@@ -11412,7 +11412,7 @@
 *** 平宋錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2e0019
+:KR_ID:  KR2e0019
 :CUSTOM_ID: S2e0831
 :SOURCE:   四庫全書 文淵閣版, V408.6, p1035
 :EXTENT: 3 卷
@@ -11434,7 +11434,7 @@
 *** 弇山堂別集
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2e0020
+:KR_ID:  KR2e0020
 :CUSTOM_ID: S2e0832
 :SOURCE:   四庫全書 文淵閣版, V409.1, p1 - V410.1
 :EXTENT: 100 卷
@@ -11493,7 +11493,7 @@
 *** 革除逸史
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2e0021
+:KR_ID:  KR2e0021
 :CUSTOM_ID: S2e0833
 :SOURCE:   四庫全書 文淵閣版, V410.2, p529
 :EXTENT: 2 卷
@@ -11515,7 +11515,7 @@
 *** 欽定蒙古源流
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2e0022
+:KR_ID:  KR2e0022
 :CUSTOM_ID: S2e0834
 :SOURCE:   四庫全書 文淵閣版, V410.2, p549
 :EXTENT: 8 卷
@@ -11547,7 +11547,7 @@
 *** 太祖高皇帝聖訓
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0001
+:KR_ID:  KR2f0001
 :CUSTOM_ID: S2f0835
 :SOURCE:   四庫全書 文淵閣版, V411.1, p1
 :EXTENT: 4 卷
@@ -11582,7 +11582,7 @@
 *** 太宗文皇帝聖訓
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0002
+:KR_ID:  KR2f0002
 :CUSTOM_ID: S2f0836
 :SOURCE:   四庫全書 文淵閣版, V411.2, p39
 :EXTENT: 6 卷
@@ -11625,7 +11625,7 @@
 *** 世祖章皇帝聖訓
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0003
+:KR_ID:  KR2f0004
 :CUSTOM_ID: S2f0837
 :SOURCE:   四庫全書 文淵閣版, V411.3, p97
 :EXTENT: 6 卷
@@ -11653,7 +11653,7 @@
 *** 聖祖仁皇帝聖訓
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0004
+:KR_ID:  KR2f0005
 :CUSTOM_ID: S2f0838
 :SOURCE:   四庫全書 文淵閣版, V411.4, p145
 :EXTENT: 60 卷
@@ -11724,7 +11724,7 @@
 *** 世宗憲皇帝聖訓
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0005
+:KR_ID:  KR2f0006
 :CUSTOM_ID: S2f0839
 :SOURCE:   四庫全書 文淵閣版, V412.1, p1
 :EXTENT: 36 卷
@@ -11809,7 +11809,7 @@
 *** 世宗憲皇帝上諭八旗
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0006
+:KR_ID:  KR2f0007
 :CUSTOM_ID: S2f0840
 :SOURCE:   四庫全書 文淵閣版, V413.1, p1
 :EXTENT: 13 卷
@@ -11862,7 +11862,7 @@
 *** 世宗憲皇帝上諭內閣
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0007
+:KR_ID:  KR2f0008
 :CUSTOM_ID: S2f0841
 :SOURCE:   四庫全書 文淵閣版, V414.1, p1 - V415.1
 :EXTENT: 159 卷
@@ -11992,7 +11992,7 @@
 *** 世宗憲皇帝硃批諭旨
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0008
+:KR_ID:  KR2f0009
 :CUSTOM_ID: S2f0842
 :SOURCE:   四庫全書 文淵閣版, V416.1, p1 - V425.1
 :EXTENT: 360 卷
@@ -12490,7 +12490,7 @@
 *** 唐大詔令集
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0009
+:KR_ID:  KR2f0010
 :CUSTOM_ID: S2f0843
 :SOURCE:   四庫全書 文淵閣版, V426.1, p1
 :EXTENT: 存107 卷
@@ -12571,7 +12571,7 @@
 *** 兩漢詔令
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0010
+:KR_ID:  KR2f0011
 :CUSTOM_ID: S2f0844
 :SOURCE:   四庫全書 文淵閣版, V426.2, p971
 :EXTENT: 23 卷
@@ -12633,7 +12633,7 @@
 *** 范文正奏議
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0011
+:KR_ID:  KR2f0012
 :CUSTOM_ID: S2f0845
 :SOURCE:   四庫全書 文淵閣版, V427.1, p1
 :EXTENT: 2 卷
@@ -12664,7 +12664,7 @@
 *** 包孝肅奏議集
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0012
+:KR_ID:  KR2f0013
 :CUSTOM_ID: S2f0846
 :SOURCE:   四庫全書 文淵閣版, V427.2, p73
 :EXTENT: 10 卷
@@ -12701,7 +12701,7 @@
 *** 盡言集
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0013
+:KR_ID:  KR2f0014
 :CUSTOM_ID: S2f0847
 :SOURCE:   四庫全書 文淵閣版, V427.3, p183
 :EXTENT: 13 卷
@@ -12734,7 +12734,7 @@
 *** 讜論集
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0014
+:KR_ID:  KR2f0015
 :CUSTOM_ID: S2f0848
 :SOURCE:   四庫全書 文淵閣版, V427.4, p319
 :EXTENT: 5 卷
@@ -12763,7 +12763,7 @@
 *** 左史諫草
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0015
+:KR_ID:  KR2f0016
 :CUSTOM_ID: S2f0849
 :SOURCE:   四庫全書 文淵閣版, V427.5, p389
 :EXTENT: 1 卷
@@ -12804,7 +12804,7 @@
 *** 商文毅疏稿
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0016
+:KR_ID:  KR2f0017
 :CUSTOM_ID: S2f0850
 :SOURCE:   四庫全書 文淵閣版, V427.6, p417
 :EXTENT: 1 卷
@@ -12826,7 +12826,7 @@
 *** 王端毅奏議
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0017
+:KR_ID:  KR2f0018
 :CUSTOM_ID: S2f0851
 :SOURCE:   四庫全書 文淵閣版, V427.7, p453
 :EXTENT: 15 卷
@@ -12865,7 +12865,7 @@
 *** 馬端肅奏議
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0018
+:KR_ID:  KR2f0019
 :CUSTOM_ID: S2f0852
 :SOURCE:   四庫全書 文淵閣版, V427.8, p705
 :EXTENT: 12 卷
@@ -12896,7 +12896,7 @@
 *** 關中奏議
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0019
+:KR_ID:  KR2f0020
 :CUSTOM_ID: S2f0853
 :SOURCE:   四庫全書 文淵閣版, V428.1, p1
 :EXTENT: 18 卷
@@ -12953,7 +12953,7 @@
 *** 胡端敏奏議
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0020
+:KR_ID:  KR2f0021
 :CUSTOM_ID: S2f0854
 :SOURCE:   四庫全書 文淵閣版, V428.2, p559
 :EXTENT: 10 卷
@@ -12988,7 +12988,7 @@
 *** 楊文忠三錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0021
+:KR_ID:  KR2f0022
 :CUSTOM_ID: S2f0855
 :SOURCE:   四庫全書 文淵閣版, V428.3, p749
 :EXTENT: 8 卷
@@ -13021,7 +13021,7 @@
 *** 何文簡疏議
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0022
+:KR_ID:  KR2f0023
 :CUSTOM_ID: S2f0856
 :SOURCE:   四庫全書 文淵閣版, V429.1, p1
 :EXTENT: 10 卷
@@ -13060,7 +13060,7 @@
 *** 垂光集
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0023
+:KR_ID:  KR2f0024
 :CUSTOM_ID: S2f0857
 :SOURCE:   四庫全書 文淵閣版, V429.2, p263
 :EXTENT: 1 卷
@@ -13082,7 +13082,7 @@
 *** 孫毅菴奏議
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0024
+:KR_ID:  KR2f0025
 :CUSTOM_ID: S2f0858
 :SOURCE:   四庫全書 文淵閣版, V429.3, p289
 :EXTENT: 2 卷
@@ -13110,7 +13110,7 @@
 *** 玉坡奏議
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0025
+:KR_ID:  KR2f0026
 :CUSTOM_ID: S2f0859
 :SOURCE:   四庫全書 文淵閣版, V429.4, p351
 :EXTENT: 5 卷
@@ -13138,7 +13138,7 @@
 *** 南宮奏稿
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0026
+:KR_ID:  KR2f0027
 :CUSTOM_ID: S2f0860
 :SOURCE:   四庫全書 文淵閣版, V429.5, p409
 :EXTENT: 5 卷
@@ -13169,7 +13169,7 @@
 *** 訥谿奏疏
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0027
+:KR_ID:  KR2f0028
 :CUSTOM_ID: S2f0861
 :SOURCE:   四庫全書 文淵閣版, V429.6, p559
 :EXTENT: 1 卷
@@ -13191,7 +13191,7 @@
 *** 譚襄敏奏議
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0028
+:KR_ID:  KR2f0029
 :CUSTOM_ID: S2f0862
 :SOURCE:   四庫全書 文淵閣版, V429.7, p587
 :EXTENT: 10 卷
@@ -13228,7 +13228,7 @@
 *** 潘司空奏疏
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0029
+:KR_ID:  KR2f0030
 :CUSTOM_ID: S2f0863
 :SOURCE:   四庫全書 文淵閣版, V430.1, p1
 :EXTENT: 7 卷
@@ -13263,7 +13263,7 @@
 *** 兩河經略
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0030
+:KR_ID:  KR2f0031
 :CUSTOM_ID: S2f0864
 :SOURCE:   四庫全書 文淵閣版, V430.2, p189
 :EXTENT: 4 卷
@@ -13299,7 +13299,7 @@
 *** 兩垣奏議
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0031
+:KR_ID:  KR2f0032
 :CUSTOM_ID: S2f0865
 :SOURCE:   四庫全書 文淵閣版, V430.3, p249
 :EXTENT: 1 卷
@@ -13321,7 +13321,7 @@
 *** 周忠愍奏疏
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0032
+:KR_ID:  KR2f0033
 :CUSTOM_ID: S2f0866
 :SOURCE:   四庫全書 文淵閣版, V430.4, p259
 :EXTENT: 2 卷
@@ -13342,7 +13342,7 @@
 *** 張襄壯奏疏
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0033
+:KR_ID:  KR2f0034
 :CUSTOM_ID: S2f0867
 :SOURCE:   四庫全書 文淵閣版, V430.5, p303
 :EXTENT: 6 卷
@@ -13375,7 +13375,7 @@
 *** 靳文襄奏疏
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0034
+:KR_ID:  KR2f0035
 :CUSTOM_ID: S2f0868
 :SOURCE:   四庫全書 文淵閣版, V430.6, p451
 :EXTENT: 9 卷
@@ -13430,7 +13430,7 @@
 *** 華野疏稿
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0035
+:KR_ID:  KR2f0036
 :CUSTOM_ID: S2f0869
 :SOURCE:   四庫全書 文淵閣版, V430.7, p729
 :EXTENT: 5 卷
@@ -13461,7 +13461,7 @@
 *** 宋名臣奏議
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0036
+:KR_ID:  KR2f0038
 :CUSTOM_ID: S2f0870
 :SOURCE:   四庫全書 文淵閣版, V431.1, p1 - V432.1
 :EXTENT: 150 卷
@@ -13588,7 +13588,7 @@
 *** 歷代名臣奏議
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0037
+:KR_ID:  KR2f0039
 :CUSTOM_ID: S2f0871
 :SOURCE:   四庫全書 文淵閣版, V433.1, p1 - V442.1
 :EXTENT: 350 卷
@@ -14081,7 +14081,7 @@
 *** 名臣經濟錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0038
+:KR_ID:  KR2f0040
 :CUSTOM_ID: S2f0872
 :SOURCE:   四庫全書 文淵閣版, V443.1, p1 - V444.1
 :EXTENT: 53 卷
@@ -14167,7 +14167,7 @@
 *** 御選明臣奏議
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2f0039
+:KR_ID:  KR2f0041
 :CUSTOM_ID: S2f0873
 :SOURCE:   四庫全書 文淵閣版, V445.1, p1
 :EXTENT: 40 卷
@@ -14231,7 +14231,7 @@
 *** 孔子編年
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0001
+:KR_ID:  KR2g0001
 :CUSTOM_ID: S2g0874
 :SOURCE:   四庫全書 文淵閣版, V446.1, p1
 :EXTENT: 5 卷
@@ -14260,7 +14260,7 @@
 *** 東家雜記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0002
+:KR_ID:  KR2g0002
 :CUSTOM_ID: S2g0875
 :SOURCE:   四庫全書 文淵閣版, V446.2, p57
 :EXTENT: 2 卷
@@ -14282,7 +14282,7 @@
 *** 晏子春秋
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0003
+:KR_ID:  KR2g0003
 :CUSTOM_ID: S2g0876
 :SOURCE:   四庫全書 文淵閣版, V446.3, p95
 :EXTENT: 8 卷
@@ -14320,7 +14320,7 @@
 *** 魏鄭公諫錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0004
+:KR_ID:  KR2g0004
 :CUSTOM_ID: S2g0877
 :SOURCE:   四庫全書 文淵閣版, V446.4, p161
 :EXTENT: 5 卷
@@ -14342,7 +14342,7 @@
 *** 李國相論事集
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0005
+:KR_ID:  KR2g0005
 :CUSTOM_ID: S2g0878
 :SOURCE:   四庫全書 文淵閣版, V446.5, p209
 :EXTENT: 6 卷
@@ -14370,7 +14370,7 @@
 *** 杜工部年譜
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0006
+:KR_ID:  KR2g0007
 :CUSTOM_ID: S2g0879
 :SOURCE:   四庫全書 文淵閣版, V446.6, p251
 :EXTENT: 1 卷
@@ -14392,7 +14392,7 @@
 *** 杜工部詩年譜
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0007
+:KR_ID:  KR2g0008
 :CUSTOM_ID: S2g0880
 :SOURCE:   四庫全書 文淵閣版, V446.7, p259
 :EXTENT: 1 卷
@@ -14414,7 +14414,7 @@
 *** 紹陶錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0008
+:KR_ID:  KR2g0009
 :CUSTOM_ID: S2g0881
 :SOURCE:   四庫全書 文淵閣版, V446.8, p273
 :EXTENT: 2 卷
@@ -14436,7 +14436,7 @@
 *** 金佗稡編
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0009
+:KR_ID:  KR2g0010
 :CUSTOM_ID: S2g0882
 :SOURCE:   四庫全書 文淵閣版, V446.9, p305
 :EXTENT: 28 卷
@@ -14482,7 +14482,7 @@
 *** 象臺首末
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0010
+:KR_ID:  KR2g0011
 :CUSTOM_ID: S2g0883
 :SOURCE:   四庫全書 文淵閣版, V447.1, p1
 :EXTENT: 5 卷
@@ -14518,7 +14518,7 @@
 *** 魏鄭公諫續錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0011
+:KR_ID:  KR2g0012
 :CUSTOM_ID: S2g0884
 :SOURCE:   四庫全書 文淵閣版, V447.2, p55
 :EXTENT: 2 卷
@@ -14539,7 +14539,7 @@
 *** 忠貞錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0012
+:KR_ID:  KR2g0013
 :CUSTOM_ID: S2g0885
 :SOURCE:   四庫全書 文淵閣版, V447.3, p91
 :EXTENT: 3 卷
@@ -14573,7 +14573,7 @@
 *** 諸葛忠武書
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0013
+:KR_ID:  KR2g0014
 :CUSTOM_ID: S2g0886
 :SOURCE:   四庫全書 文淵閣版, V447.4, p127
 :EXTENT: 10 卷
@@ -14603,7 +14603,7 @@
 *** 寧海將軍固山貝子功績錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0014
+:KR_ID:  KR2g0015
 :CUSTOM_ID: S2g0887
 :SOURCE:   四庫全書 文淵閣版, V447.5, p227
 :EXTENT: 1 卷
@@ -14624,7 +14624,7 @@
 *** 朱子年譜
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0015
+:KR_ID:  KR2g0016
 :CUSTOM_ID: S2g0888
 :SOURCE:   四庫全書 文淵閣版, V447.6, p245
 :EXTENT: 4 卷
@@ -14671,7 +14671,7 @@
 *** 古列女傳
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0016
+:KR_ID:  KR2g0017
 :CUSTOM_ID: S2g0889
 :SOURCE:   四庫全書 文淵閣版, V448.1, p1
 :EXTENT: 7 卷
@@ -14707,7 +14707,7 @@
 *** 高士傳
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0017
+:KR_ID:  KR2g0018
 :CUSTOM_ID: S2g0890
 :SOURCE:   四庫全書 文淵閣版, V448.2, p85
 :EXTENT: 3 卷
@@ -14729,7 +14729,7 @@
 *** 卓異記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0018
+:KR_ID:  KR2g0019
 :CUSTOM_ID: S2g0891
 :SOURCE:   四庫全書 文淵閣版, V448.3, p115
 :EXTENT: 1 卷
@@ -14751,7 +14751,7 @@
 *** 春秋臣傳
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0019
+:KR_ID:  KR2g0020
 :CUSTOM_ID: S2g0892
 :SOURCE:   四庫全書 文淵閣版, V448.4, p123
 :EXTENT: 30 卷
@@ -14800,7 +14800,7 @@
 *** 廉吏傳
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0020
+:KR_ID:  KR2g0021
 :CUSTOM_ID: S2g0893
 :SOURCE:   四庫全書 文淵閣版, V448.5, p283
 :EXTENT: 2 卷
@@ -14828,7 +14828,7 @@
 *** 紹興十八年同年小錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0021
+:KR_ID:  KR2g0022
 :CUSTOM_ID: S2g0894
 :SOURCE:   四庫全書 文淵閣版, V448.6, p345
 :EXTENT: 1 卷
@@ -14854,7 +14854,7 @@
 *** 伊洛淵源錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0022
+:KR_ID:  KR2g0023
 :CUSTOM_ID: S2g0895
 :SOURCE:   四庫全書 文淵閣版, V448.7, p411
 :EXTENT: 14 卷
@@ -14885,7 +14885,7 @@
 *** 宋名臣言行錄前集
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0023
+:KR_ID:  KR2g0024
 :CUSTOM_ID: S2g0896
 :SOURCE:   四庫全書 文淵閣版, V449.1, p1
 :EXTENT: 10 卷
@@ -14964,7 +14964,7 @@
 *** 名臣碑傳琬琰之集
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0024
+:KR_ID:  KR2g0025
 :CUSTOM_ID: S2g0897
 :SOURCE:   四庫全書 文淵閣版, V450.1, p1
 :EXTENT: 107 卷
@@ -15021,7 +15021,7 @@
 *** 錢塘先賢傳贊
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0025
+:KR_ID:  KR2g0026
 :CUSTOM_ID: S2g0898
 :SOURCE:   四庫全書 文淵閣版, V451.1, p1
 :EXTENT: 1 卷
@@ -15042,7 +15042,7 @@
 *** 慶元黨禁
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0026
+:KR_ID:  KR2g0027
 :CUSTOM_ID: S2g0899
 :SOURCE:   四庫全書 文淵閣版, V451.2, p19
 :EXTENT: 1 卷
@@ -15063,7 +15063,7 @@
 *** 宋寶祐四年登科錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0027
+:KR_ID:  KR2g0028
 :CUSTOM_ID: S2g0900
 :SOURCE:   四庫全書 文淵閣版, V451.3, p47
 :EXTENT: 4 卷
@@ -15091,7 +15091,7 @@
 *** 京口耆舊傳
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0028
+:KR_ID:  KR2g0029
 :CUSTOM_ID: S2g0901
 :SOURCE:   四庫全書 文淵閣版, V451.4, p119
 :EXTENT: 9 卷
@@ -15121,7 +15121,7 @@
 *** 昭忠錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0029
+:KR_ID:  KR2g0030
 :CUSTOM_ID: S2g0902
 :SOURCE:   四庫全書 文淵閣版, V451.5, p219
 :EXTENT: 1 卷
@@ -15142,7 +15142,7 @@
 *** 敬鄉錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0030
+:KR_ID:  KR2g0031
 :CUSTOM_ID: S2g0903
 :SOURCE:   四庫全書 文淵閣版, V451.6, p251
 :EXTENT: 14 卷
@@ -15177,7 +15177,7 @@
 *** 唐才子傳
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0031
+:KR_ID:  KR2g0032
 :CUSTOM_ID: S2g0904
 :SOURCE:   四庫全書 文淵閣版, V451.7, p409
 :EXTENT: 8 卷
@@ -15206,7 +15206,7 @@
 *** 元朝名臣事略
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0032
+:KR_ID:  KR2g0033
 :CUSTOM_ID: S2g0905
 :SOURCE:   四庫全書 文淵閣版, V451.8, p497
 :EXTENT: 15 卷
@@ -15241,7 +15241,7 @@
 *** 浦陽人物記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0033
+:KR_ID:  KR2g0034
 :CUSTOM_ID: S2g0906
 :SOURCE:   四庫全書 文淵閣版, V452.1, p1
 :EXTENT: 2 卷
@@ -15263,7 +15263,7 @@
 *** 古今列女傳
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0034
+:KR_ID:  KR2g0035
 :CUSTOM_ID: S2g0907
 :SOURCE:   四庫全書 文淵閣版, V452.2, p37
 :EXTENT: 3 卷
@@ -15294,7 +15294,7 @@
 *** 殿閣詞林記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0035
+:KR_ID:  KR2g0036
 :CUSTOM_ID: S2g0908
 :SOURCE:   四庫全書 文淵閣版, V452.3, p121
 :EXTENT: 22 卷
@@ -15341,7 +15341,7 @@
 *** 嘉靖以來首輔傳
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0036
+:KR_ID:  KR2g0037
 :CUSTOM_ID: S2g0909
 :SOURCE:   四庫全書 文淵閣版, V452.4, p421
 :EXTENT: 8 卷
@@ -15372,7 +15372,7 @@
 *** 明名臣琬琰錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0037
+:KR_ID:  KR2g0038
 :CUSTOM_ID: S2g0910
 :SOURCE:   四庫全書 文淵閣版, V453.1, p1
 :EXTENT: 24 卷
@@ -15417,7 +15417,7 @@
 *** 今獻備遺
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0038
+:KR_ID:  KR2g0039
 :CUSTOM_ID: S2g0911
 :SOURCE:   四庫全書 文淵閣版, V453.2, p503
 :EXTENT: 42 卷
@@ -15453,7 +15453,7 @@
 *** 百越先賢志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0039
+:KR_ID:  KR2g0040
 :CUSTOM_ID: S2g0912
 :SOURCE:   四庫全書 文淵閣版, V453.3, p723
 :EXTENT: 4 卷
@@ -15475,7 +15475,7 @@
 *** 元儒考略
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0040
+:KR_ID:  KR2g0041
 :CUSTOM_ID: S2g0913
 :SOURCE:   四庫全書 文淵閣版, V453.4, p763
 :EXTENT: 4 卷
@@ -15497,7 +15497,7 @@
 *** 欽定宗室王公幼績表傳
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0041
+:KR_ID:  KR2g0042
 :CUSTOM_ID: S2g0914
 :SOURCE:   四庫全書 文淵閣版, V454.1, p1
 :EXTENT: 12 卷
@@ -15542,7 +15542,7 @@
 *** 欽定外藩蒙古囘部王公表傳
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0042
+:KR_ID:  KR2g0043
 :CUSTOM_ID: S2g0915
 :SOURCE:   四庫全書 文淵閣版, V454.2, p217
 :EXTENT: 120 卷
@@ -15620,7 +15620,7 @@
 *** 欽定八旗滿州氏族通譜
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0043
+:KR_ID:  KR2g0044
 :CUSTOM_ID: S2g0916
 :SOURCE:   四庫全書 文淵閣版, V455.1, p1 - V456.1
 :EXTENT: 80 卷
@@ -15711,7 +15711,7 @@
 *** 欽定勝朝殉節諸臣錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0044
+:KR_ID:  KR2g0045
 :CUSTOM_ID: S2g0917
 :SOURCE:   四庫全書 文淵閣版, V456.2, p393
 :EXTENT: 12 卷
@@ -15758,7 +15758,7 @@
 *** 明儒學案
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0045
+:KR_ID:  KR2g0046
 :CUSTOM_ID: S2g0918
 :SOURCE:   四庫全書 文淵閣版, V457.1, p1
 :EXTENT: 62 卷
@@ -15844,7 +15844,7 @@
 *** 中州人物考
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0046
+:KR_ID:  KR2g0047
 :CUSTOM_ID: S2g0919
 :SOURCE:   四庫全書 文淵閣版, V458.1, p1
 :EXTENT: 8 卷
@@ -15879,7 +15879,7 @@
 *** 東林列傳
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0047
+:KR_ID:  KR2g0048
 :CUSTOM_ID: S2g0920
 :SOURCE:   四庫全書 文淵閣版, V458.2, p173
 :EXTENT: 24 卷
@@ -15929,7 +15929,7 @@
 *** 儒林宗派
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0048
+:KR_ID:  KR2g0049
 :CUSTOM_ID: S2g0921
 :SOURCE:   四庫全書 文淵閣版, V458.3, p519
 :EXTENT: 16 卷
@@ -15958,7 +15958,7 @@
 *** 明儒言行錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0049
+:KR_ID:  KR2g0050
 :CUSTOM_ID: S2g0922
 :SOURCE:   四庫全書 文淵閣版, V458.4, p591
 :EXTENT: 10 卷
@@ -15995,7 +15995,7 @@
 *** 史傳三編
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0050
+:KR_ID:  KR2g0051
 :CUSTOM_ID: S2g0923
 :SOURCE:   四庫全書 文淵閣版, V459.1, p1
 :EXTENT: 56 卷
@@ -16070,7 +16070,7 @@
 *** 閩中理學淵源考
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0051
+:KR_ID:  KR2g0052
 :CUSTOM_ID: S2g0924
 :SOURCE:   四庫全書 文淵閣版, V460.1, p1
 :EXTENT: 92 卷
@@ -16144,7 +16144,7 @@
 *** 征南錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0052
+:KR_ID:  KR2g0053
 :CUSTOM_ID: S2g0925
 :SOURCE:   四庫全書 文淵閣版, V460.2, p827
 :EXTENT: 1 卷
@@ -16166,7 +16166,7 @@
 *** 驂鸞錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0053
+:KR_ID:  KR2g0054
 :CUSTOM_ID: S2g0926
 :SOURCE:   四庫全書 文淵閣版, V460.3, p833
 :EXTENT: 1 卷
@@ -16188,7 +16188,7 @@
 *** 吳船錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0054
+:KR_ID:  KR2g0055
 :CUSTOM_ID: S2g0927
 :SOURCE:   四庫全書 文淵閣版, V460.4, p847
 :EXTENT: 2 卷
@@ -16217,7 +16217,7 @@
 *** 入蜀記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0055
+:KR_ID:  KR2g0056
 :CUSTOM_ID: S2g0928
 :SOURCE:   四庫全書 文淵閣版, V460.5, p875
 :EXTENT: 4 卷
@@ -16239,7 +16239,7 @@
 *** 西使記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0056
+:KR_ID:  KR2g0057
 :CUSTOM_ID: S2g0929
 :SOURCE:   四庫全書 文淵閣版, V460.6, p923
 :EXTENT: 1 卷
@@ -16261,7 +16261,7 @@
 *** 保越錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0057
+:KR_ID:  KR2g0058
 :CUSTOM_ID: S2g0930
 :SOURCE:   四庫全書 文淵閣版, V460.7, p929
 :EXTENT: 1 卷
@@ -16282,7 +16282,7 @@
 *** 粵閩巡視紀略
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0058
+:KR_ID:  KR2g0059
 :CUSTOM_ID: S2g0931
 :SOURCE:   四庫全書 文淵閣版, V460.8, p943
 :EXTENT: 6 卷
@@ -16317,7 +16317,7 @@
 *** 松亭行紀
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0059
+:KR_ID:  KR2g0060
 :CUSTOM_ID: S2g0932
 :SOURCE:   四庫全書 文淵閣版, V460.9, p1125
 :EXTENT: 2 卷
@@ -16339,7 +16339,7 @@
 *** 扈從西巡日錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2g0060
+:KR_ID:  KR2g0061
 :CUSTOM_ID: S2g0933
 :SOURCE:   四庫全書 文淵閣版, V460.10, p1153
 :EXTENT: 1 卷
@@ -16362,7 +16362,7 @@
 *** 兩漢博聞
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2h0001
+:KR_ID:  KR2h0001
 :CUSTOM_ID: S2h0934
 :SOURCE:   四庫全書 文淵閣版, V461.1, p1
 :EXTENT: 12 卷
@@ -16399,7 +16399,7 @@
 *** 通鑑總類
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2h0002
+:KR_ID:  KR2h0002
 :CUSTOM_ID: S2h0935
 :SOURCE:   四庫全書 文淵閣版, V461.2, p201 - V462.1
 :EXTENT: 20 卷
@@ -16483,7 +16483,7 @@
 *** 南史識小錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2h0003
+:KR_ID:  KR2h0003
 :CUSTOM_ID: S2h0936
 :SOURCE:   四庫全書 文淵閣版, V462.2, p483
 :EXTENT: 8 卷
@@ -16530,7 +16530,7 @@
 *** 吳越春秋
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2i0001
+:KR_ID:  KR2i0001
 :CUSTOM_ID: S2i0937
 :SOURCE:   四庫全書 文淵閣版, V463.1, p1
 :EXTENT: 6 卷
@@ -16574,7 +16574,7 @@
 *** 越絕書
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2i0002
+:KR_ID:  KR2i0002
 :CUSTOM_ID: S2i0938
 :SOURCE:   四庫全書 文淵閣版, V463.2, p73
 :EXTENT: 15 卷
@@ -16609,7 +16609,7 @@
 *** 華陽國志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2i0003
+:KR_ID:  KR2i0003
 :CUSTOM_ID: S2i0939
 :SOURCE:   四庫全書 文淵閣版, V463.3, p131
 :EXTENT: 12 卷
@@ -16644,7 +16644,7 @@
 *** 鄴中記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2i0004
+:KR_ID:  KR2i0004
 :CUSTOM_ID: S2i0940
 :SOURCE:   四庫全書 文淵閣版, V463.4, p305
 :EXTENT: 1 卷
@@ -16666,7 +16666,7 @@
 *** 十六國春秋
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2i0005
+:KR_ID:  KR2i0005
 :CUSTOM_ID: S2i0941
 :SOURCE:   四庫全書 文淵閣版, V463.5, p315
 :EXTENT: 100 卷
@@ -16780,7 +16780,7 @@
 *** 別本十六國春秋
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2i0006
+:KR_ID:  KR2i0006
 :CUSTOM_ID: S2i0942
 :SOURCE:   四庫全書 文淵閣版, V463.6, p1105
 :EXTENT: 16 卷
@@ -16809,7 +16809,7 @@
 *** 蠻書
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2i0007
+:KR_ID:  KR2i0007
 :CUSTOM_ID: S2i0943
 :SOURCE:   四庫全書 文淵閣版, V464.1, p1
 :EXTENT: 10 卷
@@ -16838,7 +16838,7 @@
 *** 釣磯立談
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2i0008
+:KR_ID:  KR2i0008
 :CUSTOM_ID: S2i0944
 :SOURCE:   四庫全書 文淵閣版, V464.2, p43
 :EXTENT: 1 卷
@@ -16859,7 +16859,7 @@
 *** 江南野史
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2i0009
+:KR_ID:  KR2i0009
 :CUSTOM_ID: S2i0945
 :SOURCE:   四庫全書 文淵閣版, V464.3, p69
 :EXTENT: 10 卷
@@ -16887,7 +16887,7 @@
 *** 江南別錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2i0010
+:KR_ID:  KR2i0010
 :CUSTOM_ID: S2i0946
 :SOURCE:   四庫全書 文淵閣版, V464.4, p119
 :EXTENT: 1 卷
@@ -16909,7 +16909,7 @@
 *** 江表志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2i0011
+:KR_ID:  KR2i0011
 :CUSTOM_ID: S2i0947
 :SOURCE:   四庫全書 文淵閣版, V464.5, p131
 :EXTENT: 3 卷
@@ -16931,7 +16931,7 @@
 *** 江南餘載
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2i0012
+:KR_ID:  KR2i0012
 :CUSTOM_ID: S2i0948
 :SOURCE:   四庫全書 文淵閣版, V464.6, p149
 :EXTENT: 2 卷
@@ -16952,7 +16952,7 @@
 *** 三楚新錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2i0013
+:KR_ID:  KR2i0013
 :CUSTOM_ID: S2i0949
 :SOURCE:   四庫全書 文淵閣版, V464.7, p163
 :EXTENT: 3 卷
@@ -16973,7 +16973,7 @@
 *** 錦里耆舊傳
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2i0014
+:KR_ID:  KR2i0014
 :CUSTOM_ID: S2i0950
 :SOURCE:   四庫全書 文淵閣版, V464.8, p175
 :EXTENT: 4 卷
@@ -16994,7 +16994,7 @@
 *** 五國故事
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2i0015
+:KR_ID:  KR2i0015
 :CUSTOM_ID: S2i0951
 :SOURCE:   四庫全書 文淵閣版, V464.9, p203
 :EXTENT: 2 卷
@@ -17015,7 +17015,7 @@
 *** 蜀檮杌
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2i0016
+:KR_ID:  KR2i0016
 :CUSTOM_ID: S2i0952
 :SOURCE:   四庫全書 文淵閣版, V464.10, p221
 :EXTENT: 2 卷
@@ -17037,7 +17037,7 @@
 *** 馬氏南唐書
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2i0017
+:KR_ID:  KR2i0017
 :CUSTOM_ID: S2i0953
 :SOURCE:   四庫全書 文淵閣版, V464.11, p247
 :EXTENT: 30 卷
@@ -17070,7 +17070,7 @@
 *** 陸氏南唐書
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2i0018
+:KR_ID:  KR2i0018
 :CUSTOM_ID: S2i0954
 :SOURCE:   四庫全書 文淵閣版, V464.12, p383
 :EXTENT: 18 卷
@@ -17114,7 +17114,7 @@
 *** 吳越備史
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2i0019
+:KR_ID:  KR2i0019
 :CUSTOM_ID: S2i0955
 :SOURCE:   四庫全書 文淵閣版, V464.13, p497
 :EXTENT: 4 卷
@@ -17149,7 +17149,7 @@
 *** 安南志略
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2i0020
+:KR_ID:  KR2i0020
 :CUSTOM_ID: S2i0956
 :SOURCE:   四庫全書 文淵閣版, V464.14, p591
 :EXTENT: 20 卷
@@ -17182,7 +17182,7 @@
 *** 十國春秋
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2i0021
+:KR_ID:  KR2i0021
 :CUSTOM_ID: S2i0957
 :SOURCE:   四庫全書 文淵閣版, V465.1, p1 - V466.1
 :EXTENT: 114 卷
@@ -17310,7 +17310,7 @@
 *** 朝鮮史略
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2i0022
+:KR_ID:  KR2i0022
 :CUSTOM_ID: S2i0958
 :SOURCE:   四庫全書 文淵閣版, V466.2, p367
 :EXTENT: 12 卷
@@ -17331,7 +17331,7 @@
 *** 越史略
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2i0023
+:KR_ID:  KR2i0023
 :CUSTOM_ID: S2i0959
 :SOURCE:   四庫全書 文淵閣版, V466.3, p559
 :EXTENT: 3 卷
@@ -17351,7 +17351,7 @@
 *** 歲時廣記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2j0001
+:KR_ID:  KR2j0001
 :CUSTOM_ID: S2j0960
 :SOURCE:   四庫全書 文淵閣版, V467.1, p1
 :EXTENT: 4 卷
@@ -17372,7 +17372,7 @@
 *** 御定月令輯要
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2j0002
+:KR_ID:  KR2j0002
 :CUSTOM_ID: S2j0961
 :SOURCE:   四庫全書 文淵閣版, V467.2, p39
 :EXTENT: 24 卷
@@ -17442,7 +17442,7 @@
 *** 三輔黃圖
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0001
+:KR_ID:  KR2k0001
 :CUSTOM_ID: S2k0962
 :SOURCE:   四庫全書 文淵閣版, V468.1, p1
 :EXTENT: 6 卷
@@ -17462,7 +17462,7 @@
 *** 禁扁
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0002
+:KR_ID:  KR2k0002
 :CUSTOM_ID: S2k0963
 :SOURCE:   四庫全書 文淵閣版, V468.2, p37
 :EXTENT: 5 卷
@@ -17492,7 +17492,7 @@
 *** 元和郡縣志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0003
+:KR_ID:  KR2k0003
 :CUSTOM_ID: S2k0964
 :SOURCE:   四庫全書 文淵閣版, V468.3, p131
 :EXTENT: 40 卷
@@ -17547,7 +17547,7 @@
 *** 太平寰宇記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0004
+:KR_ID:  KR2k0004
 :CUSTOM_ID: S2k0965
 :SOURCE:   四庫全書 文淵閣版, V469.1, p1 - V470.1
 :EXTENT: 存193 卷
@@ -17569,7 +17569,7 @@
 *** 元豐九域志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0005
+:KR_ID:  KR2k0005
 :CUSTOM_ID: S2k0966
 :SOURCE:   四庫全書 文淵閣版, V471.1, p1
 :EXTENT: 10 卷
@@ -17611,7 +17611,7 @@
 *** 輿地廣記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0006
+:KR_ID:  KR2k0006
 :CUSTOM_ID: S2k0967
 :SOURCE:   四庫全書 文淵閣版, V471.2, p233
 :EXTENT: 38 卷
@@ -17652,7 +17652,7 @@
 *** 方輿勝覽
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0007
+:KR_ID:  KR2k0007
 :CUSTOM_ID: S2k0968
 :SOURCE:   四庫全書 文淵閣版, V471.3, p521
 :EXTENT: 70 卷
@@ -17719,7 +17719,7 @@
 *** 明一統志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0008
+:KR_ID:  KR2k0008
 :CUSTOM_ID: S2k0969
 :SOURCE:   四庫全書 文淵閣版, V472.1, p1 - V473.1
 :EXTENT: 90 卷
@@ -17741,7 +17741,7 @@
 *** 大清一統志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0009
+:KR_ID:  KR2k0009
 :CUSTOM_ID: S2k0970
 :SOURCE:   四庫全書 文淵閣版, V474.1, p1 - V483.1
 :EXTENT: 424 卷
@@ -18154,7 +18154,7 @@
 *** 吳群圖經續記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0010
+:KR_ID:  KR2k0010
 :CUSTOM_ID: S2k0971
 :SOURCE:   四庫全書 文淵閣版, V484.1, p1
 :EXTENT: 3 卷
@@ -18176,7 +18176,7 @@
 *** 乾道臨安志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0011
+:KR_ID:  KR2k0011
 :CUSTOM_ID: S2k0972
 :SOURCE:   四庫全書 文淵閣版, V484.2, p53
 :EXTENT: 3 卷
@@ -18205,7 +18205,7 @@
 *** 淳熙三山志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0012
+:KR_ID:  KR2k0012
 :CUSTOM_ID: S2k0973
 :SOURCE:   四庫全書 文淵閣版, V484.3, p109
 :EXTENT: 42 卷
@@ -18257,7 +18257,7 @@
 *** 吳郡志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0013
+:KR_ID:  KR2k0013
 :CUSTOM_ID: S2k0974
 :SOURCE:   四庫全書 文淵閣版, V485.1, p1
 :EXTENT: 50 卷
@@ -18300,7 +18300,7 @@
 *** 新安志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0014
+:KR_ID:  KR2k0014
 :CUSTOM_ID: S2k0975
 :SOURCE:   四庫全書 文淵閣版, V485.2, p337
 :EXTENT: 10 卷
@@ -18335,7 +18335,7 @@
 *** 剡錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0015
+:KR_ID:  KR2k0015
 :CUSTOM_ID: S2k0976
 :SOURCE:   四庫全書 文淵閣版, V485.3, p527
 :EXTENT: 10 卷
@@ -18366,7 +18366,7 @@
 *** 會稽志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0016
+:KR_ID:  KR2k0016
 :CUSTOM_ID: S2k0977
 :SOURCE:   四庫全書 文淵閣版, V486.1, p1
 :EXTENT: 20 卷
@@ -18425,7 +18425,7 @@
 *** 赤城志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0018
+:KR_ID:  KR2k0017
 :CUSTOM_ID: S2k0979
 :SOURCE:   四庫全書 文淵閣版, V486.2, p567
 :EXTENT: 40 卷
@@ -18474,7 +18474,7 @@
 *** 寶慶四明志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0019
+:KR_ID:  KR2k0018
 :CUSTOM_ID: S2k0980
 :SOURCE:   四庫全書 文淵閣版, V487.1, p1
 :EXTENT: 21 卷
@@ -18511,7 +18511,7 @@
 *** 四明續志
 :PROPERTIES:
 :TYPE:  text?
-:ZB_ID:  ZB2k0020
+:KR_ID:  
 :CUSTOM_ID: S2k0980
 :SOURCE:   四庫全書 文淵閣版, V487.1, p100
 :DYNASTY: 宋
@@ -18546,7 +18546,7 @@
 *** 海鹽瞰水志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0021
+:KR_ID:  KR2k0019
 :CUSTOM_ID: S2k0982
 :SOURCE:   四庫全書 文淵閣版, V487.2, p493
 :EXTENT: 8 卷
@@ -18567,7 +18567,7 @@
 *** 景定嚴州續志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0022
+:KR_ID:  KR2k0020
 :CUSTOM_ID: S2k0983
 :SOURCE:   四庫全書 文淵閣版, V487.3, p523
 :EXTENT: 10 卷
@@ -18602,7 +18602,7 @@
 *** 景定建康志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0023
+:KR_ID:  KR2k0021
 :CUSTOM_ID: S2k0984
 :SOURCE:   四庫全書 文淵閣版, V488.1, p1 - V489.1
 :EXTENT: 50 卷
@@ -18694,7 +18694,7 @@
 *** 咸淳臨安志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0024
+:KR_ID:  KR2k0022
 :CUSTOM_ID: S2k0985
 :SOURCE:   四庫全書 文淵閣版, V490.1, p1
 :EXTENT: 存93 卷
@@ -18715,7 +18715,7 @@
 *** 至元嘉禾志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0025
+:KR_ID:  KR2k0023
 :CUSTOM_ID: S2k0986
 :SOURCE:   四庫全書 文淵閣版, V491.1, p1
 :EXTENT: 32 卷
@@ -18755,7 +18755,7 @@
 *** 昌國州圖志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0026
+:KR_ID:  KR2k0024
 :CUSTOM_ID: S2k0987
 :SOURCE:   四庫全書 文淵閣版, V491.2, p267
 :EXTENT: 7 卷
@@ -18776,7 +18776,7 @@
 *** 延祐四明志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0027
+:KR_ID:  KR2k0025
 :CUSTOM_ID: S2k0988
 :SOURCE:   四庫全書 文淵閣版, V491.3, p319
 :EXTENT: 17 卷
@@ -18821,7 +18821,7 @@
 *** 齊乘
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0028
+:KR_ID:  KR2k0026
 :CUSTOM_ID: S2k0989
 :SOURCE:   四庫全書 文淵閣版, V491.4, p685
 :EXTENT: 6 卷
@@ -18859,7 +18859,7 @@
 *** 至大金陵新志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0029
+:KR_ID:  KR2k0027
 :CUSTOM_ID: S2k0990
 :SOURCE:   四庫全書 文淵閣版, V492.1, p1
 :EXTENT: 15 卷
@@ -18909,7 +18909,7 @@
 *** 無錫縣志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0030
+:KR_ID:  KR2k0028
 :CUSTOM_ID: S2k0991
 :SOURCE:   四庫全書 文淵閣版, V492.2, p653
 :EXTENT: 4 卷
@@ -18938,7 +18938,7 @@
 *** 姑蘇志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0031
+:KR_ID:  KR2k0029
 :CUSTOM_ID: S2k0992
 :SOURCE:   四庫全書 文淵閣版, V493.1, p1
 :EXTENT: 60 卷
@@ -19021,7 +19021,7 @@
 *** 武功縣志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0032
+:KR_ID:  KR2k0030
 :CUSTOM_ID: S2k0993
 :SOURCE:   四庫全書 文淵閣版, V494.1, p1
 :EXTENT: 3 卷
@@ -19043,7 +19043,7 @@
 *** 朝邑縣志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0033
+:KR_ID:  KR2k0031
 :CUSTOM_ID: S2k0994
 :SOURCE:   四庫全書 文淵閣版, V494.2, p47
 :EXTENT: 1 卷
@@ -19065,7 +19065,7 @@
 *** 嶺海輿圖
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0034
+:KR_ID:  KR2k0032
 :CUSTOM_ID: S2k0995
 :SOURCE:   四庫全書 文淵閣版, V494.3, p61
 :EXTENT: 1 卷
@@ -19087,7 +19087,7 @@
 *** 滇略
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0035
+:KR_ID:  KR2k0033
 :CUSTOM_ID: S2k0996
 :SOURCE:   四庫全書 文淵閣版, V494.4, p97
 :EXTENT: 10 卷
@@ -19120,7 +19120,7 @@
 *** 吳興備志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0036
+:KR_ID:  KR2k0034
 :CUSTOM_ID: S2k0997
 :SOURCE:   四庫全書 文淵閣版, V494.5, p251
 :EXTENT: 32 卷
@@ -19165,7 +19165,7 @@
 *** 欽定熱河志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0037
+:KR_ID:  KR2k0035
 :CUSTOM_ID: S2k0998
 :SOURCE:   四庫全書 文淵閣版, V495.1, p1 - V496.1
 :EXTENT: 120 卷
@@ -19288,7 +19288,7 @@
 *** 欽定日下舊聞考
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0038
+:KR_ID:  KR2k0036
 :CUSTOM_ID: S2k0999
 :SOURCE:   四庫全書 文淵閣版, V497.1, p1 - V499.1
 :EXTENT: 160 卷
@@ -19436,7 +19436,7 @@
 *** 欽定滿洲源流考
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0039
+:KR_ID:  KR2k0038
 :CUSTOM_ID: S2k1000
 :SOURCE:   四庫全書 文淵閣版, V499.2, p451
 :EXTENT: 20 卷
@@ -19486,7 +19486,7 @@
 *** 欽定皇輿西域圖志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0040
+:KR_ID:  KR2k0039
 :CUSTOM_ID: S2k1001
 :SOURCE:   四庫全書 文淵閣版, V500.1, p1
 :EXTENT: 48 卷
@@ -19534,7 +19534,7 @@
 *** 欽定盛京通志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0041
+:KR_ID:  KR2k0040
 :CUSTOM_ID: S2k1002
 :SOURCE:   四庫全書 文淵閣版, V501.1, p1 - V503.1
 :EXTENT: 130 卷
@@ -19677,7 +19677,7 @@
 *** 畿輔通志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0042
+:KR_ID:  KR2k0041
 :CUSTOM_ID: S2k1003
 :SOURCE:   四庫全書 文淵閣版, V504.1, p1 - V506.1
 :EXTENT: 120 卷
@@ -19854,7 +19854,7 @@
 *** 江南通志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0043
+:KR_ID:  KR2k0042
 :CUSTOM_ID: S2k1004
 :SOURCE:   四庫全書 文淵閣版, V507.1, p1 - V512.1
 :EXTENT: 200 卷
@@ -20155,7 +20155,7 @@
 *** 江西通志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0044
+:KR_ID:  KR2k0043
 :CUSTOM_ID: S2k1005
 :SOURCE:   四庫全書 文淵閣版, V513.1, p1 - V518.1
 :EXTENT: 162 卷
@@ -20459,7 +20459,7 @@
 *** 浙江通志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0045
+:KR_ID:  KR2k0044
 :CUSTOM_ID: S2k1006
 :SOURCE:   四庫全書 文淵閣版, V519.1, p1 - V526.1
 :EXTENT: 280 卷
@@ -20795,7 +20795,7 @@
 *** 福建通志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0046
+:KR_ID:  KR2k0045
 :CUSTOM_ID: S2k1007
 :SOURCE:   四庫全書 文淵閣版, V527.1, p1 - V530.1
 :EXTENT: 78 卷
@@ -20974,7 +20974,7 @@
 *** 湖廣通志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0047
+:KR_ID:  KR2k0046
 :CUSTOM_ID: S2k1008
 :SOURCE:   四庫全書 文淵閣版, V531.1, p1 - V534.1
 :EXTENT: 120 卷
@@ -21172,7 +21172,7 @@
 *** 河南通志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0048
+:KR_ID:  KR2k0047
 :CUSTOM_ID: S2k1009
 :SOURCE:   四庫全書 文淵閣版, V535.1, p1 - V538.1
 :EXTENT: 80 卷
@@ -21332,7 +21332,7 @@
 *** 山東通志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0049
+:KR_ID:  KR2k0048
 :CUSTOM_ID: S2k1010
 :SOURCE:   四庫全書 文淵閣版, V539.1, p1 - V541.1
 :EXTENT: 36 卷
@@ -21473,7 +21473,7 @@
 *** 山西通志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0050
+:KR_ID:  KR2k0049
 :CUSTOM_ID: S2k1011
 :SOURCE:   四庫全書 文淵閣版, V542.1, p1 - V550.1
 :EXTENT: 230 卷
@@ -21864,7 +21864,7 @@
 *** 陝西通志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0051
+:KR_ID:  KR2k0050
 :CUSTOM_ID: S2k1012
 :SOURCE:   四庫全書 文淵閣版, V551.1, p1 - V556.1
 :EXTENT: 100 卷
@@ -22096,7 +22096,7 @@
 *** 甘肅通志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0052
+:KR_ID:  KR2k0051
 :CUSTOM_ID: S2k1013
 :SOURCE:   四庫全書 文淵閣版, V557.1, p1 - V558.1
 :EXTENT: 50 卷
@@ -22204,7 +22204,7 @@
 *** 四川通志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0053
+:KR_ID:  KR2k0052
 :CUSTOM_ID: S2k1014
 :SOURCE:   四庫全書 文淵閣版, V559.1, p1 - V561.1
 :EXTENT: 47 卷
@@ -22340,7 +22340,7 @@
 *** 廣東通志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0054
+:KR_ID:  KR2k0053
 :CUSTOM_ID: S2k1015
 :SOURCE:   四庫全書 文淵閣版, V562.1, p1 - V564.1
 :EXTENT: 64 卷
@@ -22479,7 +22479,7 @@
 *** 廣西通志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0055
+:KR_ID:  KR2k0054
 :CUSTOM_ID: S2k1016
 :SOURCE:   四庫全書 文淵閣版, V565.1, p1 - V568.1
 :EXTENT: 128 卷
@@ -22664,7 +22664,7 @@
 *** 雲南通志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0056
+:KR_ID:  KR2k0055
 :CUSTOM_ID: S2k1017
 :SOURCE:   四庫全書 文淵閣版, V569.1, p1 - V570.1
 :EXTENT: 30 卷
@@ -22769,7 +22769,7 @@
 *** 貴州通志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0057
+:KR_ID:  KR2k0056
 :CUSTOM_ID: S2k1018
 :SOURCE:   四庫全書 文淵閣版, V571.1, p1 - V572.1
 :EXTENT: 46 卷
@@ -22868,7 +22868,7 @@
 *** 歷代帝王宅京記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0058
+:KR_ID:  KR2k0057
 :CUSTOM_ID: S2k1019
 :SOURCE:   四庫全書 文淵閣版, V572.2, p571
 :EXTENT: 20 卷
@@ -22905,7 +22905,7 @@
 *** 水經注
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0059
+:KR_ID:  KR2k0058
 :CUSTOM_ID: S2k1020
 :SOURCE:   四庫全書 文淵閣版, V573.1, p1
 :EXTENT: 40 卷
@@ -23016,7 +23016,7 @@
 *** 水經注集釋訂訛
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0060
+:KR_ID:  KR2k0059
 :CUSTOM_ID: S2k1021
 :SOURCE:   四庫全書 文淵閣版, V574.1, p1
 :EXTENT: 40 卷
@@ -23076,7 +23076,7 @@
 *** 水經注釋
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0061
+:KR_ID:  KR2k0060
 :CUSTOM_ID: S2k1022
 :SOURCE:   四庫全書 文淵閣版, V575.1, p1
 :EXTENT: 40 卷
@@ -23160,7 +23160,7 @@
 *** 吳中水利書
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0062
+:KR_ID:  KR2k0061
 :CUSTOM_ID: S2k1023
 :SOURCE:   四庫全書 文淵閣版, V576.1, p1
 :EXTENT: 1 卷
@@ -23182,7 +23182,7 @@
 *** 四明它山水利備覽
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0063
+:KR_ID:  KR2k0062
 :CUSTOM_ID: S2k1024
 :SOURCE:   四庫全書 文淵閣版, V576.2, p15
 :EXTENT: 2 卷
@@ -23204,7 +23204,7 @@
 *** 河防通議
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0064
+:KR_ID:  KR2k0063
 :CUSTOM_ID: S2k1025
 :SOURCE:   四庫全書 文淵閣版, V576.3, p43
 :EXTENT: 2 卷
@@ -23226,7 +23226,7 @@
 *** 治河圖略
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0065
+:KR_ID:  KR2k0064
 :CUSTOM_ID: S2k1026
 :SOURCE:   四庫全書 文淵閣版, V576.4, p71
 :EXTENT: 1 卷
@@ -23248,7 +23248,7 @@
 *** 浙西水利書
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0066
+:KR_ID:  KR2k0065
 :CUSTOM_ID: S2k1027
 :SOURCE:   四庫全書 文淵閣版, V576.5, p83
 :EXTENT: 3 卷
@@ -23269,7 +23269,7 @@
 *** 河防一覽
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0067
+:KR_ID:  KR2k0066
 :CUSTOM_ID: S2k1028
 :SOURCE:   四庫全書 文淵閣版, V576.6, p137
 :EXTENT: 14 卷
@@ -23312,7 +23312,7 @@
 *** 三吳水利錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0068
+:KR_ID:  KR2k0067
 :CUSTOM_ID: S2k1029
 :SOURCE:   四庫全書 文淵閣版, V576.7, p517
 :EXTENT: 4 卷
@@ -23341,7 +23341,7 @@
 *** 北河紀
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0069
+:KR_ID:  KR2k0068
 :CUSTOM_ID: S2k1030
 :SOURCE:   四庫全書 文淵閣版, V576.8, p567
 :EXTENT: 8 卷
@@ -23386,7 +23386,7 @@
 *** 敬止集
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0070
+:KR_ID:  KR2k0069
 :CUSTOM_ID: S2k1031
 :SOURCE:   四庫全書 文淵閣版, V577.1, p1
 :EXTENT: 4 卷
@@ -23414,7 +23414,7 @@
 *** 三吳水考
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0071
+:KR_ID:  KR2k0070
 :CUSTOM_ID: S2k1032
 :SOURCE:   四庫全書 文淵閣版, V577.2, p87
 :EXTENT: 16 卷
@@ -23468,7 +23468,7 @@
 *** 吳中水利全書
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0072
+:KR_ID:  KR2k0071
 :CUSTOM_ID: S2k1033
 :SOURCE:   四庫全書 文淵閣版, V578.1, p1
 :EXTENT: 28 卷
@@ -23538,7 +23538,7 @@
 *** 欽定河源紀略
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0073
+:KR_ID:  KR2k0072
 :CUSTOM_ID: S2k1034
 :SOURCE:   四庫全書 文淵閣版, V579.1, p1
 :EXTENT: 35 卷
@@ -23595,7 +23595,7 @@
 *** 崑崙河源考
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0074
+:KR_ID:  KR2k0073
 :CUSTOM_ID: S2k1035
 :SOURCE:   四庫全書 文淵閣版, V579.2, p317
 :EXTENT: 1 卷
@@ -23617,7 +23617,7 @@
 *** 兩河清彙
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0075
+:KR_ID:  KR2k0074
 :CUSTOM_ID: S2k1036
 :SOURCE:   四庫全書 文淵閣版, V579.3, p347
 :EXTENT: 8 卷
@@ -23657,7 +23657,7 @@
 *** 居濟一得
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0076
+:KR_ID:  KR2k0075
 :CUSTOM_ID: S2k1037
 :SOURCE:   四庫全書 文淵閣版, V579.4, p485
 :EXTENT: 8 卷
@@ -23690,7 +23690,7 @@
 *** 治河奏績書
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0077
+:KR_ID:  KR2k0076
 :CUSTOM_ID: S2k1038
 :SOURCE:   四庫全書 文淵閣版, V579.5, p613
 :EXTENT: 4 卷
@@ -23740,7 +23740,7 @@
 *** 直隸河渠志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0078
+:KR_ID:  KR2k0077
 :CUSTOM_ID: S2k1039
 :SOURCE:   四庫全書 文淵閣版, V579.6, p781
 :EXTENT: 1 卷
@@ -23762,7 +23762,7 @@
 *** 行水金鑑
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0079
+:KR_ID:  KR2k0078
 :CUSTOM_ID: S2k1040
 :SOURCE:   四庫全書 文淵閣版, V580.1, p1 - V582.1
 :EXTENT: 175 卷
@@ -23909,7 +23909,7 @@
 *** 水道提綱
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0080
+:KR_ID:  KR2k0079
 :CUSTOM_ID: S2k1041
 :SOURCE:   四庫全書 文淵閣版, V583.1, p1
 :EXTENT: 28 卷
@@ -23952,7 +23952,7 @@
 *** 海塘錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0081
+:KR_ID:  KR2k0080
 :CUSTOM_ID: S2k1042
 :SOURCE:   四庫全書 文淵閣版, V583.2, p317
 :EXTENT: 26 卷
@@ -24010,7 +24010,7 @@
 *** 籌海圖編
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0082
+:KR_ID:  KR2k0081
 :CUSTOM_ID: S2k1043
 :SOURCE:   四庫全書 文淵閣版, V584.1, p1
 :EXTENT: 13 卷
@@ -24055,7 +24055,7 @@
 *** 鄭開陽雜著
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0083
+:KR_ID:  KR2k0082
 :CUSTOM_ID: S2k1044
 :SOURCE:   四庫全書 文淵閣版, V584.2, p443
 :EXTENT: 11 卷
@@ -24090,7 +24090,7 @@
 *** 南嶽小錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0084
+:KR_ID:  KR2k0083
 :CUSTOM_ID: S2k1045
 :SOURCE:   四庫全書 文淵閣版, V585.1, p1
 :EXTENT: 1 卷
@@ -24111,7 +24111,7 @@
 *** 廬山記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0085
+:KR_ID:  KR2k0084
 :CUSTOM_ID: S2k1046
 :SOURCE:   四庫全書 文淵閣版, V585.2, p13
 :EXTENT: 3 卷
@@ -24146,7 +24146,7 @@
 *** 赤松山志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0086
+:KR_ID:  KR2k0085
 :CUSTOM_ID: S2k1047
 :SOURCE:   四庫全書 文淵閣版, V585.3, p45
 :EXTENT: 1 卷
@@ -24168,7 +24168,7 @@
 *** 西湖遊覽志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0087
+:KR_ID:  KR2k0086
 :CUSTOM_ID: S2k1048
 :SOURCE:   四庫全書 文淵閣版, V585.4, p59
 :EXTENT: 24 卷
@@ -24220,7 +24220,7 @@
 *** 桂勝
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0088
+:KR_ID:  KR2k0087
 :CUSTOM_ID: S2k1049
 :SOURCE:   四庫全書 文淵閣版, V585.5, p637
 :EXTENT: 4 卷
@@ -24258,7 +24258,7 @@
 *** 欽定盤山志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0089
+:KR_ID:  KR2k0088
 :CUSTOM_ID: S2k1050
 :SOURCE:   四庫全書 文淵閣版, V586.1, p1
 :EXTENT: 16 卷
@@ -24318,7 +24318,7 @@
 *** 西湖志纂
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0090
+:KR_ID:  KR2k0089
 :CUSTOM_ID: S2k1051
 :SOURCE:   四庫全書 文淵閣版, V586.2, p337
 :EXTENT: 12 卷
@@ -24374,7 +24374,7 @@
 *** 洛陽伽藍記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0091
+:KR_ID:  KR2k0090
 :CUSTOM_ID: S2k1052
 :SOURCE:   四庫全書 文淵閣版, V587.1, p1
 :EXTENT: 5 卷
@@ -24396,7 +24396,7 @@
 *** 吳地記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0092
+:KR_ID:  KR2k0091
 :CUSTOM_ID: S2k1053
 :SOURCE:   四庫全書 文淵閣版, V587.2, p53
 :EXTENT: 1 卷
@@ -24429,7 +24429,7 @@
 *** 長安志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0093
+:KR_ID:  KR2k0092
 :CUSTOM_ID: S2k1054
 :SOURCE:   四庫全書 文淵閣版, V587.3, p73
 :EXTENT: 20 卷
@@ -24464,7 +24464,7 @@
 *** 洛陽名園記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0094
+:KR_ID:  KR2k0093
 :CUSTOM_ID: S2k1055
 :SOURCE:   四庫全書 文淵閣版, V587.4, p239
 :EXTENT: 1 卷
@@ -24485,7 +24485,7 @@
 *** 雍錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0095
+:KR_ID:  KR2k0094
 :CUSTOM_ID: S2k1056
 :SOURCE:   四庫全書 文淵閣版, V587.5, p249
 :EXTENT: 10 卷
@@ -24518,7 +24518,7 @@
 *** 洞霄圖志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0096
+:KR_ID:  KR2k0095
 :CUSTOM_ID: S2k1057
 :SOURCE:   四庫全書 文淵閣版, V587.6, p405
 :EXTENT: 6 卷
@@ -24547,7 +24547,7 @@
 *** 長安志圖
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0097
+:KR_ID:  KR2k0096
 :CUSTOM_ID: S2k1058
 :SOURCE:   四庫全書 文淵閣版, V587.7, p469
 :EXTENT: 3 卷
@@ -24568,7 +24568,7 @@
 *** 汴京遺蹟志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0098
+:KR_ID:  KR2k0097
 :CUSTOM_ID: S2k1059
 :SOURCE:   四庫全書 文淵閣版, V587.8, p513
 :EXTENT: 24 卷
@@ -24609,7 +24609,7 @@
 *** 武林梵志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0099
+:KR_ID:  KR2k0098
 :CUSTOM_ID: S2k1060
 :SOURCE:   四庫全書 文淵閣版, V588.1, p1
 :EXTENT: 12 卷
@@ -24649,7 +24649,7 @@
 *** 江城名蹟
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0100
+:KR_ID:  KR2k0099
 :CUSTOM_ID: S2k1061
 :SOURCE:   四庫全書 文淵閣版, V588.2, p287
 :EXTENT: 4 卷
@@ -24678,7 +24678,7 @@
 *** 營平二州地名記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0101
+:KR_ID:  KR2k0100
 :CUSTOM_ID: S2k1062
 :SOURCE:   四庫全書 文淵閣版, V588.3, p375
 :EXTENT: 1 卷
@@ -24700,7 +24700,7 @@
 *** 金鰲退食筆記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0102
+:KR_ID:  KR2k0101
 :CUSTOM_ID: S2k1063
 :SOURCE:   四庫全書 文淵閣版, V588.4, p401
 :EXTENT: 2 卷
@@ -24722,7 +24722,7 @@
 *** 石柱記箋釋
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0103
+:KR_ID:  KR2k0102
 :CUSTOM_ID: S2k1064
 :SOURCE:   四庫全書 文淵閣版, V588.5, p433
 :EXTENT: 5 卷
@@ -24744,7 +24744,7 @@
 *** 關中勝蹟圖志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0104
+:KR_ID:  KR2k0103
 :CUSTOM_ID: S2k1065
 :SOURCE:   四庫全書 文淵閣版, V588.6, p479
 :EXTENT: 32 卷
@@ -24791,7 +24791,7 @@
 *** 南方草木狀
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0105
+:KR_ID:  KR2k0104
 :CUSTOM_ID: S2k1066
 :SOURCE:   四庫全書 文淵閣版, V589.1, p1
 :EXTENT: 3 卷
@@ -24813,7 +24813,7 @@
 *** 荊楚嵗時記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0106
+:KR_ID:  KR2k0105
 :CUSTOM_ID: S2k1067
 :SOURCE:   四庫全書 文淵閣版, V589.2, p13
 :EXTENT: 1 卷
@@ -24835,7 +24835,7 @@
 *** 北戶錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0107
+:KR_ID:  KR2k0106
 :CUSTOM_ID: S2k1068
 :SOURCE:   四庫全書 文淵閣版, V589.3, p29
 :EXTENT: 3 卷
@@ -24863,7 +24863,7 @@
 *** 桂林風土記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0108
+:KR_ID:  KR2k0107
 :CUSTOM_ID: S2k1069
 :SOURCE:   四庫全書 文淵閣版, V589.4, p63
 :EXTENT: 1 卷
@@ -24885,7 +24885,7 @@
 *** 嶺表錄異
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0109
+:KR_ID:  KR2k0108
 :CUSTOM_ID: S2k1070
 :SOURCE:   四庫全書 文淵閣版, V589.5, p79
 :EXTENT: 3 卷
@@ -24906,7 +24906,7 @@
 *** 益部方物略記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0110
+:KR_ID:  KR2k0109
 :CUSTOM_ID: S2k1071
 :SOURCE:   四庫全書 文淵閣版, V589.6, p99
 :EXTENT: 1 卷
@@ -24928,7 +24928,7 @@
 *** 岳陽風土記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0111
+:KR_ID:  KR2k0110
 :CUSTOM_ID: S2k1072
 :SOURCE:   四庫全書 文淵閣版, V589.7, p109
 :EXTENT: 1 卷
@@ -24949,7 +24949,7 @@
 *** 東京夢華錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0112
+:KR_ID:  KR2k0111
 :CUSTOM_ID: S2k1073
 :SOURCE:   四庫全書 文淵閣版, V589.8, p125
 :EXTENT: 10 卷
@@ -24971,7 +24971,7 @@
 *** 六朝事迹編類
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0113
+:KR_ID:  KR2k0112
 :CUSTOM_ID: S2k1074
 :SOURCE:   四庫全書 文淵閣版, V589.9, p175
 :EXTENT: 2 卷
@@ -25000,7 +25000,7 @@
 *** 會稽三賦
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0114
+:KR_ID:  KR2k0113
 :CUSTOM_ID: S2k1075
 :SOURCE:   四庫全書 文淵閣版, V589.10, p251
 :EXTENT: 3 卷
@@ -25034,7 +25034,7 @@
 *** 中吳紀聞
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0115
+:KR_ID:  KR2k0114
 :CUSTOM_ID: S2k1076
 :SOURCE:   四庫全書 文淵閣版, V589.11, p289
 :EXTENT: 6 卷
@@ -25063,7 +25063,7 @@
 *** 桂海虞衡志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0116
+:KR_ID:  KR2k0115
 :CUSTOM_ID: S2k1077
 :SOURCE:   四庫全書 文淵閣版, V589.12, p365
 :EXTENT: 1 卷
@@ -25085,7 +25085,7 @@
 *** 嶺外代答
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0117
+:KR_ID:  KR2k0116
 :CUSTOM_ID: S2k1078
 :SOURCE:   四庫全書 文淵閣版, V589.13, p389
 :EXTENT: 10 卷
@@ -25116,7 +25116,7 @@
 *** 都城紀勝
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0118
+:KR_ID:  KR2k0117
 :CUSTOM_ID: S2k1079
 :SOURCE:   四庫全書 文淵閣版, V590.1, p1
 :EXTENT: 1 卷
@@ -25137,7 +25137,7 @@
 *** 夢梁錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0119
+:KR_ID:  KR2k0118
 :CUSTOM_ID: S2k1080
 :SOURCE:   四庫全書 文淵閣版, V590.2, p13
 :EXTENT: 20 卷
@@ -25170,7 +25170,7 @@
 *** 武林舊事
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0120
+:KR_ID:  KR2k0119
 :CUSTOM_ID: S2k1081
 :SOURCE:   四庫全書 文淵閣版, V590.3, p173
 :EXTENT: 10 卷
@@ -25201,7 +25201,7 @@
 *** 增補武林舊事
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0121
+:KR_ID:  KR2k0120
 :CUSTOM_ID: S2k1082
 :SOURCE:   四庫全書 文淵閣版, V590.4, p301
 :EXTENT: 8 卷
@@ -25240,7 +25240,7 @@
 *** 嵗華紀麗譜
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0122
+:KR_ID:  KR2k0121
 :CUSTOM_ID: S2k1083
 :SOURCE:   四庫全書 文淵閣版, V590.5, p433
 :EXTENT: 1 卷
@@ -25275,7 +25275,7 @@
 *** 吳中舊事
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0123
+:KR_ID:  KR2k0122
 :CUSTOM_ID: S2k1084
 :SOURCE:   四庫全書 文淵閣版, V590.6, p443
 :EXTENT: 1 卷
@@ -25297,7 +25297,7 @@
 *** 平江記事
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0124
+:KR_ID:  KR2k0123
 :CUSTOM_ID: S2k1085
 :SOURCE:   四庫全書 文淵閣版, V590.7, p459
 :EXTENT: 1 卷
@@ -25319,7 +25319,7 @@
 *** 江漢叢談
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0125
+:KR_ID:  KR2k0124
 :CUSTOM_ID: S2k1086
 :SOURCE:   四庫全書 文淵閣版, V590.8, p471
 :EXTENT: 2 卷
@@ -25341,7 +25341,7 @@
 *** 閩中海錯疏
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0126
+:KR_ID:  KR2k0125
 :CUSTOM_ID: S2k1087
 :SOURCE:   四庫全書 文淵閣版, V590.9, p499
 :EXTENT: 3 卷
@@ -25363,7 +25363,7 @@
 *** 蜀中廣記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0127
+:KR_ID:  KR2k0126
 :CUSTOM_ID: S2k1088
 :SOURCE:   四庫全書 文淵閣版, V591.1, p1 - V592.1
 :EXTENT: 108 卷
@@ -25464,7 +25464,7 @@
 *** 益部談資
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0128
+:KR_ID:  KR2k0127
 :CUSTOM_ID: S2k1089
 :SOURCE:   四庫全書 文淵閣版, V592.2, p735
 :EXTENT: 3 卷
@@ -25485,7 +25485,7 @@
 *** 顏山雜記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0129
+:KR_ID:  KR2k0128
 :CUSTOM_ID: S2k1090
 :SOURCE:   四庫全書 文淵閣版, V592.3, p759
 :EXTENT: 4 卷
@@ -25514,7 +25514,7 @@
 *** 嶺南風物記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0130
+:KR_ID:  KR2k0129
 :CUSTOM_ID: S2k1091
 :SOURCE:   四庫全書 文淵閣版, V592.4, p827
 :EXTENT: 1 卷
@@ -25548,7 +25548,7 @@
 *** 龍沙紀略
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0131
+:KR_ID:  KR2k0130
 :CUSTOM_ID: S2k1092
 :SOURCE:   四庫全書 文淵閣版, V592.5, p841
 :EXTENT: 1 卷
@@ -25569,7 +25569,7 @@
 *** 臺海使槎錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0132
+:KR_ID:  KR2k0131
 :CUSTOM_ID: S2k1093
 :SOURCE:   四庫全書 文淵閣版, V592.6, p861
 :EXTENT: 8 卷
@@ -25600,7 +25600,7 @@
 *** 東城雜記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0133
+:KR_ID:  KR2k0132
 :CUSTOM_ID: S2k1094
 :SOURCE:   四庫全書 文淵閣版, V592.7, p985
 :EXTENT: 2 卷
@@ -25622,7 +25622,7 @@
 *** 遊城南記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0134
+:KR_ID:  KR2k0133
 :CUSTOM_ID: S2k1095
 :SOURCE:   四庫全書 文淵閣版, V593.1, p1
 :EXTENT: 1 卷
@@ -25644,7 +25644,7 @@
 *** 河朔訪古記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0135
+:KR_ID:  KR2k0134
 :CUSTOM_ID: S2k1096
 :SOURCE:   四庫全書 文淵閣版, V593.2, p17
 :EXTENT: 3 卷
@@ -25665,7 +25665,7 @@
 *** 徐霞客遊記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0136
+:KR_ID:  KR2k0135
 :CUSTOM_ID: S2k1097
 :SOURCE:   四庫全書 文淵閣版, V593.3, p61
 :EXTENT: 12 卷
@@ -25716,7 +25716,7 @@
 *** 佛國記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0137
+:KR_ID:  KR2k0136
 :CUSTOM_ID: S2k1098
 :SOURCE:   四庫全書 文淵閣版, V593.4, p611
 :EXTENT: 1 卷
@@ -25738,7 +25738,7 @@
 *** 大唐西域記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0138
+:KR_ID:  KR2k0137
 :CUSTOM_ID: S2k1099
 :SOURCE:   四庫全書 文淵閣版, V593.5, p635
 :EXTENT: 12 卷
@@ -25779,7 +25779,7 @@
 *** 宣和奉使高麗圖經
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0139
+:KR_ID:  KR2k0138
 :CUSTOM_ID: S2k1100
 :SOURCE:   四庫全書 文淵閣版, V593.6, p811
 :EXTENT: 40 卷
@@ -25817,7 +25817,7 @@
 *** 諸蕃志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0140
+:KR_ID:  KR2k0139
 :CUSTOM_ID: S2k1101
 :SOURCE:   四庫全書 文淵閣版, V594.1, p1
 :EXTENT: 2 卷
@@ -25839,7 +25839,7 @@
 *** 溪蠻叢笑
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0141
+:KR_ID:  KR2k0140
 :CUSTOM_ID: S2k1102
 :SOURCE:   四庫全書 文淵閣版, V594.2, p43
 :EXTENT: 1 卷
@@ -25860,7 +25860,7 @@
 *** 眞臘風土記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0142
+:KR_ID:  KR2k0141
 :CUSTOM_ID: S2k1103
 :SOURCE:   四庫全書 文淵閣版, V594.3, p53
 :EXTENT: 1 卷
@@ -25882,7 +25882,7 @@
 *** 島夷誌略
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0143
+:KR_ID:  KR2k0142
 :CUSTOM_ID: S2k1104
 :SOURCE:   四庫全書 文淵閣版, V594.4, p71
 :EXTENT: 1 卷
@@ -25903,7 +25903,7 @@
 *** 朝鮮賦
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0144
+:KR_ID:  KR2k0143
 :CUSTOM_ID: S2k1105
 :SOURCE:   四庫全書 文淵閣版, V594.5, p105
 :EXTENT: 1 卷
@@ -25925,7 +25925,7 @@
 *** 海語
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0145
+:KR_ID:  KR2k0144
 :CUSTOM_ID: S2k1106
 :SOURCE:   四庫全書 文淵閣版, V594.6, p117
 :EXTENT: 3 卷
@@ -25953,7 +25953,7 @@
 *** 東西洋考
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0146
+:KR_ID:  KR2k0145
 :CUSTOM_ID: S2k1107
 :SOURCE:   四庫全書 文淵閣版, V594.7, p137
 :EXTENT: 12 卷
@@ -25984,7 +25984,7 @@
 *** 職方外紀
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0147
+:KR_ID:  KR2k0146
 :CUSTOM_ID: S2k1108
 :SOURCE:   四庫全書 文淵閣版, V594.8, p279
 :EXTENT: 5 卷
@@ -26013,7 +26013,7 @@
 *** 赤雅
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0148
+:KR_ID:  KR2k0147
 :CUSTOM_ID: S2k1109
 :SOURCE:   四庫全書 文淵閣版, V594.9, p337
 :EXTENT: 3 卷
@@ -26035,7 +26035,7 @@
 *** 朝鮮志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0149
+:KR_ID:  KR2k0148
 :CUSTOM_ID: S2k1110
 :SOURCE:   四庫全書 文淵閣版, V594.10, p369
 :EXTENT: 2 卷
@@ -26056,7 +26056,7 @@
 *** 皇清職貢圖
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0150
+:KR_ID:  KR2k0149
 :CUSTOM_ID: S2k1111
 :SOURCE:   四庫全書 文淵閣版, V594.11, p395
 :EXTENT: 9 卷
@@ -26100,7 +26100,7 @@
 *** 坤輿圖說
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0151
+:KR_ID:  KR2k0150
 :CUSTOM_ID: S2k1112
 :SOURCE:   四庫全書 文淵閣版, V594.12, p729
 :EXTENT: 2 卷
@@ -26122,7 +26122,7 @@
 *** 異域錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0152
+:KR_ID:  KR2k0151
 :CUSTOM_ID: S2k1113
 :SOURCE:   四庫全書 文淵閣版, V594.13, p793
 :EXTENT: 2 卷
@@ -26151,7 +26151,7 @@
 *** 海國聞見錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2k0153
+:KR_ID:  KR2k0152
 :CUSTOM_ID: S2k1114
 :SOURCE:   四庫全書 文淵閣版, V594.14, p847
 :EXTENT: 2 卷
@@ -26173,7 +26173,7 @@
 *** 唐六典
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2l0001
+:KR_ID:  KR2l0001
 :CUSTOM_ID: S2l1115
 :SOURCE:   四庫全書 文淵閣版, V595.1, p1
 :EXTENT: 30 卷
@@ -26220,7 +26220,7 @@
 *** 翰林志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2l0002
+:KR_ID:  KR2l0002
 :CUSTOM_ID: S2l1116
 :SOURCE:   四庫全書 文淵閣版, V595.2, p295
 :EXTENT: 1 卷
@@ -26242,7 +26242,7 @@
 *** 麟臺故事
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2l0003
+:KR_ID:  KR2l0003
 :CUSTOM_ID: S2l1117
 :SOURCE:   四庫全書 文淵閣版, V595.3, p303
 :EXTENT: 5 卷
@@ -26264,7 +26264,7 @@
 *** 翰苑羣書
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2l0004
+:KR_ID:  KR2l0004
 :CUSTOM_ID: S2l1118
 :SOURCE:   四庫全書 文淵閣版, V595.4, p341
 :EXTENT: 12 卷
@@ -26293,7 +26293,7 @@
 *** 南宋館閣錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2l0005
+:KR_ID:  KR2l0005
 :CUSTOM_ID: S2l1119
 :SOURCE:   四庫全書 文淵閣版, V595.5, p417
 :EXTENT: 存9 卷
@@ -26336,7 +26336,7 @@
 *** 玉堂雜記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2l0006
+:KR_ID:  KR2l0006
 :CUSTOM_ID: S2l1120
 :SOURCE:   四庫全書 文淵閣版, V595.6, p549
 :EXTENT: 3 卷
@@ -26358,7 +26358,7 @@
 *** 宋宰輔編年錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2l0007
+:KR_ID:  KR2l0007
 :CUSTOM_ID: S2l1121
 :SOURCE:   四庫全書 文淵閣版, V596.1, p1
 :EXTENT: 20 卷
@@ -26416,7 +26416,7 @@
 *** 祕書監志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2l0008
+:KR_ID:  KR2l0008
 :CUSTOM_ID: S2l1122
 :SOURCE:   四庫全書 文淵閣版, V596.2, p753
 :EXTENT: 11 卷
@@ -26452,7 +26452,7 @@
 *** 翰林志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2l0009
+:KR_ID:  KR2l0009
 :CUSTOM_ID: S2l1123
 :SOURCE:   四庫全書 文淵閣版, V596.3, p859
 :EXTENT: 20 卷
@@ -26489,7 +26489,7 @@
 *** 禮部志稿
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2l0010
+:KR_ID:  KR2l0010
 :CUSTOM_ID: S2l1124
 :SOURCE:   四庫全書 文淵閣版, V597.1, p1 - V598.1
 :EXTENT: 100 卷
@@ -26617,7 +26617,7 @@
 *** 太常續考
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2l0011
+:KR_ID:  KR2l0011
 :CUSTOM_ID: S2l1125
 :SOURCE:   四庫全書 文淵閣版, V599.1, p1
 :EXTENT: 8 卷
@@ -26655,7 +26655,7 @@
 *** 土官底簿
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2l0012
+:KR_ID:  KR2l0012
 :CUSTOM_ID: S2l1126
 :SOURCE:   四庫全書 文淵閣版, V599.2, p331
 :EXTENT: 2 卷
@@ -26683,7 +26683,7 @@
 *** 詞林典故
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2l0013
+:KR_ID:  KR2l0013
 :CUSTOM_ID: S2l1127
 :SOURCE:   四庫全書 文淵閣版, V599.3, p421
 :EXTENT: 8 卷
@@ -26725,7 +26725,7 @@
 *** 欽定國子監志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2l0014
+:KR_ID:  KR2l0014
 :CUSTOM_ID: S2l1128
 :SOURCE:   四庫全書 文淵閣版, V600.1, p1
 :EXTENT: 62 卷
@@ -26798,7 +26798,7 @@
 *** 欽定歷代職官表
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2l0015
+:KR_ID:  KR2l0015
 :CUSTOM_ID: S2l1129
 :SOURCE:   四庫全書 文淵閣版, V601.1, p1 - V602.1
 :EXTENT: 72 卷
@@ -26904,7 +26904,7 @@
 *** 州縣提綱
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2l0016
+:KR_ID:  KR2l0016
 :CUSTOM_ID: S2l1130
 :SOURCE:   四庫全書 文淵閣版, V602.2, p617
 :EXTENT: 4 卷
@@ -26932,7 +26932,7 @@
 *** 官箴
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2l0017
+:KR_ID:  KR2l0017
 :CUSTOM_ID: S2l1131
 :SOURCE:   四庫全書 文淵閣版, V602.3, p651
 :EXTENT: 1 卷
@@ -26954,7 +26954,7 @@
 *** 百官箴
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2l0018
+:KR_ID:  KR2l0018
 :CUSTOM_ID: S2l1132
 :SOURCE:   四庫全書 文淵閣版, V602.4, p657
 :EXTENT: 6 卷
@@ -26976,7 +26976,7 @@
 *** 晝簾緒論
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2l0019
+:KR_ID:  KR2l0020
 :CUSTOM_ID: S2l1133
 :SOURCE:   四庫全書 文淵閣版, V602.5, p705
 :EXTENT: 1 卷
@@ -26998,7 +26998,7 @@
 *** 三事忠告
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2l0020
+:KR_ID:  KR2l0021
 :CUSTOM_ID: S2l1134
 :SOURCE:   四庫全書 文淵閣版, V602.6, p729
 :EXTENT: 4 卷
@@ -27020,7 +27020,7 @@
 *** 御定人臣儆心錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2l0021
+:KR_ID:  KR2l0022
 :CUSTOM_ID: S2l1135
 :SOURCE:   四庫全書 文淵閣版, V602.7, p761
 :EXTENT: 1 卷
@@ -27048,7 +27048,7 @@
 *** 通典
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0001
+:KR_ID:  KR2m0001
 :CUSTOM_ID: S2m1136
 :SOURCE:   四庫全書 文淵閣版, V603.1, p1 - V605.1
 :EXTENT: 200 卷
@@ -27360,7 +27360,7 @@
 *** 唐會要
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0002
+:KR_ID:  KR2m0002
 :CUSTOM_ID: S2m1137
 :SOURCE:   四庫全書 文淵閣版, V606.1, p1 - V607.1
 :EXTENT: 100 卷
@@ -27449,7 +27449,7 @@
 *** 五代會要
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0003
+:KR_ID:  KR2m0003
 :CUSTOM_ID: S2m1138
 :SOURCE:   四庫全書 文淵閣版, V607.2, p439
 :EXTENT: 30 卷
@@ -27490,7 +27490,7 @@
 *** 宋朝事實
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0004
+:KR_ID:  KR2m0004
 :CUSTOM_ID: S2m1139
 :SOURCE:   四庫全書 文淵閣版, V608.1, p1
 :EXTENT: 20 卷
@@ -27527,7 +27527,7 @@
 *** 建炎以來朝野雜記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0005
+:KR_ID:  KR2m0005
 :CUSTOM_ID: S2m1140
 :SOURCE:   四庫全書 文淵閣版, V608.2, p239
 :EXTENT: 40 卷
@@ -27576,7 +27576,7 @@
 *** 西漢會要
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0006
+:KR_ID:  KR2m0006
 :CUSTOM_ID: S2m1141
 :SOURCE:   四庫全書 文淵閣版, V609.1, p1
 :EXTENT: 70 卷
@@ -27625,7 +27625,7 @@
 *** 東漢會要
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0007
+:KR_ID:  KR2m0007
 :CUSTOM_ID: S2m1142
 :SOURCE:   四庫全書 文淵閣版, V609.2, p449
 :EXTENT: 40 卷
@@ -27668,7 +27668,7 @@
 *** 漢制考
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0008
+:KR_ID:  KR2m0008
 :CUSTOM_ID: S2m1143
 :SOURCE:   四庫全書 文淵閣版, V609.3, p779
 :EXTENT: 4 卷
@@ -27697,7 +27697,7 @@
 *** 文獻通考
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0009
+:KR_ID:  KR2m0009
 :CUSTOM_ID: S2m1144
 :SOURCE:   四庫全書 文淵閣版, V610.1, p1 - V616.1
 :EXTENT: 348 卷
@@ -28379,7 +28379,7 @@
 *** 明會典
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0010
+:KR_ID:  KR2m0010
 :CUSTOM_ID: S2m1145
 :SOURCE:   四庫全書 文淵閣版, V617.1, p1 - V618.1
 :EXTENT: 180 卷
@@ -28501,7 +28501,7 @@
 *** 七國考
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0011
+:KR_ID:  KR2m0011
 :CUSTOM_ID: S2m1146
 :SOURCE:   四庫全書 文淵閣版, V618.2, p765
 :EXTENT: 14 卷
@@ -28538,7 +28538,7 @@
 *** 欽定大清會典
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0012
+:KR_ID:  KR2m0012
 :CUSTOM_ID: S2m1147
 :SOURCE:   四庫全書 文淵閣版, V619.1, p1
 :EXTENT: 100 卷
@@ -28673,7 +28673,7 @@
 *** 欽定大清會典則例
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0013
+:KR_ID:  KR2m0013
 :CUSTOM_ID: S2m1148
 :SOURCE:   四庫全書 文淵閣版, V620.1, p1 - V625.1
 :EXTENT: 180 卷
@@ -28943,7 +28943,7 @@
 *** 欽定續文獻通考
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0014
+:KR_ID:  KR2m0014
 :CUSTOM_ID: S2m1149
 :SOURCE:   四庫全書 文淵閣版, V626.1, p1 - V631.1
 :EXTENT: 250 卷
@@ -29226,7 +29226,7 @@
 *** 皇朝文獻通考
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0015
+:KR_ID:  KR2m0015
 :CUSTOM_ID: S2m1150
 :SOURCE:   四庫全書 文淵閣版, V632.1, p1 - V638.1
 :EXTENT: 300 卷
@@ -29576,7 +29576,7 @@
 *** 欽定續通典
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0016
+:KR_ID:  KR2m0016
 :CUSTOM_ID: S2m1151
 :SOURCE:   四庫全書 文淵閣版, V639.1, p1 - V641.1
 :EXTENT: 150 卷
@@ -29713,7 +29713,7 @@
 *** 欽定皇朝通典
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0017
+:KR_ID:  KR2m0017
 :CUSTOM_ID: S2m1152
 :SOURCE:   四庫全書 文淵閣版, V642.1, p1 - V643.1
 :EXTENT: 100 卷
@@ -29817,7 +29817,7 @@
 *** 欽定皇朝通志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0018
+:KR_ID:  KR2m0018
 :CUSTOM_ID: S2m1153
 :SOURCE:   四庫全書 文淵閣版, V644.1, p1 - V645.1
 :EXTENT: 126 卷
@@ -29929,7 +29929,7 @@
 *** 元朝典故編年考
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0019
+:KR_ID:  KR2m0019
 :CUSTOM_ID: S2m1154
 :SOURCE:   四庫全書 文淵閣版, V645.2, p687
 :EXTENT: 10 卷
@@ -29962,7 +29962,7 @@
 *** 漢官舊儀
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0020
+:KR_ID:  KR2m0020
 :CUSTOM_ID: S2m1155
 :SOURCE:   四庫全書 文淵閣版, V646.1, p1
 :EXTENT: 2 卷
@@ -29991,7 +29991,7 @@
 *** 大唐開元禮
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0021
+:KR_ID:  KR2m0021
 :CUSTOM_ID: S2m1156
 :SOURCE:   四庫全書 文淵閣版, V646.2, p19
 :EXTENT: 150 卷
@@ -30065,7 +30065,7 @@
 *** 謚法
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0022
+:KR_ID:  KR2m0022
 :CUSTOM_ID: S2m1157
 :SOURCE:   四庫全書 文淵閣版, V646.3, p897
 :EXTENT: 4 卷
@@ -30087,7 +30087,7 @@
 *** 政和五禮新儀
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0023
+:KR_ID:  KR2m0023
 :CUSTOM_ID: S2m1158
 :SOURCE:   四庫全書 文淵閣版, V647.1, p1
 :EXTENT: 存201 卷
@@ -30173,7 +30173,7 @@
 *** 紹熙州縣釋奠儀圖
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0024
+:KR_ID:  KR2m0024
 :CUSTOM_ID: S2m1159
 :SOURCE:   四庫全書 文淵閣版, V648.1, p1
 :EXTENT: 1 卷
@@ -30195,7 +30195,7 @@
 *** 大金集體
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0025
+:KR_ID:  KR2m0025
 :CUSTOM_ID: S2m1160
 :SOURCE:   四庫全書 文淵閣版, V648.2, p27
 :EXTENT: 存33 卷
@@ -30233,7 +30233,7 @@
 *** 大金德運圖說
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0026
+:KR_ID:  KR2m0026
 :CUSTOM_ID: S2m1161
 :SOURCE:   四庫全書 文淵閣版, V648.3, p309
 :EXTENT: 1 卷
@@ -30254,7 +30254,7 @@
 *** 廟學典禮
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0027
+:KR_ID:  KR2m0027
 :CUSTOM_ID: S2m1162
 :SOURCE:   四庫全書 文淵閣版, V648.4, p323
 :EXTENT: 6 卷
@@ -30282,7 +30282,7 @@
 *** 明集禮
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0028
+:KR_ID:  KR2m0028
 :CUSTOM_ID: S2m1163
 :SOURCE:   四庫全書 文淵閣版, V649.1, p1 - V650.1
 :EXTENT: 53 卷
@@ -30370,7 +30370,7 @@
 *** 頖宮禮樂疏
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0029
+:KR_ID:  KR2m0029
 :CUSTOM_ID: S2m1164
 :SOURCE:   四庫全書 文淵閣版, V651.1, p1
 :EXTENT: 10 卷
@@ -30415,7 +30415,7 @@
 *** 明臣謚考
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0030
+:KR_ID:  KR2m0030
 :CUSTOM_ID: S2m1165
 :SOURCE:   四庫全書 文淵閣版, V651.2, p417
 :EXTENT: 2 卷
@@ -30451,7 +30451,7 @@
 *** 明謚紀彙編
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0031
+:KR_ID:  KR2m0031
 :CUSTOM_ID: S2m1166
 :SOURCE:   四庫全書 文淵閣版, V651.3, p463
 :EXTENT: 25 卷
@@ -30483,7 +30483,7 @@
 *** 明宮史
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0032
+:KR_ID:  KR2m0032
 :CUSTOM_ID: S2m1167
 :SOURCE:   四庫全書 文淵閣版, V651.4, p603
 :EXTENT: 5 卷
@@ -30511,7 +30511,7 @@
 *** 幸魯盛典
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0033
+:KR_ID:  KR2m0033
 :CUSTOM_ID: S2m1168
 :SOURCE:   四庫全書 文淵閣版, V652.1, p1
 :EXTENT: 40 卷
@@ -30566,7 +30566,7 @@
 *** 萬壽盛典初集
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0034
+:KR_ID:  KR2m0034
 :CUSTOM_ID: S2m1169
 :SOURCE:   四庫全書 文淵閣版, V653.1, p1 - V654.1
 :EXTENT: 120 卷
@@ -30678,7 +30678,7 @@
 *** 欽定大清通禮
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0035
+:KR_ID:  KR2m0035
 :CUSTOM_ID: S2m1170
 :SOURCE:   四庫全書 文淵閣版, V655.1, p1
 :EXTENT: 50 卷
@@ -30771,7 +30771,7 @@
 *** 皇朝禮器圖式
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0036
+:KR_ID:  KR2m0036
 :CUSTOM_ID: S2m1171
 :SOURCE:   四庫全書 文淵閣版, V656.1, p1
 :EXTENT: 18 卷
@@ -30887,7 +30887,7 @@
 *** 國朝宮史
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0037
+:KR_ID:  KR2m0037
 :CUSTOM_ID: S2m1172
 :SOURCE:   四庫全書 文淵閣版, V657.1, p1
 :EXTENT: 36 卷
@@ -30981,7 +30981,7 @@
 *** 欽定滿洲祭神祭天典禮
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0038
+:KR_ID:  KR2m0038
 :CUSTOM_ID: S2m1173
 :SOURCE:   四庫全書 文淵閣版, V657.2, p619
 :EXTENT: 6 卷
@@ -31031,7 +31031,7 @@
 *** 欽定南巡盛典
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0039
+:KR_ID:  KR2m0039
 :CUSTOM_ID: S2m1174
 :SOURCE:   四庫全書 文淵閣版, V658.1, p1 - V659.1
 :EXTENT: 100 卷
@@ -31130,7 +31130,7 @@
 *** 八旬萬壽盛典
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0040
+:KR_ID:  KR2m0040
 :CUSTOM_ID: S2m1175
 :SOURCE:   四庫全書 文淵閣版, V660.1, p1 - V661.1
 :EXTENT: 120 卷
@@ -31244,7 +31244,7 @@
 *** 歷代建元考
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0041
+:KR_ID:  KR2m0041
 :CUSTOM_ID: S2m1176
 :SOURCE:   四庫全書 文淵閣版, V662.1, p1
 :EXTENT: 10 卷
@@ -31276,7 +31276,7 @@
 *** 北郊配位尊西向議
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0042
+:KR_ID:  KR2m0042
 :CUSTOM_ID: S2m1177
 :SOURCE:   四庫全書 文淵閣版, V662.2, p155
 :EXTENT: 1 卷
@@ -31298,7 +31298,7 @@
 *** 廟制圖考
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0043
+:KR_ID:  KR2m0043
 :CUSTOM_ID: S2m1178
 :SOURCE:   四庫全書 文淵閣版, V662.3, p167
 :EXTENT: 1 卷
@@ -31320,7 +31320,7 @@
 *** 救荒活民書
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0044
+:KR_ID:  KR2m0044
 :CUSTOM_ID: S2m1179
 :SOURCE:   四庫全書 文淵閣版, V662.4, p233
 :EXTENT: 3 卷
@@ -31356,7 +31356,7 @@
 *** 熬波圖
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0045
+:KR_ID:  KR2m0045
 :CUSTOM_ID: S2m1180
 :SOURCE:   四庫全書 文淵閣版, V662.5, p311
 :EXTENT: 2 卷
@@ -31385,7 +31385,7 @@
 *** 錢通
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0046
+:KR_ID:  KR2m0046
 :CUSTOM_ID: S2m1181
 :SOURCE:   四庫全書 文淵閣版, V662.6, p365
 :EXTENT: 32 卷
@@ -31431,7 +31431,7 @@
 *** 捕蝗考
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0047
+:KR_ID:  KR2m0047
 :CUSTOM_ID: S2m1182
 :SOURCE:   四庫全書 文淵閣版, V663.1, p1
 :EXTENT: 1 卷
@@ -31452,7 +31452,7 @@
 *** 荒政叢書
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0048
+:KR_ID:  KR2m0048
 :CUSTOM_ID: S2m1183
 :SOURCE:   四庫全書 文淵閣版, V663.2, p13
 :EXTENT: 10 卷
@@ -31494,7 +31494,7 @@
 *** 欽定康濟錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0049
+:KR_ID:  KR2m0049
 :CUSTOM_ID: S2m1184
 :SOURCE:   四庫全書 文淵閣版, V663.3, p223
 :EXTENT: 6 卷
@@ -31548,7 +31548,7 @@
 *** 歷代兵制
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0050
+:KR_ID:  KR2m0050
 :CUSTOM_ID: S2m1185
 :SOURCE:   四庫全書 文淵閣版, V663.4, p437
 :EXTENT: 8 卷
@@ -31570,7 +31570,7 @@
 *** 補漢兵志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0051
+:KR_ID:  KR2m0051
 :CUSTOM_ID: S2m1186
 :SOURCE:   四庫全書 文淵閣版, V663.5, p481
 :EXTENT: 1 卷
@@ -31592,7 +31592,7 @@
 *** 馬政紀
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0052
+:KR_ID:  KR2m0052
 :CUSTOM_ID: S2m1187
 :SOURCE:   四庫全書 文淵閣版, V663.6, p503
 :EXTENT: 12 卷
@@ -31623,7 +31623,7 @@
 *** 欽定八旗通志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0053
+:KR_ID:  KR2m0053
 :CUSTOM_ID: S2m1188
 :SOURCE:   四庫全書 文淵閣版, V664.1, p1 - V671.1
 :EXTENT: 342 卷
@@ -31997,7 +31997,7 @@
 *** 唐律疏義
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0054
+:KR_ID:  KR2m0054
 :CUSTOM_ID: S2m1189
 :SOURCE:   四庫全書 文淵閣版, V672.1, p1
 :EXTENT: 30 卷
@@ -32042,7 +32042,7 @@
 *** 大清律例
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0055
+:KR_ID:  KR2m0055
 :CUSTOM_ID: S2m1190
 :SOURCE:   四庫全書 文淵閣版, V672.2, p377 - V673.1
 :EXTENT: 47 卷
@@ -32121,7 +32121,7 @@
 *** 營造法式
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0056
+:KR_ID:  KR2m0056
 :CUSTOM_ID: S2m1191
 :SOURCE:   四庫全書 文淵閣版, V673.2, p399
 :EXTENT: 34 卷
@@ -32169,7 +32169,7 @@
 *** 欽定式英殿聚珍版程式
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2m0057
+:KR_ID:  KR2m0057
 :CUSTOM_ID: S2m1192
 :SOURCE:   四庫全書 文淵閣版, V673.3, p709
 :EXTENT: 1 卷
@@ -32191,7 +32191,7 @@
 *** 崇文總目
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0001
+:KR_ID:  KR2n0001
 :CUSTOM_ID: S2n1193
 :SOURCE:   四庫全書 文淵閣版, V674.1, p1
 :EXTENT: 12 卷
@@ -32236,7 +32236,7 @@
 *** 郡齋讀書志
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0002
+:KR_ID:  KR2n0002
 :CUSTOM_ID: S2n1194
 :SOURCE:   四庫全書 文淵閣版, V674.2, p153
 :EXTENT: 4 卷
@@ -32295,7 +32295,7 @@
 *** 遂初堂書目
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0003
+:KR_ID:  KR2n0003
 :CUSTOM_ID: S2n1195
 :SOURCE:   四庫全書 文淵閣版, V674.3, p435
 :EXTENT: 1 卷
@@ -32317,7 +32317,7 @@
 *** 子略
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0004
+:KR_ID:  KR2n0004
 :CUSTOM_ID: S2n1196
 :SOURCE:   四庫全書 文淵閣版, V674.4, p491
 :EXTENT: 4 卷
@@ -32339,7 +32339,7 @@
 *** 直齋書錄解題
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0005
+:KR_ID:  KR2n0005
 :CUSTOM_ID: S2n1197
 :SOURCE:   四庫全書 文淵閣版, V674.5, p525
 :EXTENT: 22 卷
@@ -32413,7 +32413,7 @@
 *** 漢藝文志考證
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0006
+:KR_ID:  KR2n0006
 :CUSTOM_ID: S2n1198
 :SOURCE:   四庫全書 文淵閣版, V675.1, p1
 :EXTENT: 10 卷
@@ -32444,7 +32444,7 @@
 *** 文淵閣書目
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0007
+:KR_ID:  KR2n0007
 :CUSTOM_ID: S2n1199
 :SOURCE:   四庫全書 文淵閣版, V675.2, p111
 :EXTENT: 4 卷
@@ -32477,7 +32477,7 @@
 *** 授經圖義例
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0008
+:KR_ID:  KR2n0008
 :CUSTOM_ID: S2n1200
 :SOURCE:   四庫全書 文淵閣版, V675.3, p231
 :EXTENT: 20 卷
@@ -32508,7 +32508,7 @@
 *** 欽定天祿琳琅書目
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0009
+:KR_ID:  KR2n0009
 :CUSTOM_ID: S2n1201
 :SOURCE:   四庫全書 文淵閣版, V675.4, p335
 :EXTENT: 10 卷
@@ -32581,7 +32581,7 @@
 *** 千頃堂書目
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0010
+:KR_ID:  KR2n0010
 :CUSTOM_ID: S2n1202
 :SOURCE:   四庫全書 文淵閣版, V676.1, p1
 :EXTENT: 32 卷
@@ -32646,7 +32646,7 @@
 *** 經義考
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0011
+:KR_ID:  KR2n0011
 :CUSTOM_ID: S2n1203
 :SOURCE:   四庫全書 文淵閣版, V677.1, p1 - V680.1
 :EXTENT: 存297 卷
@@ -32831,7 +32831,7 @@
 *** 集古錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0012
+:KR_ID:  KR2n0012
 :CUSTOM_ID: S2n1204
 :SOURCE:   四庫全書 文淵閣版, V681.1, p1
 :EXTENT: 10 卷
@@ -32864,7 +32864,7 @@
 *** 金石錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0013
+:KR_ID:  KR2n0013
 :CUSTOM_ID: S2n1205
 :SOURCE:   四庫全書 文淵閣版, V681.2, p147
 :EXTENT: 30 卷
@@ -32901,7 +32901,7 @@
 *** 法帖刋誤
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0014
+:KR_ID:  KR2n0014
 :CUSTOM_ID: S2n1206
 :SOURCE:   四庫全書 文淵閣版, V681.3, p377
 :EXTENT: 2 卷
@@ -32923,7 +32923,7 @@
 *** 法帖釋文
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0015
+:KR_ID:  KR2n0015
 :CUSTOM_ID: S2n1207
 :SOURCE:   四庫全書 文淵閣版, V681.4, p395
 :EXTENT: 10 卷
@@ -32945,7 +32945,7 @@
 *** 籀史
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0016
+:KR_ID:  KR2n0016
 :CUSTOM_ID: S2n1208
 :SOURCE:   四庫全書 文淵閣版, V681.5, p427
 :EXTENT: 1 卷
@@ -32967,7 +32967,7 @@
 *** 隸釋
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0017
+:KR_ID:  KR2n0017
 :CUSTOM_ID: S2n1209
 :SOURCE:   四庫全書 文淵閣版, V681.6, p443
 :EXTENT: 27 卷
@@ -33008,7 +33008,7 @@
 *** 隸續
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0018
+:KR_ID:  KR2n0018
 :CUSTOM_ID: S2n1210
 :SOURCE:   四庫全書 文淵閣版, V681.7, p759
 :EXTENT: 21 卷
@@ -33039,7 +33039,7 @@
 *** 絳帖平
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0019
+:KR_ID:  KR2n0019
 :CUSTOM_ID: S2n1211
 :SOURCE:   四庫全書 文淵閣版, V682.1, p1
 :EXTENT: 6 卷
@@ -33061,7 +33061,7 @@
 *** 石刻鋪敍
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0020
+:KR_ID:  KR2n0020
 :CUSTOM_ID: S2n1212
 :SOURCE:   四庫全書 文淵閣版, V682.2, p37
 :EXTENT: 2 卷
@@ -33083,7 +33083,7 @@
 *** 法帖譜系
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0021
+:KR_ID:  KR2n0021
 :CUSTOM_ID: S2n1213
 :SOURCE:   四庫全書 文淵閣版, V682.3, p61
 :EXTENT: 2 卷
@@ -33105,7 +33105,7 @@
 *** 蘭亭考
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0022
+:KR_ID:  KR2n0022
 :CUSTOM_ID: S2n1214
 :SOURCE:   四庫全書 文淵閣版, V682.4, p73
 :EXTENT: 12 卷
@@ -33140,7 +33140,7 @@
 *** 蘭亭續考
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0023
+:KR_ID:  KR2n0023
 :CUSTOM_ID: S2n1215
 :SOURCE:   四庫全書 文淵閣版, V682.5, p155
 :EXTENT: 2 卷
@@ -33162,7 +33162,7 @@
 *** 寶刻叢編
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0024
+:KR_ID:  KR2n0024
 :CUSTOM_ID: S2n1216
 :SOURCE:   四庫全書 文淵閣版, V682.6, p181
 :EXTENT: 20 卷
@@ -33205,7 +33205,7 @@
 *** 輿地碑記目
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0025
+:KR_ID:  KR2n0025
 :CUSTOM_ID: S2n1217
 :SOURCE:   四庫全書 文淵閣版, V682.7, p517
 :EXTENT: 4 卷
@@ -33234,7 +33234,7 @@
 *** 寶刻類編
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0026
+:KR_ID:  KR2n0026
 :CUSTOM_ID: S2n1218
 :SOURCE:   四庫全書 文淵閣版, V682.8, p583
 :EXTENT: 8 卷
@@ -33266,7 +33266,7 @@
 *** 古刻叢鈔
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0027
+:KR_ID:  KR2n0027
 :CUSTOM_ID: S2n1219
 :SOURCE:   四庫全書 文淵閣版, V683.1, p1
 :EXTENT: 1 卷
@@ -33288,7 +33288,7 @@
 *** 名蹟錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0028
+:KR_ID:  KR2n0028
 :CUSTOM_ID: S2n1220
 :SOURCE:   四庫全書 文淵閣版, V683.2, p25
 :EXTENT: 5 卷
@@ -33324,7 +33324,7 @@
 *** 吳中金石新編
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0029
+:KR_ID:  KR2n0029
 :CUSTOM_ID: S2n1221
 :SOURCE:   四庫全書 文淵閣版, V683.3, p93
 :EXTENT: 8 卷
@@ -33356,7 +33356,7 @@
 *** 金薤琳琅
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0030
+:KR_ID:  KR2n0030
 :CUSTOM_ID: S2n1222
 :SOURCE:   四庫全書 文淵閣版, V683.4, p223
 :EXTENT: 20 卷
@@ -33389,7 +33389,7 @@
 *** 法帖釋文考異
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0031
+:KR_ID:  KR2n0031
 :CUSTOM_ID: S2n1223
 :SOURCE:   四庫全書 文淵閣版, V683.5, p357
 :EXTENT: 10 卷
@@ -33418,7 +33418,7 @@
 *** 金石林時地考
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0032
+:KR_ID:  KR2n0032
 :CUSTOM_ID: S2n1224
 :SOURCE:   四庫全書 文淵閣版, V683.6, p417
 :EXTENT: 2 卷
@@ -33440,7 +33440,7 @@
 *** 石墨鐫華
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0033
+:KR_ID:  KR2n0033
 :CUSTOM_ID: S2n1225
 :SOURCE:   四庫全書 文淵閣版, V683.7, p445
 :EXTENT: 6 卷
@@ -33476,7 +33476,7 @@
 *** 金石史
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0034
+:KR_ID:  KR2n0034
 :CUSTOM_ID: S2n1226
 :SOURCE:   四庫全書 文淵閣版, V683.8, p533
 :EXTENT: 2 卷
@@ -33498,7 +33498,7 @@
 *** 欽定重刻淳化閣帖釋文
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0035
+:KR_ID:  KR2n0035
 :CUSTOM_ID: S2n1227
 :SOURCE:   四庫全書 文淵閣版, V683.9, p559
 :EXTENT: 10 卷
@@ -33551,7 +33551,7 @@
 *** 求古錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0036
+:KR_ID:  KR2n0036
 :CUSTOM_ID: S2n1228
 :SOURCE:   四庫全書 文淵閣版, V683.10, p659
 :EXTENT: 1 卷
@@ -33573,7 +33573,7 @@
 *** 金石文字記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0037
+:KR_ID:  KR2n0037
 :CUSTOM_ID: S2n1229
 :SOURCE:   四庫全書 文淵閣版, V683.11, p701
 :EXTENT: 6 卷
@@ -33604,7 +33604,7 @@
 *** 石經考
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0038
+:KR_ID:  KR2n0038
 :CUSTOM_ID: S2n1230
 :SOURCE:   四庫全書 文淵閣版, V683.12, p833
 :EXTENT: 1 卷
@@ -33626,7 +33626,7 @@
 *** 萬氏石經考
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0039
+:KR_ID:  KR2n0039
 :CUSTOM_ID: S2n1231
 :SOURCE:   四庫全書 文淵閣版, V683.13, p853
 :EXTENT: 2 卷
@@ -33648,7 +33648,7 @@
 *** 來齋金石刻考略
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0040
+:KR_ID:  KR2n0040
 :CUSTOM_ID: S2n1232
 :SOURCE:   四庫全書 文淵閣版, V684.1, p1
 :EXTENT: 3 卷
@@ -33679,7 +33679,7 @@
 *** 崇陽石刻集記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0041
+:KR_ID:  KR2n0041
 :CUSTOM_ID: S2n1233
 :SOURCE:   四庫全書 文淵閣版, V684.2, p97
 :EXTENT: 2 卷
@@ -33715,7 +33715,7 @@
 *** 金石文考略
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0042
+:KR_ID:  KR2n0042
 :CUSTOM_ID: S2n1234
 :SOURCE:   四庫全書 文淵閣版, V684.3, p169
 :EXTENT: 16 卷
@@ -33756,7 +33756,7 @@
 *** 分隸偶存
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0043
+:KR_ID:  KR2n0043
 :CUSTOM_ID: S2n1235
 :SOURCE:   四庫全書 文淵閣版, V684.4, p447
 :EXTENT: 2 卷
@@ -33778,7 +33778,7 @@
 *** 淳化祕閣法帖考正
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0044
+:KR_ID:  KR2n0044
 :CUSTOM_ID: S2n1236
 :SOURCE:   四庫全書 文淵閣版, V684.5, p503
 :EXTENT: 12 卷
@@ -33811,7 +33811,7 @@
 *** 竹雲題跋
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0045
+:KR_ID:  KR2n0045
 :CUSTOM_ID: S2n1237
 :SOURCE:   四庫全書 文淵閣版, V684.6, p643
 :EXTENT: 4 卷
@@ -33840,7 +33840,7 @@
 *** 金石經眼錄
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0046
+:KR_ID:  KR2n0046
 :CUSTOM_ID: S2n1238
 :SOURCE:   四庫全書 文淵閣版, V684.7, p711
 :EXTENT: 1 卷
@@ -33868,7 +33868,7 @@
 *** 石經考異
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2n0047
+:KR_ID:  KR2n0047
 :CUSTOM_ID: S2n1239
 :SOURCE:   四庫全書 文淵閣版, V684.8, p765
 :EXTENT: 2 卷
@@ -33890,7 +33890,7 @@
 *** 史通
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2o0001
+:KR_ID:  KR2o0001
 :CUSTOM_ID: S2o1240
 :SOURCE:   四庫全書 文淵閣版, V685.1, p1
 :EXTENT: 20 卷
@@ -33923,7 +33923,7 @@
 *** 史通通釋
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2o0002
+:KR_ID:  KR2o0002
 :CUSTOM_ID: S2o1241
 :SOURCE:   四庫全書 文淵閣版, V685.2, p157
 :EXTENT: 20 卷
@@ -33973,7 +33973,7 @@
 *** 唐鑑
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2o0003
+:KR_ID:  KR2o0003
 :CUSTOM_ID: S2o1242
 :SOURCE:   四庫全書 文淵閣版, V685.3, p469
 :EXTENT: 24 卷
@@ -34016,7 +34016,7 @@
 *** 唐史論斷
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2o0004
+:KR_ID:  KR2o0004
 :CUSTOM_ID: S2o1243
 :SOURCE:   四庫全書 文淵閣版, V685.4, p639
 :EXTENT: 3 卷
@@ -34052,7 +34052,7 @@
 *** 唐書直筆
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2o0005
+:KR_ID:  KR2o0005
 :CUSTOM_ID: S2o1244
 :SOURCE:   四庫全書 文淵閣版, V685.5, p703
 :EXTENT: 4 卷
@@ -34075,7 +34075,7 @@
 *** 通鑑問疑
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2o0006
+:KR_ID:  KR2o0006
 :CUSTOM_ID: S2o1245
 :SOURCE:   四庫全書 文淵閣版, V686.1, p1
 :EXTENT: 1 卷
@@ -34096,7 +34096,7 @@
 *** 三國雜事
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2o0007
+:KR_ID:  KR2o0007
 :CUSTOM_ID: S2o1246
 :SOURCE:   四庫全書 文淵閣版, V686.2, p13
 :EXTENT: 2 卷
@@ -34118,7 +34118,7 @@
 *** 經幄管見
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2o0008
+:KR_ID:  KR2o0008
 :CUSTOM_ID: S2o1247
 :SOURCE:   四庫全書 文淵閣版, V686.3, p29
 :EXTENT: 4 卷
@@ -34140,7 +34140,7 @@
 *** 涉史隨筆
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2o0009
+:KR_ID:  KR2o0009
 :CUSTOM_ID: S2o1248
 :SOURCE:   四庫全書 文淵閣版, V686.4, p75
 :EXTENT: 1 卷
@@ -34162,7 +34162,7 @@
 *** 六朝通鑑博議
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2o0010
+:KR_ID:  KR2o0010
 :CUSTOM_ID: S2o1249
 :SOURCE:   四庫全書 文淵閣版, V686.5, p95
 :EXTENT: 10 卷
@@ -34191,7 +34191,7 @@
 *** 宋大事記講義
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2o0011
+:KR_ID:  KR2o0011
 :CUSTOM_ID: S2o1250
 :SOURCE:   四庫全書 文淵閣版, V686.6, p185
 :EXTENT: 23 卷
@@ -34225,7 +34225,7 @@
 *** 兩漢筆記
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2o0012
+:KR_ID:  KR2o0012
 :CUSTOM_ID: S2o1251
 :SOURCE:   四庫全書 文淵閣版, V686.7, p413
 :EXTENT: 12 卷
@@ -34257,7 +34257,7 @@
 *** 舊聞證誤
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2o0013
+:KR_ID:  KR2o0013
 :CUSTOM_ID: S2o1252
 :SOURCE:   四庫全書 文淵閣版, V686.8, p571
 :EXTENT: 4 卷
@@ -34286,7 +34286,7 @@
 *** 通鑑答問
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2o0014
+:KR_ID:  KR2o0014
 :CUSTOM_ID: S2o1253
 :SOURCE:   四庫全書 文淵閣版, V686.9, p617
 :EXTENT: 5 卷
@@ -34317,7 +34317,7 @@
 *** 歷代名賢確論
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2o0015
+:KR_ID:  KR2o0015
 :CUSTOM_ID: S2o1254
 :SOURCE:   四庫全書 文淵閣版, V687.1, p1
 :EXTENT: 100 卷
@@ -34383,7 +34383,7 @@
 *** 歷代通略
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2o0016
+:KR_ID:  KR2o0016
 :CUSTOM_ID: S2o1255
 :SOURCE:   四庫全書 文淵閣版, V688.1, p1
 :EXTENT: 4 卷
@@ -34421,7 +34421,7 @@
 *** 十七史纂古今通要
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2o0017
+:KR_ID:  KR2o0017
 :CUSTOM_ID: S2o1256
 :SOURCE:   四庫全書 文淵閣版, V688.2, p111
 :EXTENT: 17 卷
@@ -34457,7 +34457,7 @@
 *** 學史
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2o0018
+:KR_ID:  KR2o0018
 :CUSTOM_ID: S2o1257
 :SOURCE:   四庫全書 文淵閣版, V688.3, p337
 :EXTENT: 13 卷
@@ -34488,7 +34488,7 @@
 *** 史糾
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2o0019
+:KR_ID:  KR2o0019
 :CUSTOM_ID: S2o1258
 :SOURCE:   四庫全書 文淵閣版, V688.4, p451
 :EXTENT: 6 卷
@@ -34517,7 +34517,7 @@
 *** 御批資治通鑑綱目
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2o0020
+:KR_ID:  KR2o0020
 :CUSTOM_ID: S2o1259
 :SOURCE:   四庫全書 文淵閣版, V689.1, p1 - V691.1
 :EXTENT: 59 卷
@@ -34707,7 +34707,7 @@
 *** 御批資治通鑑綱目前編
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2o0021
+:KR_ID:  KR2o0021
 :CUSTOM_ID: S2o1260
 :SOURCE:   四庫全書 文淵閣版, V692.1, p1
 :EXTENT: 18 卷
@@ -34760,7 +34760,7 @@
 *** 御批續資治通鑑綱目
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2o0022
+:KR_ID:  KR2o0022
 :CUSTOM_ID: S2o1261
 :SOURCE:   四庫全書 文淵閣版, V693.1, p1 - V694.1
 :EXTENT: 27 卷
@@ -34861,7 +34861,7 @@
 *** 評鑑闡要
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2o0023
+:KR_ID:  KR2o0023
 :CUSTOM_ID: S2o1262
 :SOURCE:   四庫全書 文淵閣版, V694.2, p417
 :EXTENT: 12 卷
@@ -34902,7 +34902,7 @@
 *** 欽定古今儲貳金鑑
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2o0024
+:KR_ID:  KR2o0024
 :CUSTOM_ID: S2o1263
 :SOURCE:   四庫全書 文淵閣版, V694.3, p583
 :EXTENT: 6 卷
@@ -34933,7 +34933,7 @@
 *** 文史通義
 :PROPERTIES:
 :TYPE:  text
-:ZB_ID:  ZB2o0024
+:KR_ID:  KR2o0024
 :END:
 
 **** responsible
