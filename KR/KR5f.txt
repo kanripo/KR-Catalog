@@ -13,7 +13,6 @@
 :HFL: HFL義上004
 :END:
 
-[[dzimg:0834/0834-004.tif][HFL 0834 004]]
 **** 人物
 ***** 李昌齡
      :PROPERTIES:
@@ -36,7 +35,6 @@
 :DYNASTY: 漢後期?
 :END:
 
-[[dzimg:0839/0839-056.tif][HFL 0839 056]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -53,7 +51,6 @@
 :HFL: HFL退下142
 :END:
 
-[[dzimg:0839/0839-142.tif][HFL 0839 142]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -71,7 +68,6 @@
 :DYNASTY: 唐?
 :END:
 
-[[dzimg:0839/0839-148.tif][HFL 0839 148]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -88,7 +84,6 @@
 :HFL: HFL顛上004
 :END:
 
-[[dzimg:0840/0840-004.tif][HFL 0840 004]]
 **** 人物
 ***** 鬻熊
      :PROPERTIES:
@@ -116,7 +111,6 @@
 :HFL: HFL顛上062
 :END:
 
-[[dzimg:0840/0840-062.tif][HFL 0840 062]]
 **** 人物
 ***** 公孫龍
      :PROPERTIES:
@@ -144,7 +138,6 @@
 :HFL: HFL顛上102
 :END:
 
-[[dzimg:0840/0840-102.tif][HFL 0840 102]]
 **** 人物
 ***** 尹文
      :PROPERTIES:
@@ -168,7 +161,6 @@
 :DATE: 11th cent 後期 or 12th cent 前期
 :END:
 
-[[dzimg:0841/0841-004.tif][HFL 0841 004]]
 **** 人物
 ***** 程本
      :PROPERTIES:
@@ -192,7 +184,6 @@
 :HFL: HFL顛下004
 :END:
 
-[[dzimg:0842/0842-004.tif][HFL 0842 004]]
 **** 人物
 ***** 陸佃
      :PROPERTIES:
@@ -215,7 +206,6 @@
 :HFL: HFL沛上004
 :END:
 
-[[dzimg:0843/0843-004.tif][HFL 0843 004]]
 **** 人物
 ***** 墨翟
      :PROPERTIES:
@@ -237,7 +227,6 @@
 :HFL: HFL匪上004
 :END:
 
-[[dzimg:0846/0846-004.tif][HFL 0846 004]]
 **** 人物
 ***** 韓非
      :PROPERTIES:
@@ -259,7 +248,6 @@
 :HFL: HFL虧下108
 :END:
 
-[[dzimg:0849/0849-108.tif][HFL 0849 108]]
 **** 人物
 ***** 魏魯
      :PROPERTIES:
@@ -283,7 +271,6 @@
 :EXTRA_ID: DZJY:JY155
 :END:
 
-[[dzimg:0849/0849-152.tif][HFL 0849 152]]
 **** 人物
 ***** 張尚英
      :PROPERTIES:
@@ -324,7 +311,6 @@ DZJ0: [[dzjy:JY155/JY155_01.txt][JY155 黃石公素書]]
 :DATE: 11th cent 後期 or 12th cent 前期
 :END:
 
-[[dzimg:0850/0850-004.tif][HFL 0850 004]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -342,7 +328,6 @@ DZJ0: [[dzjy:JY155/JY155_01.txt][JY155 黃石公素書]]
 :DATE: 11th cent 後期 or 12th cent 前期
 :END:
 
-[[dzimg:0854/0854-086.tif][HFL 0854 086]]
 **** 人物
 ***** 鄭友賢
      :PROPERTIES:
@@ -363,7 +348,6 @@ DZJ0: [[dzjy:JY155/JY155_01.txt][JY155 黃石公素書]]
 :HFL: HFL情上004
 :END:
 
-[[dzimg:0855/0855-004.tif][HFL 0855 004]]
 **** 人物
 ***** 鮑雲龍
      :PROPERTIES:
@@ -392,7 +376,6 @@ DZJ0: [[dzjy:JY155/JY155_01.txt][JY155 黃石公素書]]
 :HFL: HFL心上004
 :END:
 
-[[dzimg:0860/0860-004.tif][HFL 0860 004]]
 **** 人物
 ***** 揚雄
      :PROPERTIES:
@@ -420,7 +403,6 @@ DZJ0: [[dzjy:JY155/JY155_01.txt][JY155 黃石公素書]]
 :EXTRA_ID: DZJY:JY143
 :END:
 
-[[dzimg:0863/0863-004.tif][HFL 0863 004]]
 **** 人物
 ***** 許愼
      :PROPERTIES:
@@ -460,7 +442,6 @@ DZJ0: [[dzjy:JY143/JY143_01.txt][JY143 淮南鴻烈解 ]]
 :EXTRA_ID: DZJY:JY144
 :END:
 
-[[dzimg:0868/0868-004.tif][HFL 0868 004]]
 **** 人物
 ***** 葛洪
      :PROPERTIES:
@@ -497,7 +478,6 @@ DZJ0: [[dzjy:JY143/JY143_01.txt][JY143 淮南鴻烈解 ]]
 :HFL: HFL守下180
 :END:
 PROPERROR CH0625 DZ1186 KX1208 x 抱樸子別旨 // 抱朴子別旨
-[[dzimg:0870/0870-180.tif][HFL 0870 180]]
 **** 人物
 ***** 葛洪
      :PROPERTIES:
@@ -521,7 +501,6 @@ PROPERROR CH0625 DZ1186 KX1208 x 抱樸子別旨 // 抱朴子別旨
 :EXTRA_ID: DZJY:JY145
 :END:
 
-[[dzimg:0871/0871-004.tif][HFL 0871 004]]
 **** 人物
 ***** 葛洪
      :PROPERTIES:
@@ -568,7 +547,6 @@ DZJ0: [[dzjy:JY145/JY145_01.txt][JY145 抱朴子外篇 ]]
 :EXTRA_ID: DZJY:JY219
 :END:
 
-[[dzimg:0874/0874-004.tif][HFL 0874 004]]
 **** 人物
 ***** 祝洞天
      :PROPERTIES:
@@ -607,7 +585,6 @@ DZJ0: [[dzjy:JY219/JY219_01.txt][JY219 橐籥子 ]]
 :EXTRA_ID: DZJY:JY220
 :END:
 
-[[dzimg:0874/0874-020.tif][HFL 0874 020]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -640,7 +617,6 @@ DZJ0: [[dzjy:JY220/JY220_01.txt][JY220 陰丹內篇 ]]
 :DYNASTY: 唐?
 :END:
 
-[[dzimg:0874/0874-026.tif][HFL 0874 026]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -659,7 +635,6 @@ DZJ0: [[dzjy:JY220/JY220_01.txt][JY220 陰丹內篇 ]]
 :EXTRA_ID: DZJY:JY148
 :END:
 
-[[dzimg:0874/0874-042.tif][HFL 0874 042]]
 **** 人物
 ***** 鍾離權
      :PROPERTIES:

@@ -3695,7 +3695,6 @@
 :lang@zh-py: (Fan wang jing kai ti)
 :EXTENT: I
 :END:
-[[img:T/T62/00/T62-0001.tif][T62, p. 1]]
 **** 人物
 ***** 空海
 :PROPERTIES:
@@ -3822,7 +3821,6 @@
 :lang@zh-py: (Fan wang jie ben shu ri zhu chao)
 :EXTENT: L
 :END:
-[[img:T/T62/00/T62-0004.tif][T62, p. 4]]
 **** 人物
 ***** 凝然
 :PROPERTIES:
@@ -5698,7 +5696,6 @@
 :lang@zh-py: (Zi xing chao)
 :EXTENT: XXVIII
 :END:
-[[img:T/T62/02/T62-0263.tif][T62, p.263]]
 **** 人物
 ***** 照遠
 :PROPERTIES:

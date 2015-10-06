@@ -407,7 +407,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB2/SB22n350/SB22n350_001-002.tif][冊 1]]
 *** KR2l0020 晝簾緒論-宋-胡太初
 :PROPERTIES:
 :KR_ID: KR2l0020

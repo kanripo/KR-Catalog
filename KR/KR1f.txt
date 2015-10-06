@@ -34,7 +34,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB11n010/SB11n010_001-002.tif][冊 1]]
 *** KR1f0003 古文孝經孔氏傳-漢-孔安國
 :PROPERTIES:
 :KR_ID: KR1f0003

@@ -84,8 +84,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB13n072/SB13n072_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB13n072/SB13n072_002-002.tif][冊 2]]
 *** KR3e0004 難經本義-周-秦越人
 :PROPERTIES:
 :KR_ID: KR3e0004
@@ -225,8 +223,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB13n073/SB13n073_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB13n073/SB13n073_002-002.tif][冊 2]]
 *** KR3e0008 傷寒論注釋-漢-張機
 :PROPERTIES:
 :KR_ID: KR3e0008
@@ -310,8 +306,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB13n075/SB13n075_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB13n075/SB13n075_002-002.tif][冊 2]]
 *** KR3e0010 肘後備急方-晉-葛洪
 :PROPERTIES:
 :KR_ID: KR3e0010
@@ -802,18 +796,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB13n076/SB13n076_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB13n076/SB13n076_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB13n076/SB13n076_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB13n076/SB13n076_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB13n076/SB13n076_005-002.tif][冊 5]]
-[[krpimg:sbck/SB1/SB13n076/SB13n076_006-002.tif][冊 6]]
-[[krpimg:sbck/SB1/SB13n076/SB13n076_007-002.tif][冊 7]]
-[[krpimg:sbck/SB1/SB13n076/SB13n076_008-002.tif][冊 8]]
-[[krpimg:sbck/SB1/SB13n076/SB13n076_009-002.tif][冊 9]]
-[[krpimg:sbck/SB1/SB13n076/SB13n076_010-002.tif][冊 10]]
-[[krpimg:sbck/SB1/SB13n076/SB13n076_011-002.tif][冊 11]]
-[[krpimg:sbck/SB1/SB13n076/SB13n076_012-002.tif][冊 12]]
 *** KR3e0030 金生指迷方-宋-王貺
 :PROPERTIES:
 :KR_ID: KR3e0030

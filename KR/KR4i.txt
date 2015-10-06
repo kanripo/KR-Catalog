@@ -286,9 +286,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n318/SB14n318_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n318/SB14n318_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n318/SB14n318_003-002.tif][冊 3]]
 *** KR4i0014 彥周詩話-宋-許顗
 :PROPERTIES:
 :KR_ID: KR4i0014

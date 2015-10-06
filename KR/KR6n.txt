@@ -537,7 +537,6 @@
 :lang@zh-py: (Yu qie lun wen da)
 :EXTENT: VII
 :END:
-[[img:T/T65/02/T65-0269.tif][T65, p.269]]
 **** 人物
 ***** 増賀
 :PROPERTIES:
@@ -727,7 +726,6 @@
 :lang@zh-py: (Cheng wei zhi lun ben wen chao)
 :EXTENT: XLV
 :END:
-[[img:T/T65/04/T65-0403.tif][T65, p.403]]
 *** KR6n0018 唯識論同學鈔--良算
 :PROPERTIES:
 :KR_ID: KR6n0018
@@ -738,7 +736,6 @@
 :lang@zh-py: (Wei zhi lun tong xue chao)
 :EXTENT: LXVIII
 :END:
-[[img:T/T66/00/T66-0001.tif][T66, p. 1]]
 **** 人物
 ***** 良算
 :PROPERTIES:
@@ -754,7 +751,6 @@
 :lang@zh-py: (Wei zhi lun wen shu)
 :EXTENT: XXVII
 :END:
-[[img:T/T66/05/T66-0597.tif][T66, p.597]]
 **** 人物
 ***** 光胤
 :PROPERTIES:
@@ -770,7 +766,6 @@
 :lang@zh-py: (Wei zhi xun lun ri ji)
 :EXTENT: I
 :END:
-[[img:T/T66/09/T66-0916.tif][T66, p.916]]
 **** 人物
 ***** 光胤
 :PROPERTIES:
@@ -786,7 +781,6 @@
 :lang@zh-py: (Cheng wei zhi lun lüe shu)
 :EXTENT: VI
 :END:
-[[img:T/T68/00/T68-0001.tif][T68, p. 1]]
 **** 人物
 ***** 普寂
 :PROPERTIES:
@@ -856,7 +850,6 @@
 :lang@zh-py: (Zhu san shi song)
 :EXTENT: I
 :END:
-[[img:T/T68/01/T68-0114.tif][T68, p.114]]
 **** 人物
 ***** 貞慶
 :PROPERTIES:
@@ -1043,7 +1036,6 @@
 :lang@zh-py: (Cheng wei zhi lun shu ji xu shi)
 :EXTENT: I
 :END:
-[[img:T/T65/03/T65-0318.tif][T65, p.318]]
 **** 人物
 ***** 善珠
 :PROPERTIES:
@@ -1059,7 +1051,6 @@
 :lang@zh-py: (Cheng wei zhi lun shu ji ji cheng bian)
 :EXTENT: XLV
 :END:
-[[img:T/T67/00/T67-0001.tif][T67, p. 1]]
 **** 人物
 ***** 湛慧
 :PROPERTIES:
@@ -1178,7 +1169,6 @@
 :lang@zh-py: (Wei zhi yi deng zeng ming ji)
 :EXTENT: IV
 :END:
-[[img:T/T65/03/T65-0327.tif][T65, p.327]]
 **** 人物
 ***** 善珠
 :PROPERTIES:
@@ -2313,7 +2303,6 @@
 :lang@zh-py: (She da cheng lun shi lüe shu)
 :EXTENT: V
 :END:
-[[img:T/T68/01/T68-0120.tif][T68, p.120]]
 **** 人物
 ***** 普寂
 :PROPERTIES:
@@ -4841,7 +4830,6 @@
 :lang@zh-py: (Ba zhi yi zhang yan xi chao)
 :EXTENT: III
 :END:
-[[img:T/T70/06/T70-0649.tif][T70, p.649]]
 **** 人物
 ***** 珍海
 :PROPERTIES:

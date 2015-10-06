@@ -1151,7 +1151,6 @@
 :lang@zh-py: (Fa hua yi shu)
 :EXTENT: IV
 :END:
-[[img:T/T56/00/T56-0064.tif][T56, p. 64]]
 *** KR6d0034 法華略抄--明一
 :PROPERTIES:
 :KR_ID: KR6d0034
@@ -1162,7 +1161,6 @@
 :lang@zh-py: (Fa hua lüe chao)
 :EXTENT: I
 :END:
-[[img:T/T56/01/T56-0129.tif][T56, p.129]]
 **** 人物
 ***** 明一
 :PROPERTIES:
@@ -1178,7 +1176,6 @@
 :lang@zh-py: (Miao fa lian hua jing shi wen)
 :EXTENT: III
 :END:
-[[img:T/T56/01/T56-0144.tif][T56, p.144]]
 **** 人物
 ***** 中算
 :PROPERTIES:
@@ -1194,7 +1191,6 @@
 :lang@zh-py: (Fa hua jing kai ti)
 :EXTENT: I
 :END:
-[[img:T/T56/01/T56-0172.tif][T56, p.172]]
 **** 人物
 ***** 空海
 :PROPERTIES:
@@ -1210,7 +1206,6 @@
 :lang@zh-py: (Fa hua jing kai ti)
 :EXTENT: I
 :END:
-[[img:T/T56/01/T56-0175.tif][T56, p.175]]
 **** 人物
 ***** 空海
 :PROPERTIES:
@@ -1226,7 +1221,6 @@
 :lang@zh-py: (Fa hua jing shi)
 :EXTENT: I
 :END:
-[[img:T/T56/01/T56-0177.tif][T56, p.177]]
 **** 人物
 ***** 空海
 :PROPERTIES:
@@ -1242,7 +1236,6 @@
 :lang@zh-py: (Fa hua jing kai ti)
 :EXTENT: I
 :END:
-[[img:T/T56/01/T56-0179.tif][T56, p.179]]
 **** 人物
 ***** 空海
 :PROPERTIES:
@@ -1258,7 +1251,6 @@
 :lang@zh-py: (Fa hua jing mi hao)
 :EXTENT: I
 :END:
-[[img:T/T56/01/T56-0182.tif][T56, p.182]]
 **** 人物
 ***** 空海
 :PROPERTIES:
@@ -1274,7 +1266,6 @@
 :lang@zh-py: (Fa hua lüe mi shi)
 :EXTENT: I
 :END:
-[[img:T/T56/01/T56-0183.tif][T56, p.183]]
 **** 人物
 ***** 空海
 :PROPERTIES:
@@ -1290,7 +1281,6 @@
 :lang@zh-py: (Fa hua kai ti)
 :EXTENT: I
 :END:
-[[img:T/T56/01/T56-0183.tif][T56, p.183]]
 **** 人物
 ***** 空海
 :PROPERTIES:
@@ -1306,7 +1296,6 @@
 :lang@zh-py: (Fa hua jing mi shi)
 :EXTENT: I
 :END:
-[[img:T/T56/01/T56-0184.tif][T56, p.184]]
 **** 人物
 ***** 覺鑁
 :PROPERTIES:
@@ -1322,7 +1311,6 @@
 :lang@zh-py: (Ru zhen yan men zhu ru shi jian jiang yan fa hua lüe yi)
 :EXTENT: II
 :END:
-[[img:T/T56/01/T56-0189.tif][T56, p.189]]
 **** 人物
 ***** 圓珍
 :PROPERTIES:
@@ -1338,7 +1326,6 @@
 :lang@zh-py: (Fa hua kai shi chao)
 :EXTENT: XXVIII
 :END:
-[[img:T/T56/02/T56-0255.tif][T56, p.255]]
 **** 人物
 ***** 貞慶
 :PROPERTIES:
@@ -3776,7 +3763,6 @@
 :lang@zh-py: (Zhu wu liang yi jing)
 :EXTENT: III
 :END:
-[[img:T/T56/02/T56-0203.tif][T56, p.203]]
 **** 人物
 ***** 最澄
 :PROPERTIES:
@@ -3851,7 +3837,6 @@
 :lang@zh-py: (Fo shuo guan pu xian pu sa xing fa jing ji)
 :EXTENT: II
 :END:
-[[img:T/T56/02/T56-0226.tif][T56, p.226]]
 **** 人物
 ***** 圓珍
 :PROPERTIES:

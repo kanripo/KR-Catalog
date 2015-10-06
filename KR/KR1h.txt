@@ -37,9 +37,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB11n012/SB11n012_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB11n012/SB11n012_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB11n012/SB11n012_003-002.tif][冊 3]]
 *** KR1h0003 孟子注疏-漢-趙岐
 :PROPERTIES:
 :KR_ID: KR1h0003
@@ -113,8 +110,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB11n011/SB11n011_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB11n011/SB11n011_002-002.tif][冊 2]]
 *** KR1h0006 論語集解義疏-魏-何晏
 :PROPERTIES:
 :KR_ID: KR1h0006

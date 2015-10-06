@@ -432,10 +432,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n267/SB14n267_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n267/SB14n267_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n267/SB14n267_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB14n267/SB14n267_004-002.tif][冊 4]]
 *** KR4f0007 亭林餘集-淸-
 :PROPERTIES:
 :KR_ID: KR4f0007
@@ -462,7 +458,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n268/SB14n268_001-002.tif][冊 1]]
 *** KR4f0008 南雷文案-淸-
 :PROPERTIES:
 :KR_ID: KR4f0008
@@ -501,14 +496,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n269/SB14n269_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n269/SB14n269_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n269/SB14n269_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB14n269/SB14n269_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB14n269/SB14n269_005-002.tif][冊 5]]
-[[krpimg:sbck/SB1/SB14n269/SB14n269_006-002.tif][冊 6]]
-[[krpimg:sbck/SB1/SB14n269/SB14n269_007-002.tif][冊 7]]
-[[krpimg:sbck/SB1/SB14n269/SB14n269_008-002.tif][冊 8]]
 *** KR4f0009 薑齋詩文集-淸-
 :PROPERTIES:
 :KR_ID: KR4f0009
@@ -535,12 +522,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n270/SB14n270_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n270/SB14n270_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n270/SB14n270_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB14n270/SB14n270_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB14n270/SB14n270_005-002.tif][冊 5]]
-[[krpimg:sbck/SB1/SB14n270/SB14n270_006-002.tif][冊 6]]
 *** KR4f0010 牧齋初學集-淸-
 :PROPERTIES:
 :KR_ID: KR4f0010
@@ -567,38 +548,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n271/SB14n271_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_005-002.tif][冊 5]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_006-002.tif][冊 6]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_007-002.tif][冊 7]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_008-002.tif][冊 8]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_009-002.tif][冊 9]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_010-002.tif][冊 10]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_011-002.tif][冊 11]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_012-002.tif][冊 12]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_013-002.tif][冊 13]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_014-002.tif][冊 14]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_015-002.tif][冊 15]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_016-002.tif][冊 16]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_017-002.tif][冊 17]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_018-002.tif][冊 18]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_019-002.tif][冊 19]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_020-002.tif][冊 20]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_021-002.tif][冊 21]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_022-002.tif][冊 22]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_023-002.tif][冊 23]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_024-002.tif][冊 24]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_025-002.tif][冊 25]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_026-002.tif][冊 26]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_027-002.tif][冊 27]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_028-002.tif][冊 28]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_029-002.tif][冊 29]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_030-002.tif][冊 30]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_031-002.tif][冊 31]]
-[[krpimg:sbck/SB1/SB14n271/SB14n271_032-002.tif][冊 32]]
 *** KR4f0011 牧齋有學集-淸-
 :PROPERTIES:
 :KR_ID: KR4f0011
@@ -633,18 +582,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n272/SB14n272_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n272/SB14n272_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n272/SB14n272_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB14n272/SB14n272_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB14n272/SB14n272_005-002.tif][冊 5]]
-[[krpimg:sbck/SB1/SB14n272/SB14n272_006-002.tif][冊 6]]
-[[krpimg:sbck/SB1/SB14n272/SB14n272_007-002.tif][冊 7]]
-[[krpimg:sbck/SB1/SB14n272/SB14n272_008-002.tif][冊 8]]
-[[krpimg:sbck/SB1/SB14n272/SB14n272_009-002.tif][冊 9]]
-[[krpimg:sbck/SB1/SB14n272/SB14n272_010-002.tif][冊 10]]
-[[krpimg:sbck/SB1/SB14n272/SB14n272_011-002.tif][冊 11]]
-[[krpimg:sbck/SB1/SB14n272/SB14n272_012-002.tif][冊 12]]
 *** KR4f0012 梅村集-清-吳偉業
 :PROPERTIES:
 :KR_ID: KR4f0012
@@ -700,14 +637,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n273/SB14n273_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n273/SB14n273_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n273/SB14n273_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB14n273/SB14n273_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB14n273/SB14n273_005-002.tif][冊 5]]
-[[krpimg:sbck/SB1/SB14n273/SB14n273_006-002.tif][冊 6]]
-[[krpimg:sbck/SB1/SB14n273/SB14n273_007-002.tif][冊 7]]
-[[krpimg:sbck/SB1/SB14n273/SB14n273_008-002.tif][冊 8]]
 *** KR4f0014 湯子遺書-清-湯斌
 :PROPERTIES:
 :KR_ID: KR4f0014
@@ -907,14 +836,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB3/SB34n464/SB34n464_001-002.tif][冊 1]]
-[[krpimg:sbck/SB3/SB34n464/SB34n464_002-002.tif][冊 2]]
-[[krpimg:sbck/SB3/SB34n464/SB34n464_003-002.tif][冊 3]]
-[[krpimg:sbck/SB3/SB34n464/SB34n464_004-002.tif][冊 4]]
-[[krpimg:sbck/SB3/SB34n464/SB34n464_005-002.tif][冊 5]]
-[[krpimg:sbck/SB3/SB34n464/SB34n464_006-002.tif][冊 6]]
-[[krpimg:sbck/SB3/SB34n464/SB34n464_007-002.tif][冊 7]]
-[[krpimg:sbck/SB3/SB34n464/SB34n464_008-002.tif][冊 8]]
 *** KR4f0022 午亭文編-清-陳廷敬
 :PROPERTIES:
 :KR_ID: KR4f0022
@@ -1187,20 +1108,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n277/SB14n277_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n277/SB14n277_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n277/SB14n277_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB14n277/SB14n277_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB14n277/SB14n277_005-002.tif][冊 5]]
-[[krpimg:sbck/SB1/SB14n277/SB14n277_006-002.tif][冊 6]]
-[[krpimg:sbck/SB1/SB14n277/SB14n277_007-002.tif][冊 7]]
-[[krpimg:sbck/SB1/SB14n277/SB14n277_008-002.tif][冊 8]]
-[[krpimg:sbck/SB1/SB14n277/SB14n277_009-002.tif][冊 9]]
-[[krpimg:sbck/SB1/SB14n277/SB14n277_010-002.tif][冊 10]]
-[[krpimg:sbck/SB1/SB14n277/SB14n277_011-002.tif][冊 11]]
-[[krpimg:sbck/SB1/SB14n277/SB14n277_012-002.tif][冊 12]]
-[[krpimg:sbck/SB1/SB14n277/SB14n277_013-002.tif][冊 13]]
-[[krpimg:sbck/SB1/SB14n277/SB14n277_014-002.tif][冊 14]]
 *** KR4f0033 蓮洋詩鈔-清-吳雯
 :PROPERTIES:
 :KR_ID: KR4f0033
@@ -1707,11 +1614,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n281/SB14n281_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n281/SB14n281_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n281/SB14n281_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB14n281/SB14n281_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB14n281/SB14n281_005-002.tif][冊 5]]
 
 *** KR4f0053 戴東原集-淸-
 :PROPERTIES:
@@ -1747,10 +1649,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n282/SB14n282_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n282/SB14n282_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n282/SB14n282_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB14n282/SB14n282_004-002.tif][冊 4]]
 
 *** KR4f0054 鮚埼亭集-淸-
 :PROPERTIES:
@@ -1787,38 +1685,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n283/SB14n283_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_005-002.tif][冊 5]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_006-002.tif][冊 6]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_007-002.tif][冊 7]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_008-002.tif][冊 8]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_009-002.tif][冊 9]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_010-002.tif][冊 10]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_011-002.tif][冊 11]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_012-002.tif][冊 12]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_013-002.tif][冊 13]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_014-002.tif][冊 14]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_015-002.tif][冊 15]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_016-002.tif][冊 16]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_017-002.tif][冊 17]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_018-002.tif][冊 18]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_019-002.tif][冊 19]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_020-002.tif][冊 20]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_021-002.tif][冊 21]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_022-002.tif][冊 22]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_023-002.tif][冊 23]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_024-002.tif][冊 24]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_025-002.tif][冊 25]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_026-002.tif][冊 26]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_027-002.tif][冊 27]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_028-002.tif][冊 28]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_029-002.tif][冊 29]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_030-002.tif][冊 30]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_031-002.tif][冊 31]]
-[[krpimg:sbck/SB1/SB14n283/SB14n283_032-002.tif][冊 32]]
 
 *** KR4f0055 鮚埼亭詩集-淸-
 :PROPERTIES:
@@ -1846,9 +1712,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n284/SB14n284_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n284/SB14n284_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n284/SB14n284_003-002.tif][冊 3]]
 
 *** KR4f0056 洪北江詩文集-淸-
 :PROPERTIES:
@@ -1883,26 +1746,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n285/SB14n285_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n285/SB14n285_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n285/SB14n285_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB14n285/SB14n285_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB14n285/SB14n285_005-002.tif][冊 5]]
-[[krpimg:sbck/SB1/SB14n285/SB14n285_006-002.tif][冊 6]]
-[[krpimg:sbck/SB1/SB14n285/SB14n285_007-002.tif][冊 7]]
-[[krpimg:sbck/SB1/SB14n285/SB14n285_008-002.tif][冊 8]]
-[[krpimg:sbck/SB1/SB14n285/SB14n285_009-002.tif][冊 9]]
-[[krpimg:sbck/SB1/SB14n285/SB14n285_010-002.tif][冊 10]]
-[[krpimg:sbck/SB1/SB14n285/SB14n285_011-002.tif][冊 11]]
-[[krpimg:sbck/SB1/SB14n285/SB14n285_012-002.tif][冊 12]]
-[[krpimg:sbck/SB1/SB14n285/SB14n285_013-002.tif][冊 13]]
-[[krpimg:sbck/SB1/SB14n285/SB14n285_014-002.tif][冊 14]]
-[[krpimg:sbck/SB1/SB14n285/SB14n285_015-002.tif][冊 15]]
-[[krpimg:sbck/SB1/SB14n285/SB14n285_016-002.tif][冊 16]]
-[[krpimg:sbck/SB1/SB14n285/SB14n285_017-002.tif][冊 17]]
-[[krpimg:sbck/SB1/SB14n285/SB14n285_018-002.tif][冊 18]]
-[[krpimg:sbck/SB1/SB14n285/SB14n285_019-002.tif][冊 19]]
-[[krpimg:sbck/SB1/SB14n285/SB14n285_020-002.tif][冊 20]]
 
 *** KR4f0057 孫淵如詩文集-淸-
 :PROPERTIES:
@@ -1937,14 +1780,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n286/SB14n286_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n286/SB14n286_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n286/SB14n286_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB14n286/SB14n286_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB14n286/SB14n286_005-002.tif][冊 5]]
-[[krpimg:sbck/SB1/SB14n286/SB14n286_006-002.tif][冊 6]]
-[[krpimg:sbck/SB1/SB14n286/SB14n286_007-002.tif][冊 7]]
-[[krpimg:sbck/SB1/SB14n286/SB14n286_008-002.tif][冊 8]]
 
 *** KR4f0058 抱經堂文集-淸-
 :PROPERTIES:
@@ -1972,14 +1807,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n287/SB14n287_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n287/SB14n287_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n287/SB14n287_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB14n287/SB14n287_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB14n287/SB14n287_005-002.tif][冊 5]]
-[[krpimg:sbck/SB1/SB14n287/SB14n287_006-002.tif][冊 6]]
-[[krpimg:sbck/SB1/SB14n287/SB14n287_007-002.tif][冊 7]]
-[[krpimg:sbck/SB1/SB14n287/SB14n287_008-002.tif][冊 8]]
 
 *** KR4f0059 潛研堂文集-淸-
 :PROPERTIES:
@@ -2009,22 +1836,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n288/SB14n288_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n288/SB14n288_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n288/SB14n288_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB14n288/SB14n288_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB14n288/SB14n288_005-002.tif][冊 5]]
-[[krpimg:sbck/SB1/SB14n288/SB14n288_006-002.tif][冊 6]]
-[[krpimg:sbck/SB1/SB14n288/SB14n288_007-002.tif][冊 7]]
-[[krpimg:sbck/SB1/SB14n288/SB14n288_008-002.tif][冊 8]]
-[[krpimg:sbck/SB1/SB14n288/SB14n288_009-002.tif][冊 9]]
-[[krpimg:sbck/SB1/SB14n288/SB14n288_010-002.tif][冊 10]]
-[[krpimg:sbck/SB1/SB14n288/SB14n288_011-002.tif][冊 11]]
-[[krpimg:sbck/SB1/SB14n288/SB14n288_012-002.tif][冊 12]]
-[[krpimg:sbck/SB1/SB14n288/SB14n288_013-002.tif][冊 13]]
-[[krpimg:sbck/SB1/SB14n288/SB14n288_014-002.tif][冊 14]]
-[[krpimg:sbck/SB1/SB14n288/SB14n288_015-002.tif][冊 15]]
-[[krpimg:sbck/SB1/SB14n288/SB14n288_016-002.tif][冊 16]]
 
 *** KR4f0060 述學內篇-淸-
 :PROPERTIES:
@@ -2056,8 +1867,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n289/SB14n289_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n289/SB14n289_002-002.tif][冊 2]]
 
 *** KR4f0061 容甫先生遺詩-淸-
 :PROPERTIES:
@@ -2087,7 +1896,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n290/SB14n290_001-002.tif][冊 1]]
 
 *** KR4f0062 揅經室一集-淸-
 :PROPERTIES:
@@ -2121,26 +1929,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n291/SB14n291_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n291/SB14n291_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n291/SB14n291_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB14n291/SB14n291_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB14n291/SB14n291_005-002.tif][冊 5]]
-[[krpimg:sbck/SB1/SB14n291/SB14n291_006-002.tif][冊 6]]
-[[krpimg:sbck/SB1/SB14n291/SB14n291_007-002.tif][冊 7]]
-[[krpimg:sbck/SB1/SB14n291/SB14n291_008-002.tif][冊 8]]
-[[krpimg:sbck/SB1/SB14n291/SB14n291_009-002.tif][冊 9]]
-[[krpimg:sbck/SB1/SB14n291/SB14n291_010-002.tif][冊 10]]
-[[krpimg:sbck/SB1/SB14n291/SB14n291_011-002.tif][冊 11]]
-[[krpimg:sbck/SB1/SB14n291/SB14n291_012-002.tif][冊 12]]
-[[krpimg:sbck/SB1/SB14n291/SB14n291_013-002.tif][冊 13]]
-[[krpimg:sbck/SB1/SB14n291/SB14n291_014-002.tif][冊 14]]
-[[krpimg:sbck/SB1/SB14n291/SB14n291_015-002.tif][冊 15]]
-[[krpimg:sbck/SB1/SB14n291/SB14n291_016-002.tif][冊 16]]
-[[krpimg:sbck/SB1/SB14n291/SB14n291_017-002.tif][冊 17]]
-[[krpimg:sbck/SB1/SB14n291/SB14n291_018-002.tif][冊 18]]
-[[krpimg:sbck/SB1/SB14n291/SB14n291_019-002.tif][冊 19]]
-[[krpimg:sbck/SB1/SB14n291/SB14n291_020-002.tif][冊 20]]
 
 *** KR4f0063 大雲山房文稿初集-淸-
 :PROPERTIES:
@@ -2171,12 +1959,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n292/SB14n292_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n292/SB14n292_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n292/SB14n292_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB14n292/SB14n292_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB14n292/SB14n292_005-002.tif][冊 5]]
-[[krpimg:sbck/SB1/SB14n292/SB14n292_006-002.tif][冊 6]]
 
 *** KR4f0064 定盦文集-淸-
 :PROPERTIES:
@@ -2206,9 +1988,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n293/SB14n293_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n293/SB14n293_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n293/SB14n293_003-002.tif][冊 3]]
 
 *** KR4f0065 定盦文集補編-淸-
 :PROPERTIES:
@@ -2236,7 +2015,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n294/SB14n294_001-002.tif][冊 1]]
 
 *** KR4f0066 茗柯文初編-淸-
 :PROPERTIES:
@@ -2267,8 +2045,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n295/SB14n295_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n295/SB14n295_002-002.tif][冊 2]]
 
 *** KR4f0067 茗柯文補編-淸-
 :PROPERTIES:
@@ -2297,7 +2073,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n296/SB14n296_001-002.tif][冊 1]]
 
 *** KR4f0068 曾文正公詩集-淸-
 :PROPERTIES:
@@ -2326,10 +2101,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n297/SB14n297_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n297/SB14n297_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n297/SB14n297_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB14n297/SB14n297_004-002.tif][冊 4]]
 
 *** KR4f0069 茗齋集-淸-
 :PROPERTIES:
@@ -2358,38 +2129,4 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB2/SB24n396/SB24n396_001-002.tif][冊 1]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_002-002.tif][冊 2]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_003-002.tif][冊 3]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_004-002.tif][冊 4]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_005-002.tif][冊 5]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_006-002.tif][冊 6]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_007-002.tif][冊 7]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_008-002.tif][冊 8]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_009-002.tif][冊 9]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_010-002.tif][冊 10]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_011-002.tif][冊 11]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_012-002.tif][冊 12]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_013-002.tif][冊 13]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_014-002.tif][冊 14]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_015-002.tif][冊 15]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_016-002.tif][冊 16]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_017-002.tif][冊 17]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_018-002.tif][冊 18]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_019-002.tif][冊 19]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_020-002.tif][冊 20]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_021-002.tif][冊 21]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_022-002.tif][冊 22]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_023-002.tif][冊 23]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_024-002.tif][冊 24]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_025-002.tif][冊 25]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_026-002.tif][冊 26]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_027-002.tif][冊 27]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_028-002.tif][冊 28]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_029-002.tif][冊 29]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_030-002.tif][冊 30]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_031-002.tif][冊 31]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_032-002.tif][冊 32]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_033-002.tif][冊 33]]
-[[krpimg:sbck/SB2/SB24n396/SB24n396_034-002.tif][冊 34]]
 

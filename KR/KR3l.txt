@@ -555,7 +555,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB3/SB33n434/SB33n434_001-002.tif][冊 1]]
 *** KR3l0028 王文正筆錄-宋-王曾
 :PROPERTIES:
 :KR_ID: KR3l0028
@@ -2384,8 +2383,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB2/SB23n368/SB23n368_001-002.tif][冊 1]]
-[[krpimg:sbck/SB2/SB23n368/SB23n368_002-002.tif][冊 2]]
 *** KR3l0118 太平廣記-宋-李昉
 :PROPERTIES:
 :KR_ID: KR3l0118
@@ -2598,7 +2595,6 @@
 :END:
 
 
-[[krpimg:sbck/SB2/SB23n369/SB23n369_001-002.tif][冊 1]]
 *** KR3l0127 清異錄-宋-陶穀
 :PROPERTIES:
 :KR_ID: KR3l0127

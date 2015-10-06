@@ -902,9 +902,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB2/SB23n359/SB23n359_001-002.tif][冊 1]]
-[[krpimg:sbck/SB2/SB23n359/SB23n359_002-002.tif][冊 2]]
-[[krpimg:sbck/SB2/SB23n359/SB23n359_003-002.tif][冊 3]]
 *** KR3i0044 御定佩文齋廣羣芳譜-清-汪灝
 :PROPERTIES:
 :KR_ID: KR3i0044

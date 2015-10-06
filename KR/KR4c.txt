@@ -213,7 +213,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n126/SB14n126_001-002.tif][冊 1]]
 *** KR4c0008 陳拾遺集-唐-陳子昂
 :PROPERTIES:
 :KR_ID: KR4c0008
@@ -446,8 +445,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB3/SB34n440/SB34n440_001-002.tif][冊 1]]
-[[krpimg:sbck/SB3/SB34n440/SB34n440_002-002.tif][冊 2]]
 *** KR4c0017 補注杜詩-唐-杜甫
 :PROPERTIES:
 :KR_ID: KR4c0017
@@ -596,7 +593,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n132/SB14n132_001-002.tif][冊 1]]
 *** KR4c0022 王右丞集箋注-唐-王維
 :PROPERTIES:
 :KR_ID: KR4c0022
@@ -834,7 +830,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n137/SB14n137_001-002.tif][冊 1]]
 *** KR4c0030 宗玄集-唐-吳筠
 :PROPERTIES:
 :KR_ID: KR4c0030
@@ -1154,14 +1149,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n144/SB14n144_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n144/SB14n144_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n144/SB14n144_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB14n144/SB14n144_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB14n144/SB14n144_005-002.tif][冊 5]]
-[[krpimg:sbck/SB1/SB14n144/SB14n144_006-002.tif][冊 6]]
-[[krpimg:sbck/SB1/SB14n144/SB14n144_007-002.tif][冊 7]]
-[[krpimg:sbck/SB1/SB14n144/SB14n144_008-002.tif][冊 8]]
 *** KR4c0042 韓集擧正-宋-方崧卿
 :PROPERTIES:
 :KR_ID: KR4c0042
@@ -1850,7 +1837,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n155/SB14n155_001-002.tif][冊 1]]
 *** KR4c0062 箋註評點李長吉歌詩-唐-李賀
 :PROPERTIES:
 :KR_ID: KR4c0062
@@ -2329,7 +2315,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n164/SB14n164_001-002.tif][冊 1]]
 *** KR4c0078 溫飛卿詩集箋注-唐-溫庭筠
 :PROPERTIES:
 :KR_ID: KR4c0078
@@ -2570,7 +2555,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n169/SB14n169_001-002.tif][冊 1]]
 *** KR4c0087 唐李推官披沙集-唐-
 :PROPERTIES:
 :KR_ID: KR4c0087
@@ -2597,7 +2581,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n170/SB14n170_001-002.tif][冊 1]]
 *** KR4c0088 文藪-唐-皮日休
 :PROPERTIES:
 :KR_ID: KR4c0088
@@ -2715,7 +2698,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n173/SB14n173_001-002.tif][冊 1]]
 *** KR4c0093 宋之問集-唐-
 :PROPERTIES:
 :KR_ID: KR4c0093
@@ -2749,7 +2731,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB2/SB24n371/SB24n371_001-002.tif][冊 1]]
 *** KR4c0094 雲臺編-唐-鄭谷
 :PROPERTIES:
 :KR_ID: KR4c0094
@@ -2814,7 +2795,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n175/SB14n175_001-002.tif][冊 1]]
 *** KR4c0097 朱慶餘詩集-唐-
 :PROPERTIES:
 :KR_ID: KR4c0097
@@ -2848,7 +2828,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB2/SB24n373/SB24n373_001-002.tif][冊 1]]
 *** KR4c0098 韓內韓別集-唐-韓偓
 :PROPERTIES:
 :KR_ID: KR4c0098
@@ -2920,9 +2899,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n177/SB14n177_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n177/SB14n177_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n177/SB14n177_003-002.tif][冊 3]]
 *** KR4c0101 唐秘書省正字先輩徐公釣磯文集-唐-
 :PROPERTIES:
 :KR_ID: KR4c0101
@@ -2957,8 +2933,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB3/SB34n443/SB34n443_001-002.tif][冊 1]]
-[[krpimg:sbck/SB3/SB34n443/SB34n443_002-002.tif][冊 2]]
 *** KR4c0102 唐英歌詩-唐-吳融
 :PROPERTIES:
 :KR_ID: KR4c0102
@@ -3005,9 +2979,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n178/SB14n178_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n178/SB14n178_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n178/SB14n178_003-002.tif][冊 3]]
 *** KR4c0104 玄英集-唐-方干
 :PROPERTIES:
 :KR_ID: KR4c0104
@@ -3122,7 +3093,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n179/SB14n179_001-002.tif][冊 1]]
 *** KR4c0109 白蓮集-唐-釋齊己
 :PROPERTIES:
 :KR_ID: KR4c0109
@@ -3258,7 +3228,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB2/SB24n374/SB24n374_001-002.tif][冊 1]]
 
 *** KR4c0114 李丞相詩集-南唐-
 :PROPERTIES:
@@ -3293,5 +3262,4 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB2/SB24n374/SB24n374_001-050.tif][頁 50]]
 

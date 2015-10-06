@@ -148,7 +148,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB3/SB34n466/SB34n466_001-002.tif][冊 1]]
 *** KR4j0008 淮海詞-宋-秦觀
 :PROPERTIES:
 :KR_ID: KR4j0008
@@ -461,7 +460,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB3/SB34n467/SB34n467_001-002.tif][冊 1]]
 *** KR4j0024 坦菴詞-宋-趙師使
 :PROPERTIES:
 :KR_ID: KR4j0024
@@ -1348,9 +1346,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n321/SB14n321_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n321/SB14n321_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n321/SB14n321_003-002.tif][冊 3]]
 *** KR4j0068 雍熙樂府-明-
 :PROPERTIES:
 :KR_ID: KR4j0068
@@ -1377,26 +1372,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB2/SB24n397/SB24n397_001-002.tif][冊 1]]
-[[krpimg:sbck/SB2/SB24n397/SB24n397_002-002.tif][冊 2]]
-[[krpimg:sbck/SB2/SB24n397/SB24n397_003-002.tif][冊 3]]
-[[krpimg:sbck/SB2/SB24n397/SB24n397_004-002.tif][冊 4]]
-[[krpimg:sbck/SB2/SB24n397/SB24n397_005-002.tif][冊 5]]
-[[krpimg:sbck/SB2/SB24n397/SB24n397_006-002.tif][冊 6]]
-[[krpimg:sbck/SB2/SB24n397/SB24n397_007-002.tif][冊 7]]
-[[krpimg:sbck/SB2/SB24n397/SB24n397_008-002.tif][冊 8]]
-[[krpimg:sbck/SB2/SB24n397/SB24n397_009-002.tif][冊 9]]
-[[krpimg:sbck/SB2/SB24n397/SB24n397_010-002.tif][冊 10]]
-[[krpimg:sbck/SB2/SB24n397/SB24n397_011-002.tif][冊 11]]
-[[krpimg:sbck/SB2/SB24n397/SB24n397_012-002.tif][冊 12]]
-[[krpimg:sbck/SB2/SB24n397/SB24n397_013-002.tif][冊 13]]
-[[krpimg:sbck/SB2/SB24n397/SB24n397_014-002.tif][冊 14]]
-[[krpimg:sbck/SB2/SB24n397/SB24n397_015-002.tif][冊 15]]
-[[krpimg:sbck/SB2/SB24n397/SB24n397_016-002.tif][冊 16]]
-[[krpimg:sbck/SB2/SB24n397/SB24n397_017-002.tif][冊 17]]
-[[krpimg:sbck/SB2/SB24n397/SB24n397_018-002.tif][冊 18]]
-[[krpimg:sbck/SB2/SB24n397/SB24n397_019-002.tif][冊 19]]
-[[krpimg:sbck/SB2/SB24n397/SB24n397_020-002.tif][冊 20]]
 
 *** KR4j0069 白雪齋選訂樂府吳騷合編-明-
 :PROPERTIES:
@@ -1623,8 +1598,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n322/SB14n322_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n322/SB14n322_002-002.tif][冊 2]]
 *** KR4j0078 碧鷄漫志-宋-王灼
 :PROPERTIES:
 :KR_ID: KR4j0078
@@ -1670,7 +1643,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB3/SB34n450/SB34n450_001-002.tif][冊 1]]
 *** KR4j0080 沈氏樂府指迷-宋-沈義父
 :PROPERTIES:
 :KR_ID: KR4j0080

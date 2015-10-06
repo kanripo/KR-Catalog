@@ -39,8 +39,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB11n002/SB11n002_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB11n002/SB11n002_002-002.tif][冊 2]]
 *** KR1b0003 尚書正義-唐-孔穎達
 :PROPERTIES:
 :KR_ID: KR1b0003

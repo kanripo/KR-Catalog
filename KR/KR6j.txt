@@ -97,7 +97,6 @@
 :lang@zh-py: (Da ri jing kai ti)
 :EXTENT: I
 :END:
-[[img:T/T58/00/T58-0001.tif][T58, p. 1]]
 **** 人物
 ***** 空海
 :PROPERTIES:
@@ -111,7 +110,6 @@
 :lang@ja-rom: DAINICHIKYŌKAIDAI
 :lang@zh-py: (Da ri jing kai ti)
 :END:
-[[img:T/T58/00/T58-0003.tif][T58, p. 3]]
 **** T58n2211C 大日經略開題
 :PROPERTIES:
 :CBETA_ID: T58n2211C
@@ -120,7 +118,6 @@
 :lang@ja-rom: DAINICHIKYŌ RYAKU KAIDAI
 :lang@zh-py: (Da ri jing lüe kai ti)
 :END:
-[[img:T/T58/00/T58-0004.tif][T58, p. 4]]
 **** T58n2211D 大日經開題
 :PROPERTIES:
 :CBETA_ID: T58n2211D
@@ -129,7 +126,6 @@
 :lang@ja-rom: DAINICHIKYŌ KAIDAI
 :lang@zh-py: (Da ri jing kai ti)
 :END:
-[[img:T/T58/00/T58-0006.tif][T58, p. 6]]
 **** T58n2211E 大日經開題
 :PROPERTIES:
 :CBETA_ID: T58n2211E
@@ -139,7 +135,6 @@
 :lang@zh-py: (Da ri jing kai ti)
 :EXTENT: I
 :END:
-[[img:T/T58/00/T58-0007.tif][T58, p. 7]]
 **** T58n2211F 大日經開題
 :PROPERTIES:
 :CBETA_ID: T58n2211F
@@ -149,7 +144,6 @@
 :lang@zh-py: (Da ri jing kai ti)
 :EXTENT: I
 :END:
-[[img:T/T58/00/T58-0010.tif][T58, p. 10]]
 **** T58n2211G 大日經開題
 :PROPERTIES:
 :CBETA_ID: T58n2211G
@@ -159,7 +153,6 @@
 :lang@zh-py: (Da ri jing kai ti)
 :EXTENT: I
 :END:
-[[img:T/T58/00/T58-0011.tif][T58, p. 11]]
 *** KR6j0003 大毘盧遮那經指歸--圓珍
 :PROPERTIES:
 :KR_ID: KR6j0003
@@ -170,7 +163,6 @@
 :lang@zh-py: (Da pi lu zhe na jing zhi gui)
 :EXTENT: I
 :END:
-[[img:T/T58/00/T58-0012.tif][T58, p. 12]]
 **** 人物
 ***** 圓珍
 :PROPERTIES:
@@ -186,7 +178,6 @@
 :lang@zh-py: (Da pi lu zhe na cheng dao jing xin mu)
 :EXTENT: I
 :END:
-[[img:T/T58/00/T58-0021.tif][T58, p. 21]]
 *** KR6j0005 大毘盧遮那佛說要略念誦經-唐-菩提金剛
 :PROPERTIES: 
 :KR_ID: KR6j0005
@@ -431,7 +422,6 @@
 :lang@zh-py: (Lian hua tai zang jie yi gui jie shi)
 :EXTENT: III
 :END:
-[[img:T/T61/05/T61-0565.tif][T61, p.565]]
 **** 人物
 ***** 眞興
 :PROPERTIES:
@@ -945,7 +935,6 @@
 :lang@zh-py: (Jin gang ding jing kai ti)
 :EXTENT: I
 :END:
-[[img:T/T61/00/T61-0001.tif][T61, p. 1]]
 **** 人物
 ***** 空海
 :PROPERTIES:
@@ -961,7 +950,6 @@
 :lang@zh-py: (Jiao wang jing kai ti)
 :EXTENT: I
 :END:
-[[img:T/T61/00/T61-0005.tif][T61, p. 5]]
 **** 人物
 ***** 空海
 :PROPERTIES:
@@ -977,7 +965,6 @@
 :lang@zh-py: (Jin gang ding da jiao wang jing shu)
 :EXTENT: VII
 :END:
-[[img:T/T61/00/T61-0007.tif][T61, p. 7]]
 **** 人物
 ***** 圓仁
 :PROPERTIES:
@@ -993,7 +980,6 @@
 :lang@zh-py: (Jin gang ding jing jie shi)
 :EXTENT: I
 :END:
-[[img:T/T61/01/T61-0114.tif][T61, p.114]]
 **** 人物
 ***** 頼尊
 :PROPERTIES:
@@ -1009,7 +995,6 @@
 :lang@zh-py: (Jin gang ding da jiao wang jing si ji)
 :EXTENT: XIX
 :END:
-[[img:T/T61/01/T61-0117.tif][T61, p.117]]
 **** 人物
 ***** 曇寂
 :PROPERTIES:
@@ -1133,7 +1118,6 @@
 :lang@zh-py: (Jin gang feng lou ge yi qie yu qie zhi jing xiu xing fa)
 :EXTENT: III
 :END:
-[[img:T/T61/04/T61-0485.tif][T61, p.485]]
 **** 人物
 ***** 安然
 :PROPERTIES:
@@ -1149,7 +1133,6 @@
 :lang@zh-py: (Yu zhi zong xing si ji)
 :EXTENT: I
 :END:
-[[img:T/T61/05/T61-0504.tif][T61, p.504]]
 **** 人物
 ***** 眞寂
 :PROPERTIES:
@@ -1474,7 +1457,6 @@
 :lang@zh-py: (Fan fu ri luo duo du si ji)
 :EXTENT: I
 :END:
-[[img:T/T61/05/T61-0590.tif][T61, p.590]]
 **** 人物
 ***** 眞興
 :PROPERTIES:
@@ -1884,7 +1866,6 @@
 :lang@zh-py: (San shi juang jiao wang jing wen ci di)
 :EXTENT: II
 :END:
-[[img:T/T61/03/T61-0371.tif][T61, p.371]]
 **** 人物
 ***** 杲寶
 :PROPERTIES:
@@ -2510,7 +2491,6 @@
 :lang@zh-py: (Su xi di jie luo jing lüe shu)
 :EXTENT: VII
 :END:
-[[img:T/T61/03/T61-0389.tif][T61, p.389]]
 cf T18n0893c
 **** 人物
 ***** 圓仁
@@ -4701,7 +4681,6 @@ cf T18n0893c
 :lang@zh-py: (Da fo ding jing kai ti)
 :EXTENT: I
 :END:
-[[img:T/T61/06/T61-0601.tif][T61, p.601]]
 **** 人物
 ***** 空海
 :PROPERTIES:
@@ -4920,7 +4899,6 @@ cf T18n0893c
 :lang@zh-py: (Pu ti chang jing lüe yi shi)
 :EXTENT: V
 :END:
-[[img:T/T61/05/T61-0513.tif][T61, p.513]]
 **** 人物
 ***** 圓珍
 :PROPERTIES:
@@ -6548,7 +6526,6 @@ cf T18n0893c
 :lang@zh-py: (Kong que jing yin yi)
 :EXTENT: III
 :END:
-[[img:T/T61/07/T61-0755.tif][T61, p.755]]
 **** 人物
 ***** 觀靜
 :PROPERTIES:
@@ -7127,7 +7104,6 @@ cf T18n0893c
 :lang@zh-py: (Zhu da fo ding zhen yan)
 :EXTENT: I
 :END:
-[[img:T/T61/06/T61-0602.tif][T61, p.602]]
 **** 人物
 ***** 南忠
 :PROPERTIES:
@@ -7143,7 +7119,6 @@ cf T18n0893c
 :lang@zh-py: (Da fo ding ru lai fang guang xi da ta bo da luo tuo luo ni kan zhu)
 :EXTENT: I
 :END:
-[[img:T/T61/06/T61-0606.tif][T61, p.606]]
 **** 人物
 ***** 明覺
 :PROPERTIES:
@@ -7488,7 +7463,6 @@ cf T18n0893c
 :lang@zh-py: (Bu kong juan suo pi lu zhe na fo da guan ding guang ming zhen yan ju yi shi)
 :EXTENT: I
 :END:
-[[img:T/T61/08/T61-0809.tif][T61, p.809]]
 **** 人物
 ***** 高辧
 :PROPERTIES:
@@ -7553,7 +7527,6 @@ cf T18n0893c
 :lang@zh-py: (Li qu shi chong shi ji)
 :EXTENT: I
 :END:
-[[img:T/T61/06/T61-0640.tif][T61, p.640]]
 **** 人物
 ***** 938
 :PROPERTIES:
@@ -7569,7 +7542,6 @@ cf T18n0893c
 :lang@zh-py: (Li qu shi mi yao chao)
 :EXTENT: XII
 :END:
-[[img:T/T61/06/T61-0657.tif][T61, p.657]]
 *** KR6j0196 般若波羅蜜多理趣經大樂不空三昧真實金剛薩埵菩薩等一十七聖大曼荼羅義述-唐-不空
 :PROPERTIES: 
 :KR_ID: KR6j0196
@@ -10285,7 +10257,6 @@ cf T18n0893c
 :lang@zh-py: (Qian shou jing er shi ba bu zhong shi)
 :EXTENT: I
 :END:
-[[img:T/T61/07/T61-0749.tif][T61, p.749]]
 **** 人物
 ***** 定深
 :PROPERTIES:
@@ -14620,7 +14591,6 @@ cf T18n0893c
 :lang@zh-py: (Da sui qiu tuo luo ni kan zhu)
 :EXTENT: I
 :END:
-[[img:T/T61/07/T61-0747.tif][T61, p.747]]
 **** 人物
 ***** 明覺
 :PROPERTIES:
@@ -25892,7 +25862,6 @@ cf T18n0893c
 :lang@zh-py: (Da ri jing shu miao yin chao)
 :EXTENT: LXXX
 :END:
-[[img:T/T58/00/T58-0025.tif][T58, p. 25]]
 **** 人物
 ***** 宥範
 :PROPERTIES:
@@ -25908,7 +25877,6 @@ cf T18n0893c
 :lang@zh-py: (Da ri jing shu miao yin chao kou zhuan)
 :EXTENT: X
 :END:
-[[img:T/T58/06/T58-0639.tif][T58, p.639]]
 **** 人物
 ***** 宥範
 :PROPERTIES:
@@ -25924,7 +25892,6 @@ cf T18n0893c
 :lang@zh-py: (Da ri jing zhu xin pin shu si ji)
 :EXTENT: XVI
 :END:
-[[img:T/T58/06/T58-0685.tif][T58, p.685]]
 **** 人物
 ***** 濟暹
 :PROPERTIES:
@@ -25940,7 +25907,6 @@ cf T18n0893c
 :lang@zh-py: (Da ri jing shu yan ao chao)
 :EXTENT: LX
 :END:
-[[img:T/T59/00/T59-0001.tif][T59, p. 1]]
 **** 人物
 ***** 杲寶
 :PROPERTIES:
@@ -25956,7 +25922,6 @@ cf T18n0893c
 :lang@zh-py: (Da ri jing shu zhi xin chao)
 :EXTENT: XVI
 :END:
-[[img:T/T59/05/T59-0571.tif][T59, p.571]]
 **** 人物
 ***** 頼瑜
 :PROPERTIES:
@@ -25972,7 +25937,6 @@ cf T18n0893c
 :lang@zh-py: (Da ri jing shu chao)
 :EXTENT: LXXXV
 :END:
-[[img:T/T60/00/T60-0001.tif][T60, p. 1]]
 **** 人物
 ***** 宥快
 :PROPERTIES:
@@ -25988,7 +25952,6 @@ cf T18n0893c
 :lang@zh-py: (Da ri jing zhu xin pin shu si ji)
 :EXTENT: XX
 :END:
-[[img:T/T60/03/T60-0359.tif][T60, p.359]]
 **** 人物
 ***** 曇寂
 :PROPERTIES:
@@ -26048,7 +26011,6 @@ cf T18n0893c
 :lang@zh-py: (Da ri jing gong yang ci di fa shu si ji)
 :EXTENT: VIII
 :END:
-[[img:T/T60/07/T60-0719.tif][T60, p.719]]
 **** 人物
 ***** 宥範
 :PROPERTIES:

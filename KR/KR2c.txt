@@ -46,7 +46,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB12n036/SB12n036_001-002.tif][冊 1]]
 *** KR2c0003 春秋左傳事類始末-宋-章沖
 :PROPERTIES:
 :KR_ID: KR2c0003

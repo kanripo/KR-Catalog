@@ -3685,7 +3685,6 @@
 :lang@zh-py: (Wei mo jing yi shu)
 :EXTENT: V
 :END:
-[[img:T/T56/00/T56-0020.tif][T56, p. 20]]
 *** KR6i0087 維摩義記--
 :PROPERTIES: 
 :KR_ID: KR6i0087
@@ -14265,7 +14264,6 @@
 :lang@zh-py: (Jin guang ming zui sheng wang jing xuan shu)
 :EXTENT: X
 :END:
-[[img:T/T56/04/T56-0483.tif][T56, p.483]]
 *** KR6i0319 金光明最勝王經註釋--明一
 :PROPERTIES:
 :KR_ID: KR6i0319
@@ -14276,7 +14274,6 @@
 :lang@zh-py: (Jin guang ming zui sheng wang jing zhu shi)
 :EXTENT: X
 :END:
-[[img:T/T56/07/T56-0717.tif][T56, p.717]]
 **** 人物
 ***** 明一
 :PROPERTIES:
@@ -14292,7 +14289,6 @@
 :lang@zh-py: (Zui sheng wang jing yu zu)
 :EXTENT: I
 :END:
-[[img:T/T56/08/T56-0807.tif][T56, p.807]]
 **** 人物
 ***** 平備
 :PROPERTIES:
@@ -14308,7 +14304,6 @@
 :lang@zh-py: (Zui sheng wang jing kai ti)
 :EXTENT: I
 :END:
-[[img:T/T56/08/T56-0824.tif][T56, p.824]]
 **** 人物
 ***** 空海
 :PROPERTIES:
@@ -14324,7 +14319,6 @@
 :lang@zh-py: (Jing sheng wang king mi mi jia duo)
 :EXTENT: I
 :END:
-[[img:T/T56/08/T56-0825.tif][T56, p.825]]
 **** 人物
 ***** 空海
 :PROPERTIES:

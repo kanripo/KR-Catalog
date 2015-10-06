@@ -142,7 +142,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n113/SB14n113_001-002.tif][冊 1]]
 
 *** KR4b0007 陸士龍文集-晉-陸雲
 :PROPERTIES:
@@ -228,8 +227,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n115/SB14n115_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n115/SB14n115_002-002.tif][冊 2]]
 *** KR4b0010 璇璣圖詩讀法-明-康萬民
 :PROPERTIES:
 :KR_ID: KR4b0010
@@ -383,8 +380,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n119/SB14n119_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n119/SB14n119_002-002.tif][冊 2]]
 *** KR4b0017 庾開府集箋註-北周-庾信
 :PROPERTIES:
 :KR_ID: KR4b0017

@@ -41,7 +41,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB11n013/SB11n013_001-002.tif][冊 1]]
 *** KR1j0003 爾雅疏-宋-邢昺
 :PROPERTIES:
 :KR_ID: KR1j0003
@@ -1308,9 +1307,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB11n024/SB11n024_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB11n024/SB11n024_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB11n024/SB11n024_003-002.tif][冊 3]]
 *** KR1j0057 集韻-宋-丁度
 :PROPERTIES:
 :KR_ID: KR1j0057

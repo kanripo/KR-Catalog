@@ -418,7 +418,6 @@
 :lang@zh-py: (Yin ming lun shu ming deng chao)
 :EXTENT: XII
 :END:
-[[img:T/T68/02/T68-0201.tif][T68, p.201]]
 **** 人物
 ***** 善珠
 :PROPERTIES:
@@ -434,7 +433,6 @@
 :lang@zh-py: (Yin ming da shu chao)
 :EXTENT: XLI
 :END:
-[[img:T/T68/04/T68-0437.tif][T68, p.437]]
 **** 人物
 ***** 藏俊
 :PROPERTIES:
@@ -450,7 +448,6 @@
 :lang@zh-py: (Yin ming da shu rong guan chao)
 :EXTENT: IX
 :END:
-[[img:T/T69/00/T69-0001.tif][T69, p. 1]]
 **** 人物
 ***** 基辧
 :PROPERTIES:
@@ -466,7 +463,6 @@
 :lang@zh-py: (Yin ming da shu dao)
 :EXTENT: III
 :END:
-[[img:T/T69/01/T69-0151.tif][T69, p.151]]
 **** 人物
 ***** 明詮
 :PROPERTIES:
@@ -482,7 +478,6 @@
 :lang@zh-py: (Yin ming da shu li shu)
 :EXTENT: VI
 :END:
-[[img:T/T69/01/T69-0167.tif][T69, p.167]]
 **** 人物
 ***** 明詮
 :PROPERTIES:
@@ -498,7 +493,6 @@
 :lang@zh-py: (Yin ming si zhong xiang wei si ji)
 :EXTENT: III
 :END:
-[[img:T/T69/02/T69-0241.tif][T69, p.241]]
 **** 人物
 ***** 觀理
 :PROPERTIES:
@@ -514,7 +508,6 @@
 :lang@zh-py: (Yin ming lun shu si xiang wei lüe zhu shi)
 :EXTENT: III
 :END:
-[[img:T/T69/02/T69-0291.tif][T69, p.291]]
 **** 人物
 ***** 源信
 :PROPERTIES:
@@ -530,7 +523,6 @@
 :lang@zh-py: (Yin ming si zhong xiang wei lüe si ji)
 :EXTENT: II
 :END:
-[[img:T/T69/03/T69-0339.tif][T69, p.339]]
 **** 人物
 ***** 眞興
 :PROPERTIES:
@@ -546,7 +538,6 @@
 :lang@zh-py: (Si zhong xiang wei duan lüe ji)
 :EXTENT: I
 :END:
-[[img:T/T69/03/T69-0375.tif][T69, p.375]]
 **** 人物
 ***** 眞興
 :PROPERTIES:
@@ -920,7 +911,6 @@
 :lang@zh-py: (Yin ming zuan yao lüe ji)
 :EXTENT: I
 :END:
-[[img:T/T69/03/T69-0393.tif][T69, p.393]]
 **** 人物
 ***** 眞興
 :PROPERTIES:
@@ -936,7 +926,6 @@
 :lang@zh-py: (Yin ming da shu si zhong xiang wei chao)
 :EXTENT: I
 :END:
-[[img:T/T69/04/T69-0402.tif][T69, p.402]]
 **** 人物
 ***** 珍海
 :PROPERTIES:
@@ -952,7 +941,6 @@
 :lang@zh-py: (Ming ben chao)
 :EXTENT: XIII
 :END:
-[[img:T/T69/04/T69-0417.tif][T69, p.417]]
 **** 人物
 ***** 貞慶
 :PROPERTIES:
@@ -968,7 +956,6 @@
 :lang@zh-py: (Ming yao chao)
 :EXTENT: V
 :END:
-[[img:T/T69/05/T69-0508.tif][T69, p.508]]
 **** 人物
 ***** 貞慶
 :PROPERTIES:
@@ -2758,7 +2745,6 @@
 :lang@zh-py: (Jin gang ding yu qie zhong fa a nou duo luo san miao san pu ti xin lun mi shi)
 :EXTENT: I
 :END:
-[[img:T/T70/00/T70-0001.tif][T70, p. 1]]
 **** 人物
 ***** 覺鑁
 :PROPERTIES:
@@ -2774,7 +2760,6 @@
 :lang@zh-py: (Jin gang ding fa pu ti xin lun si chao)
 :EXTENT: IV
 :END:
-[[img:T/T70/00/T70-0005.tif][T70, p. 5]]
 **** 人物
 ***** 濟暹
 :PROPERTIES:
@@ -2790,7 +2775,6 @@
 :lang@zh-py: (Jin gang ding zong pu ti xin lun kou jue)
 :EXTENT: I
 :END:
-[[img:T/T70/00/T70-0029.tif][T70, p. 29]]
 **** 人物
 ***** 榮西
 :PROPERTIES:
@@ -2806,7 +2790,6 @@
 :lang@zh-py: (Pu ti xin lun jian wen)
 :EXTENT: IV
 :END:
-[[img:T/T70/00/T70-0033.tif][T70, p. 33]]
 **** 人物
 ***** 安超
 :PROPERTIES:
@@ -2821,7 +2804,6 @@
 :lang@zh-py: (Pu ti xin lun yi ben)
 :EXTENT: I
 :END:
-[[img:T/T70/01/T70-0116.tif][T70, p.116]]
 **** 人物
 ***** 尊通
 :PROPERTIES:
@@ -2836,7 +2818,6 @@
 :lang@zh-py: (Pu ti xin lun yu yi)
 :EXTENT: I
 :END:
-[[img:T/T70/01/T70-0117.tif][T70, p.117]]
 *** KR6o0078 大乘起信論-梁-馬鳴菩薩
 :PROPERTIES: 
 :KR_ID: KR6o0078
@@ -2975,7 +2956,6 @@
 :lang@zh-py: (Qi xin lun chao chu)
 :EXTENT:  II
 :END:
-[[img:T/T69/05/T69-0535.tif][T69, p.535]]
 **** 人物
 ***** 尊辧
 :PROPERTIES:
@@ -2990,7 +2970,6 @@
 :lang@zh-py: (Da cheng san lun da yi chao)
 :EXTENT: IV
 :END:
-[[img:T/T70/01/T70-0119.tif][T70, p.119]]
 **** 人物
 ***** 玄叡
 :PROPERTIES:
@@ -3005,7 +2984,6 @@
 :lang@zh-py: (Yi sheng fo xing hui ri chao)
 :EXTENT: I
 :END:
-[[img:T/T70/01/T70-0173.tif][T70, p.173]]
 *** KR6o0083 大乘正觀略私記--珍海
 :PROPERTIES:
 :KR_ID: KR6o0083
@@ -3015,7 +2993,6 @@
 :lang@zh-py: (Da cheng zheng guan lüe si ji)
 :EXTENT: I
 :END:
-[[img:T/T70/01/T70-0195.tif][T70, p.195]]
 **** 人物
 ***** 珍海
 :PROPERTIES:
@@ -3263,7 +3240,6 @@
 :lang@zh-py: (Shi mo he yan lun zhi shi)
 :EXTENT: II
 :END:
-[[img:T/T69/05/T69-0561.tif][T69, p.561]]
 **** 人物
 ***** 空海
 :PROPERTIES:
@@ -3279,7 +3255,6 @@
 :lang@zh-py: (Shi mo he yan lun zhi shi)
 :EXTENT: I
 :END:
-[[img:T/T69/05/T69-0564.tif][T69, p.564]]
 **** 人物
 ***** 覺鑁
 :PROPERTIES:
@@ -3295,7 +3270,6 @@
 :lang@zh-py: (Shi mo he yan lun jue yi po nan hui shi chao)
 :EXTENT: I
 :END:
-[[img:T/T69/05/T69-0570.tif][T69, p.570]]
 **** 人物
 ***** 濟暹
 :PROPERTIES:
@@ -3311,7 +3285,6 @@
 :lang@zh-py: (Shi mo he yan lun li yi fen lüe shi)
 :EXTENT: I
 :END:
-[[img:T/T69/05/T69-0577.tif][T69, p.577]]
 **** 人物
 ***** 濟暹
 :PROPERTIES:
@@ -3327,7 +3300,6 @@
 :lang@zh-py: (Shi mo he yan lun ying jiao chao)
 :EXTENT: I
 :END:
-[[img:T/T69/05/T69-0584.tif][T69, p.584]]
 **** 人物
 ***** 道範
 :PROPERTIES:
@@ -3343,7 +3315,6 @@
 :lang@zh-py: (Shi mo he yan lun si ji)
 :EXTENT: I
 :END:
-[[img:T/T69/05/T69-0593.tif][T69, p.593]]
 **** 人物
 ***** 信堅
 :PROPERTIES:
@@ -3359,7 +3330,6 @@
 :lang@zh-py: (Shi mo he yan lun kan zhu)
 :EXTENT: XXIV
 :END:
-[[img:T/T69/06/T69-0603.tif][T69, p.603]]
 **** 人物
 ***** 頼寶
 :PROPERTIES:

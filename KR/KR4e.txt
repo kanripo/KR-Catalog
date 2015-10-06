@@ -102,20 +102,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n256/SB14n256_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n256/SB14n256_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n256/SB14n256_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB14n256/SB14n256_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB14n256/SB14n256_005-002.tif][冊 5]]
-[[krpimg:sbck/SB1/SB14n256/SB14n256_006-002.tif][冊 6]]
-[[krpimg:sbck/SB1/SB14n256/SB14n256_007-002.tif][冊 7]]
-[[krpimg:sbck/SB1/SB14n256/SB14n256_008-002.tif][冊 8]]
-[[krpimg:sbck/SB1/SB14n256/SB14n256_009-002.tif][冊 9]]
-[[krpimg:sbck/SB1/SB14n256/SB14n256_010-002.tif][冊 10]]
-[[krpimg:sbck/SB1/SB14n256/SB14n256_011-002.tif][冊 11]]
-[[krpimg:sbck/SB1/SB14n256/SB14n256_012-002.tif][冊 12]]
-[[krpimg:sbck/SB1/SB14n256/SB14n256_013-002.tif][冊 13]]
-[[krpimg:sbck/SB1/SB14n256/SB14n256_014-002.tif][冊 14]]
 *** KR4e0005 誠意伯文集-明-劉基
 :PROPERTIES:
 :KR_ID: KR4e0005
@@ -161,16 +147,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n257/SB14n257_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n257/SB14n257_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n257/SB14n257_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB14n257/SB14n257_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB14n257/SB14n257_005-002.tif][冊 5]]
-[[krpimg:sbck/SB1/SB14n257/SB14n257_006-002.tif][冊 6]]
-[[krpimg:sbck/SB1/SB14n257/SB14n257_007-002.tif][冊 7]]
-[[krpimg:sbck/SB1/SB14n257/SB14n257_008-002.tif][冊 8]]
-[[krpimg:sbck/SB1/SB14n257/SB14n257_009-002.tif][冊 9]]
-[[krpimg:sbck/SB1/SB14n257/SB14n257_010-002.tif][冊 10]]
 *** KR4e0007 鳳池吟稿-明-汪廣洋
 :PROPERTIES:
 :KR_ID: KR4e0007
@@ -540,12 +516,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n258/SB14n258_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n258/SB14n258_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n258/SB14n258_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB14n258/SB14n258_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB14n258/SB14n258_005-002.tif][冊 5]]
-[[krpimg:sbck/SB1/SB14n258/SB14n258_006-002.tif][冊 6]]
 *** KR4e0024 蘇平仲文集-明-蘇伯衡
 :PROPERTIES:
 :KR_ID: KR4e0024
@@ -711,12 +681,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n260/SB14n260_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n260/SB14n260_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n260/SB14n260_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB14n260/SB14n260_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB14n260/SB14n260_005-002.tif][冊 5]]
-[[krpimg:sbck/SB1/SB14n260/SB14n260_006-002.tif][冊 6]]
 *** KR4e0030 高太史鳧藻集-明-
 :PROPERTIES:
 :KR_ID: KR4e0030
@@ -744,8 +708,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n261/SB14n261_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n261/SB14n261_002-002.tif][冊 2]]
 *** KR4e0031 滄螺集-明-孫作
 :PROPERTIES:
 :KR_ID: KR4e0031
@@ -907,8 +869,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB3/SB34n460/SB34n460_001-002.tif][冊 1]]
-[[krpimg:sbck/SB3/SB34n460/SB34n460_002-002.tif][冊 2]]
 *** KR4e0039 大全集-明-高啟
 :PROPERTIES:
 :KR_ID: KR4e0039

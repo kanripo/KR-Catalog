@@ -541,7 +541,6 @@
 :lang@zh-py: (Hua yan yan yi chao)
 :EXTENT: XXXVIII
 :END:
-[[img:T/T57/00/T57-0049.tif][T57, p. 49]]
 **** 人物
 ***** 湛叡
 :PROPERTIES:
@@ -556,7 +555,6 @@
 :lang@zh-py: (Xin yi (Hua yan jing yin yi)
 :EXTENT: I
 :END:
-[[img:T/T57/03/T57-0367.tif][T57, p.367]]
 **** 人物
 ***** 喜海
 :PROPERTIES:
@@ -1841,7 +1839,6 @@
 :lang@zh-py: (Zhen yuan (Hua yan jing yin yi)
 :EXTENT: I
 :END:
-[[img:T/T57/03/T57-0377.tif][T57, p.377]]
 **** 人物
 ***** 喜海
 :PROPERTIES:

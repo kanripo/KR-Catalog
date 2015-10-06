@@ -306,16 +306,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB3/SB32n412/SB32n412_001-002.tif][冊 1]]
-[[krpimg:sbck/SB3/SB32n412/SB32n412_002-002.tif][冊 2]]
-[[krpimg:sbck/SB3/SB32n412/SB32n412_003-002.tif][冊 3]]
-[[krpimg:sbck/SB3/SB32n412/SB32n412_004-002.tif][冊 4]]
-[[krpimg:sbck/SB3/SB32n412/SB32n412_005-002.tif][冊 5]]
-[[krpimg:sbck/SB3/SB32n412/SB32n412_006-002.tif][冊 6]]
-[[krpimg:sbck/SB3/SB32n412/SB32n412_007-002.tif][冊 7]]
-[[krpimg:sbck/SB3/SB32n412/SB32n412_008-002.tif][冊 8]]
-[[krpimg:sbck/SB3/SB32n412/SB32n412_009-002.tif][冊 9]]
-[[krpimg:sbck/SB3/SB32n412/SB32n412_010-002.tif][冊 10]]
 *** KR2d0015 春秋別典-明-薛虞畿
 :PROPERTIES:
 :KR_ID: KR2d0015
@@ -360,9 +350,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB3/SB32n413/SB32n413_001-002.tif][冊 1]]
-[[krpimg:sbck/SB3/SB32n413/SB32n413_002-002.tif][冊 2]]
-[[krpimg:sbck/SB3/SB32n413/SB32n413_003-002.tif][冊 3]]
 
 *** KR2d0017 罪惟錄-明-
 :PROPERTIES:
@@ -390,66 +377,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB3/SB32n414/SB32n414_001-002.tif][冊 1]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_002-002.tif][冊 2]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_003-002.tif][冊 3]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_004-002.tif][冊 4]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_005-002.tif][冊 5]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_006-002.tif][冊 6]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_007-002.tif][冊 7]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_008-002.tif][冊 8]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_009-002.tif][冊 9]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_010-002.tif][冊 10]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_011-002.tif][冊 11]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_012-002.tif][冊 12]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_013-002.tif][冊 13]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_014-002.tif][冊 14]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_015-002.tif][冊 15]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_016-002.tif][冊 16]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_017-002.tif][冊 17]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_018-002.tif][冊 18]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_019-002.tif][冊 19]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_020-002.tif][冊 20]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_021-002.tif][冊 21]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_022-002.tif][冊 22]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_023-002.tif][冊 23]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_024-002.tif][冊 24]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_025-002.tif][冊 25]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_026-002.tif][冊 26]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_027-002.tif][冊 27]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_028-002.tif][冊 28]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_029-002.tif][冊 29]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_030-002.tif][冊 30]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_031-002.tif][冊 31]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_032-002.tif][冊 32]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_033-002.tif][冊 33]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_034-002.tif][冊 34]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_035-002.tif][冊 35]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_036-002.tif][冊 36]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_037-002.tif][冊 37]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_038-002.tif][冊 38]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_039-002.tif][冊 39]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_040-002.tif][冊 40]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_041-002.tif][冊 41]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_042-002.tif][冊 42]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_043-002.tif][冊 43]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_044-002.tif][冊 44]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_045-002.tif][冊 45]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_046-002.tif][冊 46]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_047-002.tif][冊 47]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_048-002.tif][冊 48]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_049-002.tif][冊 49]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_050-002.tif][冊 50]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_051-002.tif][冊 51]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_052-002.tif][冊 52]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_053-002.tif][冊 53]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_054-002.tif][冊 54]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_055-002.tif][冊 55]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_056-002.tif][冊 56]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_057-002.tif][冊 57]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_058-002.tif][冊 58]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_059-002.tif][冊 59]]
-[[krpimg:sbck/SB3/SB32n414/SB32n414_060-002.tif][冊 60]]
 
 *** KR2d0018 東山國語-明-
     :PROPERTIES:
@@ -480,8 +407,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB3/SB32n415/SB32n415_001-002.tif][冊 1]]
-[[krpimg:sbck/SB3/SB32n415/SB32n415_002-002.tif][冊 2]]
 
 *** KR2d0019 御定歷代紀事年表-清-王之樞
 :PROPERTIES:

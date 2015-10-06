@@ -1425,7 +1425,6 @@
 :lang@zh-py: (Ju she lun ben yi chao)
 :EXTENT: XLVIII
 :END:
-[[img:T/T63/00/T63-0001.tif][T63, p. 1]]
 **** 人物
 ***** 宗性
 :PROPERTIES:
@@ -1441,7 +1440,6 @@
 :lang@zh-py: (A pi da mo ju she lun zhi yao chao)
 :EXTENT: XXX
 :END:
-[[img:T/T63/08/T63-0807.tif][T63, p.807]]
 **** 人物
 ***** 湛慧
 :PROPERTIES:
@@ -1457,7 +1455,6 @@
 :lang@zh-py: (A pi da ma ju she lun fa yi)
 :EXTENT: XXX
 :END:
-[[img:T/T64/00/T64-0001.tif][T64, p. 1]]
 **** 人物
 ***** 快道
 :PROPERTIES:
@@ -1473,7 +1470,6 @@
 :lang@zh-py: (A pi da mo ju she lun ji gu)
 :EXTENT: II
 :END:
-[[img:T/T64/04/T64-0440.tif][T64, p.440]]
 **** 人物
 ***** 法幢
 :PROPERTIES:
@@ -2099,7 +2095,6 @@
 :lang@zh-py: (Ju she lun song shu zheng wen)
 :EXTENT: I
 :END:
-[[img:T/T64/04/T64-0467.tif][T64, p.467]]
 **** 人物
 ***** 源信
 :PROPERTIES:
@@ -2115,7 +2110,6 @@
 :lang@zh-py: (Ju she lun song shu chao)
 :EXTENT: XXIX
 :END:
-[[img:T/T64/04/T64-0477.tif][T64, p.477]]
 **** 人物
 ***** 英憲
 :PROPERTIES:

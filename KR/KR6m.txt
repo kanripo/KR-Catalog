@@ -69,7 +69,6 @@
 :lang@zh-py: (Zhong guan lun er shi qi pin bie shi)
 :EXTENT: I
 :END:
-[[img:T/T65/02/T65-0248.tif][T65, p.248]]
 **** 人物
 ***** 快憲
 :PROPERTIES:
@@ -340,7 +339,6 @@ This text is assembled from two sources, need to handle this carefully!
 :lang@zh-py: (Zhong lun shu ji)
 :EXTENT: VIII
 :END:
-[[img:T/T65/00/T65-0001.tif][T65, p. 1]]
 **** 人物
 ***** 安澄
 :PROPERTIES:
@@ -478,7 +476,6 @@ This text is assembled from two sources, need to handle this carefully!
 :lang@zh-py: (Shi er men lun shu wen si ji)
 :EXTENT: I
 :END:
-[[img:T/T65/02/T65-0257.tif][T65, p.257]]
 **** 人物
 ***** 藏海
 :PROPERTIES:
@@ -1086,7 +1083,6 @@ This text is assembled from two sources, need to handle this carefully!
 :lang@zh-py: (zhang zhen liang dao)
 :EXTENT: I
 :END:
-[[img:T/T65/02/T65-0266.tif][T65, p.266]]
 *** KR6m0025 掌珍論疏--
 :PROPERTIES: 
 :KR_ID: KR6m0025
@@ -1157,7 +1153,6 @@ This text is assembled from two sources, need to handle this carefully!
 :lang@zh-py: (San lun xuan shu wen yi yao)
 :EXTENT: X
 :END:
-[[img:T/T70/01/T70-0199.tif][T70, p.199]]
 **** 人物
 ***** 珍海
 :PROPERTIES:
@@ -1173,7 +1168,6 @@ This text is assembled from two sources, need to handle this carefully!
 :lang@zh-py: (San lun xuan yi jian you ji)
 :EXTENT: VII
 :END:
-[[img:T/T70/03/T70-0379.tif][T70, p.379]]
 **** 人物
 ***** 澄禪
 :PROPERTIES:
@@ -1189,7 +1183,6 @@ This text is assembled from two sources, need to handle this carefully!
 :lang@zh-py: (San lun xuan yi chao)
 :EXTENT: III
 :END:
-[[img:T/T70/04/T70-0499.tif][T70, p.499]]
 **** 人物
 ***** 貞海
 :PROPERTIES:
@@ -1205,7 +1198,6 @@ This text is assembled from two sources, need to handle this carefully!
 :lang@zh-py: (San lun xuan yi you meng)
 :EXTENT: III
 :END:
-[[img:T/T70/05/T70-0532.tif][T70, p.532]]
 **** 人物
 ***** 聞證
 :PROPERTIES:
@@ -1255,7 +1247,6 @@ This text is assembled from two sources, need to handle this carefully!
 :lang@zh-py: (Da cheng xuan wen da)
 :EXTENT: XII
 :END:
-[[img:T/T70/05/T70-0569.tif][T70, p.569]]
 **** 人物
 ***** 珍海
 :PROPERTIES:
@@ -1271,7 +1262,6 @@ This text is assembled from two sources, need to handle this carefully!
 :lang@zh-py: (Yi sheng yi si ji)
 :EXTENT: I
 :END:
-[[img:T/T70/06/T70-0637.tif][T70, p.637]]
 **** 人物
 ***** 珍海
 :PROPERTIES:

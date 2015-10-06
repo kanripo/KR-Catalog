@@ -2735,7 +2735,6 @@
 :lang@zh-py: (Sheng man jing yi shu)
 :EXTENT: I
 :END:
-[[img:T/T56/00/T56-0001.tif][T56, p. 1]]
 *** KR6f0054 勝鬘經記--
 :PROPERTIES: 
 :KR_ID: KR6f0054
@@ -3592,7 +3591,6 @@
 :lang@zh-py: (Jing tu yi duan)
 :EXTENT: IV
 :END:
-[[img:T/T57/04/T57-0439.tif][T57, p.439]]
 *** KR6f0079 觀經義賢問愚答鈔--證忍
 :PROPERTIES:
 :KR_ID: KR6f0079
@@ -3602,7 +3600,6 @@
 :lang@zh-py: (Guan jing yi xian wen yu da chao)
 :EXTENT: I
 :END:
-[[img:T/T57/04/T57-0472.tif][T57, p.472]]
 **** 人物
 ***** 證忍
 :PROPERTIES:
@@ -3617,7 +3614,6 @@
 :lang@zh-py: (Guan jing yi zhuo yi qiao da yan he chao)
 :EXTENT: I
 :END:
-[[img:T/T57/04/T57-0483.tif][T57, p.483]]
 *** KR6f0081 觀經疏傳通記--良忠
 :PROPERTIES:
 :KR_ID: KR6f0081
@@ -3628,7 +3624,6 @@
 :lang@zh-py: (Guan jing shu zhuan tong ji)
 :EXTENT: XV
 :END:
-[[img:T/T57/04/T57-0497.tif][T57, p.497]]
 **** 人物
 ***** 良忠
 :PROPERTIES:
@@ -3698,7 +3693,6 @@
 :lang@zh-py: (Jing tu san bu jing yin yi ji)
 :EXTENT: IV
 :END:
-[[img:T/T57/03/T57-0383.tif][T57, p.383]]
 **** 人物
 ***** 信瑞
 :PROPERTIES:
@@ -3714,7 +3708,6 @@
 :lang@zh-py: (A mi tuo jing lüe ji)
 :EXTENT: I
 :END:
-[[img:T/T57/06/T57-0673.tif][T57, p.673]]
 **** 人物
 ***** 源信
 :PROPERTIES:

@@ -39,12 +39,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB11n004/SB11n004_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB11n004/SB11n004_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB11n004/SB11n004_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB11n004/SB11n004_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB11n004/SB11n004_005-002.tif][冊 5]]
-[[krpimg:sbck/SB1/SB11n004/SB11n004_006-002.tif][冊 6]]
 
 *** KR1d0003 周禮注疏-漢-鄭玄
 :PROPERTIES:
@@ -582,11 +576,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB11n005/SB11n005_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB11n005/SB11n005_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB11n005/SB11n005_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB11n005/SB11n005_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB11n005/SB11n005_005-002.tif][冊 5]]
 
 *** KR1d0027 儀禮疏-唐-賈公彥
 :PROPERTIES:
@@ -1237,11 +1226,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB11n006/SB11n006_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB11n006/SB11n006_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB11n006/SB11n006_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB11n006/SB11n006_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB11n006/SB11n006_005-002.tif][冊 5]]
 *** KR1d0055 禮記要義-宋-魏了翁
 :PROPERTIES:
 :KR_ID: KR1d0055

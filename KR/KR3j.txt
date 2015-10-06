@@ -1823,22 +1823,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB13n093/SB13n093_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB13n093/SB13n093_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB13n093/SB13n093_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB13n093/SB13n093_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB13n093/SB13n093_005-002.tif][冊 5]]
-[[krpimg:sbck/SB1/SB13n093/SB13n093_006-002.tif][冊 6]]
-[[krpimg:sbck/SB1/SB13n093/SB13n093_007-002.tif][冊 7]]
-[[krpimg:sbck/SB1/SB13n093/SB13n093_008-002.tif][冊 8]]
-[[krpimg:sbck/SB1/SB13n093/SB13n093_009-002.tif][冊 9]]
-[[krpimg:sbck/SB1/SB13n093/SB13n093_010-002.tif][冊 10]]
-[[krpimg:sbck/SB1/SB13n093/SB13n093_011-002.tif][冊 11]]
-[[krpimg:sbck/SB1/SB13n093/SB13n093_012-002.tif][冊 12]]
-[[krpimg:sbck/SB1/SB13n093/SB13n093_013-002.tif][冊 13]]
-[[krpimg:sbck/SB1/SB13n093/SB13n093_014-002.tif][冊 14]]
-[[krpimg:sbck/SB1/SB13n093/SB13n093_015-002.tif][冊 15]]
-[[krpimg:sbck/SB1/SB13n093/SB13n093_016-002.tif][冊 16]]
 *** KR3j0083 封氏聞見記-唐-封演
 :PROPERTIES:
 :KR_ID: KR3j0083

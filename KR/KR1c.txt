@@ -46,10 +46,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB11n003/SB11n003_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB11n003/SB11n003_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB11n003/SB11n003_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB11n003/SB11n003_004-002.tif][冊 4]]
 *** KR1c0003 詩序-周-卜商
 :PROPERTIES:
 :KR_ID: KR1c0003

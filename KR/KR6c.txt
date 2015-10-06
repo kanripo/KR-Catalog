@@ -3830,7 +3830,6 @@
 :lang@zh-py: (Jin gang ban ruo bo luo mi jing kai ti)
 :EXTENT: I
 :END:
-[[img:T/T57/00/T57-0001.tif][T57, p. 1]]
 **** 人物
 ***** 空海
 :PROPERTIES:
@@ -4455,7 +4454,6 @@
 :lang@zh-py: (Li qu jing kai ti)
 :EXTENT: I
 :END:
-[[img:T/T61/06/T61-0611.tif][T61, p.611]]
 **** 人物
 ***** 空海
 :PROPERTIES:
@@ -4469,7 +4467,6 @@
 :lang@ja-rom: RISHUKYŌ KAIDAI
 :lang@zh-py: (Li qu jing kai ti)
 :END:
-[[img:T/T61/06/T61-0611.tif][T61, p.611]]
 **** T61n2236C 理趣經開題
 :PROPERTIES:
 :CBETA_ID: T61n2236C
@@ -4478,7 +4475,6 @@
 :lang@ja-rom: RISHUKYŌ KAIDAI
 :lang@zh-py: (Li qu jing kai ti)
 :END:
-[[img:T/T61/06/T61-0612.tif][T61, p.612]]
 *** KR6c0122 眞實經文句--空海
 :PROPERTIES:
 :KR_ID: KR6c0122
@@ -4489,7 +4485,6 @@
 :lang@zh-py: (Zhen shi jing wen ju)
 :EXTENT: I
 :END:
-[[img:T/T61/06/T61-0612.tif][T61, p.612]]
 **** 人物
 ***** 空海
 :PROPERTIES:
@@ -4505,7 +4500,6 @@
 :lang@zh-py: (Li qu jing zhong zi shi)
 :EXTENT: I
 :END:
-[[img:T/T61/06/T61-0615.tif][T61, p.615]]
 **** 人物
 ***** 覺鑁
 :PROPERTIES:
@@ -4521,7 +4515,6 @@
 :lang@zh-py: (Da le jing xian yi chao)
 :EXTENT: III
 :END:
-[[img:T/T61/06/T61-0617.tif][T61, p.617]]
 **** 人物
 ***** 濟暹
 :PROPERTIES:
@@ -6613,7 +6606,6 @@
 :lang@zh-py: (Pan ruo xin jing shu yi)
 :EXTENT: I
 :END:
-[[img:T/T57/00/T57-0003.tif][T57, p. 3]]
 **** 人物
 ***** 智光
 :PROPERTIES:
@@ -6664,7 +6656,6 @@
 :lang@zh-py: (Pan ruo xin jing mi jian)
 :EXTENT: I
 :END:
-[[img:T/T57/00/T57-0011.tif][T57, p. 11]]
 **** 人物
 ***** 空海
 :PROPERTIES:
@@ -6679,7 +6670,6 @@
 :lang@zh-py: (Pan ruo xin jing mi jian lüe zhu)
 :EXTENT: I
 :END:
-[[img:T/T57/00/T57-0013.tif][T57, p. 13]]
 **** 人物
 ***** 覺鑁
 :PROPERTIES:
@@ -6695,7 +6685,6 @@
 :lang@zh-py: (Pan ruo xin jing mi jian kai men jue)
 :EXTENT: III
 :END:
-[[img:T/T57/00/T57-0018.tif][T57, p. 18]]
 **** 人物
 ***** 濟暹
 :PROPERTIES:
@@ -7263,7 +7252,6 @@
 :lang@zh-py: (Ren wang jing kai ti)
 :EXTENT: I
 :END:
-[[img:T/T56/08/T56-0827.tif][T56, p.827]]
 **** 人物
 ***** 空海
 :PROPERTIES:

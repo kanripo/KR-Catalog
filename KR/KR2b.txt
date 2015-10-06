@@ -436,11 +436,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB12n034/SB12n034_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB12n034/SB12n034_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB12n034/SB12n034_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB12n034/SB12n034_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB12n034/SB12n034_005-002.tif][冊 5]]
 *** KR2b0017 皇王大紀-宋-胡宏
 :PROPERTIES:
 :KR_ID: KR2b0017

@@ -14,7 +14,6 @@
 :DYNASTY: 唐
 :END:
 
-[[dzimg:0746/0746-004.tif][HFL 0746 004]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -37,7 +36,6 @@
 :DYNASTY: 六朝
 :END:
 
-[[dzimg:0748/0748-004.tif][HFL 0748 004]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -54,7 +52,6 @@
 :HFL: HFL受上004
 :END:
 
-[[dzimg:0755/0755-188.tif][HFL 0755 188]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -72,7 +69,6 @@
 :DYNASTY: 唐
 :END:
 
-[[dzimg:0755/0755-192.tif][HFL 0755 192]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -89,7 +85,6 @@
 :HFL: HFL奉上004
 :END:
 
-[[dzimg:0756/0756-004.tif][HFL 0756 004]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -106,7 +101,6 @@
 :HFL: HFL奉上064
 :END:
 
-[[dzimg:0756/0756-064.tif][HFL 0756 064]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -123,7 +117,6 @@
 :HFL: HFL奉上070
 :END:
 
-[[dzimg:0756/0756-070.tif][HFL 0756 070]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -140,7 +133,6 @@
 :HFL: HFL奉上074
 :END:
 
-[[dzimg:0756/0756-074.tif][HFL 0756 074]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -157,7 +149,6 @@
 :HFL: HFL奉上082
 :END:
 
-[[dzimg:0756/0756-082.tif][HFL 0756 082]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -174,7 +165,6 @@
 :HFL: HFL奉上094
 :END:
 
-[[dzimg:0756/0756-094.tif][HFL 0756 094]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -191,7 +181,6 @@
 :HFL: HFL奉上104
 :END:
 
-[[dzimg:0756/0756-104.tif][HFL 0756 104]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -209,7 +198,6 @@
 :DATE: 1327(introduction)
 :END:
 
-[[dzimg:0757/0757-004.tif][HFL 0757 004]]
 **** 人物
 ***** 黃元吉
      :PROPERTIES:
@@ -238,7 +226,6 @@
 :DATE: early 7th cent
 :END:
 
-[[dzimg:0758/0758-004.tif][HFL 0758 004]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -257,7 +244,6 @@
 :EXTRA_ID: DZJY:JY024
 :END:
 
-[[dzimg:0758/0758-040.tif][HFL 0758 040]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -291,7 +277,6 @@ DZJ0: [[dzjy:JY024/JY024_01.txt][JY024 洞玄靈寶八仙王教誡經 ]]
 :EXTRA_ID: DZJY:JY025
 :END:
 
-[[dzimg:0758/0758-054.tif][HFL 0758 054]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -324,7 +309,6 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 :DYNASTY: 六朝
 :END:
 
-[[dzimg:0758/0758-078.tif][HFL 0758 078]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -342,7 +326,6 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 :DYNASTY: 六朝
 :END:
 
-[[dzimg:0758/0758-110.tif][HFL 0758 110]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -360,7 +343,6 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 :DYNASTY: 唐
 :END:
 
-[[dzimg:0758/0758-126.tif][HFL 0758 126]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -377,7 +359,6 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 :HFL: HFL毋下004
 :END:
 
-[[dzimg:0759/0759-004.tif][HFL 0759 004]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -395,7 +376,6 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 :DYNASTY: 六朝
 :END:
 
-[[dzimg:0759/0759-018.tif][HFL 0759 018]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -413,7 +393,6 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 :DYNASTY: 六朝
 :END:
 
-[[dzimg:0759/0759-050.tif][HFL 0759 050]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -431,7 +410,6 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 :DYNASTY: 六朝
 :END:
 
-[[dzimg:0759/0759-066.tif][HFL 0759 066]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -449,7 +427,6 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 :DYNASTY: 唐
 :END:
 
-[[dzimg:0759/0759-086.tif][HFL 0759 086]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -467,7 +444,6 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 :DYNASTY: 六朝
 :END:
 
-[[dzimg:0759/0759-136.tif][HFL 0759 136]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -485,7 +461,6 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 :DATE: 712 - 713(編)
 :END:
 
-[[dzimg:0760/0760-004.tif][HFL 0760 004]]
 **** 人物
 ***** 史崇
      :PROPERTIES:
@@ -508,7 +483,6 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 :DATE: 7th cent
 :END:
 
-[[dzimg:0760/0760-086.tif][HFL 0760 086]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -526,7 +500,6 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 :DYNASTY: 唐初期
 :END:
 
-[[dzimg:0760/0760-126.tif][HFL 0760 126]]
 **** 人物
 ***** 金明七真
      :PROPERTIES:
@@ -548,7 +521,6 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 :DYNASTY: 唐
 :END:
 
-[[dzimg:0761/0761-086.tif][HFL 0761 086]]
 **** 人物
 ***** 太極太虛真人
      :PROPERTIES:
@@ -570,7 +542,6 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 :HFL: HFL　
 :END:
 
-[[dzimg:166/166-陸先生道門科略.tif][HFL 166 陸先生道門科略]]
 **** 人物
 ***** 陸修靜
      :PROPERTIES:
@@ -593,7 +564,6 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 :DATE: ca. 680
 :END:
 
-[[dzimg:0762/0762-004.tif][HFL 0762 004]]
 **** 人物
 ***** 潘師正
      :PROPERTIES:
@@ -614,7 +584,6 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 :HFL: HFL諸上126
 :END:
 
-[[dzimg:0762/0762-126.tif][HFL 0762 126]]
 **** 人物
 ***** 孟安排
      :PROPERTIES:
@@ -637,7 +606,6 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 :DYNASTY: 唐
 :END:
 
-[[dzimg:0764/0764-004.tif][HFL 0764 004]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -655,7 +623,6 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 :DYNASTY: 隋 or 唐初期
 :END:
 
-[[dzimg:0764/0764-124.tif][HFL 0764 124]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -672,7 +639,6 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 :HFL: HFL姑下072
 :END:
 
-[[dzimg:0765/0765-072.tif][HFL 0765 072]]
 **** 人物
 ***** 王懸河
      :PROPERTIES:
@@ -694,7 +660,6 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 :HFL: HFL伯上004
 :END:
 
-[[dzimg:0766/0766-004.tif][HFL 0766 004]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -711,7 +676,6 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 :HFL: HFL伯下004
 :END:
 
-[[dzimg:0767/0767-004.tif][HFL 0767 004]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -728,7 +692,6 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 :HFL: HFL伯下008
 :END:
 
-[[dzimg:0767/0767-008.tif][HFL 0767 008]]
 **** 人物
 ***** 羅隱
      :PROPERTIES:
@@ -752,7 +715,6 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 :DATE: 7th cent or earlier
 :END:
 
-[[dzimg:0767/0767-052.tif][HFL 0767 052]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -770,7 +732,6 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 :DYNASTY: 金
 :END:
 
-[[dzimg:0767/0767-146.tif][HFL 0767 146]]
 **** 人物
 ***** 侯善淵
      :PROPERTIES:
@@ -793,7 +754,6 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 :DATE: late 6th cent
 :END:
 
-[[dzimg:0768/0768-004.tif][HFL 0768 004]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -811,7 +771,6 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 :DATE: ca. 680
 :END:
 
-[[dzimg:0780/0780-004.tif][HFL 0780 004]]
 **** 人物
 ***** 王懸河
      :PROPERTIES:
@@ -837,7 +796,6 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 :EXTRA_ID: DZJY:JY221
 :END:
 
-[[dzimg:0783/0783-004.tif][HFL 0783 004]]
 **** 人物
 ***** 姬志真
      :PROPERTIES:
@@ -884,7 +842,6 @@ DZJ0: [[dzjy:JY221/JY221_01.txt][JY221 雲山集 ]]
 :EXTRA_ID: DZJY:JY196
 :END:
 
-[[dzimg:0785/0785-004.tif][HFL 0785 004]]
 **** 人物
 ***** 劉處玄
      :PROPERTIES:
@@ -922,7 +879,6 @@ DZJ0: [[dzjy:JY196/JY196_01.txt][JY196 仙樂集 ]]
 :EXTRA_ID: DZJY:JY200
 :END:
 
-[[dzimg:0786/0786-004.tif][HFL 0786 004]]
 **** 人物
 ***** 馬丹陽
      :PROPERTIES:
@@ -961,7 +917,6 @@ DZJ0: [[dzjy:JY200/JY200_01.txt][JY200 漸悟集 ]]
 :EXTRA_ID: DZJY:JY222
 :END:
 
-[[dzimg:0786/0786-158.tif][HFL 0786 158]]
 **** 人物
 ***** 王丹桂
      :PROPERTIES:
@@ -1001,7 +956,6 @@ DZJ0: [[dzjy:JY222/JY222_01.txt][JY222 草堂集 ]]
 :EXTRA_ID: DZJY:JY223
 :END:
 
-[[dzimg:0787/0787-004.tif][HFL 0787 004]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -1035,7 +989,6 @@ DZJ0: [[dzjy:JY223/JY223_01.txt][JY223 自然集 ]]
 :EXTRA_ID: DZJY:JY224
 :END:
 
-[[dzimg:0787/0787-026.tif][HFL 0787 026]]
 **** 人物
 ***** 玄沖師
      :PROPERTIES:
@@ -1077,7 +1030,6 @@ DZJ0: [[dzjy:JY224/JY224_01.txt][JY224 鳴真集 ]]
 :EXTRA_ID: DZJY:JY207
 :END:
 
-[[dzimg:0787/0787-050.tif][HFL 0787 050]]
 **** 人物
 ***** 尹志平
      :PROPERTIES:
@@ -1122,7 +1074,6 @@ DZJ0: [[dzjy:JY207/JY207_01.txt][JY207 葆光集 ]]
 :EXTRA_ID: DZJY:JY225
 :END:
 
-[[dzimg:0788/0788-004.tif][HFL 0788 004]]
 **** 人物
 ***** 郭志誠
      :PROPERTIES:
@@ -1160,7 +1111,6 @@ DZJ0: [[dzjy:JY225/JY225_01.txt][JY225 西雲集 ]]
 :HFL: HFL同下066
 :END:
 
-[[dzimg:0788/0788-066.tif][HFL 0788 066]]
 **** 人物
 ***** 楊至質
      :PROPERTIES:
@@ -1185,7 +1135,6 @@ DZJ0: [[dzjy:JY225/JY225_01.txt][JY225 西雲集 ]]
 :EXTRA_ID: DZJY:JY199
 :END:
 
-[[dzimg:0789/0789-004.tif][HFL 0789 004]]
 **** 人物
 ***** 馬丹陽
      :PROPERTIES:
@@ -1225,7 +1174,6 @@ DZJ0: [[dzjy:JY199/JY199_01.txt][JY199 洞玄金玉集 ]]
 :EXTRA_ID: DZJY:JY201
 :END:
 
-[[dzimg:0791/0791-004.tif][HFL 0791 004]]
 **** 人物
 ***** 馬鈺
      :PROPERTIES:
@@ -1266,7 +1214,6 @@ DZJ0: [[dzjy:JY201/JY201_01.txt][JY201 丹陽神光燦 ]]
 :DATE: 13th cent
 :END:
 
-[[dzimg:0791/0791-078.tif][HFL 0791 078]]
 **** 人物
 ***** 李先生
      :PROPERTIES:
@@ -1290,7 +1237,6 @@ DZJ0: [[dzjy:JY201/JY201_01.txt][JY201 丹陽神光燦 ]]
 :EXTRA_ID: DZJY:JY206
 :END:
 
-[[dzimg:0792/0792-004.tif][HFL 0792 004]]
 **** 人物
 ***** 王處一
      :PROPERTIES:
@@ -1328,7 +1274,6 @@ DZJ0: [[dzjy:JY206/JY206_01.txt][JY206 雲光集 ]]
 :EXTRA_ID: DZJY:JY187
 :END:
 
-[[dzimg:0793/0793-004.tif][HFL 0793 004]]
 **** 人物
 ***** 王嚞
      :PROPERTIES:
@@ -1374,7 +1319,6 @@ but <pb:CK-KZ_JY187_p0003a> seems to be 3a of SEC 1...¶
 :EXTRA_ID: DZJY:JY188
 :END:
 
-[[dzimg:0795/0795-126.tif][HFL 0795 126]]
 **** 人物
 ***** 王嚞
      :PROPERTIES:
@@ -1413,7 +1357,6 @@ DZJ0: [[dzjy:JY188/JY188_01.txt][JY188 重陽教化集 ]]
 :EXTRA_ID: DZJY:JY189
 :END:
 
-[[dzimg:0796/0796-066.tif][HFL 0796 066]]
 **** 人物
 ***** 王嚞
      :PROPERTIES:
@@ -1454,7 +1397,6 @@ DZJ0: [[dzjy:JY189/JY189_01.txt][JY189 重陽分梨十化集 ]]
 :HFL: HFL交下116
 :END:
 
-[[dzimg:0796/0796-116.tif][HFL 0796 116]]
 **** 人物
 ***** 王嚞
      :PROPERTIES:
@@ -1477,7 +1419,6 @@ DZJ0: [[dzjy:JY189/JY189_01.txt][JY189 重陽分梨十化集 ]]
 :DATE: 北宋?
 :END:
 
-[[dzimg:0796/0796-162.tif][HFL 0796 162]]
 **** 人物
 ***** 馬自然
      :PROPERTIES:
@@ -1499,7 +1440,6 @@ DZJ0: [[dzjy:JY189/JY189_01.txt][JY189 重陽分梨十化集 ]]
 :DATE: 12th cent
 :END:
 
-[[dzimg:0796/0796-168.tif][HFL 0796 168]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -1518,7 +1458,6 @@ DZJ0: [[dzjy:JY189/JY189_01.txt][JY189 重陽分梨十化集 ]]
 :EXTRA_ID: DZJY:JY195
 :END:
 
-[[dzimg:0797/0797-004.tif][HFL 0797 004]]
 **** 人物
 ***** 丘處機
      :PROPERTIES:
@@ -1557,7 +1496,6 @@ DZJ0: [[dzjy:JY195/JY195_01.txt][JY195 磻溪集 ]]
 :EXTRA_ID: DZJY:JY198
 :END:
 
-[[dzimg:0798/0798-004.tif][HFL 0798 004]]
 **** 人物
 ***** 譚處端
      :PROPERTIES:
@@ -1596,7 +1534,6 @@ DZJ0: [[dzjy:JY198/JY198_01.txt][JY198 水雲集 ]]
 :EXTRA_ID: DZJY:JY205
 :END:
 
-[[dzimg:0798/0798-128.tif][HFL 0798 128]]
 **** 人物
 ***** 郝大通
      :PROPERTIES:
@@ -1637,7 +1574,6 @@ DZJ0: [[dzjy:JY205/JY205_01.txt][JY205 太古集 ]]
 :HFL: HFL友下004
 :END:
 PROPERROR xx DZ1162 xx x 孫真人備急千金要方目錄
-[[dzimg:0799/0799-004.tif][HFL 0799 004]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -1656,7 +1592,6 @@ PROPERROR xx DZ1162 xx x 孫真人備急千金要方目錄
 :EXTRA_ID: DZJY:JY147
 :END:
 
-[[dzimg:0800/0800-004.tif][HFL 0800 004]]
 **** 人物
 ***** 孫思邈
      :PROPERTIES:
@@ -1698,7 +1633,6 @@ DZJ0: [[dzjy:JY147/JY147_01.txt][JY147 孫真人備急千金要方 ]]
 :DATE: 1444 - 1445(編)
 :END:
 
-[[dzimg:0821/0821-004.tif][HFL 0821 004]]
 **** 版本
 ***** SJB
 ***** ZHDZ
@@ -1715,7 +1649,6 @@ DZJ0: [[dzjy:JY147/JY147_01.txt][JY147 孫真人備急千金要方 ]]
 :HFL: HFL造上004
 :END:
 
-[[dzimg:0823/0823-004.tif][HFL 0823 004]]
 **** 人物
 ***** 趙宜真
      :PROPERTIES:
@@ -1744,7 +1677,6 @@ DZJ0: [[dzjy:JY147/JY147_01.txt][JY147 孫真人備急千金要方 ]]
 :DYNASTY: 明
 :END:
 
-[[dzimg:0825/0825-004.tif][HFL 0825 004]]
 **** 版本
 ***** SJB
 ***** ZHDZ

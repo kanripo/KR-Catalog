@@ -261,7 +261,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n187/SB14n187_001-002.tif][冊 1]]
 *** KR4d0011 南陽集-宋-趙湘
 :PROPERTIES:
 :KR_ID: KR4d0011
@@ -379,7 +378,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n189/SB14n189_001-002.tif][冊 1]]
 *** KR4d0016 元獻遺文-宋-晏殊
 :PROPERTIES:
 :KR_ID: KR4d0016
@@ -796,8 +794,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB2/SB24n376/SB24n376_001-002.tif][冊 1]] fix pages
-[[krpimg:sbck/SB2/SB24n376/SB24n376_002-002.tif][冊 2]]
 *** KR4d0034 蘇學士集-宋-蘇舜欽
 :PROPERTIES:
 :KR_ID: KR4d0034
@@ -868,14 +864,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB3/SB34n447/SB34n447_001-002.tif][冊 1]]
-[[krpimg:sbck/SB3/SB34n447/SB34n447_002-002.tif][冊 2]]
-[[krpimg:sbck/SB3/SB34n447/SB34n447_003-002.tif][冊 3]]
-[[krpimg:sbck/SB3/SB34n447/SB34n447_004-002.tif][冊 4]]
-[[krpimg:sbck/SB3/SB34n447/SB34n447_005-002.tif][冊 5]]
-[[krpimg:sbck/SB3/SB34n447/SB34n447_006-002.tif][冊 6]]
-[[krpimg:sbck/SB3/SB34n447/SB34n447_007-002.tif][冊 7]]
-[[krpimg:sbck/SB3/SB34n447/SB34n447_008-002.tif][冊 8]]
 *** KR4d0037 伐檀集-宋-黃庶
 :PROPERTIES:
 :KR_ID: KR4d0037
@@ -1965,16 +1953,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n202/SB14n202_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n202/SB14n202_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n202/SB14n202_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB14n202/SB14n202_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB14n202/SB14n202_005-002.tif][冊 5]]
-[[krpimg:sbck/SB1/SB14n202/SB14n202_006-002.tif][冊 6]]
-[[krpimg:sbck/SB1/SB14n202/SB14n202_007-002.tif][冊 7]]
-[[krpimg:sbck/SB1/SB14n202/SB14n202_008-002.tif][冊 8]]
-[[krpimg:sbck/SB1/SB14n202/SB14n202_009-002.tif][冊 9]]
-[[krpimg:sbck/SB1/SB14n202/SB14n202_010-002.tif][冊 10]]
 *** KR4d0079 經進東坡文集事略-宋-
 :PROPERTIES:
 :KR_ID: KR4d0079
@@ -2007,16 +1985,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n203/SB14n203_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n203/SB14n203_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n203/SB14n203_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB14n203/SB14n203_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB14n203/SB14n203_005-002.tif][冊 5]]
-[[krpimg:sbck/SB1/SB14n203/SB14n203_006-002.tif][冊 6]]
-[[krpimg:sbck/SB1/SB14n203/SB14n203_007-002.tif][冊 7]]
-[[krpimg:sbck/SB1/SB14n203/SB14n203_008-002.tif][冊 8]]
-[[krpimg:sbck/SB1/SB14n203/SB14n203_009-002.tif][冊 9]]
-[[krpimg:sbck/SB1/SB14n203/SB14n203_010-002.tif][冊 10]]
 *** KR4d0080 施註蘇詩-宋-蘇軾
 :PROPERTIES:
 :KR_ID: KR4d0080
@@ -2257,8 +2225,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n205/SB14n205_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n205/SB14n205_002-002.tif][冊 2]]
 *** KR4d0084 山谷集-宋-黃庭堅
 :PROPERTIES:
 :KR_ID: KR4d0084
@@ -2496,18 +2462,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n208/SB14n208_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n208/SB14n208_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n208/SB14n208_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB14n208/SB14n208_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB14n208/SB14n208_005-002.tif][冊 5]]
-[[krpimg:sbck/SB1/SB14n208/SB14n208_006-002.tif][冊 6]]
-[[krpimg:sbck/SB1/SB14n208/SB14n208_007-002.tif][冊 7]]
-[[krpimg:sbck/SB1/SB14n208/SB14n208_008-002.tif][冊 8]]
-[[krpimg:sbck/SB1/SB14n208/SB14n208_009-002.tif][冊 9]]
-[[krpimg:sbck/SB1/SB14n208/SB14n208_010-002.tif][冊 10]]
-[[krpimg:sbck/SB1/SB14n208/SB14n208_011-002.tif][冊 11]]
-[[krpimg:sbck/SB1/SB14n208/SB14n208_012-002.tif][冊 12]]
 *** KR4d0091 淮海集-宋-秦觀
 :PROPERTIES:
 :KR_ID: KR4d0091
@@ -3969,10 +3923,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n213/SB14n213_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n213/SB14n213_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n213/SB14n213_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB14n213/SB14n213_004-002.tif][冊 4]]
 *** KR4d0155 簡齋詩外集-宋-
 :PROPERTIES:
 :KR_ID: KR4d0155
@@ -3999,7 +3949,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n214/SB14n214_001-002.tif][冊 1]]
 *** KR4d0156 北山集-宋-程俱
 :PROPERTIES:
 :KR_ID: KR4d0156
@@ -6677,8 +6626,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n225/SB14n225_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n225/SB14n225_002-002.tif][冊 2]]
 *** KR4d0270 放翁詩選-宋-陸游
 :PROPERTIES:
 :KR_ID: KR4d0270
@@ -8078,7 +8025,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB2/SB24n387/SB24n387_001-002.tif][冊 1]]
 *** KR4d0332 臞軒集-宋-王邁
 :PROPERTIES:
 :KR_ID: KR4d0332
@@ -8307,8 +8253,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB2/SB24n388/SB24n388_001-002.tif][冊 1]]
-[[krpimg:sbck/SB2/SB24n388/SB24n388_002-002.tif][冊 2]]
 *** KR4d0342 澗泉集-宋-韓淲
 :PROPERTIES:
 :KR_ID: KR4d0342
@@ -8983,8 +8927,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB2/SB24n390/SB24n390_001-002.tif][冊 1]]
-[[krpimg:sbck/SB2/SB24n390/SB24n390_002-002.tif][冊 2]]
 *** KR4d0374 須溪集-宋-劉辰翁
 :PROPERTIES:
 :KR_ID: KR4d0374
@@ -11974,18 +11916,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n247/SB14n247_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n247/SB14n247_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n247/SB14n247_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB14n247/SB14n247_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB14n247/SB14n247_005-002.tif][冊 5]]
-[[krpimg:sbck/SB1/SB14n247/SB14n247_006-002.tif][冊 6]]
-[[krpimg:sbck/SB1/SB14n247/SB14n247_007-002.tif][冊 7]]
-[[krpimg:sbck/SB1/SB14n247/SB14n247_008-002.tif][冊 8]]
-[[krpimg:sbck/SB1/SB14n247/SB14n247_009-002.tif][冊 9]]
-[[krpimg:sbck/SB1/SB14n247/SB14n247_010-002.tif][冊 10]]
-[[krpimg:sbck/SB1/SB14n247/SB14n247_011-002.tif][冊 11]]
-[[krpimg:sbck/SB1/SB14n247/SB14n247_012-002.tif][冊 12]]
 *** KR4d0504 圭齋文集-元-歐陽玄
 :PROPERTIES:
 :KR_ID: KR4d0504
@@ -12384,8 +12314,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n250/SB14n250_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n250/SB14n250_002-002.tif][冊 2]]
 *** KR4d0520 存復齋文集-元-
 :PROPERTIES:
 :KR_ID: KR4d0520
@@ -12412,8 +12340,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB2/SB24n392/SB24n392_001-002.tif][冊 1]]
-[[krpimg:sbck/SB2/SB24n392/SB24n392_002-002.tif][冊 2]]
 *** KR4d0521 筠軒集-元-唐元
 :PROPERTIES:
 :KR_ID: KR4d0521
@@ -13664,9 +13590,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB1/SB14n253/SB14n253_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n253/SB14n253_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n253/SB14n253_003-002.tif][冊 3]]
 *** KR4d0576 清閟閣全集-元-倪瓚
 :PROPERTIES:
 :KR_ID: KR4d0576
@@ -14008,8 +13931,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB3/SB34n457/SB34n457_001-002.tif][冊 1]]
-[[krpimg:sbck/SB3/SB34n457/SB34n457_002-002.tif][冊 2]]
 *** KR4d0589 麗則遺音-元-楊維楨
 :PROPERTIES:
 :KR_ID: KR4d0589
@@ -14131,8 +14052,6 @@
 
 
 **** 电子版
-[[krpimg:sbck/SB2/SB24n395/SB24n395_001-002.tif][冊 1]]
-[[krpimg:sbck/SB2/SB24n395/SB24n395_002-002.tif][冊 2]]
 *** KR4d0594 石門集-元-梁寅
 :PROPERTIES:
 :KR_ID: KR4d0594
