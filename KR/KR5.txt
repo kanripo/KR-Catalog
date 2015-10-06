@@ -1,5 +1,5 @@
 # -*- mode: org; -*-
-* ZB5 道部
+* KR5 道部
 ** [[file:KR5a.txt][KR5a 洞真部]]
 ** [[file:KR5b.txt][KR5b 洞玄部]]
 ** [[file:KR5c.txt][KR5c 洞神部]]
