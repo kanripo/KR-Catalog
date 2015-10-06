@@ -1,0 +1,668 @@
+#-*- mode: org; -*-
+** KR5f ZB5f 太清部
+*** KR5f0001 [[mandoku:ZB5f0001.org][ZB5f0001]] 太上感應篇
+:PROPERTIES:
+:CUSTOM_ID: ZB5f0001
+:TTC: 740 - 742
+:DZ: DZ1167
+:page: 270001a
+:ZHDZ: ZHDZ42p0662
+:XWDZ: XWDZ46p0001
+:BASEEDITION: HFL
+:HFL: HFL義上004
+:END:
+
+[[dzimg:0834/0834-004.tif][HFL 0834 004]]
+**** 人物
+***** 李昌齡
+     :PROPERTIES:
+     :DATES:    937 - 1008
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5f0002 [[mandoku:ZB5f0002.org][ZB5f0002]] 太上老君中經　　　
+:PROPERTIES:
+:CUSTOM_ID: ZB5f0002
+:TTC: 92 - 94
+:DZ: DZ1168
+:page: 270142b
+:ZHDZ: ZHDZ08p0211
+:XWDZ: XWDZ46p0219
+:BASEEDITION: HFL
+:HFL: HFL退下056
+:DYNASTY: 漢後期?
+:END:
+
+[[dzimg:0839/0839-056.tif][HFL 0839 056]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5f0003 [[mandoku:ZB5f0003.org][ZB5f0003]] 太上老君清靜心經　　　
+:PROPERTIES:
+:CUSTOM_ID: ZB5f0003
+:TTC: 316
+:DZ: DZ1169
+:page: 270156c
+:ZHDZ: ZHDZ06p0077
+:XWDZ: XWDZ46p0241
+:BASEEDITION: HFL
+:HFL: HFL退下142
+:END:
+
+[[dzimg:0839/0839-142.tif][HFL 0839 142]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5f0004 [[mandoku:ZB5f0004.org][ZB5f0004]] 太上老君說上七滅罪集福妙經　
+:PROPERTIES:
+:CUSTOM_ID: ZB5f0004
+:TTC: 564
+:DZ: DZ1170
+:page: 270157c
+:ZHDZ: ZHDZ06p0164
+:XWDZ: XWDZ46p0243
+:BASEEDITION: HFL
+:HFL: HFL退下148
+:DYNASTY: 唐?
+:END:
+
+[[dzimg:0839/0839-148.tif][HFL 0839 148]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5f0005 [[mandoku:ZB5f0005.org][ZB5f0005]] 鬻子　
+:PROPERTIES:
+:CUSTOM_ID: ZB5f0005
+:TTC: 69
+:DZ: DZ1171
+:page: 270159a
+:ZHDZ: ZHDZ24p0411
+:XWDZ: XWDZ46p0245
+:BASEEDITION: HFL
+:HFL: HFL顛上004
+:END:
+
+[[dzimg:0840/0840-004.tif][HFL 0840 004]]
+**** 人物
+***** 鬻熊
+     :PROPERTIES:
+     :CERT:     att
+     :DATES:    -11th cent(legendary date)
+     :END:
+***** 逢行珪
+     :PROPERTIES:
+     :FUNCTION: 注
+     :DATES:    653(presentation dated)
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5f0006 [[mandoku:ZB5f0006.org][ZB5f0006]] 公孫龍子　　
+:PROPERTIES:
+:CUSTOM_ID: ZB5f0006
+:TTC: 68 - 69
+:DZ: DZ1172
+:page: 270168c
+:ZHDZ: ZHDZ24p0257
+:XWDZ: XWDZ46p0260
+:BASEEDITION: HFL
+:HFL: HFL顛上062
+:END:
+
+[[dzimg:0840/0840-062.tif][HFL 0840 062]]
+**** 人物
+***** 公孫龍
+     :PROPERTIES:
+     :DATES:    b. -498
+     :END:
+***** 謝絳
+     :PROPERTIES:
+     :ZI:       希深
+     :FUNCTION: 注
+     :DATES:    995 - 1039
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5f0007 [[mandoku:ZB5f0007.org][ZB5f0007]] 尹文子
+:PROPERTIES:
+:CUSTOM_ID: ZB5f0007
+:TTC: 62 - 63
+:DZ: DZ1173
+:page: 270175b
+:ZHDZ: ZHDZ24p0267
+:XWDZ: XWDZ46p0270
+:BASEEDITION: HFL
+:HFL: HFL顛上102
+:END:
+
+[[dzimg:0840/0840-102.tif][HFL 0840 102]]
+**** 人物
+***** 尹文
+     :PROPERTIES:
+     :CERT:     att
+     :DATES:    -5th cent 後半
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5f0008 [[mandoku:ZB5f0008.org][ZB5f0008]] 子華子
+:PROPERTIES:
+:CUSTOM_ID: ZB5f0008
+:TTC: 691
+:DZ: DZ1174
+:page: 270181c
+:ZHDZ: ZHDZ24p0422
+:XWDZ: XWDZ46p0281
+:BASEEDITION: HFL
+:HFL: HFL顛中004
+:DATE: 11th cent 後期 or 12th cent 前期
+:END:
+
+[[dzimg:0841/0841-004.tif][HFL 0841 004]]
+**** 人物
+***** 程本
+     :PROPERTIES:
+     :CERT:     att
+     :DYNASTY:  春秋
+     :ZI:       子華
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5f0009 [[mandoku:ZB5f0009.org][ZB5f0009]] 鶡冠子　　　
+:PROPERTIES:
+:CUSTOM_ID: ZB5f0009
+:TTC: 689
+:DZ: DZ1175
+:page: 270202c
+:ZHDZ: ZHDZ24p0447
+:XWDZ: XWDZ46p0313
+:BASEEDITION: HFL
+:HFL: HFL顛下004
+:END:
+
+[[dzimg:0842/0842-004.tif][HFL 0842 004]]
+**** 人物
+***** 陸佃
+     :PROPERTIES:
+     :FUNCTION: 注
+     :DATES:    1042 - 1102
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5f0010 [[mandoku:ZB5f0010.org][ZB5f0010]] 墨子
+:PROPERTIES:
+:CUSTOM_ID: ZB5f0010
+:TTC: 63 - 64
+:DZ: DZ1176
+:page: 270228b
+:ZHDZ: ZHDZ24p0001
+:XWDZ: XWDZ46p0353
+:BASEEDITION: HFL
+:HFL: HFL沛上004
+:END:
+
+[[dzimg:0843/0843-004.tif][HFL 0843 004]]
+**** 人物
+***** 墨翟
+     :PROPERTIES:
+     :DATES:    -5th cent 後期(active)
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5f0011 [[mandoku:ZB5f0011.org][ZB5f0011]] 韓非子
+:PROPERTIES:
+:CUSTOM_ID: ZB5f0011
+:TTC: 64
+:DZ: DZ1177
+:page: 270306b
+:ZHDZ: ZHDZ24p0275
+:XWDZ: XWDZ46p0473
+:BASEEDITION: HFL
+:HFL: HFL匪上004
+:END:
+
+[[dzimg:0846/0846-004.tif][HFL 0846 004]]
+**** 人物
+***** 韓非
+     :PROPERTIES:
+     :DATES:    d. -233
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5f0012 [[mandoku:ZB5f0012.org][ZB5f0012]] 黃石公素書(一)　　　
+:PROPERTIES:
+:CUSTOM_ID: ZB5f0012
+:TTC: 690
+:DZ: DZ1178
+:page: 270421b
+:ZHDZ: ZHDZ24p0500
+:XWDZ: XWDZ46p0651
+:BASEEDITION: HFL
+:HFL: HFL虧下108
+:END:
+
+[[dzimg:0849/0849-108.tif][HFL 0849 108]]
+**** 人物
+***** 魏魯
+     :PROPERTIES:
+     :FUNCTION: 序
+     :FUNCTION: 注
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5f0013 [[mandoku:ZB5f0013.org][ZB5f0013]] 黃石公素書(二)
+:PROPERTIES:
+:CUSTOM_ID: ZB5f0013
+:TTC: 64 - 65
+:DZ: DZ1179
+:page: 270428b
+:ZHDZ: ZHDZ24p0508
+:XWDZ: XWDZ46p0662
+:BASEEDITION: HFL
+:HFL: HFL虧下152
+:EXTRA_ID: DZJY:JY155
+:END:
+
+[[dzimg:0849/0849-152.tif][HFL 0849 152]]
+**** 人物
+***** 張尚英
+     :PROPERTIES:
+     :ZI:       天覺
+     :FUNCTION: 序
+     :FUNCTION: 注
+     :DATES:    1043 - 1121
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  *JY155 黃石公素書 Huangshi gong sushu			:can:
+:PROPERTIES:
+:EXTENT:  6  fols.
+:LODGE:  危 7
+:KZ:  12: 5273-75
+:CT:  1179
+:DZ: DZ1179 / JY155
+:END:
+黃石公素書
+DZJ0: [[dzjy:JY155/JY155_01.txt][JY155 黃石公素書]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5f0014 [[mandoku:ZB5f0014.org][ZB5f0014]] 孫子註解　
+:PROPERTIES:
+:CUSTOM_ID: ZB5f0014
+:TTC: 69 - 70
+:DZ: DZ1180
+:page: 270436a
+:ZHDZ: ZHDZ24p0099
+:XWDZ: XWDZ46p0675
+:BASEEDITION: HFL
+:HFL: HFL性上004
+:DATE: 11th cent 後期 or 12th cent 前期
+:END:
+
+[[dzimg:0850/0850-004.tif][HFL 0850 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5f0015 [[mandoku:ZB5f0015.org][ZB5f0015]] 孫子遺說　
+:PROPERTIES:
+:CUSTOM_ID: ZB5f0015
+:TTC: 690
+:DZ: DZ1181
+:page: 270575b
+:ZHDZ: ZHDZ24p0249
+:XWDZ: XWDZ46p0892
+:BASEEDITION: HFL
+:HFL: HFL靜下086
+:DATE: 11th cent 後期 or 12th cent 前期
+:END:
+
+[[dzimg:0854/0854-086.tif][HFL 0854 086]]
+**** 人物
+***** 鄭友賢
+     :PROPERTIES:
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5f0016 [[mandoku:ZB5f0016.org][ZB5f0016]] 天原發微
+:PROPERTIES:
+:CUSTOM_ID: ZB5f0016
+:TTC: 742
+:DZ: DZ1182
+:page: 270584a
+:ZHDZ: ZHDZ16p0656
+:XWDZ: XWDZ47p0001
+:BASEEDITION: HFL
+:HFL: HFL情上004
+:END:
+
+[[dzimg:0855/0855-004.tif][HFL 0855 004]]
+**** 人物
+***** 鮑雲龍
+     :PROPERTIES:
+     :ZI:       景翔
+     :DATES:    1226 - 1296
+     :END:
+***** 方回
+     :PROPERTIES:
+     :ZI:       萬里
+     :FUNCTION: 編
+     :DATES:    1227 - 1307
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5f0017 [[mandoku:ZB5f0017.org][ZB5f0017]] 集註太玄經
+:PROPERTIES:
+:CUSTOM_ID: ZB5f0017
+:TTC: 79 - 80
+:DZ: DZ1183
+:page: 270740b
+:ZHDZ: ZHDZ17p0663
+:XWDZ: XWDZ47p0243
+:BASEEDITION: HFL
+:HFL: HFL心上004
+:END:
+
+[[dzimg:0860/0860-004.tif][HFL 0860 004]]
+**** 人物
+***** 揚雄
+     :PROPERTIES:
+     :DATES:    -53 - 18
+     :END:
+***** 司馬光
+     :PROPERTIES:
+     :FUNCTION: 注
+     :DATES:    1019 - 1086
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5f0018 [[mandoku:ZB5f0018.org][ZB5f0018]] 淮南鴻烈解　　
+:PROPERTIES:
+:CUSTOM_ID: ZB5f0018
+:TTC: 65 - 66
+:DZ: DZ1184
+:page: 280001a
+:ZHDZ: ZHDZ24p0517
+:XWDZ: XWDZ47p0377
+:BASEEDITION: HFL
+:HFL: HFL動上004
+:EXTRA_ID: DZJY:JY143
+:END:
+
+[[dzimg:0863/0863-004.tif][HFL 0863 004]]
+**** 人物
+***** 許愼
+     :PROPERTIES:
+     :CERT:     att
+     :FUNCTION: 注
+     :DATES:    d. 124
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY143 淮南鴻烈解  Huainan honglie jie			:can:
+:PROPERTIES:
+:EXTENT:  3 juan
+:LODGE:  虛 6-8 
+:KZ:  11: 4635-4812
+:CT:  1184
+:DZ: DZ1184 / JY143
+:END:
+淮南鴻烈解 
+DZJ0: [[dzjy:JY143/JY143_01.txt][JY143 淮南鴻烈解 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5f0019 [[mandoku:ZB5f0019.org][ZB5f0019]] ZB3n0030 抱朴子內篇
+:PROPERTIES:
+:CUSTOM_ID: ZB5f0019
+:TTC: 70 - 71
+:DZ: DZ1185
+:page: 280171b
+:ZHDZ: ZHDZ25p0001
+:XWDZ: XWDZ47p0639
+:BASEEDITION: HFL
+:HFL: HFL疲下004
+:EXTRA_ID: DZJY:JY144
+:END:
+
+[[dzimg:0868/0868-004.tif][HFL 0868 004]]
+**** 人物
+***** 葛洪
+     :PROPERTIES:
+     :HAO:      抱樸子
+     :DATES:    283 - 343
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** WYG  [[mandoku:ZB3n0030.org][ZB3n0030]] 抱朴子內外篇
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0030
+:SOURCE:   四庫全書 文淵閣版, V1059.1, p1
+:EXTENT: 4 卷
+:BOOK:   4
+:END:
+****** 人物
+******* 葛洪
+       	:PROPERTIES:
+       	:DYNASTY:  晉
+       	:FUNCTION: 撰
+       	:DATES:    ca. 250 - ca. 330
+       	:END:
+
+
+*** KR5f0020 [[mandoku:ZB5f0020.org][ZB5f0020]] 抱朴子別旨
+:PROPERTIES:
+:CUSTOM_ID: ZB5f0020
+:TTC: 376
+:DZ: DZ1186
+:DYNASTY: 唐?
+:BASEEDITION: HFL
+:HFL: HFL守下180
+:END:
+PROPERROR CH0625 DZ1186 KX1208 x 抱樸子別旨 // 抱朴子別旨
+[[dzimg:0870/0870-180.tif][HFL 0870 180]]
+**** 人物
+***** 葛洪
+     :PROPERTIES:
+     :CERT:     att
+     :DATES:    283 - 343
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5f0021 [[mandoku:ZB5f0021.org][ZB5f0021]] ZB3n0030a 抱朴子外篇　
+:PROPERTIES:
+:CUSTOM_ID: ZB5f0021
+:TTC: 71 - 72
+:DZ: DZ1187
+:page: 280252a
+:ZHDZ: ZHDZ25p0091
+:XWDZ: XWDZ47p0763
+:BASEEDITION: HFL
+:HFL: HFL真上004
+:EXTRA_ID: DZJY:JY145
+:END:
+
+[[dzimg:0871/0871-004.tif][HFL 0871 004]]
+**** 人物
+***** 葛洪
+     :PROPERTIES:
+     :HAO:      抱樸子
+     :DATES:    283 - 343
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** WYG [[mandoku:ZB3n0030a.org][ZB3n0030a]] 外篇
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0030a
+:SOURCE:   四庫全書 文淵閣版, V1059.1, p124
+:EXTENT: 4 卷
+:BOOK:   4
+:END:
+
+***** DZJY  *JY145 抱朴子外篇  Baopu zi waipian				:can:
+:PROPERTIES:
+:EXTENT:  17 fols.
+:LODGE:  虛 9
+:KZ:  11: 4897-4905
+:CT:  1187
+:DZ: DZ1187 / JY145
+:END:
+抱朴子外篇 
+DZJ0: [[dzjy:JY145/JY145_01.txt][JY145 抱朴子外篇 ]]
+****** Work notes
+    - the DZJY version has only juan 1 and 50 of the DZ version.   
+****** Comments
+
+
+*** KR5f0022 [[mandoku:ZB5f0022.org][ZB5f0022]] 橐籥子
+:PROPERTIES:
+:CUSTOM_ID: ZB5f0022
+:TTC: 795 - 796
+:DZ: DZ1188
+:page: 280343b
+:ZHDZ: ZHDZ19p0065
+:XWDZ: XWDZ47p0903
+:BASEEDITION: HFL
+:HFL: HFL志下004
+:EXTRA_ID: DZJY:JY219
+:END:
+
+[[dzimg:0874/0874-004.tif][HFL 0874 004]]
+**** 人物
+***** 祝洞天
+     :PROPERTIES:
+     :HAO:      橐籥子
+     :DATES:    fl. 1350
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY219 橐籥子  Tuoyue zi					:can:
+:PROPERTIES:
+:EXTENT:  8 fols.
+:LODGE:  昂 5
+:KZ:  16: 7167-71
+:CT:  1188
+:DZ: DZ1188 / JY219
+:END:
+橐籥子 
+DZJ0: [[dzjy:JY219/JY219_01.txt][JY219 橐籥子 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5f0023 [[mandoku:ZB5f0023.org][ZB5f0023]] 陰丹內篇　　　
+:PROPERTIES:
+:CUSTOM_ID: ZB5f0023
+:TTC: 795 - 796
+:DZ: DZ1189
+:page: 280346a
+:ZHDZ: ZHDZ19p0069
+:XWDZ: XWDZ47p0907
+:BASEEDITION: HFL
+:HFL: HFL志下020
+:EXTRA_ID: DZJY:JY220
+:END:
+
+[[dzimg:0874/0874-020.tif][HFL 0874 020]]
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY220 陰丹內篇  Yindan neipian				:can:
+:PROPERTIES:
+:EXTENT:  2 fols.
+:LODGE:  昂 5
+:KZ:  16: 7171-72
+:CT:  1189
+:DZ: DZ1189 / JY220
+:END:
+陰丹內篇 
+DZJ0: [[dzjy:JY220/JY220_01.txt][JY220 陰丹內篇 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5f0024 [[mandoku:ZB5f0024.org][ZB5f0024]] 天機經　　
+:PROPERTIES:
+:CUSTOM_ID: ZB5f0024
+:TTC: 322 - 323
+:DZ: DZ1190
+:page: 280347a
+:ZHDZ: ZHDZ15p0583
+:XWDZ: XWDZ47p0909
+:BASEEDITION: HFL
+:HFL: HFL志下026
+:DYNASTY: 唐?
+:END:
+
+[[dzimg:0874/0874-026.tif][HFL 0874 026]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5f0025 [[mandoku:ZB5f0025.org][ZB5f0025]] 祕傳正陽真人靈寶畢法
+:PROPERTIES:
+:CUSTOM_ID: ZB5f0025
+:TTC: 801 - 802
+:DZ: DZ1191
+:page: x
+:ZHDZ: ZHDZ19p0154
+:XWDZ: XWDZ47p0913
+:BASEEDITION: HFL
+:HFL: HFL志下042
+:DYNASTY: 北宋
+:EXTRA_ID: DZJY:JY148
+:END:
+
+[[dzimg:0874/0874-042.tif][HFL 0874 042]]
+**** 人物
+***** 鍾離權
+     :PROPERTIES:
+     :CERT:     att
+     :ZI:       雲房
+     :HAO:      正陽真人
+     :END:
+***** 呂喦
+     :PROPERTIES:
+     :ZI:       洞賓
+     :HAO:      純陽真人
+     :FUNCTION: 傳
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY148 靈寶畢法 Lingbao bifa					:can:
+:PROPERTIES:
+:EXTENT:  32 fols.
+:LODGE:  危 1
+:KZ:  12: 5097-5112
+:CT:  1191
+:DZ: DZ1191 / JY148
+:END:
+靈寶畢法
+DZJ0: [[dzjy:JY148/JY148_01.txt][JY148 靈寶畢法]]
+****** Work notes
+
+****** Comments
+
+

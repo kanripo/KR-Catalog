@@ -1,0 +1,1680 @@
+#-*- mode: org; -*-
+** KR6h ZB6h 大集部類
+*** KR6h0001 [[mandoku:ZB6h0001.org][ZB6h0001]]  [[cbeta:T/T13n0397/T13n0397.org][T13n0397]] 大方等大集經
+:PROPERTIES: 
+:BASEEDITION:  T
+:CBETA_ID:  T13n0397
+:GENRE: 經
+:CUSTOM_ID: ZB6h0001
+:SOURCE: Taisho Tripitaka Vol. 13, No. 397
+:DYNASTY: 北涼
+:EXTENT:  60卷
+:END:
+**** 人物 
+***** 曇無讖
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【大】
+:PROPERTIES: 
+:WITID: wit4
+:END:
+
+***** 【大→明】
+:PROPERTIES: 
+:WITID: wit12
+:END:
+
+***** 【大→宋】
+:PROPERTIES: 
+:WITID: wit10
+:END:
+
+***** 【大→元】
+:PROPERTIES: 
+:WITID: wit11
+:END:
+
+***** 【大→宮】
+:PROPERTIES: 
+:WITID: wit25
+:END:
+
+***** 【大→聖】
+:PROPERTIES: 
+:WITID: wit13
+:END:
+
+***** 【大→麗】
+:PROPERTIES: 
+:WITID: wit8
+:END:
+
+***** 【大→麗乙】
+:PROPERTIES: 
+:WITID: wit42
+:END:
+
+***** 【大→別】
+:PROPERTIES: 
+:WITID: wit43
+:END:
+
+***** 【大→磧砂】
+:PROPERTIES: 
+:WITID: wit15
+:END:
+
+***** 【大→久】
+:PROPERTIES: 
+:WITID: wit44
+:END:
+
+*** KR6h0002 [[mandoku:ZB6h0002.org][ZB6h0002]]  [[cbeta:T/T13n0398/T13n0398.org][T13n0398]] 大哀經
+:PROPERTIES: 
+:BASEEDITION:  T
+:CBETA_ID:  T13n0398
+:RELATED: T13n0397-1@經, T13n0397-2@經
+:GENRE: 經
+:CUSTOM_ID: ZB6h0002
+:SOURCE: Taisho Tripitaka Vol. 13, No. 398
+:DYNASTY: 西晉
+:EXTENT:  8卷
+:END:
+**** 人物 
+***** 竺法護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【大】
+:PROPERTIES: 
+:WITID: wit4
+:END:
+
+***** 【大→宋】
+:PROPERTIES: 
+:WITID: wit10
+:END:
+
+***** 【大→元】
+:PROPERTIES: 
+:WITID: wit11
+:END:
+
+***** 【大→宮】
+:PROPERTIES: 
+:WITID: wit25
+:END:
+
+***** 【大→明】
+:PROPERTIES: 
+:WITID: wit12
+:END:
+
+***** 【大→麗】
+:PROPERTIES: 
+:WITID: wit8
+:END:
+
+*** KR6h0003 [[mandoku:ZB6h0003.org][ZB6h0003]]  [[cbeta:T/T13n0399/T13n0399.org][T13n0399]] 寶女所問經
+:PROPERTIES: 
+:BASEEDITION:  T
+:CBETA_ID:  T13n0399
+:RELATED: T13n0397-3@經
+:GENRE: 經
+:CUSTOM_ID: ZB6h0003
+:SOURCE: Taisho Tripitaka Vol. 13, No. 399
+:DYNASTY: 西晉
+:EXTENT:  4卷
+:END:
+**** 人物 
+***** 竺法護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【大】
+:PROPERTIES: 
+:WITID: wit4
+:END:
+
+***** 【大→宋】
+:PROPERTIES: 
+:WITID: wit10
+:END:
+
+***** 【大→元】
+:PROPERTIES: 
+:WITID: wit11
+:END:
+
+***** 【大→明】
+:PROPERTIES: 
+:WITID: wit12
+:END:
+
+***** 【大→宮】
+:PROPERTIES: 
+:WITID: wit25
+:END:
+
+***** 【大→麗】
+:PROPERTIES: 
+:WITID: wit8
+:END:
+
+***** 【大→磧砂】
+:PROPERTIES: 
+:WITID: wit15
+:END:
+
+*** KR6h0004 [[mandoku:ZB6h0004.org][ZB6h0004]]  [[cbeta:T/T13n0400/T13n0400.org][T13n0400]] 佛說海意菩薩所問淨印法門經
+:PROPERTIES: 
+:BASEEDITION:  T
+:CBETA_ID:  T13n0400
+:RELATED: T13n0397-5@經
+:GENRE: 經
+:CUSTOM_ID: ZB6h0004
+:SOURCE: Taisho Tripitaka Vol. 13, No. 400
+:DYNASTY: 宋
+:EXTENT:  18卷
+:END:
+**** 人物 
+***** 惟淨
+:PROPERTIES:
+:FUNCTION: 等譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【大】
+:PROPERTIES: 
+:WITID: wit4
+:END:
+
+***** 【大→元】
+:PROPERTIES: 
+:WITID: wit11
+:END:
+
+***** 【大→明】
+:PROPERTIES: 
+:WITID: wit12
+:END:
+
+***** 【大→宋】
+:PROPERTIES: 
+:WITID: wit10
+:END:
+
+***** 【大→宮】
+:PROPERTIES: 
+:WITID: wit25
+:END:
+
+***** 【大→磧砂】
+:PROPERTIES: 
+:WITID: wit15
+:END:
+
+***** 【大→麗】
+:PROPERTIES: 
+:WITID: wit8
+:END:
+
+***** 【大→明異】
+:PROPERTIES: 
+:WITID: wit21
+:END:
+
+*** KR6h0005 [[mandoku:ZB6h0005.org][ZB6h0005]]  [[cbeta:T/T13n0401/T13n0401.org][T13n0401]] 佛說無言童子經
+:PROPERTIES: 
+:BASEEDITION:  T
+:CBETA_ID:  T13n0401
+:RELATED: T13n0397-6@經
+:GENRE: 經
+:CUSTOM_ID: ZB6h0005
+:SOURCE: Taisho Tripitaka Vol. 13, No. 401
+:DYNASTY: 西晉
+:EXTENT:  2卷
+:END:
+**** 人物 
+***** 竺法護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【大】
+:PROPERTIES: 
+:WITID: wit4
+:END:
+
+***** 【大→宋】
+:PROPERTIES: 
+:WITID: wit10
+:END:
+
+***** 【大→元】
+:PROPERTIES: 
+:WITID: wit11
+:END:
+
+***** 【大→明】
+:PROPERTIES: 
+:WITID: wit12
+:END:
+
+***** 【大→宮】
+:PROPERTIES: 
+:WITID: wit25
+:END:
+
+***** 【大→麗】
+:PROPERTIES: 
+:WITID: wit8
+:END:
+
+***** 【大→明異】
+:PROPERTIES: 
+:WITID: wit21
+:END:
+
+*** KR6h0006 [[mandoku:ZB6h0006.org][ZB6h0006]]  [[cbeta:T/T13n0402/T13n0402.org][T13n0402]] 寶星陀羅尼經
+:PROPERTIES: 
+:BASEEDITION:  T
+:CBETA_ID:  T13n0402
+:RELATED: T13n0397-9@經
+:GENRE: 經
+:CUSTOM_ID: ZB6h0006
+:SOURCE: Taisho Tripitaka Vol. 13, No. 402
+:DYNASTY: 唐
+:EXTENT:  10卷
+:END:
+**** 人物 
+***** 波羅頗蜜多羅
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【大】
+:PROPERTIES: 
+:WITID: wit4
+:END:
+
+***** 【大→宮】
+:PROPERTIES: 
+:WITID: wit25
+:END:
+
+***** 【大→元】
+:PROPERTIES: 
+:WITID: wit11
+:END:
+
+***** 【大→明】
+:PROPERTIES: 
+:WITID: wit12
+:END:
+
+***** 【大→宋】
+:PROPERTIES: 
+:WITID: wit10
+:END:
+
+***** 【大→明異】
+:PROPERTIES: 
+:WITID: wit21
+:END:
+
+***** 【大→麗】
+:PROPERTIES: 
+:WITID: wit8
+:END:
+
+***** 【大→磧砂】
+:PROPERTIES: 
+:WITID: wit15
+:END:
+
+*** KR6h0007 [[mandoku:ZB6h0007.org][ZB6h0007]]  [[cbeta:T/T13n0403/T13n0403.org][T13n0403]] 阿差末菩薩經
+:PROPERTIES: 
+:BASEEDITION:  T
+:CBETA_ID:  T13n0403
+:RELATED: T13n0397-12@經, T13n0397-13@經
+:GENRE: 經
+:CUSTOM_ID: ZB6h0007
+:SOURCE: Taisho Tripitaka Vol. 13, No. 403
+:DYNASTY: 西晉
+:EXTENT:  7卷
+:END:
+**** 人物 
+***** 竺法護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【大】
+:PROPERTIES: 
+:WITID: wit4
+:END:
+
+***** 【大→宋】
+:PROPERTIES: 
+:WITID: wit10
+:END:
+
+***** 【大→元】
+:PROPERTIES: 
+:WITID: wit11
+:END:
+
+***** 【大→明】
+:PROPERTIES: 
+:WITID: wit12
+:END:
+
+***** 【大→宮】
+:PROPERTIES: 
+:WITID: wit25
+:END:
+
+***** 【大→麗】
+:PROPERTIES: 
+:WITID: wit8
+:END:
+
+*** KR6h0008 [[mandoku:ZB6h0008.org][ZB6h0008]]  [[cbeta:T/T13n0404/T13n0404.org][T13n0404]] 大集大虛空藏菩薩所問經
+:PROPERTIES: 
+:BASEEDITION:  T
+:CBETA_ID:  T13n0404
+:RELATED: T13n0397-8@經
+:GENRE: 經
+:CUSTOM_ID: ZB6h0008
+:SOURCE: Taisho Tripitaka Vol. 13, No. 404
+:DYNASTY: 唐
+:EXTENT:  8卷
+:END:
+**** 人物 
+***** 不空
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【大→麗】
+:PROPERTIES: 
+:WITID: wit8
+:END:
+
+***** 【大】
+:PROPERTIES: 
+:WITID: wit4
+:END:
+
+*** KR6h0009 [[mandoku:ZB6h0009.org][ZB6h0009]]  [[cbeta:T/T13n0405/T13n0405.org][T13n0405]] 虛空藏菩薩經
+:PROPERTIES: 
+:BASEEDITION:  T
+:CBETA_ID:  T13n0405
+:RELATED: T13n0406@經, T13n0407@經, T13n0408@經
+:GENRE: 經
+:CUSTOM_ID: ZB6h0009
+:SOURCE: Taisho Tripitaka Vol. 13, No. 405
+:DYNASTY: 姚秦
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 佛陀耶舍
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【大】
+:PROPERTIES: 
+:WITID: wit4
+:END:
+
+***** 【大→明】
+:PROPERTIES: 
+:WITID: wit12
+:END:
+
+***** 【大→宮】
+:PROPERTIES: 
+:WITID: wit25
+:END:
+
+***** 【大→宋】
+:PROPERTIES: 
+:WITID: wit10
+:END:
+
+***** 【大→元】
+:PROPERTIES: 
+:WITID: wit11
+:END:
+
+***** 【大→麗】
+:PROPERTIES: 
+:WITID: wit8
+:END:
+
+***** 【大→磧砂】
+:PROPERTIES: 
+:WITID: wit15
+:END:
+
+*** KR6h0010 [[mandoku:ZB6h0010.org][ZB6h0010]]  [[cbeta:T/T13n0406/T13n0406.org][T13n0406]] 虛空藏菩薩神呪經
+:PROPERTIES: 
+:BASEEDITION:  T
+:CBETA_ID:  T13n0406
+:RELATED: T13n0405@經, T13n0407@經, T13n0408@經
+:GENRE: 經
+:CUSTOM_ID: ZB6h0010
+:SOURCE: Taisho Tripitaka Vol. 13, No. 406
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 失譯
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6h0011 [[mandoku:ZB6h0011.org][ZB6h0011]]  [[cbeta:T/T13n0407/T13n0407.org][T13n0407]] 虛空藏菩薩神呪經
+:PROPERTIES: 
+:BASEEDITION:  T
+:CBETA_ID:  T13n0407
+:RELATED: T13n0405@經, T13n0406@經, T13n0408@經
+:GENRE: 經
+:CUSTOM_ID: ZB6h0011
+:SOURCE: Taisho Tripitaka Vol. 13, No. 407
+:DYNASTY: 宋
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 曇摩蜜多
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【大】
+:PROPERTIES: 
+:WITID: wit4
+:END:
+
+***** 【大→元】
+:PROPERTIES: 
+:WITID: wit11
+:END:
+
+***** 【大→明】
+:PROPERTIES: 
+:WITID: wit12
+:END:
+
+***** 【大→宋】
+:PROPERTIES: 
+:WITID: wit10
+:END:
+
+***** 【大→宮】
+:PROPERTIES: 
+:WITID: wit25
+:END:
+
+*** KR6h0012 [[mandoku:ZB6h0012.org][ZB6h0012]]  [[cbeta:T/T13n0408/T13n0408.org][T13n0408]] 虛空孕菩薩經
+:PROPERTIES: 
+:BASEEDITION:  T
+:CBETA_ID:  T13n0408
+:RELATED: T13n0405@經, T13n0406@經, T13n0407@經
+:GENRE: 經
+:CUSTOM_ID: ZB6h0012
+:SOURCE: Taisho Tripitaka Vol. 13, No. 408
+:DYNASTY: 隋
+:EXTENT:  2卷
+:END:
+**** 人物 
+***** 闍那崛多
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【大】
+:PROPERTIES: 
+:WITID: wit4
+:END:
+
+***** 【大→宮】
+:PROPERTIES: 
+:WITID: wit25
+:END:
+
+***** 【大→宋】
+:PROPERTIES: 
+:WITID: wit10
+:END:
+
+***** 【大→元】
+:PROPERTIES: 
+:WITID: wit11
+:END:
+
+***** 【大→明】
+:PROPERTIES: 
+:WITID: wit12
+:END:
+
+*** KR6h0013 [[mandoku:ZB6h0013.org][ZB6h0013]]  [[cbeta:T/T13n0409/T13n0409.org][T13n0409]] 觀虛空藏菩薩經
+:PROPERTIES: 
+:BASEEDITION:  T
+:CBETA_ID:  T13n0409
+:GENRE: 經
+:CUSTOM_ID: ZB6h0013
+:SOURCE: Taisho Tripitaka Vol. 13, No. 409
+:DYNASTY: 劉宋
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 曇摩蜜多
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【大】
+:PROPERTIES: 
+:WITID: wit4
+:END:
+
+***** 【大→元】
+:PROPERTIES: 
+:WITID: wit11
+:END:
+
+***** 【大→明】
+:PROPERTIES: 
+:WITID: wit12
+:END:
+
+***** 【大→宋】
+:PROPERTIES: 
+:WITID: wit10
+:END:
+
+***** 【大→宮】
+:PROPERTIES: 
+:WITID: wit25
+:END:
+
+*** KR6h0014 [[mandoku:ZB6h0014.org][ZB6h0014]]  [[cbeta:T/T13n0410/T13n0410.org][T13n0410]] 大方廣十輪經
+:PROPERTIES: 
+:BASEEDITION:  T
+:CBETA_ID:  T13n0410
+:RELATED: T13n0411@經
+:GENRE: 經
+:CUSTOM_ID: ZB6h0014
+:SOURCE: Taisho Tripitaka Vol. 13, No. 410
+:EXTENT:  8卷
+:END:
+**** 人物 
+***** 失譯
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【大】
+:PROPERTIES: 
+:WITID: wit4
+:END:
+
+***** 【大→宋】
+:PROPERTIES: 
+:WITID: wit10
+:END:
+
+***** 【大→元】
+:PROPERTIES: 
+:WITID: wit11
+:END:
+
+***** 【大→明】
+:PROPERTIES: 
+:WITID: wit12
+:END:
+
+***** 【大→宮】
+:PROPERTIES: 
+:WITID: wit25
+:END:
+
+***** 【大→聖】
+:PROPERTIES: 
+:WITID: wit13
+:END:
+
+***** 【大→麗】
+:PROPERTIES: 
+:WITID: wit8
+:END:
+
+***** 【大→聖乙】
+:PROPERTIES: 
+:WITID: wit34
+:END:
+
+*** KR6h0015 [[mandoku:ZB6h0015.org][ZB6h0015]]  [[cbeta:T/T13n0411/T13n0411.org][T13n0411]] 大乘大集地藏十輪經
+:PROPERTIES: 
+:BASEEDITION:  T
+:CBETA_ID:  T13n0411
+:RELATED: T13n0410@經
+:GENRE: 經
+:CUSTOM_ID: ZB6h0015
+:SOURCE: Taisho Tripitaka Vol. 13, No. 411
+:DYNASTY: 唐
+:EXTENT:  10卷
+:END:
+**** 人物 
+***** 玄奘
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【大】
+:PROPERTIES: 
+:WITID: wit4
+:END:
+
+***** 【大→宋】
+:PROPERTIES: 
+:WITID: wit10
+:END:
+
+***** 【大→元】
+:PROPERTIES: 
+:WITID: wit11
+:END:
+
+***** 【大→明】
+:PROPERTIES: 
+:WITID: wit12
+:END:
+
+***** 【大→宮】
+:PROPERTIES: 
+:WITID: wit25
+:END:
+
+***** 【大→聖】
+:PROPERTIES: 
+:WITID: wit13
+:END:
+
+***** 【大→麗】
+:PROPERTIES: 
+:WITID: wit8
+:END:
+
+*** KR6h0016 [[mandoku:ZB6h0016.org][ZB6h0016]]  [[cbeta:T/T13n0412/T13n0412.org][T13n0412]] 地藏菩薩本願經
+:PROPERTIES: 
+:BASEEDITION:  T
+:CBETA_ID:  T13n0412
+:GENRE: 經
+:CUSTOM_ID: ZB6h0016
+:SOURCE: Taisho Tripitaka Vol. 13, No. 412
+:DYNASTY: 唐
+:EXTENT:  2卷
+:END:
+**** 人物 
+***** 實叉難陀
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit16
+:END:
+
+***** 
+:PROPERTIES: 
+:WITID: 
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6h0017 [[mandoku:ZB6h0017.org][ZB6h0017]]  [[cbeta:X/X21n0382/X21n0382.org][X21n0382]] 地藏本願經科文
+:PROPERTIES: 
+:BASEEDITION:  X
+:CBETA_ID:  X21n0382
+:GENRE: 疏
+:CUSTOM_ID: ZB6h0017
+:SOURCE: 卍 Xuzangjing Vol. 21, No. 382
+:DYNASTY: 清
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 靈椉
+:PROPERTIES:
+:FUNCTION: 定
+:END:
+***** 岳玄
+:PROPERTIES:
+:FUNCTION: 排
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6h0018 [[mandoku:ZB6h0018.org][ZB6h0018]]  [[cbeta:X/X21n0383/X21n0383.org][X21n0383]] 地藏本願經綸貫
+:PROPERTIES: 
+:BASEEDITION:  X
+:CBETA_ID:  X21n0383
+:GENRE: 疏
+:CUSTOM_ID: ZB6h0018
+:SOURCE: 卍 Xuzangjing Vol. 21, No. 383
+:DYNASTY: 清
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 靈椉
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6h0019 [[mandoku:ZB6h0019.org][ZB6h0019]]  [[cbeta:X/X21n0384/X21n0384.org][X21n0384]] 地藏本願經科註
+:PROPERTIES: 
+:BASEEDITION:  X
+:CBETA_ID:  X21n0384
+:GENRE: 疏
+:CUSTOM_ID: ZB6h0019
+:SOURCE: 卍 Xuzangjing Vol. 21, No. 384
+:DYNASTY: 清
+:EXTENT:  6卷
+:END:
+**** 人物 
+***** 靈椉
+:PROPERTIES:
+:FUNCTION: 輯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6h0020 [[mandoku:ZB6h0020.org][ZB6h0020]]  [[cbeta:X/X74n1486/X74n1486.org][X74n1486]] 讚禮地藏菩薩懺願儀
+:PROPERTIES: 
+:BASEEDITION:  X
+:CBETA_ID:  X74n1486
+:GENRE: 禮懺
+:CUSTOM_ID: ZB6h0020
+:SOURCE: 卍 Xuzangjing Vol. 74, No. 1486
+:DYNASTY: 明
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 智旭
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6h0021 [[mandoku:ZB6h0021.org][ZB6h0021]]  [[cbeta:X/X74n1487/X74n1487.org][X74n1487]] 慈悲地藏菩薩懺法
+:PROPERTIES: 
+:BASEEDITION:  X
+:CBETA_ID:  X74n1487
+:GENRE: 禮懺
+:CUSTOM_ID: ZB6h0021
+:SOURCE: 卍 Xuzangjing Vol. 74, No. 1487
+:DYNASTY: 清
+:EXTENT:  3卷
+:END:
+**** 人物 
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6h0022 [[mandoku:ZB6h0022.org][ZB6h0022]]  [[cbeta:T/T13n0413/T13n0413.org][T13n0413]] 百千頌大集經地藏菩薩請問法身讚
+:PROPERTIES: 
+:BASEEDITION:  T
+:CBETA_ID:  T13n0413
+:GENRE: 經
+:CUSTOM_ID: ZB6h0022
+:SOURCE: Taisho Tripitaka Vol. 13, No. 413
+:DYNASTY: 唐
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 不空
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【大】
+:PROPERTIES: 
+:WITID: wit4
+:END:
+
+***** 【大→宋】
+:PROPERTIES: 
+:WITID: wit10
+:END:
+
+***** 【大→元】
+:PROPERTIES: 
+:WITID: wit11
+:END:
+
+***** 【大→宮】
+:PROPERTIES: 
+:WITID: wit25
+:END:
+
+***** 【大→明】
+:PROPERTIES: 
+:WITID: wit12
+:END:
+
+*** KR6h0023 [[mandoku:ZB6h0023.org][ZB6h0023]]  [[cbeta:T/T13n0414/T13n0414.org][T13n0414]] 菩薩念佛三昧經
+:PROPERTIES: 
+:BASEEDITION:  T
+:CBETA_ID:  T13n0414
+:RELATED: T13n0415@經
+:GENRE: 經
+:CUSTOM_ID: ZB6h0023
+:SOURCE: Taisho Tripitaka Vol. 13, No. 414
+:DYNASTY: 劉宋
+:EXTENT:  5卷
+:END:
+**** 人物 
+***** 功德
+:PROPERTIES:
+:FUNCTION: 直譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【大】
+:PROPERTIES: 
+:WITID: wit4
+:END:
+
+***** 【大→宋】
+:PROPERTIES: 
+:WITID: wit10
+:END:
+
+***** 【大→元】
+:PROPERTIES: 
+:WITID: wit11
+:END:
+
+***** 【大→明】
+:PROPERTIES: 
+:WITID: wit12
+:END:
+
+***** 【大→宮】
+:PROPERTIES: 
+:WITID: wit25
+:END:
+
+***** 【大→麗】
+:PROPERTIES: 
+:WITID: wit8
+:END:
+
+***** 【大→知】
+:PROPERTIES: 
+:WITID: wit16
+:END:
+
+*** KR6h0024 [[mandoku:ZB6h0024.org][ZB6h0024]]  [[cbeta:T/T13n0415/T13n0415.org][T13n0415]] 大方等大集經菩薩念佛三昧分
+:PROPERTIES: 
+:BASEEDITION:  T
+:CBETA_ID:  T13n0415
+:RELATED: T13n0414@經
+:GENRE: 經
+:CUSTOM_ID: ZB6h0024
+:SOURCE: Taisho Tripitaka Vol. 13, No. 415
+:DYNASTY: 隋
+:EXTENT:  10卷
+:END:
+**** 人物 
+***** 達磨笈多
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【大】
+:PROPERTIES: 
+:WITID: wit4
+:END:
+
+***** 【大→宋】
+:PROPERTIES: 
+:WITID: wit10
+:END:
+
+***** 【大→元】
+:PROPERTIES: 
+:WITID: wit11
+:END:
+
+***** 【大→明】
+:PROPERTIES: 
+:WITID: wit12
+:END:
+
+***** 【大→宮】
+:PROPERTIES: 
+:WITID: wit25
+:END:
+
+***** 【大→麗】
+:PROPERTIES: 
+:WITID: wit8
+:END:
+
+*** KR6h0025 [[mandoku:ZB6h0025.org][ZB6h0025]]  [[cbeta:T/T13n0416/T13n0416.org][T13n0416]] 大方等大集經賢護分
+:PROPERTIES: 
+:BASEEDITION:  T
+:CBETA_ID:  T13n0416
+:RELATED: T13n0417@經, T13n0418@經, T13n0419@經
+:GENRE: 經
+:CUSTOM_ID: ZB6h0025
+:SOURCE: Taisho Tripitaka Vol. 13, No. 416
+:DYNASTY: 隋
+:EXTENT:  5卷
+:END:
+**** 人物 
+***** 闍那崛多
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【大】
+:PROPERTIES: 
+:WITID: wit4
+:END:
+
+***** 【大→宋】
+:PROPERTIES: 
+:WITID: wit10
+:END:
+
+***** 【大→元】
+:PROPERTIES: 
+:WITID: wit11
+:END:
+
+***** 【大→明】
+:PROPERTIES: 
+:WITID: wit12
+:END:
+
+***** 【大→宮】
+:PROPERTIES: 
+:WITID: wit25
+:END:
+
+***** 【大→聖】
+:PROPERTIES: 
+:WITID: wit13
+:END:
+
+***** 【大→麗】
+:PROPERTIES: 
+:WITID: wit8
+:END:
+
+*** KR6h0026 [[mandoku:ZB6h0026.org][ZB6h0026]]  [[cbeta:T/T13n0417/T13n0417.org][T13n0417]] 般舟三昧經
+:PROPERTIES: 
+:BASEEDITION:  T
+:CBETA_ID:  T13n0417
+:RELATED: T13n0416@經, T13n0418@經, T13n0419@經
+:GENRE: 經
+:CUSTOM_ID: ZB6h0026
+:SOURCE: Taisho Tripitaka Vol. 13, No. 417
+:DYNASTY: 後漢
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 支婁迦讖
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6h0027 [[mandoku:ZB6h0027.org][ZB6h0027]]  [[cbeta:T/T13n0418/T13n0418.org][T13n0418]] 般舟三昧經
+:PROPERTIES: 
+:BASEEDITION:  T
+:CBETA_ID:  T13n0418
+:RELATED: T13n0416@經, T13n0417@經, T13n0419@經
+:GENRE: 經
+:CUSTOM_ID: ZB6h0027
+:SOURCE: Taisho Tripitaka Vol. 13, No. 418
+:DYNASTY: 後漢
+:EXTENT:  3卷
+:END:
+**** 人物 
+***** 支婁迦讖
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【大】
+:PROPERTIES: 
+:WITID: wit4
+:END:
+
+***** 【大→知】
+:PROPERTIES: 
+:WITID: wit16
+:END:
+
+***** 【大→明】
+:PROPERTIES: 
+:WITID: wit12
+:END:
+
+***** 【大→宋】
+:PROPERTIES: 
+:WITID: wit10
+:END:
+
+***** 【大→元】
+:PROPERTIES: 
+:WITID: wit11
+:END:
+
+***** 【大→宮】
+:PROPERTIES: 
+:WITID: wit25
+:END:
+
+***** 【大→麗】
+:PROPERTIES: 
+:WITID: wit8
+:END:
+
+*** KR6h0028 [[mandoku:ZB6h0028.org][ZB6h0028]]  [[cbeta:T/T13n0419/T13n0419.org][T13n0419]] 拔陂菩薩經
+:PROPERTIES: 
+:BASEEDITION:  T
+:CBETA_ID:  T13n0419
+:RELATED: T13n0416@經, T13n0417@經, T13n0418@經
+:GENRE: 經
+:CUSTOM_ID: ZB6h0028
+:SOURCE: Taisho Tripitaka Vol. 13, No. 419
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 失譯
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【大】
+:PROPERTIES: 
+:WITID: wit4
+:END:
+
+***** 【大→宋】
+:PROPERTIES: 
+:WITID: wit10
+:END:
+
+***** 【大→宮】
+:PROPERTIES: 
+:WITID: wit25
+:END:
+
+***** 【大→元】
+:PROPERTIES: 
+:WITID: wit11
+:END:
+
+***** 【大→明】
+:PROPERTIES: 
+:WITID: wit12
+:END:
+
+***** 【大→聖】
+:PROPERTIES: 
+:WITID: wit13
+:END:
+
+***** 【大→知】
+:PROPERTIES: 
+:WITID: wit16
+:END:
+
+*** KR6h0029 [[mandoku:ZB6h0029.org][ZB6h0029]]  [[cbeta:T/T13n0420/T13n0420.org][T13n0420]] 自在王菩薩經
+:PROPERTIES: 
+:BASEEDITION:  T
+:CBETA_ID:  T13n0420
+:RELATED: T13n0421@經
+:GENRE: 經
+:CUSTOM_ID: ZB6h0029
+:SOURCE: Taisho Tripitaka Vol. 13, No. 420
+:DYNASTY: 姚秦
+:EXTENT:  2卷
+:END:
+**** 人物 
+***** 鳩摩羅什
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【大】
+:PROPERTIES: 
+:WITID: wit4
+:END:
+
+***** 【大→宋】
+:PROPERTIES: 
+:WITID: wit10
+:END:
+
+***** 【大→元】
+:PROPERTIES: 
+:WITID: wit11
+:END:
+
+***** 【大→明】
+:PROPERTIES: 
+:WITID: wit12
+:END:
+
+***** 【大→宮】
+:PROPERTIES: 
+:WITID: wit25
+:END:
+
+***** 【大→明異】
+:PROPERTIES: 
+:WITID: wit21
+:END:
+
+*** KR6h0030 [[mandoku:ZB6h0030.org][ZB6h0030]]  [[cbeta:T/T13n0421/T13n0421.org][T13n0421]] 奮迅王問經
+:PROPERTIES: 
+:BASEEDITION:  T
+:CBETA_ID:  T13n0421
+:RELATED: T13n0420@經
+:GENRE: 經
+:CUSTOM_ID: ZB6h0030
+:SOURCE: Taisho Tripitaka Vol. 13, No. 421
+:DYNASTY: 元魏
+:EXTENT:  2卷
+:END:
+**** 人物 
+***** 瞿曇般若流支
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【大】
+:PROPERTIES: 
+:WITID: wit4
+:END:
+
+***** 【大→明】
+:PROPERTIES: 
+:WITID: wit12
+:END:
+
+***** 【大→宋】
+:PROPERTIES: 
+:WITID: wit10
+:END:
+
+***** 【大→宮】
+:PROPERTIES: 
+:WITID: wit25
+:END:
+
+***** 【大→聖】
+:PROPERTIES: 
+:WITID: wit13
+:END:
+
+***** 【大→元】
+:PROPERTIES: 
+:WITID: wit11
+:END:
+
+***** 【大→麗】
+:PROPERTIES: 
+:WITID: wit8
+:END:
+
+*** KR6h0031 [[mandoku:ZB6h0031.org][ZB6h0031]]  [[cbeta:T/T13n0422/T13n0422.org][T13n0422]] 大集譬喻王經
+:PROPERTIES: 
+:BASEEDITION:  T
+:CBETA_ID:  T13n0422
+:GENRE: 經
+:CUSTOM_ID: ZB6h0031
+:SOURCE: Taisho Tripitaka Vol. 13, No. 422
+:DYNASTY: 隋
+:EXTENT:  2卷
+:END:
+**** 人物 
+***** 闍那崛多
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【大】
+:PROPERTIES: 
+:WITID: wit4
+:END:
+
+***** 【大→宋】
+:PROPERTIES: 
+:WITID: wit10
+:END:
+
+***** 【大→元】
+:PROPERTIES: 
+:WITID: wit11
+:END:
+
+***** 【大→明】
+:PROPERTIES: 
+:WITID: wit12
+:END:
+
+***** 【大→宮】
+:PROPERTIES: 
+:WITID: wit25
+:END:
+
+***** 【大→麗】
+:PROPERTIES: 
+:WITID: wit8
+:END:
+
+*** KR6h0032 [[mandoku:ZB6h0032.org][ZB6h0032]]  [[cbeta:T/T13n0423/T13n0423.org][T13n0423]] 僧伽吒經
+:PROPERTIES: 
+:BASEEDITION:  T
+:CBETA_ID:  T13n0423
+:RELATED: T13n0424@經
+:GENRE: 經
+:CUSTOM_ID: ZB6h0032
+:SOURCE: Taisho Tripitaka Vol. 13, No. 423
+:DYNASTY: 元魏
+:EXTENT:  4卷
+:END:
+**** 人物 
+***** 月婆首那
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【大】
+:PROPERTIES: 
+:WITID: wit4
+:END:
+
+***** 【大→宋】
+:PROPERTIES: 
+:WITID: wit10
+:END:
+
+***** 【大→元】
+:PROPERTIES: 
+:WITID: wit11
+:END:
+
+***** 【大→明】
+:PROPERTIES: 
+:WITID: wit12
+:END:
+
+***** 【大→宮】
+:PROPERTIES: 
+:WITID: wit25
+:END:
+
+***** 【大→麗】
+:PROPERTIES: 
+:WITID: wit8
+:END:
+
+***** 【大→聖】
+:PROPERTIES: 
+:WITID: wit13
+:END:
+
+*** KR6h0033 [[mandoku:ZB6h0033.org][ZB6h0033]]  [[cbeta:A/A114n1510/A114n1510.org][A114n1510]] 佛說大乘僧伽吒法義經
+:PROPERTIES: 
+:BASEEDITION:  A
+:CBETA_ID:  A114n1510
+:CUSTOM_ID: ZB6h0033
+:SOURCE: Jin Edition of the Canon Vol. 114, No. 1510
+:DYNASTY: 宋
+:EXTENT:  3卷
+:END:
+**** 人物 
+***** 金總持
+:PROPERTIES:
+:FUNCTION: 等譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6h0034 [[mandoku:ZB6h0034.org][ZB6h0034]]  [[cbeta:T/T13n0424/T13n0424.org][T13n0424]] 大集會正法經
+:PROPERTIES: 
+:BASEEDITION:  T
+:CBETA_ID:  T13n0424
+:RELATED: T13n0423@經
+:GENRE: 經
+:CUSTOM_ID: ZB6h0034
+:SOURCE: Taisho Tripitaka Vol. 13, No. 424
+:DYNASTY: 宋
+:EXTENT:  5卷
+:END:
+**** 人物 
+***** 施護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【大】
+:PROPERTIES: 
+:WITID: wit4
+:END:
+
+***** 【大→明】
+:PROPERTIES: 
+:WITID: wit12
+:END:
+
+***** 【大→宋】
+:PROPERTIES: 
+:WITID: wit10
+:END:
+
+***** 【大→元】
+:PROPERTIES: 
+:WITID: wit11
+:END:
+
+***** 【大→宮】
+:PROPERTIES: 
+:WITID: wit25
+:END:
+
+***** 【大→麗】
+:PROPERTIES: 
+:WITID: wit8
+:END:
+
+*** KR6h0035 [[mandoku:ZB6h0035.org][ZB6h0035]]  [[cbeta:T/T26n1526/T26n1526.org][T26n1526]] 寶髻經四法憂波提舍
+:PROPERTIES: 
+:BASEEDITION:  T
+:CBETA_ID:  T26n1526
+:GENRE: 論
+:CUSTOM_ID: ZB6h0035
+:SOURCE: Taisho Tripitaka Vol. 26, No. 1526
+:DYNASTY: 元魏
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 天親菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
+***** 毘目智仙
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【大】
+:PROPERTIES: 
+:WITID: wit4
+:END:
+
+***** 【大→宋】
+:PROPERTIES: 
+:WITID: wit10
+:END:
+
+***** 【大→宮】
+:PROPERTIES: 
+:WITID: wit25
+:END:
+
+***** 【大→元】
+:PROPERTIES: 
+:WITID: wit11
+:END:
+
+***** 【大→明】
+:PROPERTIES: 
+:WITID: wit12
+:END:
+

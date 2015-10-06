@@ -1,0 +1,67 @@
+#-*- mode: org; -*-
+#+COLUMNS: %30ITEM %15CUSTOM_ID
+** KR2h ZB2h 史鈔類
+*** KR2h0001 [[mandoku:ZB2h0001.org][ZB2h0001]] 兩漢博聞
+:PROPERTIES:
+:CUSTOM_ID:  ZB2h0001
+:SOURCE:   四庫全書 文淵閣版, V461.1, p1
+:EXTENT: 12 卷
+:BOOK:   6
+:END:
+**** 人物
+***** 楊侃
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 輯
+      :DATES:    d. 521
+      :END:
+
+**** 版本
+***** WYG
+*** KR2h0002 [[mandoku:ZB2h0002.org][ZB2h0002]] 通鑑總類
+:PROPERTIES:
+:CUSTOM_ID:  ZB2h0002
+:SOURCE:   四庫全書 文淵閣版, V461.2, p201 - V462.1
+:EXTENT: 20 卷
+:BOOK:   24
+:END:
+**** 人物
+***** 沈樞
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+**** 版本
+***** WYG
+*** KR2h0003 [[mandoku:ZB2h0003.org][ZB2h0003]] 南史識小錄
+:PROPERTIES:
+:CUSTOM_ID:  ZB2h0003
+:SOURCE:   四庫全書 文淵閣版, V462.2, p483
+:EXTENT: 8 卷
+:BOOK:   3
+:DATE:   1690
+:END:
+**** 人物
+***** 沈名蓀
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 輯
+      :END:
+
+***** 朱昆田
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 輯
+      :END:
+
+**** 版本
+***** WYG
+# *** [[mandoku:ZB2h0003a.org][ZB2h0003a]] 南北史識小錄__南史識小錄
+**** [[mandoku:ZB2h0003b.org][ZB2h0003b]] 北史識小錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 8 卷
+      :BOOK:   3
+      :END:
+

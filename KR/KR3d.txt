@@ -1,0 +1,211 @@
+#-*- mode: org; -*-
+#+COLUMNS: %30ITEM %15CUSTOM_ID
+** KR3d ZB3d 農家類
+*** KR3d0001 [[mandoku:ZB3c0009.org][ZB3c0009]] 齊民要術
+:PROPERTIES:
+:CUSTOM_ID:  ZB3c0009
+:SOURCE:   四庫全書 文淵閣版, V730.1, p1
+:EXTENT: 10 卷
+:BOOK:   6
+:END:
+**** 人物
+***** 賈思勰
+     :PROPERTIES:
+     :DYNASTY:  後魏
+     :FUNCTION: 撰
+     :DATES:    6th cent
+     :END:
+
+**** 版本
+***** WYG
+**** (附)雜說
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+# *** ZB3c0009a	南華真經義海纂微
+# *** ZB3c0009b	周易參同契解
+# *** ZB3c0009c	莊子翼
+*** KR3d0002 [[mandoku:ZB3d0001.org][ZB3d0001]] 農書
+:PROPERTIES:
+:CUSTOM_ID:  ZB3d0001
+:SOURCE:   四庫全書 文淵閣版, V730.2, p169
+:EXTENT: 3 卷
+:BOOK:   1
+:END:
+**** 人物
+***** 陳旉
+     :PROPERTIES:
+     :DYNASTY:  宋
+     :FUNCTION: 撰
+     :DATES:    1076 - 1154
+     :END:
+
+**** 版本
+***** WYG
+**** ZB3d0002 (附)蠶書
+     :PROPERTIES:
+     :TYPE:   appendix
+     :EXTENT: 1 卷
+     :BOOK:   (1)
+     :END:
+***** 人物
+****** 秦觀
+     :PROPERTIES:
+     :DYNASTY:  宋
+     :FUNCTION: 撰
+     :END:
+
+*** KR3d0003 [[mandoku:ZB3d0003.org][ZB3d0003]] 農桑輯要
+:PROPERTIES:
+:CUSTOM_ID:  ZB3d0003
+:SOURCE:   四庫全書 文淵閣版, V730.3, p195
+:EXTENT: 7 卷
+:BOOK:   4
+:END:
+**** 人物
+***** 司農司
+     :PROPERTIES:
+     :DYNASTY:  元
+     :FUNCTION: 撰
+     :END:
+
+**** 版本
+***** WYG
+*** KR3d0004 [[mandoku:ZB3d0004.org][ZB3d0004]] 農桑衣食撮要
+:PROPERTIES:
+:CUSTOM_ID:  ZB3d0004
+:SOURCE:   四庫全書 文淵閣版, V730.4, p291
+:EXTENT: 2 卷
+:BOOK:   1
+:END:
+**** 人物
+***** 魯明善
+     :PROPERTIES:
+     :DYNASTY:  元
+     :FUNCTION: 撰
+     :DATES:    fl. 1314 - 1330
+     :END:
+
+**** 版本
+***** WYG
+*** KR3d0005 [[mandoku:ZB3d0005.org][ZB3d0005]] 農書
+:PROPERTIES:
+:CUSTOM_ID:  ZB3d0005
+:SOURCE:   四庫全書 文淵閣版, V730.5, p315
+:EXTENT: 22 卷
+:BOOK:   16
+:END:
+**** 人物
+***** 王禎
+     :PROPERTIES:
+     :DYNASTY:  元
+     :FUNCTION: 撰
+     :DATES:    fl. 1333
+     :END:
+
+**** 版本
+***** WYG
+*** KR3d0006 [[mandoku:ZB3d0006.org][ZB3d0006]] 救荒本草
+:PROPERTIES:
+:CUSTOM_ID:  ZB3d0006
+:SOURCE:   四庫全書 文淵閣版, V730.6, p609
+:EXTENT: 8 卷
+:BOOK:   8
+:END:
+**** 人物
+***** 朱橚
+     :PROPERTIES:
+     :DYNASTY:  明
+     :FUNCTION: 撰
+     :DATES:    1361 - 1425
+     :END:
+
+**** 版本
+***** WYG
+*** KR3d0007 [[mandoku:ZB3d0007.org][ZB3d0007]] 農政全書
+:PROPERTIES:
+:CUSTOM_ID:  ZB3d0007
+:SOURCE:   四庫全書 文淵閣版, V731.1, p1
+:EXTENT: 60 卷
+:BOOK:   40
+:END:
+**** 人物
+***** 徐光啟
+     :PROPERTIES:
+     :DYNASTY:  明
+     :FUNCTION: 撰
+     :DATES:    1562 - 1633
+     :END:
+
+**** 版本
+***** WYG
+*** KR3d0008 [[mandoku:ZB3d0008.org][ZB3d0008]] 秦西水法
+:PROPERTIES:
+:CUSTOM_ID:  ZB3d0008
+:SOURCE:   四庫全書 文淵閣版, V731.2, p931
+:EXTENT: 6 卷
+:BOOK:   2
+:END:
+**** 人物
+***** 西洋熊三拔
+     :PROPERTIES:
+     :DYNASTY:  明
+     :FUNCTION: 撰
+     :DATES:    1575 - 1620
+     :END:
+
+**** 版本
+***** WYG
+*** KR3d0009 [[mandoku:ZB3d0009.org][ZB3d0009]] 野菜博錄
+:PROPERTIES:
+:CUSTOM_ID:  ZB3d0009
+:SOURCE:   四庫全書 文淵閣版, V731.3, p979
+:EXTENT: 4 卷
+:BOOK:   4
+:END:
+**** 人物
+***** 鮑山
+     :PROPERTIES:
+     :DYNASTY:  明
+     :FUNCTION: 撰
+     :END:
+
+**** 版本
+***** WYG
+*** KR3d0010 [[mandoku:ZB3d0010.org][ZB3d0010]] 欽定授時通考
+:PROPERTIES:
+:CUSTOM_ID:  ZB3d0010
+:SOURCE:   四庫全書 文淵閣版, V732.1, p1
+:EXTENT: 78 卷
+:BOOK:   32
+:END:
+**** 人物
+***** 鄂爾泰
+     :PROPERTIES:
+     :DYNASTY:  清
+     :FUNCTION: 奉敕撰
+     :DATES:    1677 - 1745
+     :END:
+
+***** 張廷玉
+     :PROPERTIES:
+     :DYNASTY:  清
+     :FUNCTION: 奉敕撰
+     :END:
+
+***** 董誥
+     :PROPERTIES:
+     :DYNASTY:  清
+     :FUNCTION: 補編
+     :END:
+
+***** 戴衢亨
+     :PROPERTIES:
+     :DYNASTY:  清
+     :FUNCTION: 補編
+     :END:
+
+**** 版本
+***** WYG

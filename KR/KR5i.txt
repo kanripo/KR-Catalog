@@ -1,0 +1,2202 @@
+#-*- mode: org; -*-
+** KR5i ZB5i 清代道教文獻
+# 『道藏輯要』藏外文獻
+*** KR5i0001 元始大洞玉經
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY006
+   :END:
+**** 版本
+***** DZJY  元始大洞玉經
+:PROPERTIES:
+:EXTENT:  3 juan
+:LODGE:  氐 3
+:KZ:  3:1127-1174
+:END:
+元始大洞玉經
+DZJY: [[dzjy:JY006/JY006_01.txt][JY006 元始大洞玉經]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0002 洞經示讀
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY007
+   :END:
+**** 版本
+***** DZJY  洞經示讀
+:PROPERTIES:
+:EXTENT:  3 juan
+:LODGE:  氐 3
+:KZ:  3:1174-1207
+:END:
+洞經示讀
+DZJY: [[dzjy:JY007/JY007_01.txt][JY007 洞經示讀]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0003 元始大洞玉經
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY008
+   :END:
+**** 版本
+***** DZJY  元始大洞玉經
+:PROPERTIES:
+:EXTENT:  3 juan
+:LODGE:  氐 4
+:KZ:  3:1209-1270
+:END:
+元始大洞玉經
+DZJY: [[dzjy:JY008/JY008_01.txt][JY008 元始大洞玉經]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0004 元始上帝毘盧遮耶說大洞救劫尊經
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY013
+   :END:
+**** 版本
+***** DZJY  元始上帝毘盧遮耶說大洞救劫尊經
+:PROPERTIES:
+:EXTENT:  20 fols.
+:LODGE:  氐 5
+:KZ:  4:1300-1310
+:END:
+元始上帝毘盧遮耶說大洞救劫尊經
+DZJY: [[dzjy:JY013/JY013_01.txt][JY013 元始上帝毘盧遮耶說大洞救劫尊經]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0005 太上玄元道德經解
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY045
+   :END:
+**** 版本
+***** DZJY  太上玄元道德經解
+:PROPERTIES:
+:EXTENT:  7+101 fols.
+:LODGE:  心 1
+:KZ:  4:1673-1726
+:END:
+太上玄元道德經解
+DZJY: [[dzjy:JY045/JY045_01.txt][JY045 太上玄元道德經解]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0006 太上道德寶章翼
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY047
+   :END:
+**** 版本
+***** DZJY  太上道德寶章翼
+:PROPERTIES:
+:EXTENT:  2 juan
+:LODGE:  心 3-4
+:KZ:  5:1765-1826
+:END:
+太上道德寶章翼
+DZJY: [[dzjy:JY047/JY047_01.txt][JY047 太上道德寶章翼]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0007 道德經釋辭
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY052
+   :END:
+**** 版本
+***** DZJY  道德經釋辭
+:PROPERTIES:
+:EXTENT:  8+72 fols.
+:LODGE:  心 9
+:KZ:  5:2029-2068
+:END:
+道德經釋辭
+DZJY: [[dzjy:JY052/JY052_01.txt][JY052 道德經釋辭]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0008 太上老君說常清靜真經
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY054
+   :END:
+**** 版本
+***** DZJY  太上老君說常清靜真經
+:PROPERTIES:
+:EXTENT:  6 fols.
+:LODGE:  尾 1
+:KZ:  5:2115-16,2119*
+:END:
+太上老君說常清靜真經
+DZJY: [[dzjy:JY054/JY054_01.txt][JY054 太上老君說常清靜真經]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0009 太上道德大天尊說道元一氣經
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY056
+   :END:
+**** 版本
+***** DZJY  太上道德大天尊說道元一氣經
+:PROPERTIES:
+:EXTENT:  1 fol.
+:LODGE:  尾 1
+:KZ:  5:2120
+:END:
+太上道德大天尊說道元一氣經
+DZJY: [[dzjy:JY056/JY056_01.txt][JY056 太上道德大天尊說道元一氣經]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0010 太上黃庭內景玉經
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY074
+   :END:
+**** 版本
+***** DZJY  太上黃庭內景玉經
+:PROPERTIES:
+:EXTENT:  3 juan
+:LODGE:  尾 2
+:KZ:  6:2169-2192
+:END:
+太上黃庭內景玉經
+DZJY: [[dzjy:JY074/JY074_01.txt][JY074 太上黃庭內景玉經]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0011 黃庭內景經
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY075
+   :END:
+**** 版本
+***** DZJY  黃庭內景經
+:PROPERTIES:
+:EXTENT:  20 fols.
+:LODGE:  尾 2
+:KZ:  6:2193-2202
+:END:
+黃庭內景經
+DZJY: [[dzjy:JY075/JY075_01.txt][JY075 黃庭內景經]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0012 黃庭外景經
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY076
+   :END:
+**** 版本
+***** DZJY  黃庭外景經
+:PROPERTIES:
+:EXTENT:  6 fols.
+:LODGE:  尾 2
+:KZ:  6:2203-2205
+:END:
+黃庭外景經
+DZJY: [[dzjy:JY076/JY076_01.txt][JY076 黃庭外景經]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0013 太上感應篇箋注
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY081
+   :END:
+**** 版本
+***** DZJY  太上感應篇箋注
+:PROPERTIES:
+:EXTENT:  63 fols.
+:LODGE:  尾 4
+:KZ:  6:2267-2298
+:END:
+太上感應篇箋注
+DZJY: [[dzjy:JY081/JY081_01.txt][JY081 太上感應篇箋注]]
+****** Work notes
+
+****** Comments
+[2011-04-07T11:57:44+0900]
+KX has two separate texts here:
+# KX076 06尾集
+KX076_p0296_01	太上感應篇序
+# KX077 06尾集
+KX077_p0304_01	重刊道藏輯要
+KX077_p0304_02	太上感應篇
+
+
+*** KR5i0014 太上感應篇集注
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY082
+   :END:
+**** 版本
+***** DZJY  太上感應篇集注
+:PROPERTIES:
+:EXTENT:  70 fols.
+:LODGE:  尾 4
+:KZ:  6:2298-2333
+:END:
+太上感應篇集注
+DZJY: [[dzjy:JY082/JY082_01.txt][JY082 太上感應篇集注]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0015 高上玉皇本行集經
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY087
+   :END:
+**** 版本
+***** DZJY  高上玉皇本行集經
+:PROPERTIES:
+:EXTENT:  3 juan
+:LODGE:  箕 1-3
+:KZ:  6-7:2525-2585
+:END:
+高上玉皇本行集經
+DZJY: [[dzjy:JY087/JY087_01.txt][JY087 高上玉皇本行集經]]
+****** Work notes
+******* DONE received translation from Liu Jingguo
+       CLOSED: [2011-08-18 Thu 11:49]
+       [2011-05-06]
+       wordcount 10597
+       charcount 60700
+****** Comments
+
+
+*** KR5i0016 太上洞玄靈寶紫微金格高上玉皇本行集經闡微
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY090
+   :END:
+**** 版本
+***** DZJY  太上洞玄靈寶紫微金格高上玉皇本行集經闡微
+:PROPERTIES:
+:EXTENT:  3 juan
+:LODGE:  箕 8
+:KZ:  7:2743-2829
+:END:
+太上洞玄靈寶紫微金格高上玉皇本行集經闡微
+DZJY: [[dzjy:JY090/JY090_01.txt][JY090 太上洞玄靈寶紫微金格高上玉皇本行集經闡微]]
+****** Work notes
+******* DONE received translation from Liu Jingguo
+       CLOSED: [2011-08-18 Thu 11:49]
+       [2011-05-06]
+       wordcount 10333
+       charcount 63989
+
+****** Comments
+
+
+*** KR5i0017 高上玉皇心印妙經
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY091
+   :END:
+**** 版本
+***** DZJY  高上玉皇心印妙經
+:PROPERTIES:
+:EXTENT:  15 fols.
+:LODGE:  箕 9
+:KZ:  7:2831-2838
+:END:
+高上玉皇心印妙經
+DZJY: [[dzjy:JY091/JY091_01.txt][JY091 高上玉皇心印妙經]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0018 終南八祖說心印妙經解
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY092
+   :END:
+**** 版本
+***** DZJY  終南八祖說心印妙經解
+:PROPERTIES:
+:EXTENT:  2 fols.
+:LODGE:  箕 9
+:KZ:  7:2838-2839
+:END:
+終南八祖說心印妙經解
+DZJY: [[dzjy:JY092/JY092_01.txt][JY092 終南八祖說心印妙經解]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0019 高上玉皇心印經
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY093
+   :END:
+**** 版本
+***** DZJY  高上玉皇心印經
+:PROPERTIES:
+:EXTENT:  7 fols.
+:LODGE:  箕 9
+:KZ:  7:2839-2842
+:END:
+高上玉皇心印經
+DZJY: [[dzjy:JY093/JY093_01.txt][JY093 高上玉皇心印經]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0020 玉皇心印經
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY094
+   :END:
+**** 版本
+***** DZJY  玉皇心印經
+:PROPERTIES:
+:EXTENT:  11 fols.
+:LODGE:  箕 9
+:KZ:  7:2843-2848
+:END:
+玉皇心印經
+DZJY: [[dzjy:JY094/JY094_01.txt][JY094 玉皇心印經]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0021 玉清贊化九天演政心印集經
+   :PROPERTIES:
+   :BASEEDITION: YPP
+   :EXTRA_ID: DZJY:JY098
+   :END:
+**** 版本
+***** DZJY  玉清贊化九天演政心印集經
+:PROPERTIES:
+:EXTENT:  3 juan
+:LODGE:  箕 10
+:KZ:  
+:END:
+玉清贊化九天演政心印集經 
+DZJY: [[dzjy:JY098/JY098_01.txt][JY098 玉清贊化九天演政心印集經 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0022 玉清贊化九天演政心印寶懺
+   :PROPERTIES:
+   :BASEEDITION: YPP
+   :EXTRA_ID: DZJY:JY099
+   :END:
+**** 版本
+***** DZJY  玉清贊化九天演政心印寶懺
+:PROPERTIES:
+:EXTENT:  1+136 fols.
+:LODGE:  箕 11
+:KZ:  
+:END:
+玉清贊化九天演政心印寶懺
+DZJY: [[dzjy:JY099/JY099_01.txt][JY099 玉清贊化九天演政心印寶懺]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0023 先天斗帝敕演無上玄功靈妙真經
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY100
+   :END:
+**** 版本
+***** DZJY  先天斗帝敕演無上玄功靈妙真經
+:PROPERTIES:
+:EXTENT:  25 fols.
+:LODGE:  斗 1
+:KZ:  7:2867-79
+:END:
+先天斗帝敕演無上玄功靈妙真經
+DZJY: [[dzjy:JY100/JY100_01.txt][JY100 先天斗帝敕演無上玄功靈妙真經]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0024 九皇斗姥戒殺延生真經
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY101
+   :END:
+**** 版本
+***** DZJY  九皇斗姥戒殺延生真經
+:PROPERTIES:
+:EXTENT:  40 fols.
+:LODGE:  又斗 1
+:KZ:  7:2879-99
+:END:
+九皇斗姥戒殺延生真經
+DZJY: [[dzjy:JY101/JY101_01.txt][JY101 九皇斗姥戒殺延生真經]]
+****** Work notes
+
+****** Comments
+KX has three separate texts, 
+KX095_p0026_02	九皇斗姥戒殺延生眞經              
+# KX096 08斗集
+KX096_p0028_01	九皇斗姥說延生保命心咒
+# KX097 08斗集
+KX097_p0029_01	九皇斗姥說戒殺延生眞經
+
+
+*** KR5i0025 觀音大士蓮船經
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY102
+   :END:
+**** 版本
+***** DZJY  觀音大士蓮船經
+:PROPERTIES:
+:EXTENT:  4+21 fols.
+:LODGE:  續斗 1
+:KZ:  7:2899-2911
+:END:
+觀音大士蓮船經
+DZJY: [[dzjy:JY102/JY102_01.txt][JY102 觀音大士蓮船經]]
+****** Work notes
+
+****** Comments
+KX has the following here:
+# KX098 08斗集
+KX098_p0066_01	增刻道藏輯要
+KX098_p0066_02	觀音大士蓮船經敘
+# KX099 08斗集
+KX099_p0068_01	清夫先生蓮船經敘
+# KX100 08斗集
+KX100_p0070_01	增刻道藏輯要
+KX100_p0070_02	關聖帝君窮理盡性至命上品說
+# KX101 08斗集
+KX101_p0073_01	增刻道藏輯要
+KX101_p0073_02	文昌帝君烹煉抽添火候中品說
+# KX102 08斗集
+KX102_p0075_01	增刻道藏輯要
+KX102_p0075_02	川主大帝大藥鼎爐金丹下品說
+# KX103 08斗集
+KX103_p0077_01	增刻道藏輯要
+KX103_p0077_02	䶻䶻開經偈
+KX103_p0077_03	大願文蓮船經中流砥柱上乘法門勤持誦勿因循反本還原
+KX103_p0077_04	出迷津
+KX103_p0077_05	䶻䶻志心皈命禮
+
+
+*** KR5i0026 九皇新經註解
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY109
+   :END:
+**** 版本
+***** DZJY  九皇新經註解
+:PROPERTIES:
+:EXTENT:  3 juan
+:LODGE:  斗 3
+:KZ:  8:2959-3043*
+:END:
+九皇新經註解
+DZJY: [[dzjy:JY109/JY109_01.txt][JY109 九皇新經註解]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0027 玄宗正旨
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY110
+   :END:
+**** 版本
+***** DZJY  玄宗正旨
+:PROPERTIES:
+:EXTENT:  2+24 fols.
+:LODGE:  斗 4
+:KZ:  8:3045-57
+:END:
+玄宗正旨
+DZJY: [[dzjy:JY110/JY110_01.txt][JY110 玄宗正旨]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0028 浮黎鼻祖金華祕訣
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY111
+   :END:
+**** 版本
+***** DZJY  浮黎鼻祖金華祕訣
+:PROPERTIES:
+:EXTENT:  13 fols.
+:LODGE:  斗 4
+:KZ:  8:3058-64
+:END:
+浮黎鼻祖金華祕訣
+DZJY: [[dzjy:JY111/JY111_01.txt][JY111 浮黎鼻祖金華祕訣]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0029 金碧古文龍虎上經
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY113
+   :END:
+**** 版本
+***** DZJY  金碧古文龍虎上經
+:PROPERTIES:
+:EXTENT:  19 fols.
+:LODGE:  斗 4
+:KZ:  8:3093-3102
+:END:
+金碧古文龍虎上經
+DZJY: [[dzjy:JY113/JY113_01.txt][JY113 金碧古文龍虎上經]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0030 唱道真言
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY114
+   :END:
+**** 版本
+***** DZJY  唱道真言
+:PROPERTIES:
+:EXTENT:  5 juan
+:LODGE:  斗 5
+:KZ:  8:3103-48*
+:END:
+唱道真言
+DZJY: [[dzjy:JY114/JY114_01.txt][JY114 唱道真言]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0031 黃帝陰符經
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY116
+   :END:
+**** 版本
+***** DZJY  黃帝陰符經
+:PROPERTIES:
+:EXTENT:  31 fols.
+:LODGE:  斗 6
+:KZ:  8:3159-74
+:END:
+黃帝陰符經
+DZJY: [[dzjy:JY116/JY116_01.txt][JY116 黃帝陰符經]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0032 黃帝陰符經
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY118
+   :END:
+**** 版本
+***** DZJY  黃帝陰符經
+:PROPERTIES:
+:EXTENT:  5 fols.
+:LODGE:  斗 6
+:KZ:  8:3178-80
+:END:
+黃帝陰符經
+DZJY: [[dzjy:JY118/JY118_01.txt][JY118 黃帝陰符經]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0033 陰符玄解
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY120
+   :END:
+**** 版本
+***** DZJY  陰符玄解
+:PROPERTIES:
+:EXTENT:  16 fols.
+:LODGE:  下斗 6
+:KZ:  8:3184-92
+:END:
+陰符玄解
+DZJY: [[dzjy:JY120/JY120_01.txt][JY120 陰符玄解]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0034 五百靈官爵位姓氏總錄
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY130
+   :END:
+**** 版本
+***** DZJY  五百靈官爵位姓氏總錄
+:PROPERTIES:
+:EXTENT:  14 fols.
+:LODGE:  二斗 11
+:KZ:  8:3497-3503
+:END:
+五百靈官爵位姓氏總錄
+DZJY: [[dzjy:JY130/JY130_01.txt][JY130 五百靈官爵位姓氏總錄]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0035 玉樞寶經
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY131
+   :END:
+**** 版本
+***** DZJY  玉樞寶經
+:PROPERTIES:
+:EXTENT:  18 fols.
+:LODGE:  三斗 11
+:KZ:  8:3504-12
+:END:
+玉樞寶經
+DZJY: [[dzjy:JY131/JY131_01.txt][JY131 玉樞寶經]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0036 南華真經註疏
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY133
+   :END:
+**** 版本
+***** DZJY  南華真經註疏
+:PROPERTIES:
+:EXTENT:  4 juan
+:LODGE:  牛 9-12
+:KZ:  9:3991-4032,10:4035-4188*
+:END:
+南華真經註疏
+DZJY: [[dzjy:JY133/JY133_01.txt][JY133 南華真經註疏]]
+****** Work notes
+
+******* DONE received translation from Liu Jingguo
+       CLOSED: [2011-08-18 Thu 11:49]
+       filename /Users/chris/Dropbox/dao/in/translation_Liu_Gusheng_南華真經註疏.doc
+       [2011-05-06]
+       wordcount 2921
+       charcount 16692
+****** Comments
+
+
+*** KR5i0037 參同契闡幽
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY139
+   :END:
+**** 版本
+***** DZJY  參同契闡幽
+:PROPERTIES:
+:EXTENT:  2 juan
+:LODGE:  虛 1-2
+:KZ:  10:4447-4535
+:END:
+參同契闡幽
+DZJY: [[dzjy:JY139/JY139_01.txt][JY139 參同契闡幽]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0038 參同契分章註
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY140
+   :END:
+**** 版本
+***** DZJY  參同契分章註
+:PROPERTIES:
+:EXTENT:  3 juan
+:LODGE:  虛 3
+:KZ:  11:4539-81
+:END:
+參同契分章註
+DZJY: [[dzjy:JY140/JY140_01.txt][JY140 參同契分章註]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0039 入藥鏡
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY142
+   :END:
+**** 版本
+***** DZJY  入藥鏡
+:PROPERTIES:
+:EXTENT:  2+40 fols.
+:LODGE:  虛 5
+:KZ:  11:4612-33
+:END:
+入藥鏡
+DZJY: [[dzjy:JY142/JY142_01.txt][JY142 入藥鏡]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0040 銅符鐵券
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY150
+   :END:
+**** 版本
+***** DZJY  銅符鐵券
+:PROPERTIES:
+:EXTENT:  1+28 ff.
+:LODGE:  危 3
+:KZ:  12:5143-57
+:END:
+銅符鐵券
+DZJY: [[dzjy:JY150/JY150_01.txt][JY150 銅符鐵券]]
+****** Work notes
+
+******* DONE received translation from Liu Jingguo
+       CLOSED: [2011-08-18 Thu 11:49]
+       filename translation_铜符铁券.doc
+       [2011-05-06]
+       wordcount 4295
+       charcount 24498
+
+****** Comments
+
+
+*** KR5i0041 太上靈寶淨明宗教錄
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY152
+   :END:
+**** 版本
+***** DZJY  太上靈寶淨明宗教錄
+:PROPERTIES:
+:EXTENT:  5+49 fols.
+:LODGE:  危 4
+:KZ:  12:5175-5201
+:END:
+太上靈寶淨明宗教錄
+DZJY: [[dzjy:JY152/JY152_01.txt][JY152 太上靈寶淨明宗教錄]]
+****** Work notes
+here are some notes fromt the old file:
+JY152.1* DZ0557
+JY152.2 DZ1105
+JY152.3 DZ1107
+JY152.4 DZ1109
+JY152.5* DZ1103
+JY152_Xu* DZ0559
+******* clear up the relationship of and
+       CLOSED: [2013-04-09 Tue 17:31]
+****** Comments
+
+
+*** KR5i0042 化書
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY153
+   :END:
+(has two stars..)
+**** 版本
+***** DZJY  化書
+:PROPERTIES:
+:EXTENT:  1+2+100 fols.
+:LODGE:  危 5
+:KZ:  12:5203-54
+:END:
+化書
+DZJY: [[dzjy:JY153/JY153_01.txt][JY153 化書]]
+****** Work notes
+******* check DZ mapping
+       CLOSED: [2013-04-09 Tue 17:31]
+****** Comments
+      [2011-04-06T17:30:31+0900]
+      Monica marked this as excan, but we have DZ1478, which looks pretty similar...
+      in addition, the previous mapping has
+      DZ1044
+
+
+*** KR5i0043 葛仙翁太極沖玄至道心傳
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY154
+   :END:
+**** 版本
+***** DZJY  葛仙翁太極沖玄至道心傳
+:PROPERTIES:
+:EXTENT:  36 fols.
+:LODGE:  危 6
+:KZ:  12: 5255-72
+:END:
+葛仙翁太極沖玄至道心傳
+DZJY: [[dzjy:JY154/JY154_01.txt][JY154 葛仙翁太極沖玄至道心傳]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0044 十六品經
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY159
+   :END:
+**** 版本
+***** DZJY  十六品經
+:PROPERTIES:
+:EXTENT:  2+4+90 fols.
+:LODGE:  室 1
+:KZ:  12: 5293-5340
+:END:
+十六品經
+DZJY: [[dzjy:JY159/JY159_01.txt][JY159 十六品經]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0045 呂祖本傳
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY160
+   :END:
+**** 版本
+***** DZJY  呂祖本傳
+:PROPERTIES:
+:EXTENT:  15 fols.
+:LODGE:  續室 1
+:KZ:  12: 5341-48
+:END:
+呂祖本傳
+DZJY: [[dzjy:JY160/JY160_01.txt][JY160 呂祖本傳]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0046 金華宗旨
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY161
+   :END:
+**** 版本
+***** DZJY  金華宗旨
+:PROPERTIES:
+:EXTENT:  8+53+4 fols.
+:LODGE:  室 2
+:KZ:  12: 5349-82
+:END:
+金華宗旨
+DZJY: [[dzjy:JY161/JY161_01.txt][JY161 金華宗旨]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0047 同參經
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY162
+   :END:
+**** 版本
+***** DZJY  同參經
+:PROPERTIES:
+:EXTENT:  3 juan
+:LODGE:  室 3
+:KZ:  12: 5383-5415
+:END:
+同參經
+DZJY: [[dzjy:JY162/JY162_01.txt][JY162 同參經]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0048 五經合編
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY163
+   :END:
+**** 版本
+***** DZJY  五經合編
+:PROPERTIES:
+:EXTENT:  52 fols.
+:LODGE:  室 4
+:KZ:  12: 5417-42
+:END:
+五經合編
+DZJY: [[dzjy:JY163/JY163_01.txt][JY163 五經合編]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0049 呂帝文集
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY164
+   :END:
+**** 版本
+***** DZJY  呂帝文集
+:PROPERTIES:
+:EXTENT:  7+123 ff.
+:LODGE:  室 5
+:KZ:  12: 5443-5507
+:END:
+呂帝文集
+DZJY: [[dzjy:JY164/JY164_01.txt][JY164 呂帝文集]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0050 呂帝詩集
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY165
+   :END:
+**** 版本
+***** DZJY  呂帝詩集
+:PROPERTIES:
+:EXTENT:  2 juan
+:LODGE:  室 6-7
+:KZ:  13: 5511-5622
+:END:
+呂帝詩集
+DZJY: [[dzjy:JY165/JY165_01.txt][JY165 呂帝詩集]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0051 純陽三書
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY166
+   :END:
+**** 版本
+***** DZJY  純陽三書
+:PROPERTIES:
+:EXTENT:  6 juan
+:LODGE:  室 8
+:KZ:  
+:END:
+純陽三書
+DZJY: [[dzjy:JY166/JY166_01.txt][JY166 純陽三書]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0052 易說
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY167
+   :END:
+**** 版本
+***** DZJY  易說
+:PROPERTIES:
+:EXTENT:  2 juan
+:LODGE:  壁 1-2,又壁 1
+:KZ:  13: 5623-5714, 14: 5983-6023
+:END:
+易說
+DZJY: [[dzjy:JY167/JY167_01.txt][JY167 易說]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0053 語錄大觀
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY168
+   :END:
+**** 版本
+***** DZJY  語錄大觀
+:PROPERTIES:
+:EXTENT:  199 fols.
+:LODGE:  壁 3-4
+:KZ:  13: 5715-5814
+:END:
+語錄大觀
+DZJY: [[dzjy:JY168/JY168_01.txt][JY168 語錄大觀]]
+****** Work notes
+
+****** Comments
+KX divides this in two:
+# KX167 14壁集
+KX167_p0263_01	重刋道藏輯要
+KX167_p0263_02	䶻語錄大觀
+# KX168 14壁集
+KX168_p0390_01	重刋道藏輯要
+KX168_p0390_02	䶻語錄大觀
+KX168_p0390_03	孚佑上帝純陽吕祖天師著
+
+
+*** KR5i0054 微言摘要
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY169
+   :END:
+**** 版本
+***** DZJY  微言摘要
+:PROPERTIES:
+:EXTENT:  32 fols.
+:LODGE:  壁 4
+:KZ:  13: 5815-30
+:END:
+微言摘要
+DZJY: [[dzjy:JY169/JY169_01.txt][JY169 微言摘要]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0055 呂帝聖蹟紀要
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY170
+   :END:
+**** 版本
+***** DZJY  呂帝聖蹟紀要
+:PROPERTIES:
+:EXTENT:  1+2+50 fols.
+:LODGE:  壁 5
+:KZ:  13: 5831-57
+:END:
+呂帝聖蹟紀要
+DZJY: [[dzjy:JY170/JY170_01.txt][JY170 呂帝聖蹟紀要]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0056 天仙金丹心法
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY171
+   :END:
+**** 版本
+***** DZJY  天仙金丹心法
+:PROPERTIES:
+:EXTENT:  2 juan
+:LODGE:  壁 6,又壁 6
+:KZ:  13: 5859-5933
+:END:
+天仙金丹心法
+DZJY: [[dzjy:JY171/JY171_01.txt][JY171 天仙金丹心法]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0057 東園語錄
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY172
+   :END:
+**** 版本
+***** DZJY  東園語錄
+:PROPERTIES:
+:EXTENT:  2 juan
+:LODGE:  續壁 7
+:KZ:  13: 5935-79
+:END:
+東園語錄
+DZJY: [[dzjy:JY172/JY172_01.txt][JY172 東園語錄]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0058 金丹四百字
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY178
+   :END:
+**** 版本
+***** DZJY  金丹四百字
+:PROPERTIES:
+:EXTENT:  12 fols.
+:LODGE:  奎 2
+:KZ:  14: 6113-18
+:END:
+金丹四百字
+DZJY: [[dzjy:JY178/JY178_01.txt][JY178 金丹四百字]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0059 悟真篇闡幽
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY180
+   :END:
+**** 版本
+***** DZJY  悟真篇闡幽
+:PROPERTIES:
+:EXTENT:  3 juan
+:LODGE:  奎 3
+:KZ:  14: 6119-63
+:END:
+悟真篇闡幽
+DZJY: [[dzjy:JY180/JY180_01.txt][JY180 悟真篇闡幽]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0060 瓊琯白真人集
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY185
+   :END:
+**** 版本
+***** DZJY  瓊琯白真人集
+:PROPERTIES:
+:EXTENT:  6 juan
+:LODGE:  婁 1-6
+:KZ:  14: 6195-6366
+:END:
+瓊琯白真人集
+DZJY: [[dzjy:JY185/JY185_01.txt][JY185 瓊琯白真人集]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0061 太公陰符經
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY192
+   :END:
+**** 版本
+***** DZJY  太公陰符經
+:PROPERTIES:
+:EXTENT:  4+41 fols.
+:LODGE:  又胃 2
+:KZ:  15: 6528-50
+:END:
+太公陰符經
+DZJY: [[dzjy:JY192/JY192_01.txt][JY192 太公陰符經]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0062 五篇靈文
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY193
+   :END:
+**** 版本
+***** DZJY  五篇靈文
+:PROPERTIES:
+:EXTENT:  16 fols.
+:LODGE:  又胃 2
+:KZ:  15: 6550-58
+:END:
+五篇靈文
+DZJY: [[dzjy:JY193/JY193_01.txt][JY193 五篇靈文]]
+****** Work notes
+******* DONE received translation from Liu Jingguo
+       CLOSED: [2011-08-18 Thu 11:49]
+       filename: /Users/chris/Dropbox/dao/in/translation_五篇灵文.doc
+       english title: Five Chapters on the Soul
+       [2011-05-06]
+       wordcount 3489
+       charcount 20444
+
+****** Comments
+
+
+*** KR5i0063 孫不二元君法語
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY203
+   :END:
+**** 版本
+***** DZJY  孫不二元君法語
+:PROPERTIES:
+:EXTENT:  3 fols.
+:LODGE:  胃 7
+:KZ:  15: 6826-27
+:END:
+孫不二元君法語
+DZJY: [[dzjy:JY203/JY203_01.txt][JY203 孫不二元君法語]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0064 孫不二元君傳述丹道祕書三卷
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY204
+   :END:
+**** 版本
+***** DZJY  孫不二元君傳述丹道祕書三卷
+:PROPERTIES:
+:EXTENT:  7 fols.
+:LODGE:  胃 7
+:KZ:  15: 6828-31
+:END:
+孫不二元君傳述丹道祕書三卷
+DZJY: [[dzjy:JY204/JY204_01.txt][JY204 孫不二元君傳述丹道祕書三卷]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0065 金液還丹印證圖詩
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY208
+   :END:
+**** 版本
+***** DZJY  金液還丹印證圖詩
+:PROPERTIES:
+:EXTENT:  46 fols.
+:LODGE:  胃 11
+:KZ:  16: 6951-73
+:END:
+金液還丹印證圖詩
+DZJY: [[dzjy:JY208/JY208_01.txt][JY208 金液還丹印證圖詩]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0066 仙佛合宗語錄
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY231
+   :END:
+**** 版本
+***** DZJY  仙佛合宗語錄
+:PROPERTIES:
+:EXTENT:  3 juan
+:LODGE:  畢 1-3
+:KZ:  17: 7403-7540
+:END:
+仙佛合宗語錄
+DZJY: [[dzjy:JY231/JY231_01.txt][JY231 仙佛合宗語錄]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0067 天仙正理直論
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY232
+   :END:
+**** 版本
+***** DZJY  天仙正理直論
+:PROPERTIES:
+:EXTENT:  110 fols.
+:LODGE:  畢 4
+:KZ:  17: 7541-95
+:END:
+天仙正理直論
+DZJY: [[dzjy:JY232/JY232_01.txt][JY232 天仙正理直論]]
+****** Work notes
+******* KX seems to have a different order: check!!
+       CLOSED: [2013-04-09 Tue 17:31]
+****** Comments
+
+
+*** KR5i0068 天仙正理直論淺說
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY233
+   :END:
+**** 版本
+***** DZJY  天仙正理直論淺說
+:PROPERTIES:
+:EXTENT:  45 fols.
+:LODGE:  畢 5
+:KZ:  17: 7597-7619
+:END:
+天仙正理直論淺說
+DZJY: [[dzjy:JY233/JY233_01.txt][JY233 天仙正理直論淺說]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0069 金丹要訣
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY234
+   :END:
+**** 版本
+***** DZJY  金丹要訣
+:PROPERTIES:
+:EXTENT:  19 fols.
+:LODGE:  畢 6
+:KZ:  17: 7621-30
+:END:
+金丹要訣
+DZJY: [[dzjy:JY234/JY234_01.txt][JY234 金丹要訣]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0070 伍真人丹道九篇
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY235
+   :END:
+**** 版本
+***** DZJY  伍真人丹道九篇
+:PROPERTIES:
+:EXTENT:  19 fols.
+:LODGE:  畢 6
+:KZ:  17: 7630-39
+:END:
+伍真人丹道九篇
+DZJY: [[dzjy:JY235/JY235_01.txt][JY235 伍真人丹道九篇]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0071 張三丰先生全集
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY236
+   :END:
+**** 版本
+***** DZJY  張三丰先生全集
+:PROPERTIES:
+:EXTENT:  6 juan
+:LODGE:  續畢 7-12
+:KZ:  17: 7641-18: 7905
+:END:
+張三丰先生全集
+DZJY: [[dzjy:JY236/JY236_01.txt][JY236 張三丰先生全集]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0072 養真集
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY241
+   :END:
+**** 版本
+***** DZJY  養真集
+:PROPERTIES:
+:EXTENT:  2 juan
+:LODGE:  觜 9
+:KZ:  19: 8373-840
+:END:
+養真集
+DZJY: [[dzjy:JY241/JY241_01.txt][JY241 養真集]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0073 玉詮
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY243
+   :END:
+**** 版本
+***** DZJY  玉詮
+:PROPERTIES:
+:EXTENT:  5 juan
+:LODGE:  鬼 1-5
+:KZ:  20: 8971-9098, 21: 9101-9158
+:END:
+玉詮
+DZJY: [[dzjy:JY243/JY243_01.txt][JY243 玉詮]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0074 真詮
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY244
+   :END:
+**** 版本
+***** DZJY  真詮
+:PROPERTIES:
+:EXTENT:  3 juan
+:LODGE:  鬼 6
+:KZ:  21: 9159-87
+:END:
+真詮
+DZJY: [[dzjy:JY244/JY244_01.txt][JY244 真詮]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0075 心傳述證錄
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY245
+   :END:
+**** 版本
+***** DZJY  心傳述證錄
+:PROPERTIES:
+:EXTENT:  57 fols.
+:LODGE:  鬼 7
+:KZ:  21: 9189-9217
+:END:
+心傳述證錄
+DZJY: [[dzjy:JY245/JY245_01.txt][JY245 心傳述證錄]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0076 懺法大觀
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY246
+   :END:
+**** 版本
+***** DZJY  懺法大觀
+:PROPERTIES:
+:EXTENT:  6 juan
+:LODGE:  柳 1-6
+:KZ:  21: 9219-9499
+:END:
+懺法大觀
+DZJY: [[dzjy:JY246/JY246_01.txt][JY246 懺法大觀]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0077 三寶萬靈法懺
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY247
+   :END:
+**** 版本
+***** DZJY  三寶萬靈法懺
+:PROPERTIES:
+:EXTENT:  6 juan
+:LODGE:  續柳 7-12
+:KZ:  21: 9501-22: 9871
+:END:
+三寶萬靈法懺
+DZJY: [[dzjy:JY247/JY247_01.txt][JY247 三寶萬靈法懺]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0078 漢丞相諸葛忠武侯集
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY249
+   :END:
+**** 版本
+***** DZJY  漢丞相諸葛忠武侯集
+:PROPERTIES:
+:EXTENT:  21 juan
+:LODGE:  星 1-6
+:KZ:  22: 9917-23: 10107
+:END:
+漢丞相諸葛忠武侯集
+DZJY: [[dzjy:JY249/JY249_01.txt][JY249 漢丞相諸葛忠武侯集]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0079 太極圖說
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY250
+   :END:
+**** 版本
+***** DZJY  太極圖說
+:PROPERTIES:
+:EXTENT:  13 fols.
+:LODGE:  星 7
+:KZ:  
+:END:
+太極圖說
+DZJY: [[dzjy:JY250/JY250_01.txt][JY250 太極圖說]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0080 通書
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY251
+   :END:
+**** 版本
+***** DZJY  通書
+:PROPERTIES:
+:EXTENT:  1+24 fols.
+:LODGE:  星 7
+:KZ:  
+:END:
+通書
+DZJY: [[dzjy:JY251/JY251_01.txt][JY251 通書]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0081 皇極經世書
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY252
+   :END:
+**** 版本
+***** DZJY  皇極經世書
+:PROPERTIES:
+:EXTENT:  22  fols.
+:LODGE:  星 7
+:KZ:  
+:END:
+皇極經世書
+DZJY: [[dzjy:JY252/JY252_01.txt][JY252 皇極經世書]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0082 擊壤集
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY253
+   :END:
+**** 版本
+***** DZJY  擊壤集
+:PROPERTIES:
+:EXTENT:  55  fols.
+:LODGE:  星 7
+:KZ:  
+:END:
+擊壤集
+DZJY: [[dzjy:JY253/JY253_01.txt][JY253 擊壤集]]
+****** Work notes
+      [2011-09-20T10:30:51+0900]
+      mail from Alain Arrault about this text.  
+      No idea where the CK PDF comes from!
+
+****** Comments
+
+
+*** KR5i0083 文昌帝君本傳
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY254
+   :END:
+**** 版本
+***** DZJY  文昌帝君本傳
+:PROPERTIES:
+:EXTENT:  13  fols.
+:LODGE:  星 8
+:KZ:  23: 10109-15
+:END:
+文昌帝君本傳
+DZJY: [[dzjy:JY254/JY254_01.txt][JY254 文昌帝君本傳]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0084 文帝孝經
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY256
+   :END:
+**** 版本
+***** DZJY  文帝孝經
+:PROPERTIES:
+:EXTENT:  17  fols.
+:LODGE:  星 9
+:KZ:  23: 10157-65
+:END:
+文帝孝經
+DZJY: [[dzjy:JY256/JY256_01.txt][JY256 文帝孝經]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0085 元皇大道真君救劫寶經
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY257
+   :END:
+**** 版本
+***** DZJY  元皇大道真君救劫寶經
+:PROPERTIES:
+:EXTENT:  8 fols.
+:LODGE:  星 9
+:KZ:  23: 10165-69
+:END:
+元皇大道真君救劫寶經
+DZJY: [[dzjy:JY257/JY257_01.txt][JY257 元皇大道真君救劫寶經]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0086 文昌延嗣經
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY258
+   :END:
+**** 版本
+***** DZJY  文昌延嗣經
+:PROPERTIES:
+:EXTENT:  10 fols.
+:LODGE:  星 9
+:KZ:  23: 10169-74
+:END:
+文昌延嗣經
+DZJY: [[dzjy:JY258/JY258_01.txt][JY258 文昌延嗣經]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0087 陰騭文註
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY259
+   :END:
+**** 版本
+***** DZJY  陰騭文註
+:PROPERTIES:
+:EXTENT:  51 fols.
+:LODGE:  星 9
+:KZ:  23: 10174-99
+:END:
+陰騭文註
+DZJY: [[dzjy:JY259/JY259_01.txt][JY259 陰騭文註]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0088 關帝忠孝忠義經/三界伏魔關聖帝君忠孝忠義真經
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY260
+   :END:
+**** 版本
+***** DZJY  關帝忠孝忠義經/三界伏魔關聖帝君忠孝忠義真經
+:PROPERTIES:
+:EXTENT:  17 fols.
+:LODGE:  星 9
+:KZ:  23: 10200-10208
+:END:
+關帝忠孝忠義經/三界伏魔關聖帝君忠孝忠義真經
+DZJY: [[dzjy:JY260/JY260_01.txt][JY260 關帝忠孝忠義經/三界伏魔關聖帝君忠孝忠義真經]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0089 關聖帝君本傳
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY261
+   :END:
+**** 版本
+***** DZJY  關聖帝君本傳
+:PROPERTIES:
+:EXTENT:  8 fols.
+:LODGE:  星 9
+:KZ:  23: 10208-12
+:END:
+關聖帝君本傳
+DZJY: [[dzjy:JY261/JY261_01.txt][JY261 關聖帝君本傳]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0090 清微宏範道門功課
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY262
+   :END:
+**** 版本
+***** DZJY  清微宏範道門功課
+:PROPERTIES:
+:EXTENT:  1+44 fols.
+:LODGE:  張 1
+:KZ:  23: 10213-35
+:END:
+清微宏範道門功課
+DZJY: [[dzjy:JY262/JY262_01.txt][JY262 清微宏範道門功課]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0091 太上玄門功課經
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY263
+   :END:
+**** 版本
+***** DZJY  太上玄門功課經
+:PROPERTIES:
+:EXTENT:  34 fols.
+:LODGE:  張 1
+:KZ:  23: 10235-52
+:END:
+太上玄門功課經
+DZJY: [[dzjy:JY263/JY263_01.txt][JY263 太上玄門功課經]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0092 靈寶文檢
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY265
+   :END:
+**** 版本
+***** DZJY  靈寶文檢
+:PROPERTIES:
+:EXTENT:  10 juan
+:LODGE:  
+:KZ:  
+:END:
+靈寶文檢
+DZJY: [[dzjy:JY265/JY265_01.txt][JY265 靈寶文檢]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0093 心香妙語
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY266
+   :END:
+**** 版本
+***** DZJY  心香妙語
+:PROPERTIES:
+:EXTENT:  4 juan
+:LODGE:  
+:KZ:  
+:END:
+心香妙語
+DZJY: [[dzjy:JY266/JY266_01.txt][JY266 心香妙語]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0094 雅宜集
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY267
+   :END:
+**** 版本
+***** DZJY  雅宜集
+:PROPERTIES:
+:EXTENT:  4 juan
+:LODGE:  
+:KZ:  
+:END:
+雅宜集
+DZJY: [[dzjy:JY267/JY267_01.txt][JY267 雅宜集]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0095 十戒功過格
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY278
+   :END:
+**** 版本
+***** DZJY  十戒功過格
+:PROPERTIES:
+:EXTENT:  3+1+57 fols.
+:LODGE:  張 3
+:KZ:  23: 10309-39
+:END:
+十戒功過格
+DZJY: [[dzjy:JY278/JY278_01.txt][JY278 十戒功過格]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0096 警世功過格
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY279
+   :END:
+**** 版本
+***** DZJY  警世功過格
+:PROPERTIES:
+:EXTENT:  29 fols.
+:LODGE:  張 3
+:KZ:  23: 10339-53
+:END:
+警世功過格
+DZJY: [[dzjy:JY279/JY279_01.txt][JY279 警世功過格]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0097 三壇圓滿天仙大戒略說
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY285
+   :END:
+**** 版本
+***** DZJY  三壇圓滿天仙大戒略說
+:PROPERTIES:
+:EXTENT:  24 fols.
+:LODGE:  張 7
+:KZ:  24: 10457-68
+:END:
+三壇圓滿天仙大戒略說
+DZJY: [[dzjy:JY285/JY285_01.txt][JY285 三壇圓滿天仙大戒略說]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0098 初真戒律
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY286
+   :END:
+**** 版本
+***** DZJY  初真戒律
+:PROPERTIES:
+:EXTENT:  37 fols.
+:LODGE:  張 7
+:KZ:  24: 10469-87
+:END:
+初真戒律
+DZJY: [[dzjy:JY286/JY286_01.txt][JY286 初真戒律]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0099 中極戒
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY287
+   :END:
+**** 版本
+***** DZJY  中極戒
+:PROPERTIES:
+:EXTENT:  18 fols.
+:LODGE:  張 7
+:KZ:  24: 10487-96
+:END:
+中極戒
+DZJY: [[dzjy:JY287/JY287_01.txt][JY287 中極戒]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0100 二仙菴碑記
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY293
+   :END:
+**** 版本
+***** DZJY  二仙菴碑記
+:PROPERTIES:
+:EXTENT:  25 fols.
+:LODGE:  翼 1
+:KZ:  24: 10552-64
+:END:
+二仙菴碑記
+DZJY: [[dzjy:JY293/JY293_01.txt][JY293 二仙菴碑記]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0101 青羊宮碑記
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY294
+   :END:
+**** 版本
+***** DZJY  青羊宮碑記
+:PROPERTIES:
+:EXTENT:  15 fols.
+:LODGE:  續翼 1
+:KZ:  24: 10565-72
+:END:
+青羊宮碑記
+DZJY: [[dzjy:JY294/JY294_01.txt][JY294 青羊宮碑記]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0102 華蓋山三仙真經
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY297
+   :END:
+**** 版本
+***** DZJY  華蓋山三仙真經
+:PROPERTIES:
+:EXTENT:  25 fols.
+:LODGE:  翼 6
+:KZ:  24: 10821-33
+:END:
+華蓋山三仙真經
+DZJY: [[dzjy:JY297/JY297_01.txt][JY297 華蓋山三仙真經]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0103 青城山記
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY308
+   :END:
+**** 版本
+***** DZJY  青城山記
+:PROPERTIES:
+:EXTENT:  2 juan
+:LODGE:  翼 10
+:KZ:  25: 11037-64
+:END:
+青城山記
+DZJY: [[dzjy:JY308/JY308_01.txt][JY308 青城山記]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0104 太上無極大道延壽集福消切寶懺
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY309
+   :END:
+**** 版本
+***** DZJY  太上無極大道延壽集福消切寶懺
+:PROPERTIES:
+:EXTENT:  
+:LODGE:  [續]翼
+:KZ:  
+:END:
+太上無極大道延壽集福消切寶懺 
+DZJY: [[dzjy:JY309/JY309_01.txt][JY309 太上無極大道延壽集福消切寶懺 ]]
+****** Work notes
+      <2011-07-15> from AS received
+      <2012-03-20 Tue>
+      added file from AS input
+
+****** Comments
+
+
+*** KR5i0105 天下名山記
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:JY310
+   :END:
+**** 版本
+***** DZJY  天下名山記
+:PROPERTIES:
+:EXTENT:  6 juan
+:LODGE:  軫 1-6
+:KZ:  25: 11065-307
+:END:
+天下名山記
+DZJY: [[dzjy:JY310/JY310_01.txt][JY310 天下名山記]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5i0106 青玄濟煉鐵貫斛食
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:EX001
+   :END:
+**** 版本
+***** DZJY  青玄濟煉鐵貫斛食
+:PROPERTIES:
+:EXTENT:  1 juan
+:LODGE:  [續]張1
+:KZ:  
+:END:
+青玄濟煉鐵貫斛食
+DZJY: [[dzjy:CK_EX01/CK_EX01.txt][CK_EX01 青玄濟煉鐵貫斛食]]
+****** Work notes
+      <2012-03-20 Tue>
+      renamed from QXHS to EX001
+****** Comments
+
+
+*** KR5i0107 太上無極大道三十六部尊經 (啟請科儀)
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:EX002
+   :END:
+**** 版本
+***** DZJY  太上無極大道三十六部尊經
+:PROPERTIES:
+:EXTENT:  
+:LODGE:  [續]翼
+:KZ:  
+:END:
+太上無極大道三十六部尊經 
+DZJY: [[dzjy:EX002/EX002.txt][CK_EX02 太上無極大道三十六部尊經 ]]
+****** Work notes
+      <2012-03-20 Tue> added, part s
+      <2012-03-22 Thu> all images ok, text of 6 - 8
+      8 seems to be a different text!!
+      <2012-03-28 Wed>
+      Decided to move parts 1-7 to EX 003, part 8 of this to EX002_01
+****** Comments
+
+
+*** KR5i0108 太上無極太道三十六部尊經註解
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:EX003
+   :END:
+**** 版本
+***** DZJY  太上無極太道三十六部尊經註解
+  :PROPERTIES:
+  :EXTENT:  
+  :LODGE:    [續]翼
+  :KZ:  
+  :END:
+DZJY: [[dzjy:EX003/EX003.txt][EX003 太上無極太道三十六部尊經註解]] 
+****** Work notes
+      <2012-03-28 Wed>
+      this has originally been part of EX002, after consultation with the catalog etc,　decided to move this to EX003, since these are really different texts.
+      - this text is available at several places on the net:
+	http://www.jnk.org.tw/n-room3.htm
+	and
+	http://www.dxx99.com/dj_tswjdd36bzj4.htm
+	as a copy of 
+      中國道教真一宗大赤天南宮太清宮印本 (高雄市楠梓區清安街八十號)
+	
+****** Comments
+
+*** KR5i0109 女丹合編
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:EX004
+   :END:
+**** 版本
+***** DZJY  女丹合編
+:PROPERTIES:
+:EXTENT:  1 juan
+:LODGE:  
+:KZ:  
+:END:
+女丹合編
+DZJY: [[dzjy:CK_EX04/CK_EX04.txt][CK_EX04 女丹合編]]
+****** Work notes
+      <2012-03-20 Tue>
+      renamed from ND to EX004
+****** Comments
+
+
+*** KR5i0110 太上洞玄靈寶玉樞調元應顯尊經
+   :PROPERTIES:
+   :BASEEDITION: CK-KZ
+   :EXTRA_ID: DZJY:EX005
+   :END:
+
+This text has not yet been discovered.
+
+**** 版本
+***** DZJY  太上洞玄靈寶玉樞調元應顯尊經
+     :PROPERTIES:
+     :EXTENT:  
+     :LODGE:    [續]翼
+     :KZ:  
+     :END:
+     太上洞玄靈寶玉樞調元應顯尊經
+****** Work notes
+      <2012-03-28 Wed>
+      changed no to EX005, used to be EX003.  This text has not yet been found.
+****** Comments
+
+
+
+

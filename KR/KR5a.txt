@@ -1,0 +1,7359 @@
+# -*- mode: org; -*-
+#+LINK: dzimg file:/Users/Shared/md-remote/images/hfl/%s
+** KR5a ZB5a 洞真部
+# ** CMTS0101	本文類 Scripture
+*** KR5a0001 [[mandoku:ZB5a0001.org][ZB5a0001]] 靈寶無量度人上品妙經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0001
+:TTC: 214 - 215 , 1083 - 1084
+:DZ: DZ0001
+:page: 010001a
+:ZHDZ: ZHDZ34p0315
+:XWDZ: XWDZ01p0001
+:BASEEDITION: HFL
+:HFL: HFL天上004
+:DATE: ca. 400
+:EXTRA_ID: DZJY:JY001
+:END:
+
+[[dzimg:0001/0001-010.tif][HFL 0001 010]]
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY001 元始無量度人上品妙經  Yuanshi wuliang duren shangpin miaojing :can:
+:PROPERTIES:
+:EXTENT:  61 juan
+:LODGE:  角 1-7, 亢 1-5
+:KZ:  1: 411-59, 2: 463-850, 3: 853-946
+:CT:  1
+:DZ: DZ0001 / JY001
+:END:
+元始無量度人上品妙經 
+DZJ0: [[dzjy:JY001/JY001_01.txt][JY001 元始無量度人上品妙經 ]]
+****** Work notes
+******* split to juan, added diffs from
+       Kaixi-DZ, Hongkong-DZ, Taiwan-DZ
+****** Comments
+
+
+*** KR5a0002 [[mandoku:ZB5a0002.org][ZB5a0002]] 元始無量度人上品妙經直音
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0002
+:TTC: 1084
+:DZ: DZ0002
+:page: 010417b
+:ZHDZ: ZHDZ00p0000
+:XWDZ: XWDZ01p0640
+:BASEEDITION: HFL
+:HFL: HFL洪上044
+:END:
+
+[[dzimg:0013/0013-044.tif][HFL 0013 044]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0003 [[mandoku:ZB5a0003.org][ZB5a0003]] 元始說先天道德經註解
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0003
+:TTC: 706 - 707
+:DZ: DZ0003
+:page: 010425a
+:ZHDZ: ZHDZ11p0160
+:XWDZ: XWDZ01p0652
+:BASEEDITION: HFL
+:HFL: HFL洪上090
+:EXTRA_ID: DZJY:JY005
+:END:
+
+[[dzimg:0013/0013-090.tif][HFL 0013 090]]
+**** 人物
+***** 李嘉謀
+     :PROPERTIES:
+     :FUNCTION: 註
+     :DATES:    進士 1166
+     :END:
+***** 張善淵
+     :PROPERTIES:
+     :HAO:      癸復道人
+     :FUNCTION: 編
+     :DATES:    fl. 1280 - 1294
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY005 元始說先天道德經註解 Yuanshi shuo xiantian daode jing zhujie :can:
+:PROPERTIES:
+:EXTENT:  61 fols.
+:LODGE:  心 1
+:KZ:  3: 1095-1125
+:CT:  3
+:DZ: DZ0003 / JY005
+:END:
+元始說先天道德經註解
+DZJ0: [[dzjy:JY005/JY005_01.txt][JY005 元始說先天道德經註解]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0004 [[mandoku:ZB5a0004.org][ZB5a0004]] 無上內祕真藏經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0004
+:TTC: 529 - 530
+:DZ: DZ0004
+:page: 010452b
+:ZHDZ: ZHDZ05p0412
+:XWDZ: XWDZ01p0694
+:BASEEDITION: HFL
+:HFL: HFL洪中100
+:DYNASTY: 唐初期
+:EXTRA_ID: DZJY:JY004
+:END:
+
+[[dzimg:0014/0014-100.tif][HFL 0014 100]]
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  *JY004 元始天尊說無上內祕真藏經 Yuanshi tianzun shuo wushang neibi zhenzang jing :can:
+:PROPERTIES:
+:EXTENT:  59 fols.
+:LODGE:  氐 1
+:KZ:  3: 1065-94
+:CT:  4
+:DZ: DZ0004 / JY004
+:END:
+元始天尊說無上內祕真藏經
+DZJ0: [[dzjy:JY004/JY004_01.txt][JY004 元始天尊說無上內祕真藏經]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0005 [[mandoku:ZB5a0005.org][ZB5a0005]] 太上無極總真文昌大洞仙經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0005
+:TTC: 1207 - 1208
+:DZ: DZ0005
+:page: 010496a
+:ZHDZ: ZHDZ06p0437
+:XWDZ: XWDZ01p0761
+:BASEEDITION: HFL
+:HFL: HFL荒上004
+:DATE: 1168(revealed)
+:END:
+
+[[dzimg:0016/0016-004.tif][HFL 0016 004]]
+**** 人物
+***** 文昌帝君
+     :PROPERTIES:
+     :CERT:     att
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0006 [[mandoku:ZB5a0006.org][ZB5a0006]] 上清大洞真經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0006
+:TTC: 1043 - 1045
+:DZ: DZ0006
+:page: 010512b
+:ZHDZ: ZHDZ01p0001
+:XWDZ: XWDZ01p0786
+:BASEEDITION: HFL
+:HFL: HFL荒上102
+:DATE: 1272(刊記)
+:END:
+
+[[dzimg:0016/0016-102.tif][HFL 0016 102]]
+**** 人物
+***** 朱自英
+     :PROPERTIES:
+     :FUNCTION: 序
+     :DATES:    974 - 1029
+     :END:
+***** 蔣宗瑛
+     :PROPERTIES:
+     :FUNCTION: 編
+     :DATES:    d. 1281
+     :END:
+***** 程公端
+     :PROPERTIES:
+     :FUNCTION: 刊記
+     :END:
+***** 張宇初
+     :PROPERTIES:
+     :FUNCTION: 刊記
+     :DATES:    1361 - 1410
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0007 [[mandoku:ZB5a0007.org][ZB5a0007]] 大洞玉經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0007
+:TTC: 1046
+:DZ: DZ0007
+:page: 010556a
+:ZHDZ: ZHDZ01p0054
+:XWDZ: XWDZ02p0001
+:BASEEDITION: HFL
+:HFL: HFL日上004
+:DYNASTY: 明初期
+:END:
+
+[[dzimg:0018/0018-004.tif][HFL 0018 004]]
+**** 人物
+***** 龔德同
+     :PROPERTIES:
+     :FUNCTION: 刊記
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0008 [[mandoku:ZB5a0008.org][ZB5a0008]] 太上三十六尊經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0008
+:TTC: 1086 - 1087
+:DZ: DZ0008
+:page: 010576a
+:ZHDZ: ZHDZ05p0374
+:XWDZ: XWDZ02p0032
+:BASEEDITION: HFL
+:HFL: HFL日上124
+:END:
+
+[[dzimg:0018/0018-124.tif][HFL 0018 124]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0009 [[mandoku:ZB5a0009.org][ZB5a0009]] 太上一乘海空智藏經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0009
+:TTC: 527 - 529
+:DZ: DZ0009
+:page: 010608a
+:ZHDZ: ZHDZ05p0281
+:XWDZ: XWDZ01p0608
+:BASEEDITION: HFL
+:HFL: HFL月上004
+:DYNASTY: 唐初期
+:END:
+
+[[dzimg:0020/0020-004.tif][HFL 0020 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0010 [[mandoku:ZB5a0010.org][ZB5a0010]] 高上玉皇本行集經(一)　
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0010
+:TTC: 1096 - 1097
+:DZ: DZ0010
+:page: 010695c
+:ZHDZ: ZHDZ06p0272
+:XWDZ: XWDZ02p0219
+:BASEEDITION: HFL
+:HFL: HFL盈上004
+:END:
+
+[[dzimg:0023/0023-004.tif][HFL 0023 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0011 [[mandoku:ZB5a0011.org][ZB5a0011]] 高上玉皇本行集經(二)
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0011
+:TTC: 1097
+:DZ: DZ0011
+:page: 010709a
+:ZHDZ: ZHDZ06p0286
+:XWDZ: XWDZ02p0240
+:BASEEDITION: HFL
+:HFL: HFL盈上084
+:EXTRA_ID: DZJY:JY088
+:END:
+
+[[dzimg:0023/0023-084.tif][HFL 0023 084]]
+**** 人物
+***** 張良
+     :PROPERTIES:
+     :CERT:     att
+     :DATES:    d. -187
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY088 高上玉皇本行集經  Gaoshang yuhuang benxing jijing	:can:
+:PROPERTIES:
+:EXTENT:  3 juan
+:LODGE:  箕 4
+:KZ:  7: 2587-2632
+:CT:  11
+:DZ: DZ0011 / JY088
+:END:
+高上玉皇本行集經 
+DZJ0: [[dzjy:JY088/JY088_01.txt][JY088 高上玉皇本行集經 ]]
+****** Work notes
+
+****** Comments
+
+
+**** 誦經感應
+    :PROPERTIES:
+    :TYPE:   appendix
+    :END:
+
+*** KR5a0012 [[mandoku:ZB5a0012.org][ZB5a0012]] 高上玉皇本行經髓
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0012
+:TTC: 1098
+:DZ: DZ0012
+:page: 010745b
+:ZHDZ: ZHDZ06p0323
+:XWDZ: XWDZ02p0297
+:BASEEDITION: HFL
+:HFL: HFL盈中150
+:END:
+
+[[dzimg:0024/0024-150.tif][HFL 0024 150]]
+**** 人物
+***** 劉處源
+     :PROPERTIES:
+     :FUNCTION: 傳
+     :DATES:    fl. 1344
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+**** 傳經源流
+    :PROPERTIES:
+    :TYPE:   appendix
+    :END:
+
+*** KR5a0013 [[mandoku:ZB5a0013.org][ZB5a0013]] 高上玉皇心印經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0013
+:TTC: 1098
+:DZ: DZ0013
+:page: 010748b
+:ZHDZ: ZHDZ06p0326
+:XWDZ: XWDZ02p0302
+:BASEEDITION: HFL
+:HFL: HFL盈中168
+:END:
+
+[[dzimg:0024/0024-168.tif][HFL 0024 168]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0014 [[mandoku:ZB5a0014.org][ZB5a0014]] 高上玉皇胎息經　　　
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0014
+:TTC: 367
+:DZ: DZ0014
+:page: 010748c
+:ZHDZ: ZHDZ23p0184
+:XWDZ: XWDZ02p0302
+:BASEEDITION: HFL
+:HFL: HFL盈中170
+:END:
+
+[[dzimg:0024/0024-170.tif][HFL 0024 170]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0015 [[mandoku:ZB5a0015.org][ZB5a0015]] 無上九霄玉清大梵紫微玄都雷霆玉經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0015
+:TTC: 1091
+:DZ: DZ0015
+:page: 010749a
+:ZHDZ: ZHDZ31p0287
+:XWDZ: XWDZ02p0303
+:BASEEDITION: HFL
+:HFL: HFL盈下004
+:END:
+
+[[dzimg:0025/0025-004.tif][HFL 0025 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0016 [[mandoku:ZB5a0016.org][ZB5a0016]] 九天應元雷聲普化天尊玉樞寶經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0016
+:TTC: 1092
+:DZ: DZ0016
+:page: 010758b
+:ZHDZ: ZHDZ31p0297
+:XWDZ: XWDZ02p0318
+:BASEEDITION: HFL
+:HFL: HFL盈下058
+:END:
+
+[[dzimg:0025/0025-058.tif][HFL 0025 058]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0017 [[mandoku:ZB5a0017.org][ZB5a0017]] 太上說朝天謝雷真經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0017
+:TTC: 1089
+:DZ: DZ0017
+:page: 010762a
+:ZHDZ: ZHDZ31p0328
+:XWDZ: XWDZ02p0324
+:BASEEDITION: HFL
+:HFL: HFL盈下080
+:END:
+
+[[dzimg:0025/0025-080.tif][HFL 0025 080]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0018 [[mandoku:ZB5a0018.org][ZB5a0018]] 太上虛皇天尊四十九章經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0018
+:TTC: 982
+:DZ: DZ0018
+:page: 010768a
+:ZHDZ: ZHDZ05p0407
+:XWDZ: XWDZ02p0333
+:BASEEDITION: HFL
+:HFL: HFL盈下116
+:END:
+
+[[dzimg:0025/0025-116.tif][HFL 0025 116]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0019 [[mandoku:ZB5a0019.org][ZB5a0019]] 太上昇玄消災護命妙經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0019
+:TTC: 554
+:DZ: DZ0019
+:page: 010772c
+:ZHDZ: ZHDZ06p0069
+:XWDZ: XWDZ02p0340
+:BASEEDITION: HFL
+:HFL: HFL盈下144
+:DYNASTY: 唐
+:END:
+
+[[dzimg:0025/0025-144.tif][HFL 0025 144]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0020 [[mandoku:ZB5a0020.org][ZB5a0020]] 三光注齡資福延壽妙經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0020
+:TTC: 1235
+:DZ: DZ0020
+:page: 010773b
+:ZHDZ: ZHDZ06p0220
+:XWDZ: XWDZ02p0341
+:BASEEDITION: HFL
+:HFL: HFL盈下148
+:END:
+
+[[dzimg:0025/0025-148.tif][HFL 0025 148]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0021 [[mandoku:ZB5a0021.org][ZB5a0021]] 太上長生延壽集福德經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0021
+:TTC: 555
+:DZ: DZ0021
+:page: 010773c
+:ZHDZ: ZHDZ06p0219
+:XWDZ: XWDZ02p0342
+:BASEEDITION: HFL
+:HFL: HFL盈下150
+:DYNASTY: 唐
+:END:
+
+[[dzimg:0025/0025-150.tif][HFL 0025 150]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0022 [[mandoku:ZB5a0022.org][ZB5a0022]] 元始五老赤書玉篇真文天書經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0022
+:TTC: 215 - 216
+:DZ: DZ0022
+:page: 010774b
+:ZHDZ: ZHDZ03p0001
+:XWDZ: XWDZ02p0343
+:BASEEDITION: HFL
+:HFL: HFL昃上004
+:DATE: ca. 400
+:END:
+
+[[dzimg:0026/0026-004.tif][HFL 0026 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0023 [[mandoku:ZB5a0023.org][ZB5a0023]] 太上諸天靈書度命妙經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0023
+:TTC: 229 - 230
+:DZ: DZ0023
+:page: 010799c
+:ZHDZ: ZHDZ00p0000
+:XWDZ: XWDZ02p0382
+:BASEEDITION: HFL
+:HFL: HFL昃上156
+:DATE: ca. 400
+:END:
+
+[[dzimg:0026/0026-156.tif][HFL 0026 156]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0024 [[mandoku:ZB5a0024.org][ZB5a0024]] 元始天尊說生天得道經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0024
+:TTC: 555 - 556
+:DZ: DZ0024
+:page: 010806a
+:ZHDZ: ZHDZ06p0108
+:XWDZ: XWDZ02p0393
+:BASEEDITION: HFL
+:HFL: HFL昃下004
+:DYNASTY: 唐
+:EXTRA_ID: DZJY:JY011
+:END:
+
+[[dzimg:0027/0027-004.tif][HFL 0027 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY011 元始天尊說生天得道經  Yuanshi tianzun shuo shengtian dedao jing :can:
+:PROPERTIES:
+:EXTENT:  1 fol.
+:LODGE:  氐 5
+:KZ:  4: 1298;
+:CT:  24
+:DZ: DZ0024 / JY011
+:END:
+元始天尊說生天得道經 
+DZJ0: [[dzjy:JY011/JY011_01.txt][JY011 元始天尊說生天得道經 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0025 [[mandoku:ZB5a0025.org][ZB5a0025]] 元始天尊說得道了身經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0025
+:TTC: 1173
+:DZ: DZ0025
+:page: 010806c
+:ZHDZ: ZHDZ06p0111
+:XWDZ: XWDZ02p0395
+:BASEEDITION: HFL
+:HFL: HFL昃下008
+:EXTRA_ID: DZJY:JY012
+:END:
+
+[[dzimg:0027/0027-008.tif][HFL 0027 008]]
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY012 元始天尊說得道了身經  Yuanshi tianzun shuo dedao liaoshen jing :can:
+:PROPERTIES:
+:EXTENT:  3 fols.
+:LODGE:  氐 5
+:KZ:  4: 1299-1300
+:CT:  25
+:DZ: DZ0025 / JY012
+:END:
+元始天尊說得道了身經 
+DZJ0: [[dzjy:JY012/JY012_01.txt][JY012 元始天尊說得道了身經 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0026 [[mandoku:ZB5a0026.org][ZB5a0026]] 太上九天延祥滌厄四聖妙經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0026
+:TTC: 1198 - 1199
+:DZ: DZ0026
+:page: 010808a
+:ZHDZ: ZHDZ06p0211
+:XWDZ: XWDZ02p0397
+:BASEEDITION: HFL
+:HFL: HFL昃下016
+:DATE: 14th cent?
+:END:
+
+[[dzimg:0027/0027-016.tif][HFL 0027 016]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0027 [[mandoku:ZB5a0027.org][ZB5a0027]] 元始天尊說北方真武妙經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0027
+:TTC: 1196
+:DZ: DZ0027
+:page: 010812c
+:ZHDZ: ZHDZ30p0522
+:XWDZ: XWDZ02p0404
+:BASEEDITION: HFL
+:HFL: HFL昃下044
+:DYNASTY: 明
+:END:
+
+[[dzimg:0027/0027-044.tif][HFL 0027 044]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0028 [[mandoku:ZB5a0028.org][ZB5a0028]] 元始天尊說梓童帝君應驗經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0028
+:TTC: 1206
+:DZ: DZ0028
+:page: 010815a
+:ZHDZ: ZHDZ06p0571
+:XWDZ: XWDZ02p0408
+:BASEEDITION: HFL
+:HFL: HFL昃下058
+:DATE: 13th cent?
+:END:
+
+[[dzimg:0027/0027-058.tif][HFL 0027 058]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0029 [[mandoku:ZB5a0029.org][ZB5a0029]] 元始天尊說梓童帝君本願經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0029
+:TTC: 1207
+:DZ: DZ0029
+:page: 010816b
+:ZHDZ: ZHDZ06p0573
+:XWDZ: XWDZ02p0410
+:BASEEDITION: HFL
+:HFL: HFL昃下066
+:DATE: after 1194
+:EXTRA_ID: DZJY:JY015
+:END:
+
+[[dzimg:0027/0027-066.tif][HFL 0027 066]]
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  *JY015 元始消劫梓潼本願真經  Yuanshi xiaojie zitong benyuan zhenjing :can:
+:PROPERTIES:
+:EXTENT:  9 fols.
+:LODGE:  氐 5
+:KZ:  4: 1314-18
+:CT:  29
+:DZ: DZ0029 / JY015
+:END:
+元始消劫梓潼本願真經 
+DZJ0: [[dzjy:JY015/JY015_01.txt][JY015 元始消劫梓潼本願真經 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0030 [[mandoku:ZB5a0030.org][ZB5a0030]] 元始八威龍文經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0030
+:TTC: 792
+:DZ: DZ0030
+:page: 010820b
+:ZHDZ: ZHDZ06p0774
+:XWDZ: XWDZ02p0416
+:BASEEDITION: HFL
+:HFL: HFL昃下090
+:END:
+
+[[dzimg:0027/0027-090.tif][HFL 0027 090]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0031 [[mandoku:ZB5a0031.org][ZB5a0031]] 黃帝陰符經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0031
+:TTC: 320 - 321
+:DZ: DZ0031
+:page: 010821b
+:ZHDZ: ZHDZ15p0695
+:XWDZ: XWDZ02p0418
+:BASEEDITION: HFL
+:HFL: HFL昃下096
+:DATE: 8th cent?
+:END:
+
+[[dzimg:0027/0027-096.tif][HFL 0027 096]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0032 [[mandoku:ZB5a0032.org][ZB5a0032]] 混元陽符經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0032
+:TTC: 700
+:DZ: DZ0032
+:page: 010822a
+:ZHDZ: ZHDZ19p0064
+:XWDZ: XWDZ02p0419
+:BASEEDITION: HFL
+:HFL: HFL昃下100
+:END:
+
+[[dzimg:0027/0027-100.tif][HFL 0027 100]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0033 [[mandoku:ZB5a0033.org][ZB5a0033]] 上清黃氣陽精三道順行經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0033
+:TTC: 148 - 149
+:DZ: DZ0033
+:page: 010822b
+:ZHDZ: ZHDZ01p0267
+:XWDZ: XWDZ02p0420
+:BASEEDITION: HFL
+:HFL: HFL昃下102
+:DYNASTY: 東晉
+:END:
+
+[[dzimg:0027/0027-102.tif][HFL 0027 102]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0034 [[mandoku:ZB5a0034.org][ZB5a0034]] 太上開明天地本真經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0034
+:TTC: 731
+:DZ: DZ0034
+:page: 010832a
+:ZHDZ: ZHDZ19p0664
+:XWDZ: XWDZ02p0435
+:BASEEDITION: HFL
+:HFL: HFL昃下160
+:END:
+
+[[dzimg:0027/0027-160.tif][HFL 0027 160]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0035 [[mandoku:ZB5a0035.org][ZB5a0035]] 太上玄都妙本清靜身心經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0035
+:TTC: 542 - 543
+:DZ: DZ0035
+:page: 010833b
+:ZHDZ: ZHDZ06p0083
+:XWDZ: XWDZ02p0439
+:BASEEDITION: HFL
+:HFL: HFL昃下168
+:DYNASTY: 唐
+:END:
+
+[[dzimg:0027/0027-168.tif][HFL 0027 168]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0036 [[mandoku:ZB5a0036.org][ZB5a0036]] 太上太玄女青三元品誡拔罪妙經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0036
+:TTC: 570
+:DZ: DZ0036
+:page: 010835b
+:ZHDZ: ZHDZ03p0785
+:XWDZ: XWDZ02p0441
+:BASEEDITION: HFL
+:HFL: HFL辰上004
+:DYNASTY: 唐
+:END:
+
+[[dzimg:0028/0028-004.tif][HFL 0028 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0037 [[mandoku:ZB5a0037.org][ZB5a0037]] 元始天尊說變化空洞妙經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0037
+:TTC: 250
+:DZ: DZ0037
+:page: 010845c
+:ZHDZ: ZHDZ04p0048
+:XWDZ: XWDZ02p0457
+:BASEEDITION: HFL
+:HFL: HFL辰上066
+:DYNASTY: 六朝
+:END:
+
+[[dzimg:0028/0028-066.tif][HFL 0028 066]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0038 [[mandoku:ZB5a0038.org][ZB5a0038]] 太上昇玄三一融神變化妙經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0038
+:TTC: 596 - 597
+:DZ: DZ0038
+:page: 010851b
+:ZHDZ: ZHDZ05p0145
+:XWDZ: XWDZ02p0466
+:BASEEDITION: HFL
+:HFL: HFL辰上106
+:END:
+
+[[dzimg:0028/0028-106.tif][HFL 0028 106]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0039 [[mandoku:ZB5a0039.org][ZB5a0039]] 太上導引三光九變妙經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0039
+:TTC: 597
+:DZ: DZ0039
+:page: 010855b
+:ZHDZ: ZHDZ04p0005
+:XWDZ: XWDZ02p0472
+:BASEEDITION: HFL
+:HFL: HFL辰上124
+:DYNASTY: 唐
+:END:
+
+[[dzimg:0028/0028-124.tif][HFL 0028 124]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0040 [[mandoku:ZB5a0040.org][ZB5a0040]] 太上導引三光寶真妙經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0040
+:TTC: 597 - 598
+:DZ: DZ0040
+:page: 010858c
+:ZHDZ: ZHDZ04p0006
+:XWDZ: XWDZ02p0477
+:BASEEDITION: HFL
+:HFL: HFL辰上144
+:DYNASTY: 唐
+:END:
+
+[[dzimg:0028/0028-144.tif][HFL 0028 144]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0041 [[mandoku:ZB5a0041.org][ZB5a0041]] 太上修真體元妙道經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0041
+:TTC: 735 - 736
+:DZ: DZ0041
+:page: 010860a
+:ZHDZ: ZHDZ19p0656
+:XWDZ: XWDZ02p0479
+:BASEEDITION: HFL
+:HFL: HFL辰下004
+:DATE: 1261(刊記)
+:END:
+
+[[dzimg:0029/0029-004.tif][HFL 0029 004]]
+**** 人物
+***** 劉元瑞
+     :PROPERTIES:
+     :FUNCTION: revealed
+     :END:
+***** 董正觀
+     :PROPERTIES:
+     :FUNCTION: 刊記
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0042 [[mandoku:ZB5a0042.org][ZB5a0042]] 玉清元始玄黃九光真經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0042
+:TTC: 1232
+:DZ: DZ0042
+:page: 010867a
+:ZHDZ: ZHDZ06p0769
+:XWDZ: XWDZ02p0490
+:BASEEDITION: HFL
+:HFL: HFL辰下047
+:DYNASTY: 明?
+:END:
+
+[[dzimg:0029/0029-047.tif][HFL 0029 047]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0043 [[mandoku:ZB5a0043.org][ZB5a0043]] 元始天尊說十一曜大消災神咒經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0043
+:TTC: 956 - 957
+:DZ: DZ0043
+:page: 010868b
+:ZHDZ: ZHDZ06p0194
+:XWDZ: XWDZ02p0492
+:BASEEDITION: HFL
+:HFL: HFL辰下054
+:END:
+
+[[dzimg:0029/0029-054.tif][HFL 0029 054]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0044 [[mandoku:ZB5a0044.org][ZB5a0044]] 太上洞真五星秘授經　
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0044
+:TTC: 1052
+:DZ: DZ0044
+:page: 010870b
+:ZHDZ: ZHDZ06p0192
+:XWDZ: XWDZ02p0495
+:BASEEDITION: HFL
+:HFL: HFL辰下066
+:END:
+
+[[dzimg:0029/0029-066.tif][HFL 0029 066]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0045 [[mandoku:ZB5a0045.org][ZB5a0045]] 玉清無上靈寶自然北斗本生真經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0045
+:TTC: 1231
+:DZ: DZ0045
+:page: 010872a
+:ZHDZ: ZHDZ06p0767
+:XWDZ: XWDZ02p0498
+:BASEEDITION: HFL
+:HFL: HFL辰下075
+:END:
+
+[[dzimg:0029/0029-075.tif][HFL 0029 075]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0046 [[mandoku:ZB5a0046.org][ZB5a0046]] 太乙元真保命長生經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0046
+:TTC: 1241 - 1242
+:DZ: DZ0046
+:page: 010873b
+:ZHDZ: ZHDZ23p0144
+:XWDZ: XWDZ02p0500
+:BASEEDITION: HFL
+:HFL: HFL辰下084
+:END:
+
+[[dzimg:0029/0029-084.tif][HFL 0029 084]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0047 [[mandoku:ZB5a0047.org][ZB5a0047]] 太上元始天尊證果真經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0047
+:TTC: 556
+:DZ: DZ0047
+:page: 010874a
+:ZHDZ: ZHDZ06p0202
+:XWDZ: XWDZ02p0501
+:BASEEDITION: HFL
+:HFL: HFL辰下088
+:DYNASTY: 唐
+:END:
+
+[[dzimg:0029/0029-088.tif][HFL 0029 088]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0048 [[mandoku:ZB5a0048.org][ZB5a0048]] 太上元始天尊說續命妙經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0048
+:TTC: 556
+:DZ: DZ0048
+:page: 010874b
+:ZHDZ: ZHDZ06p0203
+:XWDZ: XWDZ02p0501
+:BASEEDITION: HFL
+:HFL: HFL辰下090
+:DYNASTY: 唐
+:END:
+
+[[dzimg:0029/0029-090.tif][HFL 0029 090]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0049 [[mandoku:ZB5a0049.org][ZB5a0049]] 洞真太極北帝紫微神咒妙經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0049
+:TTC: 273
+:DZ: DZ0049
+:page: 010874c
+:ZHDZ: ZHDZ30p0160
+:XWDZ: XWDZ02p0502
+:BASEEDITION: HFL
+:HFL: HFL辰下092
+:DYNASTY: 東晉
+:END:
+
+[[dzimg:0029/0029-092.tif][HFL 0029 092]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0050 [[mandoku:ZB5a0050.org][ZB5a0050]] 太上說六甲直符保胎護命妙經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0050
+:TTC: 487
+:DZ: DZ0050
+:page: 010878c
+:ZHDZ: ZHDZ06p0196
+:XWDZ: XWDZ02p0508
+:BASEEDITION: HFL
+:HFL: HFL辰下116
+:DYNASTY: 唐?
+:END:
+
+[[dzimg:0029/0029-116.tif][HFL 0029 116]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0051 [[mandoku:ZB5a0051.org][ZB5a0051]] 太上元始天尊說大雨龍王經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0051
+:TTC: 556 - 557
+:DZ: DZ0051
+:page: 010881b
+:ZHDZ: ZHDZ06p0218
+:XWDZ: XWDZ02p0512
+:BASEEDITION: HFL
+:HFL: HFL辰下132
+:DYNASTY: 唐
+:END:
+
+[[dzimg:0029/0029-132.tif][HFL 0029 132]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0052 [[mandoku:ZB5a0052.org][ZB5a0052]] 太上護國祈雨消魔經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0052
+:TTC: 557
+:DZ: DZ0052
+:page: 010882b
+:ZHDZ: ZHDZ06p0216
+:XWDZ: XWDZ02p0514
+:BASEEDITION: HFL
+:HFL: HFL辰下138
+:DYNASTY: 唐
+:END:
+
+[[dzimg:0029/0029-138.tif][HFL 0029 138]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0053 [[mandoku:ZB5a0053.org][ZB5a0053]] 太上洞淵北帝天蓬護命消災神咒妙經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0053
+:TTC: 513 - 514
+:DZ: DZ0053
+:page: 010883c
+:ZHDZ: ZHDZ30p0120
+:XWDZ: XWDZ02p0516
+:BASEEDITION: HFL
+:HFL: HFL辰下146
+:DYNASTY: 唐後期?
+:END:
+
+[[dzimg:0029/0029-146.tif][HFL 0029 146]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0054 [[mandoku:ZB5a0054.org][ZB5a0054]] 太上洞淵辭瘟神咒妙經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0054
+:TTC: 514
+:DZ: DZ0054
+:page: 010886a
+:ZHDZ: ZHDZ30p0123
+:XWDZ: XWDZ02p0520
+:BASEEDITION: HFL
+:HFL: HFL辰下160
+:DYNASTY: 唐
+:END:
+
+[[dzimg:0029/0029-160.tif][HFL 0029 160]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0055 [[mandoku:ZB5a0055.org][ZB5a0055]] 高上太霄琅書瓊文帝章經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0055
+:TTC: 180
+:DZ: DZ0055
+:page: 010886c
+:ZHDZ: ZHDZ01p0636
+:XWDZ: XWDZ02p0521
+:BASEEDITION: HFL
+:HFL: HFL宿上004
+:DYNASTY: 六朝
+:END:
+
+[[dzimg:0030/0030-004.tif][HFL 0030 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0056 [[mandoku:ZB5a0056.org][ZB5a0056]] 太上玉珮金璫太極金書上經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0056
+:TTC: 176 - 177
+:DZ: DZ0056
+:page: 010896b
+:ZHDZ: ZHDZ01p0518
+:XWDZ: XWDZ02p0536
+:BASEEDITION: HFL
+:HFL: HFL宿上062
+:DYNASTY: 東晉
+:END:
+
+[[dzimg:0030/0030-062.tif][HFL 0030 062]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0057 [[mandoku:ZB5a0057.org][ZB5a0057]] 上方天尊說真元通仙道經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0057
+:TTC: 1218
+:DZ: DZ0057
+:page: 010905a
+:ZHDZ: ZHDZ00p0000
+:XWDZ: XWDZ02p0549
+:BASEEDITION: HFL
+:HFL: HFL宿上114
+:END:
+
+[[dzimg:0030/0030-114.tif][HFL 0030 114]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0058 [[mandoku:ZB5a0058.org][ZB5a0058]] 無上大乘要訣妙經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0058
+:TTC: 532
+:DZ: DZ0058
+:page: 020001a
+:ZHDZ: ZHDZ05p0487
+:XWDZ: XWDZ02p0561
+:BASEEDITION: HFL
+:HFL: HFL宿中004
+:DYNASTY: 唐
+:END:
+
+[[dzimg:0031/0031-004.tif][HFL 0031 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0059 [[mandoku:ZB5a0059.org][ZB5a0059]] 元始洞真決疑經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0059
+:TTC: 522
+:DZ: DZ0059
+:page: 020004c
+:ZHDZ: ZHDZ05p0269
+:XWDZ: XWDZ02p0567
+:BASEEDITION: HFL
+:HFL: HFL宿中026
+:DATES: 7th cent 初期
+:END:
+
+[[dzimg:0031/0031-026.tif][HFL 0031 026]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0060 [[mandoku:ZB5a0060.org][ZB5a0060]] 元始天尊說玄微妙經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0060
+:TTC: 190 - 191
+:DZ: DZ0060
+:page: 020010b
+:ZHDZ: ZHDZ02p0099
+:XWDZ: XWDZ02p0576
+:BASEEDITION: HFL
+:HFL: HFL宿中060
+:DYNASTY: 六朝
+:END:
+
+[[dzimg:0031/0031-060.tif][HFL 0031 060]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0061 [[mandoku:ZB5a0061.org][ZB5a0061]] 太上洞真賢門經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0061
+:TTC: 571 - 572
+:DZ: DZ0061
+:page: 020012c
+:ZHDZ: ZHDZ04p0251
+:XWDZ: XWDZ02p0580
+:BASEEDITION: HFL
+:HFL: HFL宿中074
+:DYNASTY: 唐
+:EXTRA_ID: DZJY:JY080
+:END:
+
+[[dzimg:0031/0031-074.tif][HFL 0031 074]]
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY080 太上洞真賢門經  Taishang dongzhen xianmen jing	:can:
+:PROPERTIES:
+:EXTENT:  61fols.
+:LODGE:  尾 3 
+:KZ:  6: 2235-65;
+:CT:  61
+:DZ: DZ0061 / JY080
+:END:
+太上洞真賢門經 
+DZJ0: [[dzjy:JY080/JY080_01.txt][JY080 太上洞真賢門經 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0062 [[mandoku:ZB5a0062.org][ZB5a0062]] 元始天王歡樂經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0062
+:TTC: 533
+:DZ: DZ0062
+:page: 020024a
+:ZHDZ: ZHDZ06p0186
+:XWDZ: XWDZ02p0597
+:BASEEDITION: HFL
+:HFL: HFL宿下004
+:DYNASTY: 唐
+:END:
+
+[[dzimg:0032/0032-004.tif][HFL 0032 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0063 [[mandoku:ZB5a0063.org][ZB5a0063]] 玉清胎元內養真經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0063
+:TTC: 1231
+:DZ: DZ0063
+:page: 020029a
+:ZHDZ: ZHDZ06p0771
+:XWDZ: XWDZ02p0605
+:BASEEDITION: HFL
+:HFL: HFL宿下034
+:END:
+
+[[dzimg:0032/0032-034.tif][HFL 0032 034]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0064 [[mandoku:ZB5a0064.org][ZB5a0064]] 玉清無上內景真經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0064
+:TTC: 1232 - 1233
+:DZ: DZ0064
+:page: 020030a
+:ZHDZ: ZHDZ06p0772
+:XWDZ: XWDZ02p0607
+:BASEEDITION: HFL
+:HFL: HFL宿下040
+:END:
+
+[[dzimg:0032/0032-040.tif][HFL 0032 040]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0065 [[mandoku:ZB5a0065.org][ZB5a0065]] 太上真一報父母恩重經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0065
+:TTC: 558
+:DZ: DZ0065
+:page: 020030c
+:ZHDZ: ZHDZ06p0158
+:XWDZ: XWDZ02p0608
+:BASEEDITION: HFL
+:HFL: HFL宿下044
+:DYNASTY: 唐
+:END:
+
+[[dzimg:0032/0032-044.tif][HFL 0032 044]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0066 [[mandoku:ZB5a0066.org][ZB5a0066]] 元始洞真慈善孝子報恩成道經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0066
+:TTC: 551
+:DZ: DZ0066
+:page: 020031b
+:ZHDZ: ZHDZ31p0383
+:XWDZ: XWDZ02p0609
+:BASEEDITION: HFL
+:HFL: HFL宿下048
+:DYNASTY: 唐
+:END:
+
+[[dzimg:0032/0032-048.tif][HFL 0032 048]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0067 [[mandoku:ZB5a0067.org][ZB5a0067]] 太上元始天尊說消殄蟲蝗經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0067
+:TTC: 955 - 956
+:DZ: DZ0067
+:page: 020033b
+:ZHDZ: ZHDZ04p0064
+:XWDZ: XWDZ02p0612
+:BASEEDITION: HFL
+:HFL: HFL宿下060
+:END:
+
+[[dzimg:0032/0032-060.tif][HFL 0032 060]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0068 [[mandoku:ZB5a0068.org][ZB5a0068]] 太上安鎮九壘龍神妙經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0068
+:TTC: 956
+:DZ: DZ0068
+:page: 020034a
+:ZHDZ: ZHDZ04p0347
+:XWDZ: XWDZ02p0613
+:BASEEDITION: HFL
+:HFL: HFL宿下064
+:END:
+
+[[dzimg:0032/0032-064.tif][HFL 0032 064]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0069 [[mandoku:ZB5a0069.org][ZB5a0069]] 太上洞真安竈經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0069
+:TTC: 957 - 958
+:DZ: DZ0069
+:page: 020034c
+:ZHDZ: ZHDZ04p0344
+:XWDZ: XWDZ02p0614
+:BASEEDITION: HFL
+:HFL: HFL宿下068
+:END:
+
+[[dzimg:0032/0032-068.tif][HFL 0032 068]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0070 [[mandoku:ZB5a0070.org][ZB5a0070]] 太上元始天尊說金光明經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0070
+:TTC: 958 - 959
+:DZ: DZ0070
+:page: 020035b
+:ZHDZ: ZHDZ06p0196
+:XWDZ: XWDZ02p0615
+:BASEEDITION: HFL
+:HFL: HFL宿下071
+:END:
+
+[[dzimg:0032/0032-071.tif][HFL 0032 071]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0071 [[mandoku:ZB5a0071.org][ZB5a0071]] 元始天尊說三官寶號經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0071
+:TTC: 959
+:DZ: DZ0071
+:page: 020036a
+:ZHDZ: ZHDZ06p0247
+:XWDZ: XWDZ02p0616
+:BASEEDITION: HFL
+:HFL: HFL宿下074
+:END:
+
+[[dzimg:0032/0032-074.tif][HFL 0032 074]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0072 [[mandoku:ZB5a0072.org][ZB5a0072]] 元始天尊濟度血湖真經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0072
+:TTC: 983
+:DZ: DZ0072
+:page: 020036c
+:ZHDZ: ZHDZ06p0061
+:XWDZ: XWDZ02p0617
+:BASEEDITION: HFL
+:HFL: HFL宿下078
+:END:
+
+[[dzimg:0032/0032-078.tif][HFL 0032 078]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0073 [[mandoku:ZB5a0073.org][ZB5a0073]] 元始天尊說酆都滅罪經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0073
+:TTC: 544
+:DZ: DZ0073
+:page: 020041a
+:ZHDZ: ZHDZ06p0209
+:XWDZ: XWDZ02p0624
+:BASEEDITION: HFL
+:HFL: HFL宿下104
+:END:
+
+[[dzimg:0032/0032-104.tif][HFL 0032 104]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0074 [[mandoku:ZB5a0074.org][ZB5a0074]] 太上說九幽拔罪心印妙經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0074
+:TTC: 983
+:DZ: DZ0074
+:page: 020042a
+:ZHDZ: ZHDZ06p0185
+:XWDZ: XWDZ02p0626
+:BASEEDITION: HFL
+:HFL: HFL宿下110
+:END:
+
+[[dzimg:0032/0032-110.tif][HFL 0032 110]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0075 [[mandoku:ZB5a0075.org][ZB5a0075]] 元始天尊說甘露昇天神咒妙經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0075
+:TTC: 984
+:DZ: DZ0075
+:page: 020042c
+:ZHDZ: ZHDZ06p0200
+:XWDZ: XWDZ02p0627
+:BASEEDITION: HFL
+:HFL: HFL宿下114
+:END:
+
+[[dzimg:0032/0032-114.tif][HFL 0032 114]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0076 [[mandoku:ZB5a0076.org][ZB5a0076]] 元始說功德法食往生經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0076
+:TTC: 984 - 985
+:DZ: DZ0076
+:page: 020043c
+:ZHDZ: ZHDZ06p0201
+:XWDZ: XWDZ02p0629
+:BASEEDITION: HFL
+:HFL: HFL宿下120
+:END:
+
+[[dzimg:0032/0032-120.tif][HFL 0032 120]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0077 [[mandoku:ZB5a0077.org][ZB5a0077]] 太上玉華洞章拔亡度世昇仙妙經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0077
+:TTC: 985 - 986
+:DZ: DZ0077
+:page: 020044c
+:ZHDZ: ZHDZ06p0242
+:XWDZ: XWDZ02p0631
+:BASEEDITION: HFL
+:HFL: HFL宿下126
+:DATE: 1143(跋)
+:END:
+
+[[dzimg:0032/0032-126.tif][HFL 0032 126]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0078 [[mandoku:ZB5a0078.org][ZB5a0078]] 太上三洞神咒
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0078
+:TTC: 1039
+:DZ: DZ0078
+:page: 020048c
+:ZHDZ: ZHDZ32p0690
+:XWDZ: XWDZ02p0637
+:BASEEDITION: HFL
+:HFL: HFL列上004
+:DYNASTY: 明
+:END:
+
+[[dzimg:0033/0033-004.tif][HFL 0033 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+# ** CMTS0102	神符類 Shenfu Sacred Symbols
+*** KR5a0079 [[mandoku:ZB5a0079.org][ZB5a0079]] 三洞神符記
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0079
+:TTC: 1101
+:DZ: DZ0079
+:page: 020142c
+:ZHDZ: ZHDZ05p0533
+:XWDZ: XWDZ02p0781
+:BASEEDITION: HFL
+:HFL: HFL張上004
+:END:
+
+[[dzimg:0036/0036-004.tif][HFL 0036 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0080 [[mandoku:ZB5a0080.org][ZB5a0080]] 雲篆度人妙經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0080
+:TTC: 1101 - 1102
+:DZ: DZ0080
+:page: 020150b
+:ZHDZ: ZHDZ03p0331
+:XWDZ: XWDZ02p0793
+:BASEEDITION: HFL
+:HFL: HFL張上050
+:END:
+
+[[dzimg:0036/0036-050.tif][HFL 0036 050]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0081 [[mandoku:ZB5a0081.org][ZB5a0081]] 洞真太微黃書天帝君石景金陽素經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0081
+:TTC: 191 - 192
+:DZ: DZ0081
+:page: 020162a
+:ZHDZ: ZHDZ02p0447
+:XWDZ: XWDZ02p0811
+:BASEEDITION: HFL
+:HFL: HFL張上120
+:DYNASTY: 六朝
+:END:
+
+[[dzimg:0036/0036-120.tif][HFL 0036 120]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0082 [[mandoku:ZB5a0082.org][ZB5a0082]] 上清洞真元經五籍符
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0082
+:TTC: 160
+:DZ: DZ0082
+:page: 020166a
+:ZHDZ: ZHDZ01p0395
+:XWDZ: XWDZ02p0817
+:BASEEDITION: HFL
+:HFL: HFL張下004
+:DYNASTY: 六朝
+:END:
+
+[[dzimg:0037/0037-004.tif][HFL 0037 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0083 [[mandoku:ZB5a0083.org][ZB5a0083]] 白羽黑翩靈飛玉符
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0083
+:TTC: 170 - 171
+:DZ: DZ0083
+:page: 020167c
+:ZHDZ: ZHDZ01p0494
+:XWDZ: XWDZ02p0820
+:BASEEDITION: HFL
+:HFL: HFL張下014
+:DYNASTY: 六朝
+:END:
+
+[[dzimg:0037/0037-014.tif][HFL 0037 014]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0084 [[mandoku:ZB5a0084.org][ZB5a0084]] 上清瓊宮靈飛六甲左右上符
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0084
+:TTC: 174 - 175
+:DZ: DZ0084
+:page: 020169c
+:ZHDZ: ZHDZ01p0502
+:XWDZ: XWDZ02p0823
+:BASEEDITION: HFL
+:HFL: HFL張下026
+:DYNASTY: 東晉
+:END:
+
+[[dzimg:0037/0037-026.tif][HFL 0037 026]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0085 [[mandoku:ZB5a0085.org][ZB5a0085]] 太上洞真經洞章符
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0085
+:TTC: 622
+:DZ: DZ0085
+:page: 020177b
+:ZHDZ: ZHDZ32p0655
+:XWDZ: XWDZ02p0835
+:BASEEDITION: HFL
+:HFL: HFL張下072
+:DYNASTY: 唐
+:END:
+
+[[dzimg:0037/0037-072.tif][HFL 0037 072]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0086 [[mandoku:ZB5a0086.org][ZB5a0086]] 太上祕法鎮宅靈符
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0086
+:TTC: 1235 - 1236
+:DZ: DZ0086
+:page: 020180a
+:ZHDZ: ZHDZ32p0621
+:XWDZ: XWDZ02p0839
+:BASEEDITION: HFL
+:HFL: HFL張下088
+:DYNASTY: 明?
+:END:
+
+[[dzimg:0037/0037-088.tif][HFL 0037 088]]
+**** 版本
+***** SJB
+***** ZHDZ
+# ** CMTS0103	玉訣類 Yujue Exegeses
+*** KR5a0087 [[mandoku:ZB5a0087.org][ZB5a0087]] 元始無量度人上品妙經四註
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0087
+:TTC: 712
+:DZ: DZ0087
+:page: 020187a
+:ZHDZ: ZHDZ03p0353
+:XWDZ: XWDZ03p0001
+:BASEEDITION: HFL
+:HFL: HFL寒上004
+:DATE: 1067(序)
+:END:
+
+[[dzimg:0038/0038-004.tif][HFL 0038 004]]
+**** 人物
+***** 陳景元
+     :PROPERTIES:
+     :FUNCTION: 編
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0088 [[mandoku:ZB5a0088.org][ZB5a0088]] 元始無量度人上品妙經註
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0088
+:TTC: 713 - 714
+:DZ: DZ0088
+:page: 020250c
+:ZHDZ: ZHDZ03p0505
+:XWDZ: XWDZ03p0099
+:BASEEDITION: HFL
+:HFL: HFL來上004
+:END:
+
+[[dzimg:0040/0040-004.tif][HFL 0040 004]]
+**** 人物
+***** 東海青元真人
+     :PROPERTIES:
+     :FUNCTION: 註
+     :END:
+***** 清河老人
+     :PROPERTIES:
+     :FUNCTION: 頌
+     :END:
+***** 郭罔鳳
+     :PROPERTIES:
+     :FUNCTION: 編
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0089 [[mandoku:ZB5a0089.org][ZB5a0089]] 元始無量度人上品妙經通義
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0089
+:TTC: 715 - 716
+:DZ: DZ0089
+:page: 020292b
+:ZHDZ: ZHDZ00p0000
+:XWDZ: XWDZ03p0163
+:BASEEDITION: HFL
+:HFL: HFL來中104
+:END:
+
+[[dzimg:0041/0041-104.tif][HFL 0041 104]]
+**** 人物
+***** 張宇初
+     :PROPERTIES:
+     :DATES:    1361 - 1410
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0090 [[mandoku:ZB5a0090.org][ZB5a0090]] 元始無量度人上品妙經內義
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0090
+:TTC: 716 - 717
+:DZ: DZ0090a
+:page: 020332a
+:ZHDZ: ZHDZ03p0549
+:XWDZ: XWDZ03p0225
+:BASEEDITION: HFL
+:HFL: HFL暑上004
+:DATE: 1226
+:END:
+
+[[dzimg:0043/0043-004.tif][HFL 0043 004]]
+**** 人物
+***** 蕭應叟
+     :PROPERTIES:
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0091 [[mandoku:ZB5a0091.org][ZB5a0091]] 附內義丹旨綱目舉要
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0091
+:TTC: 716 - 717
+:DZ: DZ0090b
+:page: x
+:ZHDZ: ZHDZ00p0000
+:XWDZ: XWDZ03p0291
+:BASEEDITION: HFL
+:HFL: HFL暑下140
+:END:
+
+[[dzimg:0043/0043-140.tif][HFL 0043 140]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0092 [[mandoku:ZB5a0092.org][ZB5a0092]] 太上洞玄靈寶無量度人上品妙經註解
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0092
+:TTC: 718 - 719
+:DZ: DZ0091
+:page: 020392c
+:ZHDZ: ZHDZ03p0615
+:XWDZ: XWDZ03p0315
+:BASEEDITION: HFL
+:HFL: HFL往上004
+:DATE: 1336(序)
+:EXTRA_ID: DZJY:JY002
+:END:
+
+[[dzimg:0045/0045-004.tif][HFL 0045 004]]
+**** 人物
+***** 陳致虛
+     :PROPERTIES:
+     :ZI:       觀吾
+     :HAO:      上陽子
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY002 太上洞玄靈寶無量度人上品妙經註 Taishang dongxuan lingbao wuliang duren shangpin miaojing zhu :can:
+:PROPERTIES:
+:EXTENT:  3 juan
+:LODGE:  亢 6
+:KZ:  3: 947-98
+:CT:  91
+:DZ: DZ0091 / JY002
+:END:
+太上洞玄靈寶無量度人上品妙經註
+DZJ0: [[dzjy:JY002/JY002_01.txt][JY002 太上洞玄靈寶無量度人上品妙經註]]
+****** Work notes
+
+****** Comments
+xu (SEC 1) in KX version at the end.
+
+*** KR5a0093 [[mandoku:ZB5a0093.org][ZB5a0093]] 元始無量度人上品妙經註解
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0093
+:TTC: 719 - 721
+:DZ: DZ0092
+:page: 020440b
+:ZHDZ: ZHDZ00p0000
+:XWDZ: XWDZ03p0389
+:BASEEDITION: HFL
+:HFL: HFL往下090
+:DATE: 1303 or 1304
+:END:
+
+[[dzimg:0046/0046-090.tif][HFL 0046 090]]
+**** 人物
+***** 薛季昭
+     :PROPERTIES:
+     :HAO:      顯翁
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0094 [[mandoku:ZB5a0094.org][ZB5a0094]] 太上洞玄靈寶無量度人上品經法
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0094
+:TTC: 721 - 722
+:DZ: DZ0093
+:page: 020469b
+:ZHDZ: ZHDZ03p0426
+:XWDZ: XWDZ03p0433
+:BASEEDITION: HFL
+:HFL: HFL秋上004
+:DYNASTY: 南宋?
+:EXTRA_ID: DZJY:JY003
+:END:
+
+[[dzimg:0047/0047-004.tif][HFL 0047 004]]
+**** 人物
+***** 陳春榮
+     :PROPERTIES:
+     :FUNCTION: 編
+     :FUNCTION: 注
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY003 元始無量度人上品經法 Yuanshi wuliang duren shangpin jing fa :can:
+:PROPERTIES:
+:EXTENT:  5 juan
+:LODGE:  亢 7 
+:KZ:  3: 999-1063
+:CT:  93
+:DZ: DZ0093 / JY003
+:END:
+元始無量度人上品經法
+DZJ0: [[dzjy:JY003/JY003_01.txt][JY003 元始無量度人上品經法]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0095 [[mandoku:ZB5a0095.org][ZB5a0095]] 洞玄靈寶度人經大梵隱語疏義
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0095
+:TTC: 722
+:DZ: DZ0094
+:page: 020519c
+:ZHDZ: ZHDZ03p0341
+:XWDZ: XWDZ03p0510
+:BASEEDITION: HFL
+:HFL: HFL秋下134
+:END:
+
+[[dzimg:0048/0048-134.tif][HFL 0048 134]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0096 [[mandoku:ZB5a0096.org][ZB5a0096]] 洞玄靈寶無量度人經訣音義
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0096
+:TTC: 331
+:DZ: DZ0095
+:page: 020527a
+:ZHDZ: ZHDZ03p0349
+:XWDZ: XWDZ03p0521
+:BASEEDITION: HFL
+:HFL: HFL秋下178
+:END:
+
+[[dzimg:0048/0048-178.tif][HFL 0048 178]]
+**** 人物
+***** 張萬福
+     :PROPERTIES:
+     :DATES:    fl. 713
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0097 [[mandoku:ZB5a0097.org][ZB5a0097]] 真藏經要訣
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0097
+:TTC: 558
+:DZ: DZ0096
+:page: 020530a
+:ZHDZ: ZHDZ05p0461
+:XWDZ: XWDZ03p0526
+:BASEEDITION: HFL
+:HFL: HFL秋下196
+:DYNASTY: 唐
+:END:
+
+[[dzimg:0048/0048-196.tif][HFL 0048 196]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0098 [[mandoku:ZB5a0098.org][ZB5a0098]] 太上靈寶諸天內音自然玉字
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0098
+:TTC: 222
+:DZ: DZ0097
+:page: 020532a
+:ZHDZ: ZHDZ03p0206
+:XWDZ: XWDZ03p0529
+:BASEEDITION: HFL
+:HFL: HFL收上004
+:DATE: ca. 400
+:END:
+
+[[dzimg:0049/0049-004.tif][HFL 0049 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0099 [[mandoku:ZB5a0099.org][ZB5a0099]] 諸天靈書度命妙經義疏
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0099
+:TTC: 333
+:DZ: DZ0098
+:page: 020564a
+:ZHDZ: ZHDZ00p0000
+:XWDZ: XWDZ03p0579
+:BASEEDITION: HFL
+:HFL: HFL收下004
+:DYNASTY: 唐
+:END:
+
+[[dzimg:0050/0050-004.tif][HFL 0050 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0100 [[mandoku:ZB5a0100.org][ZB5a0100]] 九天應元雷聲普化天尊玉樞寶經集註
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0100
+:TTC: 1092 - 1093
+:DZ: DZ0099
+:page: 020569a
+:ZHDZ: ZHDZ31p0301
+:XWDZ: XWDZ03p0587
+:BASEEDITION: HFL
+:HFL: HFL收下034
+:DATE: 1333(刊記)
+:END:
+
+[[dzimg:0050/0050-034.tif][HFL 0050 034]]
+**** 人物
+***** 徐道齡
+     :PROPERTIES:
+     :HAO:      玄陽子
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0101 [[mandoku:ZB5a0101.org][ZB5a0101]] 太上昇玄說消災護命妙經註
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0101
+:TTC: 723 - 724
+:DZ: DZ0100
+:page: 020588a
+:ZHDZ: ZHDZ06p0103
+:XWDZ: XWDZ03p0616
+:BASEEDITION: HFL
+:HFL: HFL收下148
+:DYNASTY: 元
+:EXTRA_ID: DZJY:JY010
+:END:
+
+[[dzimg:0050/0050-148.tif][HFL 0050 148]]
+**** 人物
+***** 王玠
+     :PROPERTIES:
+     :ZI:       道淵
+     :HAO:      混然子
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY010 太上昇玄說消災護命妙經註  Taishang shengxuan shuo xiaozai huming miaojing zhu :can:
+:PROPERTIES:
+:EXTENT:  8 fols.
+:LODGE:  氐 5
+:KZ:  4: 1294-98
+:CT:  100
+:DZ: DZ0100 / JY010
+:END:
+太上昇玄說消災護命妙經註 
+DZJ0: [[dzjy:JY010/JY010_01.txt][JY010 太上昇玄說消災護命妙經註 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0102 [[mandoku:ZB5a0102.org][ZB5a0102]] 太上昇玄消災護命妙經註
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0102
+:TTC: 724
+:DZ: DZ0101
+:page: 020592a
+:ZHDZ: ZHDZ06p0100
+:XWDZ: XWDZ03p0622
+:BASEEDITION: HFL
+:HFL: HFL收下172
+:END:
+
+[[dzimg:0050/0050-172.tif][HFL 0050 172]]
+**** 人物
+***** 李道純
+     :PROPERTIES:
+     :DATES:    d. 1306
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0103 [[mandoku:ZB5a0103.org][ZB5a0103]] 元始天尊說太古經註
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0103
+:TTC: 710 - 711
+:DZ: DZ0102
+:page: 020593c
+:ZHDZ: ZHDZ06p0113
+:XWDZ: XWDZ03p0625
+:BASEEDITION: HFL
+:HFL: HFL收下182
+:DATE: 13th cent
+:END:
+
+[[dzimg:0050/0050-182.tif][HFL 0050 182]]
+**** 人物
+***** 長筌子
+     :PROPERTIES:
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0104 [[mandoku:ZB5a0104.org][ZB5a0104]] 玉清無極總真文昌大洞仙經註
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0104
+:TTC: 707 - 710
+:DZ: DZ0103
+:page: 020597b
+:ZHDZ: ZHDZ06p0454
+:XWDZ: XWDZ03p0631
+:BASEEDITION: HFL
+:HFL: HFL冬上004
+:DATE: 1309
+:END:
+
+[[dzimg:0051/0051-004.tif][HFL 0051 004]]
+**** 人物
+***** 衛琪
+     :PROPERTIES:
+     :HAO:      中陽子
+     :FUNCTION: 注
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0105 [[mandoku:ZB5a0105.org][ZB5a0105]] 上清大洞真經玉訣音義
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0105
+:TTC: 1047
+:DZ: DZ0104
+:page: 020705c
+:ZHDZ: ZHDZ01p0047
+:XWDZ: XWDZ03p0799
+:BASEEDITION: HFL
+:HFL: HFL藏上004
+:END:
+
+[[dzimg:0054/0054-004.tif][HFL 0054 004]]
+**** 人物
+***** 陳景元
+     :PROPERTIES:
+     :DATES:    1025 - 1094
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0106 [[mandoku:ZB5a0106.org][ZB5a0106]] 太上大通經註
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0106
+:TTC: 710
+:DZ: DZ0105
+:page: 020711a
+:ZHDZ: ZHDZ06p0095
+:XWDZ: XWDZ03p0808
+:BASEEDITION: HFL
+:HFL: HFL藏上036
+:EXTRA_ID: DZJY:JY059
+:END:
+
+[[dzimg:0054/0054-036.tif][HFL 0054 036]]
+**** 人物
+***** 李道純
+     :PROPERTIES:
+     :FUNCTION: 注
+     :DATES:    d. 1306
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY059 太上大通經註  Taishang datong jing zhu		:can:
+:PROPERTIES:
+:EXTENT:  3 fols.
+:LODGE:  尾 1
+:KZ:  5: 2136-37
+:BR:  5: 333-59
+:CT:  105
+:DZ: DZ0105 / JY059
+:END:
+太上大通經註 
+DZJ0: [[dzjy:JY059/JY059_01.txt][JY059 太上大通經註 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0107 [[mandoku:ZB5a0107.org][ZB5a0107]] 太上赤文洞古經註
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0107
+:TTC: 711
+:DZ: DZ0106
+:page: 020712b
+:ZHDZ: ZHDZ06p0117
+:XWDZ: XWDZ03p0810
+:BASEEDITION: HFL
+:HFL: HFL藏上044
+:DATE: 13th cent
+:EXTRA_ID: DZJY:JY058
+:END:
+
+[[dzimg:0054/0054-044.tif][HFL 0054 044]]
+**** 人物
+***** 長筌子
+     :PROPERTIES:
+     :FUNCTION: 注
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  *JY058 太上赤文洞古經註  Taishang chiwen donggu jing zhu	:can:
+:PROPERTIES:
+:EXTENT:  5 fols.
+:LODGE:  尾 1
+:KZ:  5: 2133-35
+:BR:  5: 322-33
+:CT:  106
+:DZ: DZ0106 / JY058
+:END:
+太上赤文洞古經註 
+DZJ0: [[dzjy:JY058/JY058_01.txt][JY058 太上赤文洞古經註 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0108 [[mandoku:ZB5a0108.org][ZB5a0108]] 無上赤文洞古真經註
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0108
+:TTC: 711
+:DZ: DZ0107
+:page: 020714c
+:ZHDZ: ZHDZ06p0120
+:XWDZ: XWDZ03p0814
+:BASEEDITION: HFL
+:HFL: HFL藏上046
+:END:
+
+[[dzimg:0054/0054-046.tif][HFL 0054 046]]
+**** 人物
+***** 李道純
+     :PROPERTIES:
+     :FUNCTION: 注
+     :DATES:    d. 1306
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0109 [[mandoku:ZB5a0109.org][ZB5a0109]] 黃帝陰符經集註
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0109
+:TTC: 321
+:DZ: DZ0108
+:page: 020716c
+:ZHDZ: ZHDZ15p0696
+:XWDZ: XWDZ03p0817
+:BASEEDITION: HFL
+:HFL: HFL藏上070
+:END:
+
+[[dzimg:0054/0054-070.tif][HFL 0054 070]]
+**** 人物
+***** 李筌
+     :PROPERTIES:
+     :DATES:    fl. 713 - 741
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0110 [[mandoku:ZB5a0110.org][ZB5a0110]] ZB3n0002 黃帝陰符經講義
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0110
+:TTC: 697
+:DZ: DZ0109
+:page: 020721b
+:ZHDZ: ZHDZ15p0762
+:XWDZ: XWDZ03p0824
+:BASEEDITION: HFL
+:HFL: HFL藏上098
+:DATE: 1227
+:END:
+
+[[dzimg:0054/0054-098.tif][HFL 0054 098]]
+**** 人物
+***** 夏元鼎
+     :PROPERTIES:
+     :ZI:       宗禹
+     :HAO:      雲峰散人
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** WYG [[mandoku:ZB3n0002.org][ZB3n0002]] 陰符經講義
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0002
+:SOURCE:   四庫全書 文淵閣版, V1055.3, p19
+:EXTENT: 4 卷
+:BOOK:   1
+:END:
+****** 人物
+******* 夏元鼎
+       	:PROPERTIES:
+       	:DYNASTY:  宋
+       	:FUNCTION: 撰
+       	:DATES:    fl. 1224
+       	:END:
+
+
+   CH010325 xx xx x 黃帝陰符經講義圖說(宋-夏元鼎) ZHDZ00p0000 XWDZ03p0838 HFL藏下
+*** KR5a0111 [[mandoku:ZB5a0111.org][ZB5a0111]] 黃帝陰符經疏
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0111
+:TTC: 691 - 692
+:DZ: DZ0110
+:page: 020736a
+:ZHDZ: ZHDZ15p0751
+:XWDZ: XWDZ04p0001
+:BASEEDITION: HFL
+:HFL: HFL閨上010
+:DATE: 11th cent?
+:END:
+
+[[dzimg:0055/0055-010.tif][HFL 0055 010]]
+**** 人物
+***** 李筌
+     :PROPERTIES:
+     :HAO:      達觀子
+     :DATES:    fl. 713 - 741
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0112 [[mandoku:ZB5a0112.org][ZB5a0112]] 黃帝陰符經集解
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0112
+:TTC: 693
+:DZ: DZ0111
+:page: 020746b
+:ZHDZ: ZHDZ15p0781
+:XWDZ: XWDZ04p0017
+:BASEEDITION: HFL
+:HFL: HFL閨上066
+:EXTRA_ID: DZJY:JY115
+:END:
+
+[[dzimg:0055/0055-066.tif][HFL 0055 066]]
+**** 人物
+***** 曹希蘊
+     :PROPERTIES:
+     :ZI:       道沖
+     :DATES:    11th cent
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY115 黃帝陰符經十真集解 Huangdi yinfu jing shizhen jijie	:can:
+:PROPERTIES:
+:EXTENT:  3 juan
+:LODGE:  斗 6
+:KZ:  8: 3148-59
+:BR:  9: 399-403
+:CT:  111
+:DZ: DZ0111 / JY115
+:END:
+黃帝陰符經十真集解
+DZJ0: [[dzjy:JY115/JY115_01.txt][JY115 黃帝陰符經十真集解]]
+****** Work notes
+******* DONE find out if there is a xu at the end missing (we have images?)
+       CLOSED: [2012-12-12 Wed 16:40]
+****** Comments
+
+
+*** KR5a0113 [[mandoku:ZB5a0113.org][ZB5a0113]] 黃帝陰符經註
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0113
+:TTC: 321 - 322
+:DZ: DZ0112
+:page: 020755b
+:ZHDZ: ZHDZ15p0701
+:XWDZ: XWDZ04p0030
+:BASEEDITION: HFL
+:HFL: HFL閨上120
+:END:
+
+[[dzimg:0055/0055-120.tif][HFL 0055 120]]
+**** 人物
+***** 張果
+     :PROPERTIES:
+     :DATES:    8th cent 前半
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0114 [[mandoku:ZB5a0114.org][ZB5a0114]] ZB3n0001 黃帝陰符經解
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0114
+:TTC: 693 - 694
+:DZ: DZ0113
+:page: 020759a
+:ZHDZ: ZHDZ15p0726
+:XWDZ: XWDZ04p0036
+:BASEEDITION: HFL
+:HFL: HFL閨上142
+:END:
+
+[[dzimg:0055/0055-142.tif][HFL 0055 142]]
+**** 人物
+***** 蹇昌辰
+     :PROPERTIES:
+     :HAO:      保寧大師
+     :DATES:    11th cent
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** WYG [[mandoku:ZB3n0001.org][ZB3n0001]] 陰符經解
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0001
+:SOURCE:   四庫全書 文淵閣版, V1055.1, p1
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+****** 人物
+******* 黃帝
+       	:PROPERTIES:
+       	:FUNCTION: 撰
+       	:END:
+
+******* 李筌
+       	:PROPERTIES:
+       	:DYNASTY:  唐
+       	:FUNCTION: 註
+       	:END:
+
+*** KR5a0115 [[mandoku:ZB5a0115.org][ZB5a0115]] 黃帝陰符經註解
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0115
+:TTC: 694
+:DZ: DZ0114
+:page: 020766b
+:ZHDZ: ZHDZ15p0734
+:XWDZ: XWDZ04p0047
+:BASEEDITION: HFL
+:HFL: HFL閨下004
+:DYNASTY: 北宋
+:END:
+
+[[dzimg:0056/0056-004.tif][HFL 0056 004]]
+**** 人物
+***** 任照一
+     :PROPERTIES:
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0116 [[mandoku:ZB5a0116.org][ZB5a0116]] 黃帝陰符經註
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0116
+:TTC: 694
+:DZ: DZ0115
+:page: 020773a
+:ZHDZ: ZHDZ15p0706
+:XWDZ: XWDZ04p0058
+:BASEEDITION: HFL
+:HFL: HFL閨下048
+:DYNASTY: 北宋
+:END:
+
+[[dzimg:0056/0056-048.tif][HFL 0056 048]]
+**** 人物
+***** 黃居真
+     :PROPERTIES:
+     :HAO:      虛靖大師
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0117 [[mandoku:ZB5a0117.org][ZB5a0117]] 黃帝陰符經註
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0117
+:TTC: 695
+:DZ: DZ0116
+:page: 020777a
+:ZHDZ: ZHDZ15p0711
+:XWDZ: XWDZ04p0060
+:BASEEDITION: HFL
+:HFL: HFL閨下068
+:EXTRA_ID: DZJY:JY117
+:END:
+
+[[dzimg:0056/0056-068.tif][HFL 0056 068]]
+**** 人物
+***** 沈亞夫
+     :PROPERTIES:
+     :DATES:    11th cent or 12th cent 初期?
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY117 黃帝陰符經註 Huangdi yinfu jing zhu			:can:
+:PROPERTIES:
+:EXTENT:  6  fols.
+:LODGE:  斗 6 
+:KZ:  8: 3175-77
+:BR:  9: 401-16
+:CT:  116
+:DZ: DZ0116 / JY117
+:END:
+黃帝陰符經註
+DZJ0: [[dzjy:JY117/JY117_01.txt][JY117 黃帝陰符經註]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0118 [[mandoku:ZB5a0118.org][ZB5a0118]] 黃帝陰符經註
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0118
+:TTC: 695
+:DZ: DZ0117
+:page: 020779c
+:ZHDZ: ZHDZ15p0714
+:XWDZ: XWDZ04p0068
+:BASEEDITION: HFL
+:HFL: HFL閨下084
+:END:
+
+[[dzimg:0056/0056-084.tif][HFL 0056 084]]
+**** 人物
+***** 蔡氏
+     :PROPERTIES:
+     :DATES:    12th cent
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0119 [[mandoku:ZB5a0119.org][ZB5a0119]] 黃帝陰符經解義
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0119
+:TTC: 695
+:DZ: DZ0118
+:page: 020782a
+:ZHDZ: ZHDZ15p0717
+:XWDZ: XWDZ04p0072
+:BASEEDITION: HFL
+:HFL: HFL閨下098
+:END:
+
+[[dzimg:0056/0056-098.tif][HFL 0056 098]]
+**** 人物
+***** 蕭真宰
+     :PROPERTIES:
+     :DATES:    12th cent
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0120 [[mandoku:ZB5a0120.org][ZB5a0120]] 陰符經三皇玉訣
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0120
+:TTC: 696
+:DZ: DZ0119
+:page: 020789c
+:ZHDZ: ZHDZ15p0791
+:XWDZ: XWDZ04p0085
+:BASEEDITION: HFL
+:HFL: HFL餘上004
+:DATE: 11th or 12th cent?
+:END:
+
+[[dzimg:0057/0057-004.tif][HFL 0057 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0121 [[mandoku:ZB5a0121.org][ZB5a0121]] 黃帝陰符經心法
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0121
+:TTC: 698
+:DZ: DZ0120
+:page: 020799c
+:ZHDZ: ZHDZ15p0802
+:XWDZ: XWDZ04p0110
+:BASEEDITION: HFL
+:HFL: HFL餘上090
+:END:
+
+[[dzimg:0057/0057-090.tif][HFL 0057 090]]
+**** 人物
+***** 胥元一
+     :PROPERTIES:
+     :HAO:      六虛散人
+     :DATES:    fl. 1291
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0122 [[mandoku:ZB5a0122.org][ZB5a0122]] 黃帝陰符經註
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0122
+:TTC: 698
+:DZ: DZ0121
+:page: 020809a
+:ZHDZ: ZHDZ15p0820
+:XWDZ: XWDZ04p0115
+:BASEEDITION: HFL
+:HFL: HFL餘上120
+:DATE: 1229(序)
+:END:
+
+[[dzimg:0057/0057-120.tif][HFL 0057 120]]
+**** 人物
+***** 唐淳
+     :PROPERTIES:
+     :HAO:      金陵道人
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0123 [[mandoku:ZB5a0123.org][ZB5a0123]] 黃帝陰符經註
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0123
+:TTC: 696 - 697
+:DZ: DZ0122
+:page: 020817b
+:ZHDZ: ZHDZ00p0000
+:XWDZ: XWDZ04p0128
+:BASEEDITION: HFL
+:HFL: HFL餘上170
+:DATE: 1191(序)
+:END:
+
+[[dzimg:0057/0057-170.tif][HFL 0057 170]]
+**** 人物
+***** 劉處玄
+     :PROPERTIES:
+     :HAO:      長生子
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0124 [[mandoku:ZB5a0124.org][ZB5a0124]] 黃帝陰符經註
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0124
+:TTC: 698 - 699
+:DZ: DZ0123
+:page: 020823b
+:ZHDZ: ZHDZ15p0829
+:XWDZ: XWDZ02p0823
+:BASEEDITION: HFL
+:HFL: HFL餘下004
+:DYNASTY: 金
+:END:
+
+[[dzimg:0058/0058-004.tif][HFL 0058 004]]
+**** 人物
+***** 侯善淵
+     :PROPERTIES:
+     :HAO:      太玄子
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0125 [[mandoku:ZB5a0125.org][ZB5a0125]] 黃帝陰符經註解
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0125
+:TTC: 699
+:DZ: DZ0124
+:page: 020826b
+:ZHDZ: ZHDZ15p0777
+:XWDZ: XWDZ04p0142
+:BASEEDITION: HFL
+:HFL: HFL餘下022
+:DATE: ca. 1305
+:END:
+
+[[dzimg:0058/0058-022.tif][HFL 0058 022]]
+**** 人物
+***** 鄒訢
+     :PROPERTIES:
+     :CERT:     att
+     :ALIAS:    朱熹#
+     :DATES:    1130 - 1200
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** WYG [[mandoku:ZB3n0001a.org][ZB3n0001a]] 陰符經考異
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0001a
+:SOURCE:   四庫全書 文淵閣版, V1055.2, p11
+:EXTENT: 1 卷
+:BOOK:   (1)
+:END:
+****** 人物
+******* 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1130 - 1200
+      :END:
+
+
+*** KR5a0126 [[mandoku:ZB5a0126.org][ZB5a0126]] 黃帝陰符經註
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0126
+:TTC: 700
+:DZ: DZ0125
+:page: 020829c
+:ZHDZ: ZHDZ15p0832
+:XWDZ: XWDZ04p0147
+:BASEEDITION: HFL
+:HFL: HFL餘下044
+:DATE: 1348(序)
+:END:
+
+[[dzimg:0058/0058-044.tif][HFL 0058 044]]
+**** 人物
+***** 俞琰
+     :PROPERTIES:
+     :HAO:      林屋山人
+     :HAO:      玉吾叟
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0127 [[mandoku:ZB5a0127.org][ZB5a0127]] 黃帝陰符經夾頌解註
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0127
+:TTC: 699 - 700
+:DZ: DZ0126
+:page: 020833c
+:ZHDZ: ZHDZ15p0837
+:XWDZ: XWDZ04p0153
+:BASEEDITION: HFL
+:HFL: HFL餘下070
+:END:
+
+[[dzimg:0058/0058-070.tif][HFL 0058 070]]
+**** 人物
+***** 王玠
+     :PROPERTIES:
+     :HAO:      混然子
+     :DATES:    fl. 1331
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0128 [[mandoku:ZB5a0128.org][ZB5a0128]] 黃帝陰符經集解
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0128
+:TTC: 692 - 693
+:DZ: DZ0127
+:page: 020845c
+:ZHDZ: ZHDZ15p0741
+:XWDZ: XWDZ04p0172
+:BASEEDITION: HFL
+:HFL: HFL餘下138
+:END:
+
+[[dzimg:0058/0058-138.tif][HFL 0058 138]]
+**** 人物
+***** 袁淑真
+     :PROPERTIES:
+     :DATES:    11th cent?
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0129 [[mandoku:ZB5a0129.org][ZB5a0129]] 太上求仙定錄尺素真訣玉文
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0129
+:TTC: 209 - 210
+:DZ: DZ0128
+:page: 020855a
+:ZHDZ: ZHDZ02p0711
+:XWDZ: XWDZ04p0185
+:BASEEDITION: HFL
+:HFL: HFL成上004
+:DYNASTY: 六朝
+:END:
+
+[[dzimg:0059/0059-004.tif][HFL 0059 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0130 [[mandoku:ZB5a0130.org][ZB5a0130]] 太霄琅書瓊文帝章訣
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0130
+:TTC: 180
+:DZ: DZ0129
+:page: 020865b
+:ZHDZ: ZHDZ01p0703
+:XWDZ: XWDZ04p0201
+:BASEEDITION: HFL
+:HFL: HFL成上066
+:DYNASTY: 六朝
+:END:
+
+[[dzimg:0059/0059-066.tif][HFL 0059 066]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0131 [[mandoku:ZB5a0131.org][ZB5a0131]] 胎息經註
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0131
+:TTC: 366 - 367
+:DZ: DZ0130
+:page: 020868c
+:ZHDZ: ZHDZ23p0186
+:XWDZ: XWDZ04p0206
+:BASEEDITION: HFL
+:HFL: HFL成上086
+:EXTRA_ID: DZJY:JY095
+:END:
+
+[[dzimg:0059/0059-086.tif][HFL 0059 086]]
+**** 人物
+***** 幻真先生
+     :PROPERTIES:
+     :FUNCTION: 注
+     :DATES:    9th cent 後期?
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY095 胎息經註  Taixi jing zhu				:can:
+:PROPERTIES:
+:EXTENT:  3 fols.
+:LODGE:  箕 9 
+:KZ:  7: 2848-49
+:CT:  130
+:DZ: DZ0130 / JY095
+:END:
+胎息經註 
+DZJ0: [[dzjy:JY095/JY095_01.txt][JY095 胎息經註 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0132 [[mandoku:ZB5a0132.org][ZB5a0132]] 胎息祕要歌訣
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0132
+:TTC: 367
+:DZ: DZ0131
+:page: 020869c
+:ZHDZ: ZHDZ23p0188
+:XWDZ: XWDZ04p0208
+:BASEEDITION: HFL
+:HFL: HFL成上092
+:DYNASTY: 唐
+:END:
+
+[[dzimg:0059/0059-092.tif][HFL 0059 092]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0133 [[mandoku:ZB5a0133.org][ZB5a0133]] 太清真人絡命訣
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0133
+:TTC: 94 - 95
+:DZ: DZ0132
+:page: 020968c
+:ZHDZ: ZHDZ02p0401
+:XWDZ: XWDZ04p0210
+:BASEEDITION: HFL
+:HFL: HFL成上100
+:DATE: 3rd or 4th cent
+:END:
+
+[[dzimg:0059/0059-100.tif][HFL 0059 100]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0134 [[mandoku:ZB5a0134.org][ZB5a0134]] 太上洞房內經註
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0134
+:TTC: 185 - 186
+:DZ: DZ0133
+:page: 020871a
+:ZHDZ: ZHDZ02p0084
+:XWDZ: XWDZ04p0215
+:BASEEDITION: HFL
+:HFL: HFL成上118
+:DYNASTY: 六朝
+:END:
+
+[[dzimg:0059/0059-118.tif][HFL 0059 118]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0135 [[mandoku:ZB5a0135.org][ZB5a0135]] 陰真君還丹歌註
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0135
+:TTC: 843
+:DZ: DZ0134
+:page: 020874a
+:ZHDZ: ZHDZ19p0174
+:XWDZ: XWDZ04p0221
+:BASEEDITION: HFL
+:HFL: HFL成上142
+:DYNASTY: 五代 or earlier(詩)
+:DYNASTY: 宋初期(注)
+:END:
+
+[[dzimg:0059/0059-142.tif][HFL 0059 142]]
+**** 人物
+***** 陳摶
+     :PROPERTIES:
+     :FUNCTION: 注
+     :DATES:    d. 989
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0136 [[mandoku:ZB5a0136.org][ZB5a0136]] 崔公入藥鏡註解
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0136
+:TTC: 843 - 845
+:DZ: DZ0135
+:page: 020878a
+:ZHDZ: ZHDZ27p0730
+:XWDZ: XWDZ04p0227
+:BASEEDITION: HFL
+:HFL: HFL成下004
+:DATE: ca. 1331
+:END:
+
+[[dzimg:0060/0060-004.tif][HFL 0060 004]]
+**** 人物
+***** 王玠
+     :PROPERTIES:
+     :HAO:      混然子
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0137 [[mandoku:ZB5a0137.org][ZB5a0137]] 呂純陽真人沁園春丹詞註解
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0137
+:TTC: 845
+:DZ: DZ0136
+:page: 020881a
+:ZHDZ: ZHDZ19p0170
+:XWDZ: XWDZ04p0237
+:BASEEDITION: HFL
+:HFL: HFL成下040
+:END:
+
+[[dzimg:0060/0060-040.tif][HFL 0060 040]]
+**** 人物
+***** 呂喦
+     :PROPERTIES:
+     :CERT:     att
+     :HAO:      純陽真人
+     :END:
+***** 俞琰
+     :PROPERTIES:
+     :HAO:      全陽子
+     :HAO:      林屋山人
+     :FUNCTION: 注
+     :DATES:    1258 - 1314
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0138 [[mandoku:ZB5a0138.org][ZB5a0138]] 青天歌註釋
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0138
+:TTC: 1174
+:DZ: DZ0137
+:page: 020887a
+:ZHDZ: ZHDZ27p0727
+:XWDZ: XWDZ04p0243
+:BASEEDITION: HFL
+:HFL: HFL成下062
+:END:
+
+[[dzimg:0060/0060-062.tif][HFL 0060 062]]
+**** 人物
+***** 王玠
+     :PROPERTIES:
+     :FUNCTION: 注
+     :DATES:    fl. 1331 - 1380
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0139 [[mandoku:ZB5a0139.org][ZB5a0139]] 學仙辨真訣
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0139
+:TTC: 851
+:DZ: DZ0138
+:page: 020890c
+:ZHDZ: ZHDZ19p0178
+:XWDZ: XWDZ04p0248
+:BASEEDITION: HFL
+:HFL: HFL成下080
+:DYNASTY: 北宋?
+:END:
+
+[[dzimg:0060/0060-080.tif][HFL 0060 080]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0140 [[mandoku:ZB5a0140.org][ZB5a0140]] 太上洞真凝神修行經訣
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0140
+:TTC: 832
+:DZ: DZ0139
+:page: 020893c
+:ZHDZ: ZHDZ19p0152
+:XWDZ: XWDZ04p0251
+:BASEEDITION: HFL
+:HFL: HFL成下092
+:DYNASTY: 宋後期 or 元初期 
+:END:
+
+[[dzimg:0060/0060-092.tif][HFL 0060 092]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0141 [[mandoku:ZB5a0141.org][ZB5a0141]] 上清握中訣
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0141
+:TTC: 628
+:DZ: DZ0140
+:page: 020895c
+:ZHDZ: ZHDZ02p0281
+:XWDZ: XWDZ04p0253
+:BASEEDITION: HFL
+:HFL: HFL成下100
+:END:
+
+[[dzimg:0060/0060-100.tif][HFL 0060 100]]
+**** 人物
+***** 陶弘景
+     :PROPERTIES:
+     :CERT:     att
+     :DATES:    456 - 536
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0142 [[mandoku:ZB5a0142.org][ZB5a0142]] ZB3n0039 紫陽真人悟真篇註疏
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0142
+:TTC: 817 - 818
+:DZ: DZ0141
+:page: 020897a
+:ZHDZ: ZHDZ19p0289
+:XWDZ: XWDZ04p0273
+:BASEEDITION: HFL
+:HFL: HFL律上004
+:DATE: 1173(注)
+:DATE: 1174(傳)
+:DATE: ca. 1337(編)
+:EXTRA_ID: DZJY:JY179
+:END:
+
+[[dzimg:0061/0061-004.tif][HFL 0061 004]]
+**** 人物
+***** 張伯端
+    :PROPERTIES:
+    :DATES:    984 - 1028
+    :END:
+***** 翁葆光
+    :PROPERTIES:
+    :ZI:       淵明
+    :HAO:      無名子
+    :HAO:      象川翁
+    :FUNCTION: 注
+    :END:
+***** 陳達靈
+    :PROPERTIES:
+    :HAO:      紫陽翁
+    :FUNCTION: 傳
+    :END:
+***** 戴起宗
+    :PROPERTIES:
+    :ZI:       同甫
+    :HAO:      空玄子
+    :FUNCTION: 編
+    :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** WYG  [[mandoku:ZB3n0039.org][ZB3n0039]] 悟眞篇註疏
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0039
+:SOURCE:   四庫全書 文淵閣版, V1061.2, p429
+:EXTENT: 3 卷
+:BOOK:   3
+:END:
+****** 人物
+******* 張伯端
+       	:PROPERTIES:
+       	:DYNASTY:  宋
+       	:FUNCTION: 撰
+       	:DATES:    ca. 980 - ca. 1078
+       	:END:
+
+******* 翁葆光
+       	:PROPERTIES:
+       	:DYNASTY:  宋
+       	:FUNCTION: 註
+       	:END:
+
+******* 戴起宗
+       	:PROPERTIES:
+       	:DYNASTY:  元
+       	:FUNCTION: 疏
+       	:END:
+
+
+***** DZJY  *JY179 石橋歌  Shiqiao ge					:can:
+:PROPERTIES:
+:EXTENT:  1 fol.
+:LODGE:  奎 2
+:KZ:  14: 6118;
+:CT:  141
+:DZ: DZ0141 / JY179
+:END:
+石橋歌 
+DZJ0: [[dzjy:JY179/JY179_01.txt][JY179 石橋歌 ]]
+****** Work notes
+This is only a small section of DZ0141, also in DZ1258
+see: [[mandoku:dz:DZ1258:320459a11][諸真內丹集要 DZ1258:320459a11]]
+and [[mandoku:dz:DZ0141:020964b10][紫陽真人悟真篇註疏 DZ0141:020964b10]]
+****** Comments
+
+
+*** KR5a0143 [[mandoku:ZB5a0143.org][ZB5a0143]] 紫陽真人悟真篇三註
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0143
+:TTC: 822 - 823
+:DZ: DZ0142
+:page: 020910a
+:ZHDZ: ZHDZ19p0400
+:XWDZ: XWDZ04p0363
+:BASEEDITION: HFL
+:HFL: HFL律上042
+:DATE: 1169(注)
+:EXTRA_ID: DZJY:JY175
+:END:
+
+[[dzimg:0063/0063-042.tif][HFL 0063 042]]
+**** 人物
+***** 陳致虛
+    :PROPERTIES:
+    :ZI:       觀吾
+    :HAO:      上陽子
+    :FUNCTION: 注
+    :DATES:    fl. 1331
+    :END:
+***** 陸墅
+    :PROPERTIES:
+    :ZI:       子野
+    :FUNCTION: 注
+    :DATES:    fl. 13th cent?
+    :END:
+***** 薛道光
+    :PROPERTIES:
+    :ZI:       道源
+    :HAO:      紫賢
+    :FUNCTION: 注
+    :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY175 悟真篇三注  Wuzhen pian sanzhu			:can:
+:PROPERTIES:
+:EXTENT:  3 juan
+:LODGE:  奎 2
+:KZ:  14: 6045-99
+:CT:  142
+:DZ: DZ0142 / JY175
+:END:
+悟真篇三注 
+DZJ0: [[dzjy:JY175/JY175_01.txt][JY175 悟真篇三注 ]]
+****** Work notes
+##treated as :excan:
+****** Comments
+
+
+**** 悟真篇記
+    :PROPERTIES:
+    :TYPE:   appendix
+    :END:
+***** 人物
+****** 陸思誠
+     :PROPERTIES:
+     :ZI:       彥孚
+     :DATES:    before 1173
+     :END:
+****** 張士弘
+     :PROPERTIES:
+     :FUNCTION: 編
+     :DATES:    fl. 14th cent
+     :END:
+
+*** KR5a0144 [[mandoku:ZB5a0144.org][ZB5a0144]] 紫陽真人悟真直指詳說三乘祕要
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0144
+:TTC: 819 - 822
+:DZ: DZ0143
+:page: 021019b
+:ZHDZ: ZHDZ19p0352
+:XWDZ: XWDZ04p0440
+:BASEEDITION: HFL
+:HFL: HFL律下118
+:EXTRA_ID: DZJY:JY177
+:END:
+
+[[dzimg:0064/0064-118.tif][HFL 0064 118]]
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  *JY177 悟真篇直指詳說  Wuzhen pian zhizhi xiangshuo		:can:
+:PROPERTIES:
+:EXTENT:  9 fols.
+:LODGE:  奎 2
+:KZ:  14: 6108-12
+:CT:  143
+:DZ: DZ0143 / JY177
+:END:
+悟真篇直指詳說 
+DZJ0: [[dzjy:JY177/JY177_01.txt][JY177 悟真篇直指詳說 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0145 [[mandoku:ZB5a0145.org][ZB5a0145]] 紫陽真人悟真篇拾遺
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0145
+:TTC: 818
+:DZ: DZ0144
+:page: 021030b
+:ZHDZ: ZHDZ19p0363
+:XWDZ: XWDZ04p0457
+:BASEEDITION: HFL
+:HFL: HFL律下182
+:EXTRA_ID: DZJY:JY176
+:END:
+
+[[dzimg:0064/0064-182.tif][HFL 0064 182]]
+**** 人物
+***** 張伯端
+     :PROPERTIES:
+     :DATES:    984 - 1082
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  *JY176 悟真篇拾遺  Wuzhen pian shiyi			:can:
+:PROPERTIES:
+:EXTENT:  17 fols.
+:LODGE:  奎 2
+:KZ:  14: 6100-08
+:CT:  144
+:DZ: DZ0144 / JY176
+:END:
+悟真篇拾遺 
+DZJ0: [[dzjy:JY176/JY176_01.txt][JY176 悟真篇拾遺 ]]
+****** Work notes
+##treated as :excan:
+
+****** Comments
+
+
+*** KR5a0146 [[mandoku:ZB5a0146.org][ZB5a0146]] 悟真篇註釋
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0146
+:TTC: 819
+:DZ: DZ0145
+:page: 030001a
+:ZHDZ: ZHDZ19p0367
+:XWDZ: XWDZ04p0463
+:BASEEDITION: HFL
+:HFL: HFL呂上004
+:END:
+
+[[dzimg:0065/0065-004.tif][HFL 0065 004]]
+**** 人物
+***** 張伯端
+     :PROPERTIES:
+     :DATES:    984 - 1082
+     :END:
+***** 翁葆光
+     :PROPERTIES:
+     :ZI:       淵明
+     :HAO:      無明子
+     :FUNCTION: 注
+     :DATES:    fl. 1173
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0147 [[mandoku:ZB5a0147.org][ZB5a0147]] 紫陽真人悟真篇講義
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0147
+:TTC: 823 - 824
+:DZ: DZ0146
+:page: 030032b
+:ZHDZ: ZHDZ19p0455
+:XWDZ: XWDZ04p0511
+:BASEEDITION: HFL
+:HFL: HFL呂下004
+:END:
+
+[[dzimg:0066/0066-004.tif][HFL 0066 004]]
+**** 人物
+***** 張伯端
+     :PROPERTIES:
+     :ZI:       平叔
+     :HAO:      紫陽
+     :DATES:    984 - 1082
+     :END:
+***** 夏元鼎
+     :PROPERTIES:
+     :ZI:       宗禹
+     :HAO:      雲峰散人
+     :FUNCTION: 注
+     :DATES:    ca. 1226
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+# ** CMTS0104	靈圖類 Lingtu Diagrams
+*** KR5a0148 [[mandoku:ZB5a0148.org][ZB5a0148]] 靈寶無量度人上品妙經符圖
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0148
+:TTC: 1084 - 1085
+:DZ: DZ0147
+:page: 030062b
+:ZHDZ: ZHDZ03p0479
+:XWDZ: XWDZ04p0557
+:BASEEDITION: HFL
+:HFL: HFL調上004
+:END:
+
+[[dzimg:0067/0067-004.tif][HFL 0067 004]]
+**** 人物
+***** 徽宗
+     :PROPERTIES:
+     :CERT:     att
+     :DYNASTY:  宋
+     :FUNCTION: 序
+     :DATES:    r. 1100 - 1125
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0149 [[mandoku:ZB5a0149.org][ZB5a0149]] 無量度人上品妙經旁通圖
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0149
+:TTC: 723
+:DZ: DZ0148
+:page: 030088a
+:ZHDZ: ZHDZ03p0420
+:XWDZ: XWDZ04p0596
+:BASEEDITION: HFL
+:HFL: HFL調上158
+:END:
+
+[[dzimg:0067/0067-158.tif][HFL 0067 158]]
+**** 人物
+***** 劉元道
+     :PROPERTIES:
+     :HAO:      守一大師
+     :FUNCTION: 編
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0150 [[mandoku:ZB5a0150.org][ZB5a0150]] 修真太極混元圖
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0150
+:TTC: 802 - 803
+:DZ: DZ0149
+:page: 030093c
+:ZHDZ: ZHDZ19p0724
+:XWDZ: XWDZ04p0605
+:BASEEDITION: HFL
+:HFL: HFL調下004
+:DYNASTY: 北宋
+:END:
+
+[[dzimg:0068/0068-004.tif][HFL 0068 004]]
+**** 人物
+***** 蕭道存
+     :PROPERTIES:
+     :HAO:      混一子
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0151 [[mandoku:ZB5a0151.org][ZB5a0151]] 修真太極混元指玄圖
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0151
+:TTC: 803 - 804
+:DZ: DZ0150
+:page: 030099c
+:ZHDZ: ZHDZ19p0731
+:XWDZ: XWDZ04p0615
+:BASEEDITION: HFL
+:HFL: HFL調下040
+:DYNASTY: 宋(before 1154)
+:END:
+
+[[dzimg:0068/0068-040.tif][HFL 0068 040]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0152 [[mandoku:ZB5a0152.org][ZB5a0152]] 金液還丹印證圖
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0152
+:TTC: 832 - 834
+:DZ: DZ0151
+:page: 030102c
+:ZHDZ: ZHDZ19p0714
+:XWDZ: XWDZ04p0620
+:BASEEDITION: HFL
+:HFL: HFL調下058
+:DATE: ca. 1222
+:END:
+
+[[dzimg:0068/0068-058.tif][HFL 0068 058]]
+**** 人物
+***** 龍眉子
+     :PROPERTIES:
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0153 [[mandoku:ZB5a0153.org][ZB5a0153]] 修真歷驗鈔圖
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0153
+:TTC: 401 - 402
+:DZ: DZ0152
+:page: 030110b
+:ZHDZ: ZHDZ18p0792
+:XWDZ: XWDZ04p0632
+:BASEEDITION: HFL
+:HFL: HFL調下104
+:DYNASTY: 唐?
+:END:
+
+[[dzimg:0068/0068-104.tif][HFL 0068 104]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0154 [[mandoku:ZB5a0154.org][ZB5a0154]] 龍虎手鑑圖
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0154
+:TTC: 706
+:DZ: DZ0153
+:page: 030116b
+:ZHDZ: ZHDZ19p0735
+:XWDZ: XWDZ04p0641
+:BASEEDITION: HFL
+:HFL: HFL調下140
+:END:
+
+[[dzimg:0068/0068-140.tif][HFL 0068 140]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0155 [[mandoku:ZB5a0155.org][ZB5a0155]] 上清太玄九陽圖
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0155
+:TTC: 830
+:DZ: DZ0154
+:page: 030118a
+:ZHDZ: ZHDZ27p0251
+:XWDZ: XWDZ04p0644
+:BASEEDITION: HFL
+:HFL: HFL調下150
+:DATE: end of the 12th cent
+:END:
+
+[[dzimg:0068/0068-150.tif][HFL 0068 150]]
+**** 人物
+***** 侯善淵
+     :PROPERTIES:
+     :HAO:      太玄子
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0156 [[mandoku:ZB5a0156.org][ZB5a0156]] 三才定位圖
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0156
+:TTC: 875 - 877
+:DZ: DZ0155
+:page: 030122a
+:ZHDZ: ZHDZ48p0108
+:XWDZ: XWDZ04p0650
+:BASEEDITION: HFL
+:HFL: HFL調下174
+:END:
+
+[[dzimg:0068/0068-174.tif][HFL 0068 174]]
+**** 人物
+***** 張商英
+     :PROPERTIES:
+     :ZI:       天覺
+     :HAO:      無盡居士
+     :DATES:    1043 - 1121
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0157 [[mandoku:ZB5a0157.org][ZB5a0157]] 上清洞真九宮紫房圖
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0157
+:TTC: 612 - 613
+:DZ: DZ0156
+:page: 030128b
+:ZHDZ: ZHDZ02p0416
+:XWDZ: XWDZ04p0660
+:BASEEDITION: HFL
+:HFL: HFL調下219
+:DYNASTY: 唐
+:END:
+
+[[dzimg:0068/0068-219.tif][HFL 0068 219]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0158 [[mandoku:ZB5a0158.org][ZB5a0158]] 周易圖
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0158
+:TTC: 746
+:DZ: DZ0157
+:page: 030130b
+:ZHDZ: ZHDZ16p0536
+:XWDZ: XWDZ04p0663
+:BASEEDITION: HFL
+:HFL: HFL陽上004
+:DYNASTY: 南宋?
+:END:
+
+[[dzimg:0069/0069-004.tif][HFL 0069 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0159 [[mandoku:ZB5a0159.org][ZB5a0159]] 大易象數鉤深圖
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0159
+:TTC: 747
+:DZ: DZ0158
+:page: 030165c
+:ZHDZ: ZHDZ16p0573
+:XWDZ: XWDZ04p0715
+:BASEEDITION: HFL
+:HFL: HFL陽下004
+:END:
+
+[[dzimg:0070/0070-004.tif][HFL 0070 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0160 [[mandoku:ZB5a0160.org][ZB5a0160]] 易數鉤隱圖
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0160
+:TTC: 747 - 748
+:DZ: DZ0159
+:page: 030201a
+:ZHDZ: ZHDZ16p0511
+:XWDZ: XWDZ04p0769
+:BASEEDITION: HFL
+:HFL: HFL雲上004
+:END:
+
+[[dzimg:0071/0071-004.tif][HFL 0071 004]]
+**** 人物
+***** 劉牧
+     :PROPERTIES:
+     :DATES:    1011 - 1064
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0161 [[mandoku:ZB5a0161.org][ZB5a0161]] 易數鉤深圖遺論九事
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0161
+:TTC: 748
+:DZ: DZ0160
+:page: 030217b
+:ZHDZ: ZHDZ16p0530
+:XWDZ: XWDZ04p0794
+:BASEEDITION: HFL
+:HFL: HFL雲上102
+:END:
+
+[[dzimg:0071/0071-102.tif][HFL 0071 102]]
+**** 人物
+***** 劉牧
+     :PROPERTIES:
+     :DATES:    1011 - 1064
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0162 [[mandoku:ZB5a0162.org][ZB5a0162]] 易象圖說內篇
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0162
+:TTC: 748 - 749
+:DZ: DZ0161
+:page: 030222a
+:ZHDZ: ZHDZ17p0001
+:XWDZ: XWDZ04p0810
+:BASEEDITION: HFL
+:HFL: HFL雲上130
+:END:
+
+[[dzimg:0071/0071-130.tif][HFL 0071 130]]
+**** 人物
+***** 張理
+     :PROPERTIES:
+     :DATES:    fl. 1314 - 1364
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0163 [[mandoku:ZB5a0163.org][ZB5a0163]] 易象圖說外篇
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0163
+:TTC: 749
+:DZ: DZ0162
+:page: x
+:ZHDZ: ZHDZ17p0022
+:XWDZ: XWDZ04p0832
+:BASEEDITION: HFL
+:HFL: HFL雲下084
+:END:
+
+[[dzimg:0072/0072-084.tif][HFL 0072 084]]
+**** 人物
+***** 張理
+     :PROPERTIES:
+     :DATES:    fl. 1314 - 1364
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0164 [[mandoku:ZB5a0164.org][ZB5a0164]] 玄元十子圖
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0164
+:TTC: 894
+:DZ: DZ0163
+:page: 030257c
+:ZHDZ: ZHDZ46p0155
+:XWDZ: XWDZ04p0856
+:BASEEDITION: HFL
+:HFL: HFL雲下180
+:DATE: 1286(刊記)
+:EXTRA_ID: DZJY:JY292
+:END:
+
+[[dzimg:0072/0072-180.tif][HFL 0072 180]]
+**** 人物
+***** 趙孟頫
+     :PROPERTIES:
+     :DATES:    1254 - 1322
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+# ** CMTS0105	譜錄類 Pulu Annals
+***** DZJY  JY292 玄元十子圖  Xuanyuan shizi tu				:can:
+:PROPERTIES:
+:EXTENT:  14 fols.
+:LODGE:  翼 1
+:KZ:  24: 10545-52
+:CT:  163
+:DZ: DZ0163 / JY292
+:END:
+玄元十子圖 
+DZJ0: [[dzjy:JY292/JY292_01.txt][JY292 玄元十子圖 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0165 [[mandoku:ZB5a0165.org][ZB5a0165]] 上清三尊譜錄
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0165
+:TTC: 417
+:DZ: DZ0164
+:page: 030262a
+:ZHDZ: ZHDZ02p0634
+:XWDZ: XWDZ05p0001
+:BASEEDITION: HFL
+:HFL: HFL騰上004
+:EXTRA_ID: DZJY:JY288
+:END:
+
+[[dzimg:0073/0073-004.tif][HFL 0073 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY288 上清三尊譜錄  Shangqing sanzun pulu			:can:
+:PROPERTIES:
+:EXTENT:  9 fols.
+:LODGE:  翼 1
+:KZ:  24: 10497-10501
+:CT:  164
+:DZ: DZ0164 / JY288
+:END:
+上清三尊譜錄 
+DZJ0: [[dzjy:JY288/JY288_01.txt][JY288 上清三尊譜錄 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0166 [[mandoku:ZB5a0166.org][ZB5a0166]] 靈寶自然九天生神三寶大有金書
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0166
+:TTC: 221
+:DZ: DZ0165
+:page: 030266a
+:ZHDZ: ZHDZ03p0085
+:XWDZ: XWDZ05p0008
+:BASEEDITION: HFL
+:HFL: HFL騰上028
+:DATE: ca. 400
+:END:
+
+[[dzimg:0073/0073-028.tif][HFL 0073 028]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0167 [[mandoku:ZB5a0167.org][ZB5a0167]] 元始上真眾仙記
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0167
+:TTC: 107 - 108
+:DZ: DZ0166
+:page: 030269a
+:ZHDZ: ZHDZ02p0630
+:XWDZ: XWDZ05p0013
+:BASEEDITION: HFL
+:HFL: HFL騰上046
+:DYNASTY: 六朝
+:END:
+
+[[dzimg:0073/0073-046.tif][HFL 0073 046]]
+**** 人物
+***** 葛洪
+     :PROPERTIES:
+     :CERT:     att
+     :DATES:    283 - 343
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0168 [[mandoku:ZB5a0168.org][ZB5a0168]] 洞玄靈寶真靈位業圖
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0168
+:TTC: 109 - 111
+:DZ: DZ0167
+:page: 030272a
+:ZHDZ: ZHDZ02p0721
+:XWDZ: XWDZ05p0018
+:BASEEDITION: HFL
+:HFL: HFL騰上064
+:EXTRA_ID: DZJY:JY239
+:END:
+
+[[dzimg:0073/0073-064.tif][HFL 0073 064]]
+**** 人物
+***** 陶弘景
+     :PROPERTIES:
+     :FUNCTION: 編
+     :DATES:    ca. 500
+     :END:
+***** 閣丘方遠
+     :PROPERTIES:
+     :FUNCTION: 改訂
+     :DATES:    before 893
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY239 洞玄靈寶真靈位業圖  Dongxuan lingbao zhenling weiye tu :can:
+:PROPERTIES:
+:EXTENT:  29 fols.
+:LODGE:  觜 7
+:KZ:  19: 8293-8307
+:CT:  167
+:DZ: DZ0167 / JY239
+:END:
+洞玄靈寶真靈位業圖 
+DZJ0: [[dzjy:JY239/JY239_01.txt][JY239 洞玄靈寶真靈位業圖 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0169 [[mandoku:ZB5a0169.org][ZB5a0169]] 元始高上玉檢大錄
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0169
+:TTC: 603
+:DZ: DZ0168
+:page: 030282b
+:ZHDZ: ZHDZ02p0596
+:XWDZ: XWDZ05p0034
+:BASEEDITION: HFL
+:HFL: HFL騰上126
+:DYNASTY: 唐
+:END:
+
+[[dzimg:0073/0073-126.tif][HFL 0073 126]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0170 [[mandoku:ZB5a0170.org][ZB5a0170]] 清河內傳
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0170
+:TTC: 1205 - 1206
+:DZ: DZ0169
+:page: 030286b
+:ZHDZ: ZHDZ06p0612
+:XWDZ: XWDZ05p0040
+:BASEEDITION: HFL
+:HFL: HFL騰上150
+:DYNASTY: 明
+#date of compilation, original revelation between 1168 and 1177
+:END:
+
+[[dzimg:0073/0073-150.tif][HFL 0073 150]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0171 [[mandoku:ZB5a0171.org][ZB5a0171]] 梓潼帝君化書
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0171
+:TTC: 1204 - 1205
+:DZ: DZ0170
+:page: 030292b
+:ZHDZ: ZHDZ06p0577
+:XWDZ: XWDZ05p0049
+:BASEEDITION: HFL
+:HFL: HFL騰下004
+:DATE: 1316
+:EXTRA_ID: DZJY:JY255
+:END:
+
+[[dzimg:0074/0074-004.tif][HFL 0074 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  *JY255 文帝化書  Wendi huashu				:can:
+:PROPERTIES:
+:EXTENT:  80 fols.
+:LODGE:  星 8
+:KZ:  23: 10115-55
+:CT:  170
+:DZ: DZ0170 / JY255
+:END:
+文帝化書 
+DZJ0: [[dzjy:JY255/JY255_01.txt][JY255 文帝化書 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0172 [[mandoku:ZB5a0172.org][ZB5a0172]] 清微仙譜
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0172
+:TTC: 1100
+:DZ: DZ0171
+:page: 030326c
+:ZHDZ: ZHDZ31p0001
+:XWDZ: XWDZ05p0101
+:BASEEDITION: HFL
+:HFL: HFL致上004
+:DATE: 1293(序)
+:END:
+
+[[dzimg:0075/0075-004.tif][HFL 0075 004]]
+**** 人物
+***** 黃舜申
+     :PROPERTIES:
+     :HAO:      雷淵
+     :FUNCTION: 傳
+     :DATES:    fl. 1224 - 1287
+     :END:
+***** 陳采
+     :PROPERTIES:
+     :FUNCTION: 序
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0173 [[mandoku:ZB5a0173.org][ZB5a0173]] 三茅真君加封事典
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0173
+:TTC: 878 - 879
+:DZ: DZ0172
+:page: 030332b
+:ZHDZ: ZHDZ46p0296
+:XWDZ: XWDZ05p0110
+:BASEEDITION: HFL
+:HFL: HFL致上038
+:DATE: 1267
+:END:
+
+[[dzimg:0075/0075-038.tif][HFL 0075 038]]
+**** 人物
+***** 張大淳
+     :PROPERTIES:
+     :HAO:      沖靖明真微妙大師
+     :FUNCTION: 編
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0174 [[mandoku:ZB5a0174.org][ZB5a0174]] 金蓮正宗記
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0174
+:TTC: 1135 - 1136
+:DZ: DZ0173
+:page: 030343c
+:ZHDZ: ZHDZ46p0029
+:XWDZ: XWDZ05p0127
+:BASEEDITION: HFL
+:HFL: HFL致上106
+:DATE: 1241(序)
+:EXTRA_ID: DZJY:JY301
+:END:
+
+[[dzimg:0075/0075-106.tif][HFL 0075 106]]
+**** 人物
+***** 秦志安
+     :PROPERTIES:
+     :HAO:      長春壺天
+     :HAO:      林間羽客
+     :HAO:      樗櫟道人
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY301 金蓮正宗記  Jinlian zhengzong ji			:can:
+:PROPERTIES:
+:EXTENT:  2+44 fols.
+:LODGE:  翼 8
+:KZ:  25: 10937-59
+:CT:  173
+:DZ: DZ0173 / JY301
+:END:
+金蓮正宗記 
+DZJ0: [[dzjy:JY301/JY301_01.txt][JY301 金蓮正宗記 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0175 [[mandoku:ZB5a0175.org][ZB5a0175]] 金蓮正宗仙源像傳
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0175
+:TTC: 1136 - 1137
+:DZ: DZ0174
+:page: 030365b
+:ZHDZ: ZHDZ47p0054
+:XWDZ: XWDZ05p0160
+:BASEEDITION: HFL
+:HFL: HFL致下054
+:DATE: 1326(序)
+:EXTRA_ID: DZJY:JY302
+:END:
+
+[[dzimg:0076/0076-054.tif][HFL 0076 054]]
+**** 人物
+***** 劉志玄
+     :PROPERTIES:
+     :HAO:      廬山清溪道人
+     :FUNCTION: 編
+     :END:
+***** 謝西蟾
+     :PROPERTIES:
+     :FUNCTION: 編
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY302 金蓮正宗仙源像傳  Jinlian zhengzong xianyuan xiangzhuan :can:
+:PROPERTIES:
+:EXTENT:  42 fols.
+:LODGE:  翼 8
+:KZ:  25: 10960-80
+:CT:  174
+:DZ: DZ0174 / JY302
+:END:
+金蓮正宗仙源像傳 
+DZJ0: [[dzjy:JY302/JY302_01.txt][JY302 金蓮正宗仙源像傳 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0176 [[mandoku:ZB5a0176.org][ZB5a0176]] 七真年譜
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0176
+:TTC: 1137 - 1138
+:DZ: DZ0175
+:page: 030380b
+:ZHDZ: ZHDZ47p0069
+:XWDZ: XWDZ05p0183
+:BASEEDITION: HFL
+:HFL: HFL致下144
+:DATE: 1271
+:EXTRA_ID: DZJY:JY303
+:END:
+
+[[dzimg:0076/0076-144.tif][HFL 0076 144]]
+**** 人物
+***** 李道謙
+     :PROPERTIES:
+     :FUNCTION: 編
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY303 七真年譜 Qizhen nianpu				:can:
+:PROPERTIES:
+:EXTENT:  16 fols.
+:LODGE:  翼 8
+:KZ:  25: 10981-88
+:CT:  175
+:DZ: DZ0175 / JY303
+:END:
+七真年譜
+DZJ0: [[dzjy:JY303/JY303_01.txt][JY303 七真年譜]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0177 [[mandoku:ZB5a0177.org][ZB5a0177]] 玄風慶會錄
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0177
+:TTC: 1138
+:DZ: DZ0176
+:page: 030387c
+:ZHDZ: ZHDZ47p0025
+:XWDZ: XWDZ05p0194
+:BASEEDITION: HFL
+:HFL: HFL致下188
+:DATE: 1232(序)
+:END:
+
+[[dzimg:0076/0076-188.tif][HFL 0076 188]]
+**** 人物
+***** 移剌楚才
+     :PROPERTIES:
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+# ** CMTS0106	戒律類 Jielü Precepts	
+*** KR5a0178 [[mandoku:ZB5a0178.org][ZB5a0178]] 太上洞真智慧上品大誡
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0178
+:TTC: 223 - 224
+:DZ: DZ0177
+:page: 030391a
+:ZHDZ: ZHDZ03p0258
+:XWDZ: XWDZ05p0199
+:BASEEDITION: HFL
+:HFL: HFL雨上004
+:DATE: ca. 400
+:EXTRA_ID: DZJY:JY269
+:END:
+
+[[dzimg:0077/0077-004.tif][HFL 0077 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY269 太上洞真智慧上品大誡  Taishang dongzhen zhihui shangpin dajie :can:
+:PROPERTIES:
+:EXTENT:  12 fols.
+:LODGE:  張 2
+:KZ:  23: 10271-76
+:CT:  177
+:DZ: DZ0177 / JY269
+:END:
+太上洞真智慧上品大誡 
+DZJ0: [[dzjy:JY269/JY269_01.txt][JY269 太上洞真智慧上品大誡 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0179 [[mandoku:ZB5a0179.org][ZB5a0179]] 三洞眾戒文
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0179
+:TTC: 456
+:DZ: DZ0178
+:page: 030396b
+:ZHDZ: ZHDZ42p0139
+:XWDZ: XWDZ05p0208
+:BASEEDITION: HFL
+:HFL: HFL雨上036
+:EXTRA_ID: DZJY:JY270
+:END:
+
+[[dzimg:0077/0077-036.tif][HFL 0077 036]]
+**** 人物
+***** 張萬福
+     :PROPERTIES:
+     :FUNCTION: 編
+     :DATES:    fl. 713
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY270 三洞眾戒文  Sandong zhongjie wen			:can:
+:PROPERTIES:
+:EXTENT:  2 juan
+:LODGE:  張 2
+:KZ:  23: 10277-83
+:CT:  178
+:DZ: DZ0178 / JY270
+:END:
+三洞眾戒文 
+DZJ0: [[dzjy:JY270/JY270_01.txt][JY270 三洞眾戒文 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0180 [[mandoku:ZB5a0180.org][ZB5a0180]] 太微靈書紫文仙忌真記上經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0180
+:TTC: 152
+:DZ: DZ0179
+:page: 030402a
+:ZHDZ: ZHDZ01p0304
+:XWDZ: XWDZ05p0217
+:BASEEDITION: HFL
+:HFL: HFL雨上070
+:DYNASTY: 東晉
+:EXTRA_ID: DZJY:JY271
+:END:
+
+[[dzimg:0077/0077-070.tif][HFL 0077 070]]
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY271 太微靈書紫文仙忌真記上經  Taiwei lingshu ziwen xianji zhenji shangjing :can:
+:PROPERTIES:
+:EXTENT:  3 fols.
+:LODGE:  張 2
+:KZ:  23: 10283-84
+:CT:  179
+:DZ: DZ0179 / JY271
+:END:
+太微靈書紫文仙忌真記上經 
+DZJ0: [[dzjy:JY271/JY271_01.txt][JY271 太微靈書紫文仙忌真記上經 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0181 [[mandoku:ZB5a0181.org][ZB5a0181]] 虛皇天尊初真十戒文
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0181
+:TTC: 586 - 587
+:DZ: DZ0180
+:page: 030403b
+:ZHDZ: ZHDZ42p0646
+:XWDZ: XWDZ05p0219
+:BASEEDITION: HFL
+:HFL: HFL雨上078
+:EXTRA_ID: DZJY:JY272
+:END:
+
+[[dzimg:0077/0077-078.tif][HFL 0077 078]]
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY272 虛皇天尊初真十戒文  Xuhuang tianzun chuzhen shijie wen :can:
+:PROPERTIES:
+:EXTENT:  6 fols.
+:LODGE:  張 2
+:KZ:  23: 10285-87
+:CT:  180
+:DZ: DZ0180 / JY272
+:END:
+虛皇天尊初真十戒文 
+DZJ0: [[dzjy:JY272/JY272_01.txt][JY272 虛皇天尊初真十戒文 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0182 [[mandoku:ZB5a0182.org][ZB5a0182]] 太上九真妙戒金籙度命拔罪妙經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0182
+:TTC: 543 - 544
+:DZ: DZ0181
+:page: 030406a
+:ZHDZ: ZHDZ06p0050
+:XWDZ: XWDZ05p0223
+:BASEEDITION: HFL
+:HFL: HFL雨上094
+:DYNASTY: 唐
+:EXTRA_ID: DZJY:JY273
+:END:
+
+[[dzimg:0077/0077-094.tif][HFL 0077 094]]
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY273 太上九真妙戒金籙度命拔罪妙經  Taishang jiuzhen miaojie jinlu duming bazui miaojing :can:
+:PROPERTIES:
+:EXTENT:  8 fols.
+:LODGE:  張 2
+:KZ:  23: 10288-91
+:CT:  181
+:DZ: DZ0181 / JY273
+:END:
+太上九真妙戒金籙度命拔罪妙經 
+DZJ0: [[dzjy:JY273/JY273_01.txt][JY273 太上九真妙戒金籙度命拔罪妙經 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0183 [[mandoku:ZB5a0183.org][ZB5a0183]] 太上十二上品飛天法輪勸戒妙經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0183
+:TTC: 545
+:DZ: DZ0182
+:page: 030409a
+:ZHDZ: ZHDZ04p0193
+:XWDZ: XWDZ05p0228
+:BASEEDITION: HFL
+:HFL: HFL雨上112
+:DYNASTY: 唐
+:EXTRA_ID: DZJY:JY274
+:END:
+
+[[dzimg:0077/0077-112.tif][HFL 0077 112]]
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY274 太上十二上品飛天法輪勸戒妙經  Taishang shi’er shangpin feitian falun quanjie miaojing :can:
+:PROPERTIES:
+:EXTENT:  8 fols.
+:LODGE:  張 2
+:KZ:  23: 10292-95
+:CT:  182
+:DZ: DZ0182 / JY274
+:END:
+太上十二上品飛天法輪勸戒妙經 
+DZJ0: [[dzjy:JY274/JY274_01.txt][JY274 太上十二上品飛天法輪勸戒妙經 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0184 [[mandoku:ZB5a0184.org][ZB5a0184]] 太極真人說二十四門戒經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0184
+:TTC: 545
+:DZ: DZ0183
+:page: 030412b
+:ZHDZ: ZHDZ04p0190
+:XWDZ: XWDZ05p0233
+:BASEEDITION: HFL
+:HFL: HFL雨上132
+:DYNASTY: 唐
+:EXTRA_ID: DZJY:JY275
+:END:
+
+[[dzimg:0077/0077-132.tif][HFL 0077 132]]
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY275 太極真人說二十四門戒經  Taiji zhenren shuo ershisi men jiejing :can:
+:PROPERTIES:
+:EXTENT:  6 fols.
+:LODGE:  張 2
+:KZ:  23: 10296-98
+:CT:  183
+:DZ: DZ0183 / JY275
+:END:
+太極真人說二十四門戒經 
+DZJ0: [[dzjy:JY275/JY275_01.txt][JY275 太極真人說二十四門戒經 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0185 [[mandoku:ZB5a0185.org][ZB5a0185]] 太真玉帝四極明科經　
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0185
+:TTC: 192 - 193
+:DZ: DZ0184
+:page: 030415a
+:ZHDZ: ZHDZ02p0752
+:XWDZ: XWDZ05p0237
+:BASEEDITION: HFL
+:HFL: HFL雨上148
+:DYNASTY: 六朝
+:END:
+
+[[dzimg:0077/0077-148.tif][HFL 0077 148]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0186 [[mandoku:ZB5a0186.org][ZB5a0186]] 赤松子中誡經　
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0186
+:TTC: 319
+:DZ: DZ0185
+:page: 030444b
+:ZHDZ: ZHDZ42p0655
+:XWDZ: XWDZ05p0282
+:BASEEDITION: HFL
+:HFL: HFL雨下110
+:DATE: 10th cent
+:END:
+
+[[dzimg:0078/0078-110.tif][HFL 0078 110]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0187 [[mandoku:ZB5a0187.org][ZB5a0187]] 太微仙君功過格
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0187
+:TTC: 1126 - 1127
+:DZ: DZ0186
+:page: 030449a
+:ZHDZ: ZHDZ42p0811
+:XWDZ: XWDZ05p0289
+:BASEEDITION: HFL
+:HFL: HFL雨下138
+:DATE: 1171
+:END:
+
+[[dzimg:0078/0078-138.tif][HFL 0078 138]]
+**** 人物
+***** 又玄子
+     :PROPERTIES:
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0188 [[mandoku:ZB5a0188.org][ZB5a0188]] 太清五十八願文
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0188
+:TTC: 238 - 239
+:DZ: DZ0187
+:page: 030456a
+:ZHDZ: ZHDZ04p0292
+:XWDZ: XWDZ05p0296
+:BASEEDITION: HFL
+:HFL: HFL雨下141
+:DYNASTY: 六朝
+:END:
+
+[[dzimg:0078/0078-141.tif][HFL 0078 141]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0189 [[mandoku:ZB5a0189.org][ZB5a0189]] 玄都律文
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0189
+:TTC: 469 - 470
+:DZ: DZ0188
+:page: 030453c
+:ZHDZ: ZHDZ08p0612
+:XWDZ: XWDZ05p0300
+:BASEEDITION: HFL
+:HFL: HFL　
+:DATE: 7th cent
+:END:
+
+[[dzimg:178/178-玄都律文.tif][HFL 178 玄都律文]]
+**** 版本
+***** SJB
+***** ZHDZ
+# ** CMTS0107	威儀類 Weiyi Solemn Rites
+*** KR5a0190 [[mandoku:ZB5a0190.org][ZB5a0190]] 太上靈寶朝天謝罪大懺
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0190
+:TTC: 1098
+:DZ: DZ0189
+:page: 030463b
+:ZHDZ: ZHDZ44p0058
+:XWDZ: XWDZ05p0311
+:BASEEDITION: HFL
+:HFL: HFL露上004
+:EXTRA_ID: DZJY:JY248
+:END:
+
+[[dzimg:0079/0079-004.tif][HFL 0079 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY248 太上靈寶朝天謝罪法懺  Taishang lingbao chaotian xiezui fachan :can:
+:PROPERTIES:
+:EXTENT:  10 juan
+:LODGE:  續柳 13
+:KZ:  22: 9873-9916
+:CT:  189
+:DZ: DZ0189 / JY248
+:END:
+太上靈寶朝天謝罪法懺 
+DZJ0: [[dzjy:JY248/JY248_01.txt][JY248 太上靈寶朝天謝罪法懺 ]]
+****** Work notes
+looks like there is some text before our text, which starts at SEC 1
+****** Comments
+
+
+*** KR5a0191 [[mandoku:ZB5a0191.org][ZB5a0191]] 太上玉清謝罪登真寶懺
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0191
+:TTC: 572
+:DZ: DZ0190
+:page: 030510b
+:ZHDZ: ZHDZ44p0050
+:XWDZ: XWDZ05p0383
+:BASEEDITION: HFL
+:HFL: HFL結上004
+:END:
+
+[[dzimg:0081/0081-004.tif][HFL 0081 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0192 [[mandoku:ZB5a0192.org][ZB5a0192]] 太上上清禳災延壽寶懺　
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0192
+:TTC: 572
+:DZ: DZ0191
+:page: 030512b
+:ZHDZ: ZHDZ44p0053
+:XWDZ: XWDZ05p0387
+:BASEEDITION: HFL
+:HFL: HFL結上016
+:END:
+
+[[dzimg:0081/0081-016.tif][HFL 0081 016]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0193 [[mandoku:ZB5a0193.org][ZB5a0193]] 太上泰清拔罪昇天寶懺　　　
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0193
+:TTC: 572 - 573
+:DZ: DZ0192
+:page: 030514b
+:ZHDZ: ZHDZ44p0055
+:XWDZ: XWDZ05p0390
+:BASEEDITION: HFL
+:HFL: HFL結上028
+:END:
+
+[[dzimg:0081/0081-028.tif][HFL 0081 028]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0194 [[mandoku:ZB5a0194.org][ZB5a0194]] 玉皇宥罪錫福寶懺
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0194
+:TTC: 1099
+:DZ: DZ0193
+:page: 030516c
+:ZHDZ: ZHDZ44p0258
+:XWDZ: XWDZ05p0394
+:BASEEDITION: HFL
+:HFL: HFL結上042
+:DATE: 14th cent?
+:EXTRA_ID: DZJY:JY096
+:END:
+
+[[dzimg:0081/0081-042.tif][HFL 0081 042]]
+**** 人物
+***** 辛漢臣
+     :PROPERTIES:
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY096 玉皇宥罪錫福寶懺 Yuhuang youzui xifu baochan		:can:
+:PROPERTIES:
+:EXTENT:  18 fols.
+:LODGE:  箕 9
+:KZ:  7: 2850-58
+:CT:  193
+:DZ: DZ0193 / JY096
+:END:
+玉皇宥罪錫福寶懺
+DZJ0: [[dzjy:JY096/JY096_01.txt][JY096 玉皇宥罪錫福寶懺]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0195 [[mandoku:ZB5a0195.org][ZB5a0195]] 高上玉皇滿願寶懺
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0195
+:TTC: 1099 - 1100
+:DZ: DZ0194
+:page: 030524c
+:ZHDZ: ZHDZ44p0266
+:XWDZ: XWDZ05p0406
+:BASEEDITION: HFL
+:HFL: HFL結上090
+:DATE: 14th cent
+:END:
+
+[[dzimg:0081/0081-090.tif][HFL 0081 090]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0196 [[mandoku:ZB5a0196.org][ZB5a0196]] 九天應元雷聲普化天尊玉樞寶懺
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0196
+:TTC: 1093
+:DZ: DZ0195
+:page: 030549a
+:ZHDZ: ZHDZ31p0321
+:XWDZ: XWDZ05p0444
+:BASEEDITION: HFL
+:HFL: HFL結下092
+:END:
+
+[[dzimg:0082/0082-092.tif][HFL 0082 092]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0197 [[mandoku:ZB5a0197.org][ZB5a0197]] 雷霆玉樞宥罪法懺
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0197
+:TTC: 1093
+:DZ: DZ0196
+:page: 030552c
+:ZHDZ: ZHDZ31p0325
+:XWDZ: XWDZ05p0450
+:BASEEDITION: HFL
+:HFL: HFL結下114
+:END:
+
+[[dzimg:0082/0082-114.tif][HFL 0082 114]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0198 [[mandoku:ZB5a0198.org][ZB5a0198]] 玉皇十七慈光燈儀
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0198
+:TTC: 963
+:DZ: DZ0197
+:page: 030555c
+:ZHDZ: ZHDZ44p0001
+:XWDZ: XWDZ05p0455
+:BASEEDITION: HFL
+:HFL: HFL為上004
+:EXTRA_ID: DZJY:JY097
+:END:
+
+[[dzimg:0083/0083-004.tif][HFL 0083 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY097 玉皇十七慈光燈儀  Yuhuang shiqi ciguang dengyi	:can:
+:PROPERTIES:
+:EXTENT:  16 fols.
+:LODGE:  箕 9 
+:KZ:  7: 2859-66
+:CT:  197
+:DZ: DZ0197 / JY097
+:END:
+玉皇十七慈光燈儀 
+DZJ0: [[dzjy:JY097/JY097_01.txt][JY097 玉皇十七慈光燈儀 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0199 [[mandoku:ZB5a0199.org][ZB5a0199]] 上清十一大曜燈儀
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0199
+:TTC: 963 - 964
+:DZ: DZ0198
+:page: 030562b
+:ZHDZ: ZHDZ44p0008
+:XWDZ: XWDZ05p0466
+:BASEEDITION: HFL
+:HFL: HFL為上044
+:END:
+
+[[dzimg:0083/0083-044.tif][HFL 0083 044]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0200 [[mandoku:ZB5a0200.org][ZB5a0200]] 南斗延壽燈儀
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0200
+:TTC: 964
+:DZ: DZ0199
+:page: 030565a
+:ZHDZ: ZHDZ44p0011
+:XWDZ: XWDZ05p0470
+:BASEEDITION: HFL
+:HFL: HFL為上060
+:END:
+
+[[dzimg:0083/0083-060.tif][HFL 0083 060]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0201 [[mandoku:ZB5a0201.org][ZB5a0201]] 北斗七元星燈儀
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0201
+:TTC: 964
+:DZ: DZ0200
+:page: 030567a
+:ZHDZ: ZHDZ44p0014
+:XWDZ: XWDZ05p0473
+:BASEEDITION: HFL
+:HFL: HFL為上072
+:END:
+
+[[dzimg:0083/0083-072.tif][HFL 0083 072]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0202 [[mandoku:ZB5a0202.org][ZB5a0202]] 北斗本命延壽燈儀
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0202
+:TTC: 965
+:DZ: DZ0201
+:page: 030569b
+:ZHDZ: ZHDZ44p0017
+:XWDZ: XWDZ05p0477
+:BASEEDITION: HFL
+:HFL: HFL為上087
+:END:
+
+[[dzimg:0083/0083-087.tif][HFL 0083 087]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0203 [[mandoku:ZB5a0203.org][ZB5a0203]] 三官燈儀
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0203
+:TTC: 965
+:DZ: DZ0202
+:page: 030570c
+:ZHDZ: ZHDZ44p0019
+:XWDZ: XWDZ05p0479
+:BASEEDITION: HFL
+:HFL: HFL為上094
+:END:
+
+[[dzimg:0083/0083-094.tif][HFL 0083 094]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0204 [[mandoku:ZB5a0204.org][ZB5a0204]] 玄帝燈儀
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0204
+:TTC: 965
+:DZ: DZ0203
+:page: 030572a
+:ZHDZ: ZHDZ44p0021
+:XWDZ: XWDZ05p0481
+:BASEEDITION: HFL
+:HFL: HFL為上102
+:END:
+
+[[dzimg:0083/0083-102.tif][HFL 0083 102]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0205 [[mandoku:ZB5a0205.org][ZB5a0205]] 九天三茅司命仙燈儀
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0205
+:TTC: 966
+:DZ: DZ0204
+:page: 030573c
+:ZHDZ: ZHDZ44p0023
+:XWDZ: XWDZ05p0484
+:BASEEDITION: HFL
+:HFL: HFL為上112
+:END:
+
+[[dzimg:0083/0083-112.tif][HFL 0083 112]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0206 [[mandoku:ZB5a0206.org][ZB5a0206]] 萬靈燈儀
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0206
+:TTC: 966
+:DZ: DZ0205
+:page: 030575b
+:ZHDZ: ZHDZ44p0025
+:XWDZ: XWDZ05p0487
+:BASEEDITION: HFL
+:HFL: HFL為上122
+:END:
+
+[[dzimg:0083/0083-122.tif][HFL 0083 122]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0207 [[mandoku:ZB5a0207.org][ZB5a0207]] 五顯靈觀大帝燈儀
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0207
+:TTC: 966 - 967
+:DZ: DZ0206
+:page: 030576c
+:ZHDZ: ZHDZ44p0027
+:XWDZ: XWDZ05p0489
+:BASEEDITION: HFL
+:HFL: HFL為上130
+:END:
+
+[[dzimg:0083/0083-130.tif][HFL 0083 130]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0208 [[mandoku:ZB5a0208.org][ZB5a0208]] 土司燈儀
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0208
+:TTC: 967
+:DZ: DZ0207
+:page: 030578b
+:ZHDZ: ZHDZ44p0029
+:XWDZ: XWDZ05p0492
+:BASEEDITION: HFL
+:HFL: HFL為上140
+:END:
+
+[[dzimg:0083/0083-140.tif][HFL 0083 140]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0209 [[mandoku:ZB5a0209.org][ZB5a0209]] 東厨司命燈儀
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0209
+:TTC: 968
+:DZ: DZ0208
+:page: 030581a
+:ZHDZ: ZHDZ44p0032
+:XWDZ: XWDZ05p0496
+:BASEEDITION: HFL
+:HFL: HFL為上156
+:END:
+
+[[dzimg:0083/0083-156.tif][HFL 0083 156]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0210 [[mandoku:ZB5a0210.org][ZB5a0210]] 正一瘟司辟毒神燈儀
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0210
+:TTC: 968
+:DZ: DZ0209
+:page: 030582c
+:ZHDZ: ZHDZ44p0032
+:XWDZ: XWDZ05p0499
+:BASEEDITION: HFL
+:HFL: HFL為下004
+:END:
+
+[[dzimg:0084/0084-004.tif][HFL 0084 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0211 [[mandoku:ZB5a0211.org][ZB5a0211]] 離明瑞象燈儀
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0211
+:TTC: 968 - 969
+:DZ: DZ0210
+:page: 030584b
+:ZHDZ: ZHDZ44p0036
+:XWDZ: XWDZ05p0502
+:BASEEDITION: HFL
+:HFL: HFL為下014
+:END:
+
+[[dzimg:0084/0084-014.tif][HFL 0084 014]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0212 [[mandoku:ZB5a0212.org][ZB5a0212]] 黃籙九陽梵炁燈儀
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0212
+:TTC: 969
+:DZ: DZ0211
+:page: 030586c
+:ZHDZ: ZHDZ44p0039
+:XWDZ: XWDZ05p0506
+:BASEEDITION: HFL
+:HFL: HFL為下028
+:END:
+
+[[dzimg:0084/0084-028.tif][HFL 0084 028]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0213 [[mandoku:ZB5a0213.org][ZB5a0213]] 黃籙九巵燈儀
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0213
+:TTC: 969
+:DZ: DZ0212
+:page: 030590b
+:ZHDZ: ZHDZ44p0043
+:XWDZ: XWDZ05p0512
+:BASEEDITION: HFL
+:HFL: HFL為下050
+:END:
+
+[[dzimg:0084/0084-050.tif][HFL 0084 050]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0214 [[mandoku:ZB5a0214.org][ZB5a0214]] 黃籙破獄燈儀
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0214
+:TTC: 969 - 970
+:DZ: DZ0213
+:page: 030591c
+:ZHDZ: ZHDZ44p0045
+:XWDZ: XWDZ05p0514
+:BASEEDITION: HFL
+:HFL: HFL為下058
+:END:
+
+[[dzimg:0084/0084-058.tif][HFL 0084 058]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0215 [[mandoku:ZB5a0215.org][ZB5a0215]] 黃籙五苦輪燈儀
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0215
+:TTC: 970
+:DZ: DZ0214
+:page: 030594b
+:ZHDZ: ZHDZ44p0048
+:XWDZ: XWDZ05p0518
+:BASEEDITION: HFL
+:HFL: HFL為下074
+:END:
+
+[[dzimg:0084/0084-074.tif][HFL 0084 074]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0216 [[mandoku:ZB5a0216.org][ZB5a0216]] 地府十王拔度儀
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0216
+:TTC: 1002 - 1003
+:DZ: DZ0215
+:page: 030596a
+:ZHDZ: ZHDZ44p0417
+:XWDZ: XWDZ05p0521
+:BASEEDITION: HFL
+:HFL: HFL為下084
+:DYNASTY: 宋
+:END:
+
+[[dzimg:0084/0084-084.tif][HFL 0084 084]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0217 [[mandoku:ZB5a0217.org][ZB5a0217]] 上清天寶齋初夜儀
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0217
+:TTC: 623
+:DZ: DZ0216
+:page: 030600a
+:ZHDZ: ZHDZ44p0383
+:XWDZ: XWDZ05p0527
+:BASEEDITION: HFL
+:HFL: HFL為下108
+:END:
+
+[[dzimg:0084/0084-108.tif][HFL 0084 108]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0218 [[mandoku:ZB5a0218.org][ZB5a0218]] 太乙火府奏告祈禳儀
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0218
+:TTC: 1088 - 1089
+:DZ: DZ0217
+:page: 030603b
+:ZHDZ: ZHDZ32p0790
+:XWDZ: XWDZ05p0532
+:BASEEDITION: HFL
+:HFL: HFL為下128
+:END:
+
+[[dzimg:0084/0084-128.tif][HFL 0084 128]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0219 [[mandoku:ZB5a0219.org][ZB5a0219]] 清微玄樞奏告儀
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0219
+:TTC: 1102
+:DZ: DZ0218
+:page: 030609a
+:ZHDZ: ZHDZ31p0170
+:XWDZ: XWDZ05p0541
+:BASEEDITION: HFL
+:HFL: HFL為下162
+:DYNASTY: 元
+:END:
+
+[[dzimg:0084/0084-162.tif][HFL 0084 162]]
+**** 人物
+***** 葉雲萊
+     :PROPERTIES:
+     :FUNCTION: school of
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+# ** CMTS0108	方法類 Fangfa Techniques	
+*** KR5a0220 [[mandoku:ZB5a0220.org][ZB5a0220]] 靈寶無量度人上經大法
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0220
+:TTC: 1028 - 1032
+:DZ: DZ0219
+:page: 030613b
+:ZHDZ: ZHDZ35p0001
+:XWDZ: XWDZ05p0549
+:BASEEDITION: HFL
+:HFL: HFL霜上004
+:DATE: ca. 1200
+:END:
+
+[[dzimg:0085/0085-004.tif][HFL 0085 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0221 [[mandoku:ZB5a0221.org][ZB5a0221]] 無上玄元三天玉堂大法
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0221
+:TTC: 1070 - 1073
+:DZ: DZ0220
+:page: 040001a
+:ZHDZ: ZHDZ30p0387
+:XWDZ: XWDZ06p0341
+:BASEEDITION: HFL
+:HFL: HFL崑上004
+:DATE: after 1158
+:END:
+
+[[dzimg:0100/0100-004.tif][HFL 0100 004]]
+**** 人物
+***** 路時中
+     :PROPERTIES:
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0222 [[mandoku:ZB5a0222.org][ZB5a0222]] 無上三天玉堂正宗高奔內景玉書
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0222
+:TTC: 1073 - 1074
+:DZ: DZ0221
+:page: 040122c
+:ZHDZ: ZHDZ30p0507
+:XWDZ: XWDZ06p0529
+:BASEEDITION: HFL
+:HFL: HFL劍上130
+:DATE:     12th cent 前半
+:YEAR: 1125
+:END:
+
+[[dzimg:0104/0104-130.tif][HFL 0104 130]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0223 [[mandoku:ZB5a0223.org][ZB5a0223]] 清微神烈祕法
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0223
+:TTC: 1102 - 1103
+:DZ: DZ0222
+:page: 040135b
+:ZHDZ: ZHDZ31p0039
+:XWDZ: XWDZ06p0549
+:BASEEDITION: HFL
+:HFL: HFL劍下020
+:DATE: 14th cent
+:END:
+
+[[dzimg:0105/0105-020.tif][HFL 0105 020]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0224 [[mandoku:ZB5a0224.org][ZB5a0224]] 清微元降大法
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0224
+:TTC: 1101
+:DZ: DZ0223
+:page: 040153a
+:ZHDZ: ZHDZ31p0057
+:XWDZ: XWDZ06p0577
+:BASEEDITION: HFL
+:HFL: HFL號上004
+:DATE: 14th cent
+:END:
+
+[[dzimg:0106/0106-004.tif][HFL 0106 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0225 [[mandoku:ZB5a0225.org][ZB5a0225]] 清微齋法
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0225
+:TTC: 1103
+:DZ: DZ0224
+:page: 040282b
+:ZHDZ: ZHDZ31p0011
+:XWDZ: XWDZ06p0657
+:BASEEDITION: HFL
+:HFL: HFL闕下004
+:DATE: 14th cent
+:END:
+
+[[dzimg:0111/0111-004.tif][HFL 0111 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0226 [[mandoku:ZB5a0226.org][ZB5a0226]] 太上九要心印妙經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0226
+:TTC: 808 - 809
+:DZ: DZ0225
+:page: 040311a
+:ZHDZ: ZHDZ19p0001
+:XWDZ: XWDZ06p0823
+:BASEEDITION: HFL
+:HFL: HFL珠上004
+:DYNASTY: 宋?
+:END:
+
+[[dzimg:0112/0112-004.tif][HFL 0112 004]]
+**** 人物
+***** 張果老
+     :PROPERTIES:
+     :CERT:     att
+     :END:      
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0227 [[mandoku:ZB5a0227.org][ZB5a0227]] 紫元君授道傳心法
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0227
+:TTC: 402 - 403
+:DZ: DZ0226
+:page: 040314a
+:ZHDZ: ZHDZ19p0143
+:XWDZ: XWDZ06p0828
+:BASEEDITION: HFL
+:HFL: HFL珠上022
+:DYNASTY: 唐
+:END:
+
+[[dzimg:0112/0112-022.tif][HFL 0112 022]]
+**** 人物
+***** 陰長生
+     :PROPERTIES:
+     :CERT:     att
+     :FUNCTION: 注
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0228 [[mandoku:ZB5a0228.org][ZB5a0228]] 真龍虎九仙經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0228
+:TTC: 403 - 404
+:DZ: DZ0227
+:page: 040317a
+:ZHDZ: ZHDZ19p0070
+:XWDZ: XWDZ06p0833
+:BASEEDITION: HFL
+:HFL: HFL珠上040
+:DATE: before 9th cent
+:END:
+
+[[dzimg:0112/0112-040.tif][HFL 0112 040]]
+**** 人物
+***** 葉法善
+     :PROPERTIES:
+     :CERT:     att
+     :FUNCTION: 注
+     :END:
+***** 羅公遠
+     :PROPERTIES:
+     :CERT:     att
+     :FUNCTION: 注
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0229 [[mandoku:ZB5a0229.org][ZB5a0229]] 龍虎中丹訣
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0229
+:TTC: 846
+:DZ: DZ0228
+:page: 040321c
+:ZHDZ: ZHDZ19p0219
+:XWDZ: XWDZ06p0840
+:BASEEDITION: HFL
+:HFL: HFL珠上068
+:END:
+
+[[dzimg:0112/0112-068.tif][HFL 0112 068]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0230 [[mandoku:ZB5a0230.org][ZB5a0230]] 九還七返龍虎金丹析理真訣
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0230
+:TTC: 797
+:DZ: DZ0229
+:page: 040324a
+:ZHDZ: ZHDZ19p0234
+:XWDZ: XWDZ06p0844
+:BASEEDITION: HFL
+:HFL: HFL珠上082
+:DYNASTY: 北宋?
+:END:
+
+[[dzimg:0112/0112-082.tif][HFL 0112 082]]
+**** 人物
+***** 程昭
+     :PROPERTIES:
+     :ZI:       士明
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0231 [[mandoku:ZB5a0231.org][ZB5a0231]] 諸真論還丹訣
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0231
+:TTC: 806 - 807
+:DZ: DZ0230
+:page: 040327a
+:ZHDZ: ZHDZ19p0222
+:XWDZ: XWDZ06p0849
+:BASEEDITION: HFL
+:HFL: HFL珠上100
+:DYNASTY: 北宋
+:END:
+
+[[dzimg:0112/0112-100.tif][HFL 0112 100]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0232 [[mandoku:ZB5a0232.org][ZB5a0232]] 真一金丹訣
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0232
+:TTC: 807
+:DZ: DZ0231
+:page: 040328c
+:ZHDZ: ZHDZ00p0000
+:XWDZ: XWDZ06p0852
+:BASEEDITION: HFL
+:HFL: HFL珠上110
+:DYNASTY: 宋
+:END:
+
+[[dzimg:0112/0112-110.tif][HFL 0112 110]]
+**** 人物
+***** 王常
+     :PROPERTIES:
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0233 [[mandoku:ZB5a0233.org][ZB5a0233]] 還丹祕訣養赤子神方
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0233
+:TTC: 846
+:DZ: DZ0232
+:page: 040331c
+:ZHDZ: ZHDZ19p0669
+:XWDZ: XWDZ06p0857
+:BASEEDITION: HFL
+:HFL: HFL珠上128
+:DATE: end of the 12th cent
+:END:
+
+[[dzimg:0112/0112-128.tif][HFL 0112 128]]
+**** 人物
+***** 許子微
+     :PROPERTIES:
+     :ZI:       明道
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0234 [[mandoku:ZB5a0234.org][ZB5a0234]] 還丹眾仙論
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0234
+:TTC: 856
+:DZ: DZ0233
+:page: 040333c
+:ZHDZ: ZHDZ18p0734
+:XWDZ: XWDZ06p0861
+:BASEEDITION: HFL
+:HFL: HFL珠下004
+:DATE: 1052
+:END:
+
+[[dzimg:0113/0113-004.tif][HFL 0113 004]]
+**** 人物
+***** 楊在
+     :PROPERTIES:
+     :HAO:      抱腹山人
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0235 [[mandoku:ZB5a0235.org][ZB5a0235]] 修丹妙用至理論
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0235
+:TTC: 798
+:DZ: DZ0234
+:page: 040342a
+:ZHDZ: ZHDZ18p0743
+:XWDZ: XWDZ06p0874
+:BASEEDITION: HFL
+:HFL: HFL珠下054
+:DYNASTY: 北宋?
+:END:
+
+[[dzimg:0113/0113-054.tif][HFL 0113 054]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0236 [[mandoku:ZB5a0236.org][ZB5a0236]] 丹經極論
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0236
+:TTC: 834
+:DZ: DZ0235
+:page: 040345b
+:ZHDZ: ZHDZ19p0707
+:XWDZ: XWDZ06p0849
+:BASEEDITION: HFL
+:HFL: HFL珠下074
+:DYNASTY: 南宋?
+:END:
+
+[[dzimg:0113/0113-074.tif][HFL 0113 074]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0237 [[mandoku:ZB5a0237.org][ZB5a0237]] 金晶論
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0237
+:TTC: 786
+:DZ: DZ0236
+:page: 040349a
+:ZHDZ: ZHDZ19p0216
+:XWDZ: XWDZ06p0885
+:BASEEDITION: HFL
+:HFL: HFL珠下096
+:DYNASTY: 北宋?
+:END:
+
+[[dzimg:0113/0113-096.tif][HFL 0113 096]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0238 [[mandoku:ZB5a0238.org][ZB5a0238]] 還丹顯妙通幽集
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0238
+:TTC: 786
+:DZ: DZ0237
+:page: 040351a
+:ZHDZ: ZHDZ19p0219
+:XWDZ: XWDZ06p0888
+:BASEEDITION: HFL
+:HFL: HFL珠下108
+:DYNASTY: 北宋?
+:END:
+
+[[dzimg:0113/0113-108.tif][HFL 0113 108]]
+**** 人物
+***** 潛真子
+     :PROPERTIES:
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0239 [[mandoku:ZB5a0239.org][ZB5a0239]] 元陽子金液集
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0239
+:TTC: 411 - 412
+:DZ: DZ0238
+:page: 040354c
+:ZHDZ: ZHDZ18p0657
+:XWDZ: XWDZ06p0894
+:BASEEDITION: HFL
+:HFL: HFL珠下130
+:DATE: 9th - 10th cent
+:END:
+
+[[dzimg:0113/0113-130.tif][HFL 0113 130]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0240 [[mandoku:ZB5a0240.org][ZB5a0240]] 還丹金液歌註
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0240
+:TTC: 412 - 413
+:DZ: DZ0239
+:page: 040359c
+:ZHDZ: ZHDZ18p0667
+:XWDZ: XWDZ06p0902
+:BASEEDITION: HFL
+:HFL: HFL珠下160
+:DYNASTY: 五代?
+:END:
+
+[[dzimg:0113/0113-160.tif][HFL 0113 160]]
+**** 人物
+***** 元陽子
+     :PROPERTIES:
+     :END:
+***** 張果
+     :PROPERTIES:
+     :CERT:     att
+     :HAO:      通玄先生
+     :FUNCTION: 注
+     :DATES:    d. ca. 742
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0241 [[mandoku:ZB5a0241.org][ZB5a0241]] 玉清金笥青華祕文金寶內鍊丹訣
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0241
+:TTC: 829
+:DZ: DZ0240
+:page: 040362b
+:ZHDZ: ZHDZ19p0492
+:XWDZ: XWDZ07p0001
+:BASEEDITION: HFL
+:HFL: HFL稱上004
+:EXTRA_ID: DZJY:JY174
+:END:
+
+[[dzimg:0114/0114-004.tif][HFL 0114 004]]
+**** 人物
+***** 張伯端
+     :PROPERTIES:
+     :ZI:       平叔
+     :HAO:      紫陽
+     :DATES:    984? - 1082
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  *JY174 玉清金笥青華祕文金寶內鍊丹法  Yuqing jinsi qinghua biwen jinbao neilian danfai :can:
+:PROPERTIES:
+:EXTENT:  34 fols.
+:LODGE:  奎 1
+:KZ:  14: 6026-43
+:BR:  10: 359-454
+:CT:  240
+:DZ: DZ0240 / JY174
+:END:
+玉清金笥青華祕文金寶內鍊丹法 
+DZJ0: [[dzjy:JY174/JY174_01.txt][JY174 玉清金笥青華祕文金寶內鍊丹法 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0242 [[mandoku:ZB5a0242.org][ZB5a0242]] 碧虛子親傳直指
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0242
+:TTC: 836
+:DZ: DZ0241
+:page: 040378c
+:ZHDZ: ZHDZ19p0580
+:XWDZ: XWDZ07p0026
+:BASEEDITION: HFL
+:HFL: HFL稱上102
+:END:
+
+[[dzimg:0114/0114-102.tif][HFL 0114 102]]
+**** 人物
+***** 楊明真
+     :PROPERTIES:
+     :CERT:     att
+     :HAO:      碧虛子
+     :DATES:    1150 - 1228
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0243 [[mandoku:ZB5a0243.org][ZB5a0243]] 紙舟先生全真直指
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0243
+:TTC: 1186 - 1187
+:DZ: DZ0242
+:page: 040382b
+:ZHDZ: ZHDZ27p0419
+:XWDZ: XWDZ07p0032
+:BASEEDITION: HFL
+:HFL: HFL稱上124
+:END:
+
+[[dzimg:0114/0114-124.tif][HFL 0114 124]]
+**** 人物
+***** 金月巖
+     :PROPERTIES:
+     :FUNCTION: 編
+     :END:
+***** 黃公望
+     :PROPERTIES:
+     :HAO:      大癡
+     :FUNCTION: 傳
+     :DATES:    1269 - 1354
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0244 [[mandoku:ZB5a0244.org][ZB5a0244]] 陳虛白規中指南
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0244
+:TTC: 836
+:DZ: DZ0243
+:page: 040384c
+:ZHDZ: ZHDZ27p0615
+:XWDZ: XWDZ07p0036
+:BASEEDITION: HFL
+:HFL: HFL稱上138
+:DYNASTY: 元
+:EXTRA_ID: DZJY:JY211
+:END:
+
+[[dzimg:0114/0114-138.tif][HFL 0114 138]]
+**** 人物
+***** 陳沖素
+     :PROPERTIES:
+     :HAO:      虛白子
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  *JY211 規中指南  Guizhong zhinan				:can:
+:PROPERTIES:
+:EXTENT:  16 fols.
+:LODGE:  昂 5
+:KZ:  16: 7109-16
+:CT:  243
+:DZ: DZ0243 / JY211
+:END:
+規中指南 
+DZJ0: [[dzjy:JY211/JY211_01.txt][JY211 規中指南 ]]
+****** Work notes
+      - Xu not in DZ
+****** Comments
+
+
+*** KR5a0245 [[mandoku:ZB5a0245.org][ZB5a0245]] 大丹直指
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0245
+:TTC: 1171
+:DZ: DZ0244
+:page: 040391c
+:ZHDZ: ZHDZ26p0631
+:XWDZ: XWDZ07p0047
+:BASEEDITION: HFL
+:HFL: HFL稱下004
+:DYNASTY: 元初期
+:END:
+
+[[dzimg:0115/0115-004.tif][HFL 0115 004]]
+**** 人物
+***** 丘處機
+     :PROPERTIES:
+     :CERT:     att
+     :HAO:      長春
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0246 [[mandoku:ZB5a0246.org][ZB5a0246]] 玉豁子丹經指要
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0246
+:TTC: 837 - 838
+:DZ: DZ0245
+:page: 040404b
+:ZHDZ: ZHDZ19p0616
+:XWDZ: XWDZ04p0404
+:BASEEDITION: HFL
+:HFL: HFL稱下080
+:END:
+
+[[dzimg:0115/0115-080.tif][HFL 0115 080]]
+**** 人物
+***** 李簡易
+     :PROPERTIES:
+     :HAO:      玉谿子
+     :DATES:    fl. 1264
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0247 [[mandoku:ZB5a0247.org][ZB5a0247]] 西山群仙會真記
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0247
+:TTC: 804 - 805
+:DZ: DZ0246
+:page: 040422a
+:ZHDZ: ZHDZ19p0120
+:XWDZ: XWDZ07p0095
+:BASEEDITION: HFL
+:HFL: HFL夜上004
+:DYNASTY: 北宋
+:EXTRA_ID: DZJY:JY307
+:END:
+
+[[dzimg:0116/0116-004.tif][HFL 0116 004]]
+**** 人物
+***** 施肩吾
+     :PROPERTIES:
+     :CERT:     att
+     :HAO:      希聖
+     :HAO:      清虛洞天華陽真人
+     :DATES:    fl. 820
+     :END:
+***** 李竦
+     :PROPERTIES:
+     :ZI:       全美
+     :HAO:      三仙門弟子天下都閑客
+     :FUNCTION: 編
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY307 西山群仙會真記  Xishan qunxian huizhen ji		:can:
+:PROPERTIES:
+:EXTENT:  42 fols.
+:LODGE:  翼 9
+:KZ:  25: 11015-35
+:CT:  246
+:DZ: DZ0246 / JY307
+:END:
+西山群仙會真記 
+DZJ0: [[dzjy:JY307/JY307_01.txt][JY307 西山群仙會真記 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0248 [[mandoku:ZB5a0248.org][ZB5a0248]] 會真集
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0248
+:TTC: 1165 - 1166
+:DZ: DZ0247
+:page: 040442a
+:ZHDZ: ZHDZ27p0363
+:XWDZ: XWDZ07p0126
+:BASEEDITION: HFL
+:HFL: HFL夜上124
+:END:
+
+[[dzimg:0116/0116-124.tif][HFL 0116 124]]
+**** 人物
+***** 王吉昌
+     :PROPERTIES:
+     :HAO:      超然子
+     :DATES:    active 13th cent 初期
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0249 [[mandoku:ZB5a0249.org][ZB5a0249]] 啟真集
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0249
+:TTC: 1166
+:DZ: DZ0248
+:page: 040467a
+:ZHDZ: ZHDZ27p0389
+:XWDZ: XWDZ07p0165
+:BASEEDITION: HFL
+:HFL: HFL夜下088
+:END:
+
+[[dzimg:0117/0117-088.tif][HFL 0117 088]]
+**** 人物
+***** 劉志淵
+     :PROPERTIES:
+     :HAO:      通玄子
+     :DATES:    1186 - 1244
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0250 [[mandoku:ZB5a0250.org][ZB5a0250]] 中和集
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0250
+:TTC: 1174 - 1175
+:DZ: DZ0249
+:page: 040482b
+:ZHDZ: ZHDZ27p0272
+:XWDZ: XWDZ07p0189
+:BASEEDITION: HFL
+:HFL: HFL光上004
+:DATE: 1306
+:EXTRA_ID: DZJY:JY226
+:END:
+
+[[dzimg:0118/0118-004.tif][HFL 0118 004]]
+**** 人物
+***** 李道純
+     :PROPERTIES:
+     :DATES:    fl. 1288 - 1306
+     :END:
+***** 蔡志頤
+     :PROPERTIES:
+     :ZI:       損菴
+     :HAO:      寶蟾子
+     :FUNCTION: 編
+     :DATES:    late 13th cent
+     :END:
+***** 杜道堅
+     :PROPERTIES:
+     :FUNCTION: 序
+     :DATES:    1237 - 1318
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY226 中和集  Zhonghe ji					:can:
+:PROPERTIES:
+:EXTENT:  98 fols.
+:LODGE:  昂 8
+:KZ:  17: 7287-7335
+:CT:  249
+:DZ: DZ0249 / JY226
+:END:
+中和集 
+DZJ0: [[dzjy:JY226/JY226_01.txt][JY226 中和集 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0251 [[mandoku:ZB5a0251.org][ZB5a0251]] 三天易髓
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0251
+:TTC: 1175
+:DZ: DZ0250
+:page: 040524b
+:ZHDZ: ZHDZ27p0358
+:XWDZ: XWDZ07p0254
+:BASEEDITION: HFL
+:HFL: HFL光下060
+:END:
+
+[[dzimg:0119/0119-060.tif][HFL 0119 060]]
+**** 人物
+***** 李道純
+     :PROPERTIES:
+     :DATES:    d. 1306
+     :END:
+***** 王玠
+     :PROPERTIES:
+     :HAO:      混然子
+     :FUNCTION: 改訂
+     :DATES:    fl. mid-fourteenth cent
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0252 [[mandoku:ZB5a0252.org][ZB5a0252]] 全真集玄祕要
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0252
+:TTC: 1175 - 1176
+:DZ: DZ0251
+:page: 040528b
+:ZHDZ: ZHDZ27p0351
+:XWDZ: XWDZ07p0260
+:BASEEDITION: HFL
+:HFL: HFL光下084
+:END:
+
+[[dzimg:0119/0119-084.tif][HFL 0119 084]]
+**** 人物
+***** 李道純
+     :PROPERTIES:
+     :HAO:      清菴
+     :DATES:    d. 1306
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0253 [[mandoku:ZB5a0253.org][ZB5a0253]] 谷神篇
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0253
+:TTC: 847
+:DZ: DZ0252
+:page: 040534b
+:ZHDZ: ZHDZ19p0724
+:XWDZ: XWDZ07p0269
+:BASEEDITION: HFL
+:HFL: HFL光下120
+:DATE: 1304(序)
+:END:
+
+[[dzimg:0119/0119-120.tif][HFL 0119 120]]
+**** 人物
+***** 林轅
+     :PROPERTIES:
+     :ZI:       神鳳
+     :HAO:      玄巢子
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0254 [[mandoku:ZB5a0254.org][ZB5a0254]] 金闕帝君三元真一經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0254
+:TTC: 595
+:DZ: DZ0253
+:page: 040548c
+:ZHDZ: ZHDZ02p0089
+:XWDZ: XWDZ07p0291
+:BASEEDITION: HFL
+:HFL: HFL果上004
+:DYNASTY: 唐
+:END:
+
+[[dzimg:0120/0120-004.tif][HFL 0120 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0255 [[mandoku:ZB5a0255.org][ZB5a0255]] 大洞金華玉經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0255
+:TTC: 186 - 187
+:DZ: DZ0254
+:page: 040551a
+:ZHDZ: ZHDZ01p0097
+:XWDZ: XWDZ07p0293
+:BASEEDITION: HFL
+:HFL: HFL果上018
+:DYNASTY: 六朝
+:END:
+
+[[dzimg:0120/0120-018.tif][HFL 0120 018]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0256 [[mandoku:ZB5a0256.org][ZB5a0256]] 太微靈書紫文琅玕華丹神真上經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0256
+:TTC: 151
+:DZ: DZ0255
+:page: 040555a
+:ZHDZ: ZHDZ01p0306
+:XWDZ: XWDZ07p0295
+:BASEEDITION: HFL
+:HFL: HFL果上042
+:DYNASTY: 東晉
+:END:
+
+[[dzimg:0120/0120-042.tif][HFL 0120 042]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0257 [[mandoku:ZB5a0257.org][ZB5a0257]] 玉景九天金霄威神王祝太元上經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0257
+:TTC: 596
+:DZ: DZ0256
+:page: 040557c
+:ZHDZ: ZHDZ01p0468
+:XWDZ: XWDZ07p0301
+:BASEEDITION: HFL
+:HFL: HFL果上058
+:DYNASTY: 唐
+:END:
+
+[[dzimg:0120/0120-058.tif][HFL 0120 058]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0258 [[mandoku:ZB5a0258.org][ZB5a0258]] 洞真太微黃書九天八籙真文
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0258
+:TTC: 192
+:DZ: DZ0257
+:page: 040561a
+:ZHDZ: ZHDZ02p0452
+:XWDZ: XWDZ07p0305
+:BASEEDITION: HFL
+:HFL: HFL果上078
+:DYNASTY: 六朝
+:END:
+
+[[dzimg:0120/0120-078.tif][HFL 0120 078]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0259 [[mandoku:ZB5a0259.org][ZB5a0259]] 太玄八景籙
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0259
+:TTC: 586
+:DZ: DZ0258
+:page: 040563c
+:ZHDZ: ZHDZ02p0601
+:XWDZ: XWDZ07p0310
+:BASEEDITION: HFL
+:HFL: HFL果上094
+:DYNASTY: 唐
+:END:
+
+[[dzimg:0120/0120-094.tif][HFL 0120 094]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0260 [[mandoku:ZB5a0260.org][ZB5a0260]] 陶真人內丹賦
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0260
+:TTC: 404
+:DZ: DZ0259
+:page: 040578a
+:ZHDZ: ZHDZ18p0671
+:XWDZ: XWDZ07p0314
+:BASEEDITION: HFL
+:HFL: HFL果下004
+:DYNASTY: 五代?
+:END:
+
+[[dzimg:0121/0121-004.tif][HFL 0121 004]]
+**** 人物
+***** 陶植
+     :PROPERTIES:
+     :CERT:     att
+     :DATES:    d. 825
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0261 [[mandoku:ZB5a0261.org][ZB5a0261]] 禽玄賦
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0261
+:TTC: 840
+:DZ: DZ0260
+:page: 040584a
+:ZHDZ: ZHDZ19p0280
+:XWDZ: XWDZ07p0337
+:BASEEDITION: HFL
+:HFL: HFL果下042
+:END:
+
+[[dzimg:0121/0121-042.tif][HFL 0121 042]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0262 [[mandoku:ZB5a0262.org][ZB5a0262]] 金丹賦
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0262
+:TTC: 736
+:DZ: DZ0261
+:page: 040587b
+:ZHDZ: ZHDZ18p0678
+:XWDZ: XWDZ07p0352
+:BASEEDITION: HFL
+:HFL: HFL果下062
+:DYNASTY: 元
+:END:
+
+[[dzimg:0121/0121-062.tif][HFL 0121 062]]
+**** 人物
+***** 馬蒞昭
+     :PROPERTIES:
+     :FUNCTION: 注
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0263 [[mandoku:ZB5a0263.org][ZB5a0263]] 谷神賦
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0263
+:TTC: 318 - 319
+:DZ: DZ0262
+:page: 040603a
+:ZHDZ: ZHDZ19p0277
+:XWDZ: XWDZ07p0376
+:BASEEDITION: HFL
+:HFL: HFL果下156
+:END:
+
+[[dzimg:0121/0121-156.tif][HFL 0121 156]]
+**** 人物
+***** 趙德
+     :PROPERTIES:
+     :ZI:       大信
+     :HAO:      大水逸人
+     :DATES:    9th cent 初期
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0264 [[mandoku:ZB5a0264.org][ZB5a0264]] 修真十書雜著指玄篇
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0264
+:TTC: 838 - 839
+:DZ: DZ0263a
+:page: 040605c
+:ZHDZ: ZHDZ19p0761
+:XWDZ: XWDZ07p0381
+:BASEEDITION: HFL
+:HFL: HFL珍上004
+:DATE: ca. 1225
+:END:
+
+[[dzimg:0122/0122-004.tif][HFL 0122 004]]
+**** 人物
+***** 白玉蟾
+     :PROPERTIES:
+     :ZI:       紫清
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0265 [[mandoku:ZB5a0265.org][ZB5a0265]] 修真十書金丹大成集
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0265
+:TTC: 839 - 840
+:DZ: DZ0263b
+:page: 040633b
+:ZHDZ: ZHDZ19p0789
+:XWDZ: XWDZ07p0423
+:BASEEDITION: HFL
+:HFL: HFL珍下004
+:EXTRA_ID: DZJY:JY210
+:END:
+
+[[dzimg:0123/0123-004.tif][HFL 0123 004]]
+**** 人物
+***** 蕭廷芝
+     :PROPERTIES:
+     :ALIAS:    蕭挺芝
+     :ZI:       元瑞
+     :HAO:      了真子
+     :DATES:    fl. 1260
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  *JY210 金丹大成  Jindan dacheng				:can:
+:PROPERTIES:
+:EXTENT:  44 fols.
+:LODGE:  昂 4
+:KZ:  16: 7087-7108
+:CT:  263, j. 9-13.
+:DZ: DZ0263b / JY210
+:END:
+金丹大成 
+DZJY: [[dzjy:JY210/JY210_01.txt][JY210 金丹大成 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0266 [[mandoku:ZB5a0266.org][ZB5a0266]] 修真十書鍾呂傳道集
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0266
+:TTC: 801
+:DZ: DZ0263c
+:page: 040656c
+:ZHDZ: ZHDZ19p0814
+:XWDZ: XWDZ07p0459
+:BASEEDITION: HFL
+:HFL: HFL李上004
+:DYNASTY: 北宋?
+:EXTRA_ID: DZJY:JY149
+:END:
+
+[[dzimg:0124/0124-004.tif][HFL 0124 004]]
+**** 人物
+***** 鍾離權
+     :PROPERTIES:
+     :CERT:     att
+     :END:
+***** 呂喦
+     :PROPERTIES:
+     :FUNCTION: 編
+     :END:
+***** 施肩吾
+     :PROPERTIES:
+     :FUNCTION: 傳
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  **JY149 鍾呂傳道集  Zhong lü chuandao ji			:can:
+:PROPERTIES:
+:EXTENT:  60 fols.
+:LODGE:  危 2 
+:KZ:  12: 5113-42
+:CT:  Also in CT 263 Xiuzhen shishu 修真十書, j. 14-16
+:DZ:  DZ0263c / JY149
+:END:
+鍾呂傳道集 
+DZJY: [[dzjy:JY149/JY149_01.txt][JY149 鍾呂傳道集 ]]
+****** Work notes
+
+##treated as :excan:
+
+****** Comments
+
+
+*** KR5a0267 [[mandoku:ZB5a0267.org][ZB5a0267]] 修真十書雜著捷徑
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0267
+:TTC: 799 - 800
+:DZ: DZ0263d
+:page: 040682b
+:ZHDZ: ZHDZ19p0841
+:XWDZ: XWDZ07p0499
+:BASEEDITION: HFL
+:HFL: HFL李中004
+:DYNASTY: 元?
+:END:
+
+[[dzimg:0125/0125-004.tif][HFL 0125 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0268 [[mandoku:ZB5a0268.org][ZB5a0268]] 修真十書悟真篇
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0268
+:TTC: 816 - 817
+:DZ: DZ0263e
+:page: 040711b
+:ZHDZ: ZHDZ19p0871
+:XWDZ: XWDZ07p0544
+:BASEEDITION: HFL
+:HFL: HFL李下030
+:DATE: 1161(注 by 葉士表)
+:DATE: 1202(注 by 遠公輔)
+:END:
+
+[[dzimg:0126/0126-030.tif][HFL 0126 030]]
+**** 人物
+***** 張伯端
+     :PROPERTIES:
+     :DATES:    984 - 1082
+     :END:
+***** 葉士表
+     :PROPERTIES:
+     :ZI:       文叔
+     :FUNCTION: 注
+     :END:
+***** 遠公輔
+     :PROPERTIES:
+     :FUNCTION: 注
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0269 [[mandoku:ZB5a0269.org][ZB5a0269]] 修真十書玉隆集
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0269
+:TTC: 934
+:DZ: DZ0263f
+:page: 040750b
+:ZHDZ: ZHDZ19p0911
+:XWDZ: XWDZ07p0604
+:BASEEDITION: HFL
+:HFL: HFL奈上118
+:DATE: after 1225
+:END:
+
+[[dzimg:0127/0127-118.tif][HFL 0127 118]]
+**** 人物
+***** 白玉蟾
+     :PROPERTIES:
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0270 [[mandoku:ZB5a0270.org][ZB5a0270]] 修真十書上清集
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0270
+:TTC: 934 - 935
+:DZ: DZ0263g
+:page: 040772b
+:ZHDZ: ZHDZ19p0934
+:XWDZ: XWDZ07p0637
+:BASEEDITION: HFL
+:HFL: HFL奈下046
+:DATE: ca. 1218
+:END:
+
+[[dzimg:0128/0128-046.tif][HFL 0128 046]]
+**** 人物
+***** 白玉蟾
+     :PROPERTIES:
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0271 [[mandoku:ZB5a0271.org][ZB5a0271]] 修真十書武夷集
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0271
+:TTC: 935 - 936
+:DZ: DZ0263h
+:page: 040797c
+:ZHDZ: ZHDZ19p0960
+:XWDZ: XWDZ07p0676
+:BASEEDITION: HFL
+:HFL: HFL菜上038
+:DATE: ca. 1216
+:END:
+
+[[dzimg:0129/0129-038.tif][HFL 0129 038]]
+**** 人物
+***** 白玉蟾
+     :PROPERTIES:
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0272 [[mandoku:ZB5a0272.org][ZB5a0272]] 修真十書盤山語錄
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0272
+:TTC: 1147
+:DZ: DZ0263i
+:page: 040822a
+:ZHDZ: ZHDZ19p0984
+:XWDZ: XWDZ07p0713
+:BASEEDITION: HFL
+:HFL: HFL菜下004
+:END:
+
+[[dzimg:0130/0130-004.tif][HFL 0130 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0273 [[mandoku:ZB5a0273.org][ZB5a0273]] 修真十書黃庭內景五臟六腑圖
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0273
+:TTC: 946
+:DZ:       DZ0263j
+:page: 040835c
+:ZHDZ: ZHDZ19p0999
+:XWDZ: XWDZ07p0734
+:BASEEDITION: HFL
+:HFL: HFL菜下086
+:END:
+
+[[dzimg:0130/0130-086.tif][HFL 0130 086]]
+**** 人物
+***** 胡愔
+     :PROPERTIES:
+     :DYNASTY:  唐
+     :FUNCTION: ?
+     :DATES:    ?
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0274 [[mandoku:ZB5a0274.org][ZB5a0274]] 修真十書黃庭內景玉經註
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0274
+:TTC: 946
+:DZ: DZ0263k
+:page: 040844a
+:ZHDZ: ZHDZ19p1008
+:XWDZ: XWDZ07p0746
+:BASEEDITION: HFL
+:HFL: HFL重上004
+:END:
+
+[[dzimg:0131/0131-004.tif][HFL 0131 004]]
+**** 人物
+***** 白履忠
+     :PROPERTIES:
+     :HAO:      梁丘子
+     :FUNCTION: 註
+     :DATES:    fl. 722 - 729
+     :DYNASTY:  唐
+     :END:
+
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0275 [[mandoku:ZB5a0275.org][ZB5a0275]] 修真十書黃庭外景玉經註
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0275
+:TTC: 348
+:DZ: DZ0263l
+:page: 040869b
+:ZHDZ: ZHDZ19p1033
+:XWDZ: XWDZ07p0786
+:BASEEDITION: HFL
+:HFL: HFL重上094
+:EXTRA_ID: DZJY:JY078
+:END:
+
+[[dzimg:0131/0131-094.tif][HFL 0131 094]]
+**** 人物
+***** 白履忠
+     :PROPERTIES:
+     :HAO:      梁丘子
+     :DYNASTY:  唐
+     :DATES:    fl. 722 - 729
+     :FUNCTION: 註
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY078 太上黃庭外景經  Taishang huangting waijing jing	:can:
+:PROPERTIES:
+:EXTENT:  8 fols.
+:LODGE:  中尾 2 
+:KZ:  6: 2217-21
+:CT:   263 Xiuzhen shishu 修真十書, j. 58-60.
+:DZ: DZ0263l / JY078
+:END:
+太上黃庭外景經 
+DZJY: [[dzjy:JY078/JY078_01.txt][JY078 太上黃庭外景經 ]]
+
+****** Work notes
+
+****** Comments
+      
+
+*** KR5a0276 [[mandoku:ZB5a0276.org][ZB5a0276]] 真氣還元銘
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0276
+:TTC: 368
+:DZ: DZ0264
+:page: 040879a
+:ZHDZ: ZHDZ23p0148
+:XWDZ: XWDZ07p0801
+:BASEEDITION: HFL
+:HFL: HFL重上152
+:DATE: 10th cent 前半
+:END:
+
+[[dzimg:0131/0131-152.tif][HFL 0131 152]]
+**** 人物
+***** 強名子
+     :PROPERTIES:
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0277 [[mandoku:ZB5a0277.org][ZB5a0277]] 還丹歌訣
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0277
+:TTC: 853
+:DZ: DZ0265
+:page: 040885b
+:ZHDZ: ZHDZ18p0657
+:XWDZ: XWDZ07p0811
+:BASEEDITION: HFL
+:HFL: HFL重下004
+:DATE: 宋 or later
+:END:
+
+[[dzimg:0132/0132-004.tif][HFL 0132 004]]
+**** 人物
+***** 元陽子
+     :PROPERTIES:
+     :FUNCTION: 編
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0278 [[mandoku:ZB5a0278.org][ZB5a0278]] 金液還丹百問訣
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0278
+:TTC: 404 - 405
+:DZ: DZ0266
+:page: 040893b
+:ZHDZ: ZHDZ18p0702
+:XWDZ: XWDZ07p0824
+:BASEEDITION: HFL
+:HFL: HFL重下052
+:END:
+
+[[dzimg:0132/0132-052.tif][HFL 0132 052]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0279 [[mandoku:ZB5a0279.org][ZB5a0279]] 上乘修真三要
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0279
+:TTC: 1176 - 1178
+:DZ: DZ0267
+:page: 040903c
+:ZHDZ: ZHDZ27p0107
+:XWDZ: XWDZ07p0840
+:BASEEDITION: HFL
+:HFL: HFL重下114
+:END:
+
+[[dzimg:0132/0132-114.tif][HFL 0132 114]]
+**** 人物
+***** 高道寬
+     :PROPERTIES:
+     :HAO:      圓明老人
+     :DATES:    1195 - 1277
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0280 [[mandoku:ZB5a0280.org][ZB5a0280]] 乾元子三始論
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0280
+:TTC: 737
+:DZ: DZ0268
+:page: 040912c
+:ZHDZ: ZHDZ26p0088
+:XWDZ: XWDZ07p0854
+:BASEEDITION: HFL
+:HFL: HFL重下166
+:END:
+
+[[dzimg:0132/0132-166.tif][HFL 0132 166]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0281 [[mandoku:ZB5a0281.org][ZB5a0281]] 至真子龍虎大丹詩
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0281
+:TTC: 798
+:DZ: DZ0269
+:page: 040913c
+:ZHDZ: ZHDZ19p0270
+:XWDZ: XWDZ07p0856
+:BASEEDITION: HFL
+:HFL: HFL重下172
+:DATE: 1026(序)
+:END:
+
+[[dzimg:0132/0132-172.tif][HFL 0132 172]]
+**** 人物
+***** 周方
+     :PROPERTIES:
+     :ZI:       歸一
+     :HAO:      至真子
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+# ** CMTS0109	眾術類 Zhongshu Miscelleneous Techniques	
+*** KR5a0282 [[mandoku:ZB5a0282.org][ZB5a0282]] 破迷正道歌
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0282
+:TTC: 831 - 832
+:DZ: DZ0270
+:page: 040916b
+:ZHDZ: ZHDZ19p0150
+:XWDZ: XWDZ08p0001
+:BASEEDITION: HFL
+:HFL: HFL芥上004
+:DATE: mid-eleventh cent
+:END:
+
+[[dzimg:0133/0133-004.tif][HFL 0133 004]]
+**** 人物
+***** 鍾離權
+     :PROPERTIES:
+     :CERT:     att
+     :HAO:      正陽真人
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0283 [[mandoku:ZB5a0283.org][ZB5a0283]] 太玄朗然子進道詩
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0283
+:TTC: 931
+:DZ: DZ0271
+:page: 040918b
+:ZHDZ: ZHDZ19p0262
+:XWDZ: XWDZ08p0005
+:BASEEDITION: HFL
+:HFL: HFL芥上016
+:DATE: 988
+:END:
+
+[[dzimg:0133/0133-016.tif][HFL 0133 016]]
+**** 人物
+***** 劉希岳
+     :PROPERTIES:
+     :ZI:       秀峰
+     :HAO:      太玄朗然子
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0284 [[mandoku:ZB5a0284.org][ZB5a0284]] 了明篇
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0284
+:TTC: 806
+:DZ: DZ0272
+:page: 040921a
+:ZHDZ: ZHDZ19p0701
+:XWDZ: XWDZ08p0009
+:BASEEDITION: HFL
+:HFL: HFL芥上032
+:DATE: 1168(序)
+:END:
+
+[[dzimg:0133/0133-032.tif][HFL 0133 032]]
+**** 人物
+***** 宋先生
+     :PROPERTIES:
+     :END:
+***** 毛日新
+     :PROPERTIES:
+     :FUNCTION: 編
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0285 [[mandoku:ZB5a0285.org][ZB5a0285]] 明道篇
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0285
+:TTC: 835
+:DZ: DZ0273
+:page: 040926b
+:ZHDZ: ZHDZ31p0358
+:XWDZ: XWDZ08p0017
+:BASEEDITION: HFL
+:HFL: HFL芥上064
+:DATE: 1304
+:END:
+
+[[dzimg:0133/0133-064.tif][HFL 0133 064]]
+**** 人物
+***** 王惟一
+     :PROPERTIES:
+     :HAO:      景陽子
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0286 [[mandoku:ZB5a0286.org][ZB5a0286]] 真仙祕傳火候法
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0286
+:TTC: 807 - 808
+:DZ: DZ0274
+:page: 040932c
+:ZHDZ: ZHDZ19p0666
+:XWDZ: XWDZ08p0027
+:BASEEDITION: HFL
+:HFL: HFL芥上102
+:DYNASTY: 宋後期?
+:END:
+
+[[dzimg:0133/0133-102.tif][HFL 0133 102]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0287 [[mandoku:ZB5a0287.org][ZB5a0287]] 三極至命筌諦
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0287
+:TTC: 831
+:DZ: DZ0275
+:page: 040935c
+:ZHDZ: ZHDZ19p0604
+:XWDZ: XWDZ08p0032
+:BASEEDITION: HFL
+:HFL: HFL芥上120
+:DATE: after 1244
+:END:
+
+[[dzimg:0133/0133-120.tif][HFL 0133 120]]
+**** 人物
+***** 王慶升
+     :PROPERTIES:
+     :ZI:       果齋
+     :HAO:      爰清子
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0288 [[mandoku:ZB5a0288.org][ZB5a0288]] 析疑指迷論
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0288
+:TTC: 1178 - 1179
+:DZ: DZ0276
+:page: 040947b
+:ZHDZ: ZHDZ27p0256
+:XWDZ: XWDZ08p0051
+:BASEEDITION: HFL
+:HFL: HFL芥下004
+:DATE: 1299
+:EXTRA_ID: DZJY:JY184
+:END:
+
+[[dzimg:0134/0134-004.tif][HFL 0134 004]]
+**** 人物
+***** 牛道淳
+     :PROPERTIES:
+     :HAO:      神峰逍遙大師
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY184 析疑指迷論  Xiyi zhimi lun				:can:
+:PROPERTIES:
+:EXTENT:  12 fols.
+:LODGE:  奎 4
+:KZ:  14: 6188-94
+:CT:  276
+:DZ: DZ0276 / JY184
+:END:
+析疑指迷論 
+DZJ0: [[dzjy:JY184/JY184_01.txt][JY184 析疑指迷論 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0289 [[mandoku:ZB5a0289.org][ZB5a0289]] 修真精義雜論
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0289
+:TTC: 368
+:DZ: DZ0277
+:page: 040953b
+:ZHDZ: ZHDZ23p0168
+:XWDZ: XWDZ08p0061
+:BASEEDITION: HFL
+:HFL: HFL芥下040
+:END:
+
+[[dzimg:0134/0134-040.tif][HFL 0134 040]]
+**** 人物
+***** 司馬承禎
+     :PROPERTIES:
+     :HAO:      白雲子
+     :DATES:    647 - 735
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0290 [[mandoku:ZB5a0290.org][ZB5a0290]] 清微丹訣
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0290
+:TTC: 1104
+:DZ: DZ0278
+:page: 040961c
+:ZHDZ: ZHDZ31p0007
+:XWDZ: XWDZ08p0074
+:BASEEDITION: HFL
+:HFL: HFL芥下090
+:END:
+
+[[dzimg:0134/0134-090.tif][HFL 0134 090]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0291 [[mandoku:ZB5a0291.org][ZB5a0291]] 先天金丹大道玄奧口訣
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0291
+:TTC: 848 - 849
+:DZ: DZ0279
+:page: 040965a
+:ZHDZ: ZHDZ19p0692
+:XWDZ: XWDZ08p0079
+:BASEEDITION: HFL
+:HFL: HFL芥下110
+:DATE: ca. 1249(completed)
+:END:
+
+[[dzimg:0134/0134-110.tif][HFL 0134 110]]
+**** 人物
+***** 霍濟之
+     :PROPERTIES:
+     :ZI:       巨川
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0292 [[mandoku:ZB5a0292.org][ZB5a0292]] 金液大丹口訣
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0292
+:TTC: 835
+:DZ: DZ0280
+:page: 040969c
+:ZHDZ: ZHDZ19p0697
+:XWDZ: XWDZ08p0086
+:BASEEDITION: HFL
+:HFL: HFL芥下138
+:END:
+
+[[dzimg:0134/0134-138.tif][HFL 0134 138]]
+**** 人物
+***** 鄭德安
+     :PROPERTIES:
+     :HAO:      沖虛妙靜寧真子
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0293 [[mandoku:ZB5a0293.org][ZB5a0293]] 抱一子三峰老人丹訣
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0293
+:TTC: 1172 - 1173
+:DZ: DZ0281
+:page: 040973b
+:ZHDZ: ZHDZ27p0422
+:XWDZ: XWDZ08p0092
+:BASEEDITION: HFL
+:HFL: HFL芥下160
+:END:
+
+[[dzimg:0134/0134-160.tif][HFL 0134 160]]
+**** 人物
+***** 金月巖
+     :PROPERTIES:
+     :FUNCTION: 編
+     :END:
+***** 黃公望
+     :PROPERTIES:
+     :FUNCTION: 傳
+     :DATES:    1269 - 1354
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0294 [[mandoku:ZB5a0294.org][ZB5a0294]] 黃帝宅經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0294
+:TTC: 334 - 335
+:DZ: DZ0282
+:page: 040979b
+:ZHDZ: ZHDZ32p0184
+:XWDZ: XWDZ08p0101
+:BASEEDITION: HFL
+:HFL: HFL薑上004
+:DYNASTY: 唐後期
+:END:
+
+[[dzimg:0135/0135-004.tif][HFL 0135 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0295 [[mandoku:ZB5a0295.org][ZB5a0295]] 黃帝龍首經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0295
+:TTC: 84 - 85
+:DZ: DZ0283
+:page: 040985a
+:ZHDZ: ZHDZ32p0153
+:XWDZ: XWDZ08p0110
+:BASEEDITION: HFL
+:HFL: HFL薑上038
+:DYNASTY: 漢
+:END:
+
+[[dzimg:0135/0135-038.tif][HFL 0135 038]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0296 [[mandoku:ZB5a0296.org][ZB5a0296]] 黃帝金匱玉衡經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0296
+:TTC: 85 - 86
+:DZ: DZ0284
+:page: 041002c
+:ZHDZ: ZHDZ32p0172
+:XWDZ: XWDZ08p0137
+:BASEEDITION: HFL
+:HFL: HFL薑上144
+:DYNASTY: 六朝
+:END:
+
+[[dzimg:0135/0135-144.tif][HFL 0135 144]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0297 [[mandoku:ZB5a0297.org][ZB5a0297]] 黃帝授三子玄女經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0297
+:TTC: 86 - 87
+:DZ: DZ0285
+:page: 050001a
+:ZHDZ: ZHDZ32p0182
+:XWDZ: XWDZ08p0149
+:BASEEDITION: HFL
+:HFL: HFL薑下004
+:DYNASTY: 六朝
+:END:
+
+[[dzimg:0136/0136-004.tif][HFL 0136 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0298 [[mandoku:ZB5a0298.org][ZB5a0298]] 太上登真三矯靈應經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0298
+:TTC: 1238
+:DZ: DZ0286
+:page: 040797c
+:ZHDZ: ZHDZ32p0483
+:XWDZ: XWDZ08p0152
+:BASEEDITION: HFL
+:HFL: HFL薑下012
+:DYNASTY: 宋?
+:END:
+
+[[dzimg:0136/0136-012.tif][HFL 0136 012]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0299 [[mandoku:ZB5a0299.org][ZB5a0299]] 通占大象曆星經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0299
+:TTC: 335 - 336
+:DZ: DZ0287
+:page: 050004c
+:ZHDZ: ZHDZ32p0286
+:XWDZ: XWDZ08p0156
+:BASEEDITION: HFL
+:HFL: HFL薑下026
+:DYNASTY: 唐
+:END:
+
+[[dzimg:0136/0136-026.tif][HFL 0136 026]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0300 [[mandoku:ZB5a0300.org][ZB5a0300]] 靈臺經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0300
+:TTC: 337
+:DZ: DZ0288
+:page: 050022c
+:ZHDZ: ZHDZ32p0316
+:XWDZ: XWDZ08p0183
+:BASEEDITION: HFL
+:HFL: HFL薑下134
+:DYNASTY: 唐
+:END:
+
+[[dzimg:0136/0136-134.tif][HFL 0136 134]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0301 [[mandoku:ZB5a0301.org][ZB5a0301]] 秤星靈臺祕要經
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0301
+:TTC: 337 - 338
+:DZ: DZ0289
+:page: 050029c
+:ZHDZ: ZHDZ32p0313
+:XWDZ: XWDZ08p0194
+:BASEEDITION: HFL
+:HFL: HFL薑下176
+:DYNASTY: 唐
+:END:
+
+[[dzimg:0136/0136-176.tif][HFL 0136 176]]
+**** 版本
+***** SJB
+***** ZHDZ
+# ** CMTS0110	記傳類 Jizhuan Hagiography 
+*** KR5a0302 [[mandoku:ZB5a0302.org][ZB5a0302]] 廣黃帝本行記
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0302
+:TTC: 427
+:DZ: DZ0290
+:page: 050032a
+:ZHDZ: ZHDZ45p0565
+:XWDZ: XWDZ08p0199
+:BASEEDITION: HFL
+:HFL: HFL海上004
+:DATE: 881
+:END:
+
+[[dzimg:0137/0137-004.tif][HFL 0137 004]]
+**** 人物
+***** 王瓘
+     :PROPERTIES:
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0303 [[mandoku:ZB5a0303.org][ZB5a0303]] 穆天子傳
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0303
+:TTC: 113
+:DZ: DZ0291
+:page: 050036a
+:ZHDZ: ZHDZ45p0570
+:XWDZ: XWDZ08p0206
+:BASEEDITION: HFL
+:HFL: HFL海上028
+:DATE: 4th cent 初期? , 281(discovered)
+:END:
+
+[[dzimg:0137/0137-028.tif][HFL 0137 028]]
+**** 人物
+***** 郭璞
+     :PROPERTIES:
+     :FUNCTION: 注
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0304 [[mandoku:ZB5a0304.org][ZB5a0304]] 漢武帝內傳
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0304
+:TTC: 115 - 116
+:DZ: DZ0292
+:page: 050047c
+:ZHDZ: ZHDZ46p0160
+:XWDZ: XWDZ08p0224
+:BASEEDITION: HFL
+:HFL: HFL海上098
+:DATE: 6th cent?
+:END:
+
+[[dzimg:0137/0137-098.tif][HFL 0137 098]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0305 [[mandoku:ZB5a0305.org][ZB5a0305]] 漢武帝外傳
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0305
+:TTC: 116 - 117
+:DZ: DZ0293
+:page: 050058a
+:ZHDZ: ZHDZ46p0172
+:XWDZ: XWDZ08p0240
+:BASEEDITION: HFL
+:HFL: HFL海上160
+:END:
+
+[[dzimg:0137/0137-160.tif][HFL 0137 160]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0306 [[mandoku:ZB5a0306.org][ZB5a0306]] ZB3n0023 列仙傳
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0306
+:TTC: 114
+:DZ: DZ0294
+:page: 050064b
+:ZHDZ: ZHDZ45p0001
+:XWDZ: XWDZ08p0251
+:BASEEDITION: HFL
+:HFL: HFL海下004
+:END:
+
+[[dzimg:0138/0138-004.tif][HFL 0138 004]]
+**** 人物
+***** 劉向
+     :PROPERTIES:
+     :CERT:     att
+     :DATES:    -77 - -6
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** WYG  [[mandoku:ZB3n0023.org][ZB3n0023]] 列仙傳
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0023
+:SOURCE:   四庫全書 文淵閣版, V1058.4, p487
+:EXTENT: 2 卷
+:BOOK:   1
+:END:
+****** 人物
+******* 劉向
+       	:PROPERTIES:
+       	:DYNASTY:  漢
+       	:FUNCTION: 撰
+       	:DATES:    -77 - -6
+       	:END:
+
+
+*** KR5a0307 [[mandoku:ZB5a0307.org][ZB5a0307]] ZB3n0037 續仙傳
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0307
+:TTC: 429 - 430
+:DZ: DZ0295
+:page: 050077a
+:ZHDZ: ZHDZ45p0409
+:XWDZ: XWDZ08p0271
+:BASEEDITION: HFL
+:HFL: HFL海下080
+:DYNASTY: 南唐
+:END:
+
+[[dzimg:0138/0138-080.tif][HFL 0138 080]]
+**** 人物
+***** 沈汾
+     :PROPERTIES:
+     :FUNCTION: 編
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** WYG  [[mandoku:ZB3n0037.org][ZB3n0037]] 續仙傳
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0037
+:SOURCE:   四庫全書 文淵閣版, V1059.8, p583
+:EXTENT: 3 卷
+:BOOK:   1
+:END:
+****** 人物
+******* 沈汾
+       	:PROPERTIES:
+       	:DYNASTY:  南唐
+       	:FUNCTION: 撰
+       	:DATES:    10th cent
+       	:END:
+
+
+*** KR5a0308 [[mandoku:ZB5a0308.org][ZB5a0308]] 歷世真仙體道通鑑
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0308
+:TTC: 887 - 892
+:DZ: DZ0296
+:page: 050099a
+:ZHDZ: ZHDZ47p0213
+:XWDZ: XWDZ08p0305
+:BASEEDITION: HFL
+:HFL: HFL鹹上004
+:DATE: 1294(甲午)(刊記)
+:DATE: 1294(甲午)(序)
+:END:
+
+[[dzimg:0139/0139-004.tif][HFL 0139 004]]
+**** 人物
+***** 趙道一
+     :PROPERTIES:
+     :END:
+***** 劉辰翁
+     :PROPERTIES:
+     :FUNCTION: 刊記
+     :END:
+***** 鄧光薦
+     :PROPERTIES:
+     :FUNCTION: 序
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0309 [[mandoku:ZB5a0309.org][ZB5a0309]] 歷世真仙體道通鑑續編
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0309
+:TTC: 893
+:DZ: DZ0297
+:page: 050414c
+:ZHDZ: ZHDZ47p0579
+:XWDZ: XWDZ08p0789
+:BASEEDITION: HFL
+:HFL: HFL羽上004
+:DATE: 14th or 15th cent?
+:END:
+
+[[dzimg:0149/0149-004.tif][HFL 0149 004]]
+**** 人物
+***** 趙道一
+     :PROPERTIES:
+     :CERT:     att
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0310 [[mandoku:ZB5a0310.org][ZB5a0310]] 歷世真仙體道通鑑後集
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0310
+:TTC: 893
+:DZ: DZ0298
+:page: 050448b
+:ZHDZ: ZHDZ47p0617
+:XWDZ: XWDZ08p0841
+:BASEEDITION: HFL
+:HFL: HFL羽下004
+:DATE: fl. 1294
+:END:
+
+[[dzimg:0150/0150-004.tif][HFL 0150 004]]
+**** 人物
+***** 趙道一
+     :PROPERTIES:
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0311 [[mandoku:ZB5a0311.org][ZB5a0311]] 疑仙傳
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0311
+:TTC: 432
+:DZ: DZ0299
+:page: 050489b
+:ZHDZ: ZHDZ45p0433
+:XWDZ: XWDZ09p0001
+:BASEEDITION: HFL
+:HFL: HFL翔上004
+:DYNASTY: 五代
+:END:
+
+[[dzimg:0151/0151-004.tif][HFL 0151 004]]
+**** 人物
+***** 隱夫玉簡
+     :PROPERTIES:
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0312 [[mandoku:ZB5a0312.org][ZB5a0312]] 華陽陶隱居內傳
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0312
+:TTC: 427 - 428
+:DZ: DZ0300
+:page: 050499b
+:ZHDZ: ZHDZ46p0210
+:XWDZ: XWDZ09p0017
+:BASEEDITION: HFL
+:HFL: HFL翔上064
+:END:
+
+[[dzimg:0151/0151-064.tif][HFL 0151 064]]
+**** 人物
+***** 賈嵩
+     :PROPERTIES:
+     :HAO:      薛蘿孺子
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0313 [[mandoku:ZB5a0313.org][ZB5a0313]] 桓真人升仙記
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0313
+:TTC: 903
+:DZ: DZ0301
+:page: 050513b
+:ZHDZ: ZHDZ46p0240
+:XWDZ: XWDZ09p0038
+:BASEEDITION: HFL
+:HFL: HFL翔上148
+:END:
+
+[[dzimg:0151/0151-148.tif][HFL 0151 148]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0314 [[mandoku:ZB5a0314.org][ZB5a0314]] 周氏冥通記
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0314
+:TTC: 205
+:DZ: DZ0302
+:page: 050518a
+:ZHDZ: ZHDZ46p0245
+:XWDZ: XWDZ09p0045
+:BASEEDITION: HFL
+:HFL: HFL翔下004
+:DATE: 517
+:END:
+
+[[dzimg:0152/0152-004.tif][HFL 0152 004]]
+**** 人物
+***** 周子良
+     :PROPERTIES:
+     :DATES:    497 - 516 
+     :END:
+***** 陶弘景
+     :PROPERTIES:
+     :FUNCTION: 注
+     :FUNCTION: 編
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0315 [[mandoku:ZB5a0315.org][ZB5a0315]] 紫陽真人內傳
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0315
+:TTC: 197 - 198
+:DZ: DZ0303
+:page: 050542b
+:ZHDZ: ZHDZ46p0190
+:XWDZ: XWDZ09p0082
+:BASEEDITION: HFL
+:HFL: HFL翔下150
+:DYNASTY: 六朝
+:END:
+
+[[dzimg:0152/0152-150.tif][HFL 0152 150]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0316 [[mandoku:ZB5a0316.org][ZB5a0316]] 茅山誌
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0316
+:TTC: 909 - 910
+:DZ: DZ0304
+:page: 050548c
+:ZHDZ: ZHDZ48p0366
+:XWDZ: XWDZ09p0093
+:BASEEDITION: HFL
+:HFL: HFL龍上004
+:DATE: 1324(序 by 趙世延)
+:DATE: 1327(序 by 吳全節)
+:DATE: 1328(編)
+:END:
+
+[[dzimg:0153/0153-004.tif][HFL 0153 004]]
+**** 人物
+***** 劉大彬
+     :PROPERTIES:
+     :HAO:      玉虛子
+     :FUNCTION: 編
+     :DATES:    ca. 1330
+     :END:
+***** 趙世延
+     :PROPERTIES:
+     :FUNCTION: 序
+     :END:
+***** 吳全節
+     :PROPERTIES:
+     :FUNCTION: 序
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0317 [[mandoku:ZB5a0317.org][ZB5a0317]] 純陽帝君神化妙通紀
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0317
+:TTC: 1138 - 1139
+:DZ: DZ0305
+:page: 050703c
+:ZHDZ: ZHDZ46p0447
+:XWDZ: XWDZ09p0333
+:BASEEDITION: HFL
+:HFL: HFL帝上004
+:END:
+
+[[dzimg:0159/0159-004.tif][HFL 0159 004]]
+**** 人物
+***** 苗善時
+     :PROPERTIES:
+     :DATES:    fl. 1324
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0318 [[mandoku:ZB5a0318.org][ZB5a0318]] 太華希夷誌
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0318
+:TTC: 904
+:DZ: DZ0306
+:page: 050734a
+:ZHDZ: ZHDZ48p0198
+:XWDZ: XWDZ09p0379
+:BASEEDITION: HFL
+:HFL: HFL帝下004
+:DATE: 1314(序)
+:END:
+
+[[dzimg:0160/0160-004.tif][HFL 0160 004]]
+**** 人物
+***** 張輅
+     :PROPERTIES:
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0319 [[mandoku:ZB5a0319.org][ZB5a0319]] 西嶽華山誌
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0319
+:TTC: 910 - 911
+:DZ: DZ0307
+:page: 050744a
+:ZHDZ: ZHDZ48p0189
+:XWDZ: XWDZ09p0395
+:BASEEDITION: HFL
+:HFL: HFL帝下064
+:DATE: 1183(序)
+:END:
+
+[[dzimg:0160/0160-064.tif][HFL 0160 064]]
+**** 人物
+***** 王處一
+     :PROPERTIES:
+     :ZI:       子淵
+     :HAO:      蓮峰逸士
+     :END:
+***** 劉大用
+     :PROPERTIES:
+     :ZI:       器之
+     :FUNCTION: 序
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0320 [[mandoku:ZB5a0320.org][ZB5a0320]] 凝陽董真人遇仙記
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0320
+:TTC: 908
+:DZ: DZ0308
+:page: 050753a
+:ZHDZ: ZHDZ46p0529
+:XWDZ: XWDZ09p0409
+:BASEEDITION: HFL
+:HFL: HFL帝下118
+:DATE: ca. 1238
+:END:
+
+[[dzimg:0160/0160-118.tif][HFL 0160 118]]
+**** 人物
+***** 祿昭聞
+     :PROPERTIES:
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+# ** CMTS0111	讚頌類 Zansong Hymns	
+*** KR5a0321 [[mandoku:ZB5a0321.org][ZB5a0321]] 諸師真誥
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0321
+:TTC: 1041
+:DZ: DZ0309
+:page: 050758b
+:ZHDZ: ZHDZ44p0431
+:XWDZ: XWDZ09p0417
+:BASEEDITION: HFL
+:HFL: HFL鳥上004
+:DYNASTY: 元 or 明
+:END:
+
+[[dzimg:0161/0161-004.tif][HFL 0161 004]]
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0322 [[mandoku:ZB5a0322.org][ZB5a0322]] 金籙齋三洞讚詠儀
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0322
+:TTC: 1039
+:DZ: DZ0310
+:page: 050764a
+:ZHDZ: ZHDZ43p0034
+:XWDZ: XWDZ09p0426
+:BASEEDITION: HFL
+:HFL: HFL鳥上038
+:DATE: between 1100 - 1125
+:END:
+
+[[dzimg:0161/0161-038.tif][HFL 0161 038]]
+**** 人物
+***** 張商英
+     :PROPERTIES:
+     :FUNCTION: 編
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0323 [[mandoku:ZB5a0323.org][ZB5a0323]] 黃帝陰符經頌
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0323
+:TTC: 322
+:DZ: DZ0311
+:page: 050772c
+:ZHDZ: ZHDZ15p0851
+:XWDZ: XWDZ09p0439
+:BASEEDITION: HFL
+:HFL: HFL鳥上090
+:DYNASTY: 唐?
+:EXTRA_ID: DZJY:JY119
+:END:
+
+[[dzimg:0161/0161-090.tif][HFL 0161 090]]
+**** 人物
+***** 元陽子
+     :PROPERTIES:
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+***** DZJY  JY119 黃帝陰符經頌  Huangdi yinfu jing song			:can:
+:PROPERTIES:
+:EXTENT:  7  fols.
+:LODGE:  斗 6 
+:KZ:  8: 3181-84
+:BR:  9: 416-18
+:CT:  311
+:DZ: DZ0311 / JY119
+:END:
+黃帝陰符經頌 
+DZJ0: [[dzjy:JY119/JY119_01.txt][JY119 黃帝陰符經頌 ]]
+****** Work notes
+
+****** Comments
+
+
+*** KR5a0324 [[mandoku:ZB5a0324.org][ZB5a0324]] 太上昇玄消災護命妙經頌
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0324
+:TTC: 727 - 728
+:DZ: DZ0312
+:page: 050775a
+:ZHDZ: ZHDZ06p0097
+:XWDZ: XWDZ09p0443
+:BASEEDITION: HFL
+:HFL: HFL鳥上104
+:END:
+
+[[dzimg:0161/0161-104.tif][HFL 0161 104]]
+**** 人物
+***** 張白
+     :PROPERTIES:
+     :ZI:       虛白
+     :HAO:      白雲子
+     :DATES:    fl. 10th cent 後半
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0325 [[mandoku:ZB5a0325.org][ZB5a0325]] 生天經頌解
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0325
+:TTC: 725
+:DZ: DZ0313
+:page: 050777b
+:ZHDZ: ZHDZ06p0109
+:XWDZ: XWDZ05p0777
+:BASEEDITION: HFL
+:HFL: HFL鳥下004
+:DATE: 13th cent 初期
+:END:
+
+[[dzimg:0162/0162-004.tif][HFL 0162 004]]
+**** 人物
+***** 王吉昌
+     :PROPERTIES:
+     :HAO:      超然子
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0326 [[mandoku:ZB5a0326.org][ZB5a0326]] 三洞讚頌靈章
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0326
+:TTC: 1041
+:DZ: DZ0314
+:page: 050779b
+:ZHDZ: ZHDZ44p0544
+:XWDZ: XWDZ09p0451
+:BASEEDITION: HFL
+:HFL: HFL鳥下016
+:DYNASTY: 元?
+:END:
+
+[[dzimg:0162/0162-016.tif][HFL 0162 016]]
+**** 版本
+***** SJB
+***** ZHDZ
+# ** CMTS0112	表奏類 Biaozou Memorials	
+*** KR5a0327 [[mandoku:ZB5a0327.org][ZB5a0327]] 宋真宗御製玉京集
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0327
+:TTC: 1012
+:DZ: DZ0315
+:page: 050795c
+:ZHDZ: ZHDZ44p0561
+:XWDZ: XWDZ09p0477
+:BASEEDITION: HFL
+:HFL: HFL官上004
+:END:
+
+[[dzimg:0163/0163-004.tif][HFL 0163 004]]
+**** 人物
+***** 趙德昌
+     :PROPERTIES:
+     :DYNASTY:  宋
+     :DATES:    r. 997 - 1022
+     :END:
+**** 版本
+***** SJB
+***** ZHDZ
+*** KR5a0328 [[mandoku:ZB5a0328.org][ZB5a0328]] 太上濟度章赦
+:PROPERTIES:
+:CUSTOM_ID: ZB5a0328
+:TTC: 1036 - 1037
+:DZ: DZ0316
+:page: 050818b
+:ZHDZ: ZHDZ08p0709
+:XWDZ: XWDZ09p0513
+:BASEEDITION: HFL
+:HFL: HFL官下004
+:EXTRA_ID: DZJY:JY281
+:END:
+
+[[dzimg:0164/0164-004.tif][HFL 0164 004]]
+**** 版本
+***** SJB
+***** DZJY  JY281 太上濟度章赦  Taishang jidu zhangshe			:can:
+:PROPERTIES:
+:EXTENT:  3 juan
+:LODGE:  張 5
+:KZ:  23: 10375-10400
+:CT:  316
+:DZ: DZ0316 / JY281
+:END:
+太上濟度章赦 
+DZJ0: [[dzjy:JY281/JY281_01.txt][JY281 太上濟度章赦 ]]
+****** Work notes
+
+****** Comments
+
+
+

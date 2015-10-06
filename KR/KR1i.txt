@@ -1,0 +1,445 @@
+#-*- mode: org; -*-
+#+COLUMNS: %30ITEM %15CUSTOM_ID
+** KR1i ZB1i 樂類
+*** KR1i0001 ZB1i0001 皇祐新樂圖記
+:PROPERTIES:
+:CUSTOM_ID:  ZB1i0001
+:SOURCE:   四庫全書 文淵閣版, V211.1, p1
+:EXTENT: 3 卷
+:BOOK:   1
+:DATE:   1027
+:END:
+**** 人物
+***** 阮逸
+     :PROPERTIES:
+     :DYNASTY:  宋
+     :FUNCTION: 奉敕撰
+     :END:
+
+***** 胡瑗
+     :PROPERTIES:
+     :DYNASTY:  宋
+     :FUNCTION: 奉敕撰
+     :END:
+
+**** 版本
+***** WYG
+*** KR1i0002 ZB1i0002 樂書
+:PROPERTIES:
+:CUSTOM_ID:  ZB1i0002
+:SOURCE:   四庫全書 文淵閣版, V211.2, p23
+:EXTENT: 200 卷
+:BOOK:   24
+:END:
+**** 人物
+***** 陳暘
+     :PROPERTIES:
+     :DYNASTY:  宋
+     :FUNCTION: 撰
+     :END:
+
+**** 版本
+***** WYG
+*** KR1i0003 ZB1i0003 律呂新書
+:PROPERTIES:
+:CUSTOM_ID:  ZB1i0003
+:SOURCE:   四庫全書 文淵閣版, V212.1, p1
+:EXTENT: 2 卷
+:BOOK:   2
+:END:
+**** 人物
+***** 蔡元定
+     :PROPERTIES:
+     :DYNASTY:  宋
+     :FUNCTION: 撰
+     :DATES:    1135 - 1198
+     :END:
+
+**** 版本
+***** WYG
+*** KR1i0004 ZB1i0004 瑟譜
+:PROPERTIES:
+:CUSTOM_ID:  ZB1i0004
+:SOURCE:   四庫全書 文淵閣版, V212.2, p49
+:EXTENT: 6 卷
+:BOOK:   2
+:END:
+**** 人物
+***** 熊朋來
+     :PROPERTIES:
+     :DYNASTY:  元
+     :FUNCTION: 撰
+     :DATES:    1246 - 1323
+     :END:
+
+**** 版本
+***** WYG
+*** KR1i0005 ZB1i0005 韶舞九成樂補
+:PROPERTIES:
+:CUSTOM_ID:  ZB1i0005
+:SOURCE:   四庫全書 文淵閣版, V212.3, p93
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** 人物
+***** 余載
+     :PROPERTIES:
+     :DYNASTY:  元
+     :FUNCTION: 撰
+     :DATES:    fl. 1328 - 1329
+     :END:
+
+**** 版本
+***** WYG
+*** KR1i0006 ZB1i0006 律呂成書
+:PROPERTIES:
+:CUSTOM_ID:  ZB1i0006
+:SOURCE:   四庫全書 文淵閣版, V212.4, p115
+:EXTENT: 2 卷
+:BOOK:   2
+:END:
+**** 人物
+***** 劉瑾
+     :PROPERTIES:
+     :DYNASTY:  元
+     :FUNCTION: 撰
+     :DATES:    d. 1510
+     :END:
+
+**** 版本
+***** WYG
+*** KR1i0007 ZB1i0007 苑洛志樂
+:PROPERTIES:
+:CUSTOM_ID:  ZB1i0007
+:SOURCE:   四庫全書 文淵閣版, V212.5, p189
+:EXTENT: 20 卷
+:BOOK:   12
+:END:
+**** 人物
+***** 韓邦奇
+     :PROPERTIES:
+     :DYNASTY:  明
+     :FUNCTION: 撰
+     :DATES:    1479 - 1555
+     :END:
+
+**** 版本
+***** WYG
+*** KR1i0008 ZB1i0008 鐘律通考
+:PROPERTIES:
+:CUSTOM_ID:  ZB1i0008
+:SOURCE:   四庫全書 文淵閣版, V212.6, p643
+:EXTENT: 6 卷
+:BOOK:   4
+:END:
+**** 人物
+***** 倪復
+     :PROPERTIES:
+     :DYNASTY:  明
+     :FUNCTION: 撰
+     :END:
+
+**** 版本
+***** WYG
+*** KR1i0009 ZB1i0009 樂律全書
+:PROPERTIES:
+:CUSTOM_ID:  ZB1i0009
+:SOURCE:   四庫全書 文淵閣版, V213.1, p1 - V214.1
+:EXTENT: 42 卷
+:BOOK:   32
+:END:
+**** 人物
+***** 朱載堉
+     :PROPERTIES:
+     :DYNASTY:  明
+     :FUNCTION: 撰
+     :DATES:    1536 - 1611
+     :END:
+
+**** 版本
+***** WYG
+*** KR1i0010 ZB1i0010 御製律呂正義
+:PROPERTIES:
+:CUSTOM_ID:  ZB1i0010
+:SOURCE:   四庫全書 文淵閣版, V215.1, p1
+:EXTENT: 5 卷
+:BOOK:   5
+:DATE:   康熙五十二年
+:END:
+**** 人物
+***** 聖祖玄燁
+     :PROPERTIES:
+     :DYNASTY:  清
+     :FUNCTION: 御定
+     :DATES:    1654 - 1722
+     :END:
+
+**** 版本
+***** WYG
+**** 上編 正律審音
+     :PROPERTIES:
+     :EXTENT: (2) 卷
+     :BOOK:   (2)
+     :END:
+
+**** 下編 和聲定樂
+     :PROPERTIES:
+     :EXTENT: (2) 卷
+     :BOOK:   (2)
+     :END:
+
+**** 續編 協均度曲
+     :PROPERTIES:
+     :EXTENT: (1) 卷
+     :BOOK:   (1)
+     :END:
+
+*** KR1i0011 ZB1i0011 御製律呂正義後編
+:PROPERTIES:
+:CUSTOM_ID:  ZB1i0011
+:SOURCE:   四庫全書 文淵閣版, V215.2, p223 - V218.1
+:EXTENT: 128 卷
+:BOOK:   60
+:END:
+**** 人物
+***** 允祿
+     :PROPERTIES:
+     :DYNASTY:  清
+     :FUNCTION: 奉敕纂
+     :DATES:    1695 - 1767
+     :END:
+
+***** 張照
+     :PROPERTIES:
+     :DYNASTY:  清
+     :FUNCTION: 奉敕纂
+     :END:
+
+**** 版本
+***** WYG
+**** 卷首
+     :PROPERTIES:
+     :TYPE:   appendix
+     :EXTENT: 2 卷
+     :BOOK:   (60)
+     :END:
+
+*** KR1i0012 ZB1i0012 欽定詩經樂譜全書
+:PROPERTIES:
+:CUSTOM_ID:  ZB1i0012
+:SOURCE:   四庫全書 文淵閣版, V219.1, p1
+:EXTENT: 30 卷
+:BOOK:   24
+:END:
+**** 人物
+***** 永瑢
+     :PROPERTIES:
+     :DYNASTY:  清
+     :FUNCTION: 奉敕纂
+     :DATES:    1744 - 1790
+     :END:
+
+***** 鄒奕孝
+     :PROPERTIES:
+     :DYNASTY:  清
+     :FUNCTION: 奉敕纂
+     :END:
+
+**** 版本
+***** WYG
+**** 卷首
+     :PROPERTIES:
+     :TYPE:   appendix
+     :EXTENT: 1 卷
+     :BOOK:   (24)
+     :END:
+
+**** (附)欽定樂律正俗
+     :PROPERTIES:
+     :TYPE:   appendix
+     :EXTENT: 1 卷
+     :BOOK:   (24)
+     :END:
+
+*** KR1i0013 ZB1i0013 古樂經傳
+:PROPERTIES:
+:CUSTOM_ID:  ZB1i0013
+:SOURCE:   四庫全書 文淵閣版, V220.1, p1
+:EXTENT: 5 卷
+:BOOK:   3
+:END:
+**** 人物
+***** 李光地
+     :PROPERTIES:
+     :DYNASTY:  清
+     :FUNCTION: 撰
+     :DATES:    1642 - 1718
+     :END:
+
+**** 版本
+***** WYG
+*** KR1i0014 ZB1i0014 古樂書
+:PROPERTIES:
+:CUSTOM_ID:  ZB1i0014
+:SOURCE:   四庫全書 文淵閣版, V220.2, p97
+:EXTENT: 2 卷
+:BOOK:   2
+:END:
+**** 人物
+***** 應撝謙
+     :PROPERTIES:
+     :DYNASTY:  清
+     :FUNCTION: 撰
+     :DATES:    1615 - 1683
+     :END:
+
+**** 版本
+***** WYG
+*** KR1i0015 ZB1i0015 聖諭樂本解說
+:PROPERTIES:
+:CUSTOM_ID:  ZB1i0015
+:SOURCE:   四庫全書 文淵閣版, V220.3, p197
+:EXTENT: 2 卷
+:BOOK:   1
+:END:
+**** 人物
+***** 毛奇齡
+     :PROPERTIES:
+     :DYNASTY:  清
+     :FUNCTION: 撰
+     :DATES:    1623 - 1716
+     :END:
+
+**** 版本
+***** WYG
+*** KR1i0016 ZB1i0016 皇言定聲錄
+:PROPERTIES:
+:CUSTOM_ID:  ZB1i0016
+:SOURCE:   四庫全書 文淵閣版, V220.4, p219
+:EXTENT: 8 卷
+:BOOK:   3
+:END:
+**** 人物
+***** 毛奇齡
+     :PROPERTIES:
+     :DYNASTY:  清
+     :FUNCTION: 撰
+     :DATES:    1623 - 1716
+     :END:
+
+**** 版本
+***** WYG
+*** KR1i0017 ZB1i0017 竟山樂錄
+:PROPERTIES:
+:CUSTOM_ID:  ZB1i0017
+:SOURCE:   四庫全書 文淵閣版, V220.5, p291
+:EXTENT: 4 卷
+:BOOK:   2
+:END:
+**** 人物
+***** 毛奇齡
+     :PROPERTIES:
+     :DYNASTY:  清
+     :FUNCTION: 撰
+     :DATES:    1623 - 1716
+     :END:
+
+**** 版本
+***** WYG
+*** KR1i0018 ZB1i0018 李氏學樂錄
+:PROPERTIES:
+:CUSTOM_ID:  ZB1i0018
+:SOURCE:   四庫全書 文淵閣版, V220.6, p339
+:EXTENT: 2 卷
+:BOOK:   1
+:END:
+**** 人物
+***** 李塨
+     :PROPERTIES:
+     :DYNASTY:  清
+     :FUNCTION: 撰
+     :DATES:    1659 - 1733
+     :END:
+
+**** 版本
+***** WYG
+*** KR1i0019 ZB1i0019 樂律表微
+:PROPERTIES:
+:CUSTOM_ID:  ZB1i0019
+:SOURCE:   四庫全書 文淵閣版, V220.7, p369
+:EXTENT: 8 卷
+:BOOK:   6
+:END:
+**** 人物
+***** 胡彥昇
+     :PROPERTIES:
+     :DYNASTY:  清
+     :FUNCTION: 撰
+     :END:
+
+**** 版本
+***** WYG
+*** KR1i0020 ZB1i0020 律呂新論
+:PROPERTIES:
+:CUSTOM_ID:  ZB1i0020
+:SOURCE:   四庫全書 文淵閣版, V220.8, p511
+:EXTENT: 2 卷
+:BOOK:   1
+:END:
+**** 人物
+***** 江永
+     :PROPERTIES:
+     :DYNASTY:  清
+     :FUNCTION: 撰
+     :DATES:    1681 - 1762
+     :END:
+
+**** 版本
+***** WYG
+*** KR1i0021 ZB1i0021 律呂闡微
+:PROPERTIES:
+:CUSTOM_ID:  ZB1i0021
+:SOURCE:   四庫全書 文淵閣版, V220.9, p547
+:EXTENT: 10 卷
+:BOOK:   4
+:END:
+**** 人物
+***** 江永
+     :PROPERTIES:
+     :DYNASTY:  清
+     :FUNCTION: 撰
+     :DATES:    1681 - 1762
+     :END:
+
+**** 版本
+***** WYG
+**** 卷首:皇言定聲
+     :PROPERTIES:
+     :TYPE:   appendix
+     :EXTENT: 1 卷
+     :BOOK:   (4)
+     :END:
+
+*** KR1i0022 ZB1i0022 琴旨
+:PROPERTIES:
+:CUSTOM_ID:  ZB1i0022
+:SOURCE:   四庫全書 文淵閣版, V220.10, p687
+:EXTENT: 2 卷
+:BOOK:   2
+:END:
+**** 人物
+***** 王坦
+     :PROPERTIES:
+     :DYNASTY:  清
+     :FUNCTION: 撰
+     :END:
+
+**** 版本
+***** WYG
+**** 卷首:御製文
+     :PROPERTIES:
+     :TYPE:   appendix
+     :EXTENT: 1 卷
+     :BOOK:   (2)
+     :END:
+

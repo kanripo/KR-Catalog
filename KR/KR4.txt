@@ -1,0 +1,12 @@
+# -*- mode: org; -*-
+* KR4 集部
+** [[file:KR4a.txt][KR4a 楚辭類]]
+** [[file:KR4b.txt][KR4b 別集類-漢六朝]]
+** [[file:KR4c.txt][KR4c 別集類-唐]]
+** [[file:KR4d.txt][KR4d 別集類-宋]]
+** [[file:KR4e.txt][KR4e 別集類-明]]
+** [[file:KR4f.txt][KR4f 別集類-清]]
+** [[file:KR4g.txt][KR4g 別集類-近]]
+** [[file:KR4h.txt][KR4h 總集類]]
+** [[file:KR4i.txt][KR4i 詩文評類]]
+** [[file:KR4j.txt][KR4j 詞曲類]]

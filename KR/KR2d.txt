@@ -1,0 +1,615 @@
+#-*- mode: org; -*-
+#+COLUMNS: %30ITEM %15CUSTOM_ID
+** KR2d ZB2d 別史類
+*** KR2d0001 [[mandoku:ZB2d0002.org][ZB2d0002]] 逸周書
+:PROPERTIES:
+:CUSTOM_ID:  ZB2d0002
+:SOURCE:   四庫全書 文淵閣版, V370.1, p1
+:EXTENT: 10 卷
+:BOOK:   2
+:_RESP:    （晉）孔晁
+:END:
+**** 人物
+***** 孔晁
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 注
+      :END:
+
+**** 版本
+***** WYG
+*** KR2d0002 [[mandoku:ZB2d0003.org][ZB2d0003]] 東觀漢記
+:PROPERTIES:
+:CUSTOM_ID:  ZB2d0003
+:SOURCE:   四庫全書 文淵閣版, V370.2, p65
+:EXTENT: 24 卷
+:BOOK:   4
+:_RESP:    （漢）劉珍
+:END:
+**** 人物
+***** 劉珍
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    fl. 120 - 125
+      :END:
+
+**** 版本
+***** WYG
+*** KR2d0003 [[mandoku:ZB2d0004.org][ZB2d0004]] 建康實錄
+:PROPERTIES:
+:CUSTOM_ID:  ZB2d0004
+:SOURCE:   四庫全書 文淵閣版, V370.3, p225
+:EXTENT: 20 卷
+:BOOK:   12
+:_RESP:    （唐）許嵩
+:END:
+**** 人物
+***** 許嵩
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
+**** 版本
+***** WYG
+*** KR2d0004 [[mandoku:ZB2d0005.org][ZB2d0005]] 隆平集
+:PROPERTIES:
+:CUSTOM_ID:  ZB2d0005
+:SOURCE:   四庫全書 文淵閣版, V371.1, p1
+:EXTENT: 20 卷
+:BOOK:   6
+:_RESP:    （宋）曾鞏
+:END:
+**** 人物
+***** 曾鞏
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1083
+      :END:
+
+**** 版本
+***** WYG
+*** KR2d0005 [[mandoku:ZB2d0006.org][ZB2d0006]] 古史
+:PROPERTIES:
+:CUSTOM_ID:  ZB2d0006
+:SOURCE:   四庫全書 文淵閣版, V371.2, p205
+:EXTENT: 60 卷
+:BOOK:   14
+:_RESP:    （宋）蘇轍
+:END:
+**** 人物
+***** 蘇轍
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1039 - 1112
+      :END:
+
+**** 版本
+***** WYG
+*** KR2d0006 [[mandoku:ZB2d0007.org][ZB2d0007]] 通志
+:PROPERTIES:
+:CUSTOM_ID:  ZB2d0007
+:SOURCE:   四庫全書 文淵閣版, V372.1, p1 - V381.1
+:EXTENT: 200 卷
+:BOOK:   194
+:_RESP:    （宋）鄭樵
+:END:
+**** 人物
+***** 鄭樵
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1104 - 1162
+      :END:
+
+**** 版本
+***** WYG
+*** KR2d0007 [[mandoku:ZB2d0008.org][ZB2d0008]] 東都事略
+:PROPERTIES:
+:CUSTOM_ID:  ZB2d0008
+:SOURCE:   四庫全書 文淵閣版, V382.1, p1
+:EXTENT: 130 卷
+:BOOK:   24
+:_RESP:    （宋）王稱
+:END:
+**** 人物
+***** 王稱
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    12th cent
+      :END:
+
+**** 版本
+***** WYG
+*** KR2d0008 [[mandoku:ZB2d0009.org][ZB2d0009]] 路史
+:PROPERTIES:
+:CUSTOM_ID:  ZB2d0009
+:SOURCE:   四庫全書 文淵閣版, V383.1, p1
+:EXTENT: 47 卷
+:BOOK:   18
+:_RESP:    （宋）羅泌
+:END:
+**** 人物
+***** 羅泌
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    12th cent
+      :END:
+
+**** 版本
+***** WYG
+*** KR2d0009 [[mandoku:ZB2d0010.org][ZB2d0010]] 欽定書訂契丹國志
+:PROPERTIES:
+:CUSTOM_ID:  ZB2d0010
+:SOURCE:   四庫全書 文淵閣版, V383.2, p655
+:EXTENT: 28 卷
+:BOOK:   6
+:DATE:   1247
+:_RESP:    （宋）葉隆禮
+:END:
+**** 人物
+***** 葉隆禮
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+**** 版本
+***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
+*** KR2d0010 [[mandoku:ZB2d0011.org][ZB2d0011]] 欽定重訂大金國志
+:PROPERTIES:
+:CUSTOM_ID:  ZB2d0011
+:SOURCE:   四庫全書 文淵閣版, V383.3, p805
+:EXTENT: 41 卷
+:BOOK:   8
+:_RESP:    （宋）宇文懋昭
+:END:
+**** 人物
+***** 宇文懋昭
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1234
+      :END:
+
+**** 版本
+***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+
+*** KR2d0011 [[mandoku:ZB2d0012.org][ZB2d0012]] 古今紀要
+:PROPERTIES:
+:CUSTOM_ID:  ZB2d0012
+:SOURCE:   四庫全書 文淵閣版, V384.1, p1
+:EXTENT: 19 卷
+:BOOK:   12
+:DATE:   1256
+:_RESP:    （宋）黃震
+:END:
+**** 人物
+***** 黃震
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+**** 版本
+***** WYG
+*** KR2d0012 [[mandoku:ZB2d0013.org][ZB2d0013]] 蕭氏續後漢書
+:PROPERTIES:
+:CUSTOM_ID:  ZB2d0013
+:SOURCE:   四庫全書 文淵閣版, V384.2, p385
+:EXTENT: 44 卷
+:BOOK:   12
+:_RESP:    （宋）蕭常
+:END:
+**** 人物
+***** 蕭常
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+**** 版本
+***** WYG
+**** 義例
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (12)
+      :END:
+
+**** [[mandoku:ZB2d0013a.org][ZB2d0013a]] (附)續後漢書音義
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 4 卷
+      :BOOK:   (12)
+      :END:
+
+*** KR2d0013 [[mandoku:ZB2d0014.org][ZB2d0014]] 郝氏續後漢書
+:PROPERTIES:
+:CUSTOM_ID:  ZB2d0014
+:SOURCE:   四庫全書 文淵閣版, V385.1, p1 - V386.1
+:EXTENT: 存87 卷
+:BOOK:   34
+:_RESP:    （元）郝經,（元）苟宗道
+:END:
+**** 人物
+***** 郝經
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1223 - 1275
+      :END:
+
+***** 苟宗道
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 注
+      :END:
+
+**** 版本
+***** WYG
+*** KR2d0014 SB32n412 元朝秘史
+:PROPERTIES:
+:TYPE:  text
+:CUSTOM_ID: SB32n412
+:EXTENT: 十卷
+:BOOK: 0055 - 0064
+:_RESP:    （元）闕名
+:ZB_ID:    SB32n412
+:END:
+
+續集二卷
+**** 人物
+***** 闕名
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** 版本
+***** SBCK
+:PROPERTIES:
+:EDITION: 元鈔本
+:END:
+
+
+**** 电子版
+[[krpimg:sbck/SB3/SB32n412/SB32n412_001-002.tif][冊 1]]
+[[krpimg:sbck/SB3/SB32n412/SB32n412_002-002.tif][冊 2]]
+[[krpimg:sbck/SB3/SB32n412/SB32n412_003-002.tif][冊 3]]
+[[krpimg:sbck/SB3/SB32n412/SB32n412_004-002.tif][冊 4]]
+[[krpimg:sbck/SB3/SB32n412/SB32n412_005-002.tif][冊 5]]
+[[krpimg:sbck/SB3/SB32n412/SB32n412_006-002.tif][冊 6]]
+[[krpimg:sbck/SB3/SB32n412/SB32n412_007-002.tif][冊 7]]
+[[krpimg:sbck/SB3/SB32n412/SB32n412_008-002.tif][冊 8]]
+[[krpimg:sbck/SB3/SB32n412/SB32n412_009-002.tif][冊 9]]
+[[krpimg:sbck/SB3/SB32n412/SB32n412_010-002.tif][冊 10]]
+*** KR2d0015 [[mandoku:ZB2d0015.org][ZB2d0015]] 春秋別典
+:PROPERTIES:
+:CUSTOM_ID:  ZB2d0015
+:SOURCE:   四庫全書 文淵閣版, V386.2, p589
+:EXTENT: 15 卷
+:BOOK:   6
+:_RESP:    （明）薛虞畿
+:END:
+**** 人物
+***** 薛虞畿
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
+**** 版本
+***** WYG
+*** KR2d0016 SB32n413 明史鈔略殘
+:PROPERTIES:
+:TYPE:  text
+:CUSTOM_ID: SB32n413
+:EXTENT: 七卷
+:BOOK: 0065 - 0067
+:_RESP:    （明）莊廷鑨
+:ZB_ID:    SB32n413
+:END:
+
+**** 人物
+***** 莊廷鑨
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 明
+:END:
+
+**** 版本
+***** SBCK
+:PROPERTIES:
+:EDITION: 吳潘氏蘧盦藏石門呂氏鈔本
+:END:
+
+
+**** 电子版
+[[krpimg:sbck/SB3/SB32n413/SB32n413_001-002.tif][冊 1]]
+[[krpimg:sbck/SB3/SB32n413/SB32n413_002-002.tif][冊 2]]
+[[krpimg:sbck/SB3/SB32n413/SB32n413_003-002.tif][冊 3]]
+
+*** KR2d0017 SB32n414 罪惟錄
+:PROPERTIES:
+:TYPE:  text
+:CUSTOM_ID: SB32n414
+:EXTENT: 九十卷
+:BOOK: 0068 - 0127
+:_RESP:    （明）查繼佐
+:ZB_ID:    SB32n414
+:END:
+
+**** 人物
+***** 查繼佐
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 明
+:END:
+
+**** 版本
+***** SBCK
+:PROPERTIES:
+:EDITION: 吳興劉氏嘉業堂藏手稿本
+:END:
+
+
+**** 电子版
+[[krpimg:sbck/SB3/SB32n414/SB32n414_001-002.tif][冊 1]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_002-002.tif][冊 2]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_003-002.tif][冊 3]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_004-002.tif][冊 4]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_005-002.tif][冊 5]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_006-002.tif][冊 6]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_007-002.tif][冊 7]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_008-002.tif][冊 8]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_009-002.tif][冊 9]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_010-002.tif][冊 10]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_011-002.tif][冊 11]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_012-002.tif][冊 12]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_013-002.tif][冊 13]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_014-002.tif][冊 14]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_015-002.tif][冊 15]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_016-002.tif][冊 16]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_017-002.tif][冊 17]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_018-002.tif][冊 18]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_019-002.tif][冊 19]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_020-002.tif][冊 20]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_021-002.tif][冊 21]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_022-002.tif][冊 22]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_023-002.tif][冊 23]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_024-002.tif][冊 24]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_025-002.tif][冊 25]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_026-002.tif][冊 26]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_027-002.tif][冊 27]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_028-002.tif][冊 28]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_029-002.tif][冊 29]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_030-002.tif][冊 30]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_031-002.tif][冊 31]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_032-002.tif][冊 32]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_033-002.tif][冊 33]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_034-002.tif][冊 34]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_035-002.tif][冊 35]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_036-002.tif][冊 36]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_037-002.tif][冊 37]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_038-002.tif][冊 38]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_039-002.tif][冊 39]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_040-002.tif][冊 40]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_041-002.tif][冊 41]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_042-002.tif][冊 42]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_043-002.tif][冊 43]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_044-002.tif][冊 44]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_045-002.tif][冊 45]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_046-002.tif][冊 46]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_047-002.tif][冊 47]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_048-002.tif][冊 48]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_049-002.tif][冊 49]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_050-002.tif][冊 50]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_051-002.tif][冊 51]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_052-002.tif][冊 52]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_053-002.tif][冊 53]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_054-002.tif][冊 54]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_055-002.tif][冊 55]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_056-002.tif][冊 56]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_057-002.tif][冊 57]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_058-002.tif][冊 58]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_059-002.tif][冊 59]]
+[[krpimg:sbck/SB3/SB32n414/SB32n414_060-002.tif][冊 60]]
+
+*** KR2d0018 SB32n415 東山國語
+    :PROPERTIES:
+    :_RESP:    （明）查繼佐,（明）沈仲方
+    :EXTENT: 不分卷
+    :ZB_ID:    SB32n415
+    :CUSTOM_ID: SB32n415
+    :END:
+**** 人物
+***** 查繼佐
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 明
+:END:
+
+***** 沈仲方
+:PROPERTIES:
+:FUNCTION: 補述
+:DYNASTY: 明
+:END:
+
+**** 版本
+***** SBCK
+:PROPERTIES:
+:EDITION: 海寧張氏鐵如意館傅錄本
+:END:
+
+
+**** 电子版
+[[krpimg:sbck/SB3/SB32n415/SB32n415_001-002.tif][冊 1]]
+[[krpimg:sbck/SB3/SB32n415/SB32n415_002-002.tif][冊 2]]
+
+*** KR2d0019 [[mandoku:ZB2d0016.org][ZB2d0016]] 御定歷代紀事年表
+:PROPERTIES:
+:CUSTOM_ID:  ZB2d0016
+:SOURCE:   四庫全書 文淵閣版, V387.1, p1 - V391.1
+:EXTENT: 100 卷
+:BOOK:   98
+:_RESP:    （清）王之樞,（清）周清原
+:END:
+**** 人物
+***** 王之樞
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
+***** 周清原
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
+**** 版本
+***** WYG
+**** 三元甲子編年
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (98)
+      :END:
+
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (98)
+      :END:
+
+*** KR2d0020 [[mandoku:ZB2d0017.org][ZB2d0017]] 欽定續通志
+:PROPERTIES:
+:CUSTOM_ID:  ZB2d0017
+:SOURCE:   四庫全書 文淵閣版, V392.1, p1 - V401.1
+:EXTENT: 640 卷
+:BOOK:   200
+:DATE:   乾隆三十二年
+:_RESP:    （清）嵇璜,（清）曹仁虎
+:END:
+**** 人物
+***** 嵇璜
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    1711 - 1794
+      :END:
+
+***** 曹仁虎
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
+**** 版本
+***** WYG
+*** KR2d0021 [[mandoku:ZB2d0018.org][ZB2d0018]] 補歷代史表
+:PROPERTIES:
+:CUSTOM_ID:  ZB2d0018
+:SOURCE:   四庫全書 文淵閣版, V402.1, p1
+:EXTENT: 53 卷
+:BOOK:   12
+:_RESP:    （清）萬斯同
+:END:
+**** 人物
+***** 萬斯同
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1638 - 1702
+      :END:
+
+**** 版本
+***** WYG
+*** KR2d0022 [[mandoku:ZB2d0019.org][ZB2d0019]] 後漢書補逸
+:PROPERTIES:
+:CUSTOM_ID:  ZB2d0019
+:SOURCE:   四庫全書 文淵閣版, V402.2, p325
+:EXTENT: 21 卷
+:BOOK:   12
+:DATE:   1721
+:_RESP:    （清）姚之駰
+:END:
+**** 人物
+***** 姚之駰
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :END:
+
+**** 版本
+***** WYG
+*** KR2d0023 [[mandoku:ZB2d0020.org][ZB2d0020]] 春秋戰國異辭
+:PROPERTIES:
+:CUSTOM_ID:  ZB2d0020
+:SOURCE:   四庫全書 文淵閣版, V403.1, p1
+:EXTENT: 54 卷
+:BOOK:   28
+:_RESP:    （清）陳厚耀
+:END:
+**** 人物
+***** 陳厚耀
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1648 - 1722
+      :END:
+
+**** 版本
+***** WYG
+**** 春秋戰國通表
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (28)
+      :END:
+
+**** 摭遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (28)
+      :END:
+
+*** KR2d0024 [[mandoku:ZB2d0021.org][ZB2d0021]] 尚史
+:PROPERTIES:
+:CUSTOM_ID:  ZB2d0021
+:SOURCE:   四庫全書 文淵閣版, V404.1, p1 - V405.1
+:EXTENT: 107 卷
+:BOOK:   46
+:_RESP:    （清）李鍇
+:END:
+**** 人物
+***** 李鍇
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    b. 1686
+      :END:
+
+**** 版本
+***** WYG

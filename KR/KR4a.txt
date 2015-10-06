@@ -1,0 +1,152 @@
+#-*- mode: org; -*-
+#+COLUMNS: %30ITEM %15CUSTOM_ID
+** KR4a ZB4a 楚辭類
+*** KR4a0001 [[at:text/chant/H12-10-0047/H12-10-0047_001.txt][H12-10-0047]] 楚辭
+    :PROPERTIES:
+    :CUSTOM_ID: H12-10-0047
+    :END:
+**** 人物
+***** 王逸
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 編
+      :DATES:    fl. 89 - 158
+      :END:
+
+*** KR4a0002 [[mandoku:ZB4a0001.org][ZB4a0001]] 楚辭章句
+:PROPERTIES:
+:CUSTOM_ID:  ZB4a0001
+:SOURCE:   四庫全書 文淵閣版, V1062.1, p1
+:EXTENT: 17 卷
+:BOOK:   4
+:END:
+**** 人物
+***** 王逸
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    fl. 89 - 158
+      :END:
+
+**** 版本
+***** WYG
+*** KR4a0003 [[mandoku:ZB4a0002.org][ZB4a0002]] 楚詞補注
+:PROPERTIES:
+:CUSTOM_ID:  ZB4a0002
+:SOURCE:   四庫全書 文淵閣版, V1062.2, p115
+:EXTENT: 17 卷
+:BOOK:   7
+:END:
+**** 人物
+***** 洪興祖
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1090 - 1155
+      :END:
+
+**** 版本
+***** WYG
+*** KR4a0004 [[mandoku:ZB4a0003.org][ZB4a0003]] 楚辭集注
+:PROPERTIES:
+:CUSTOM_ID:  ZB4a0003
+:SOURCE:   四庫全書 文淵閣版, V1062.3, p299
+:EXTENT: 8 卷
+:BOOK:   6
+:END:
+**** 人物
+***** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1130 - 1200
+      :END:
+
+**** 版本
+***** WYG
+**** [[mandoku:ZB4a0003b.org][ZB4a0003b]] 楚辭辯證
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (6)
+      :END:
+
+**** [[mandoku:ZB4a0003a.org][ZB4a0003a]] 楚辭後語
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 6 卷
+      :BOOK:   (6)
+      :END:
+
+*** KR4a0005 [[mandoku:ZB4a0004.org][ZB4a0004]] 離騷草木疏
+:PROPERTIES:
+:CUSTOM_ID:  ZB4a0004
+:SOURCE:   四庫全書 文淵閣版, V1062.4, p455
+:EXTENT: 4 卷
+:BOOK:   2
+:END:
+**** 人物
+***** 吳仁傑
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    b. 1137
+      :END:
+
+**** 版本
+***** WYG
+*** KR4a0006 [[mandoku:ZB4a0005.org][ZB4a0005]] 欽定補繪蕭雲從離騷全圖
+:PROPERTIES:
+:CUSTOM_ID:  ZB4a0005
+:SOURCE:   四庫全書 文淵閣版, V1062.5, p495
+:EXTENT: 3 卷
+:BOOK:   3
+:DATE:   乾隆四十七年
+:END:
+**** 人物
+***** 蕭雲從
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 原圖
+      :END:
+
+**** 版本
+***** WYG
+*** KR4a0007 [[mandoku:ZB4a0006.org][ZB4a0006]] 山帶閣註楚辭
+:PROPERTIES:
+:CUSTOM_ID:  ZB4a0006
+:SOURCE:   四庫全書 文淵閣版, V1062.6, p601
+:EXTENT: 6 卷
+:BOOK:   7
+:END:
+**** 人物
+***** 蔣驥
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    fl. 1707 - 1727
+      :END:
+
+**** 版本
+***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (7)
+      :END:
+
+**** [[mandoku:ZB4a0006b.org][ZB4a0006b]] 楚辭餘論
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (7)
+      :END:
+
+**** [[mandoku:ZB4a0006a.org][ZB4a0006a]] 楚辭說韻
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (7)
+      :END:
+

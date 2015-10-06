@@ -1,0 +1,3 @@
+#-*- mode: org; -*-
+#+COLUMNS: %30ITEM %10EXTENT %40_RESP
+** KR4g ZB4g 別集類-近

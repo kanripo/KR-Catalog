@@ -1,0 +1,5546 @@
+#-*- mode: org; -*-
+** KR6v ZB6u 新編部類
+*** KR6v0001 [[mandoku:ZB6u0001.org][ZB6u0001]]  [[cbeta:H/H01n0001/H01n0001.org][H01n0001]] 正史佛教資料類編
+:PROPERTIES: 
+:BASEEDITION:  H
+:CBETA_ID:  H01n0001
+:CUSTOM_ID: ZB6u0001
+:SOURCE: Passages concerning Buddhism from the Official Histories Vol. 01, No. 001
+:EXTENT:  10卷
+:END:
+**** 人物
+***** 杜斗城
+:PROPERTIES:
+:FUNCTION: 輯編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【大】
+:PROPERTIES: 
+:WITID: wit4
+:END:
+
+*** KR6v0002 [[mandoku:ZB6u0002.org][ZB6u0002]]  [[cbeta:W/W01n0001/W01n0001.org][W01n0001]] 天竺國菩提達摩禪師論
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W01n0001
+:CUSTOM_ID: ZB6u0002
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 001
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 方廣錩
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0003 [[mandoku:ZB6u0003.org][ZB6u0003]]  [[cbeta:W/W01n0002/W01n0002.org][W01n0002]] 禪策問答
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W01n0002
+:CUSTOM_ID: ZB6u0003
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 002
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 方廣錩
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0004 [[mandoku:ZB6u0004.org][ZB6u0004]]  [[cbeta:W/W01n0003/W01n0003.org][W01n0003]] 息諍論
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W01n0003
+:CUSTOM_ID: ZB6u0004
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 003
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 達摩禪師
+:PROPERTIES:
+:FUNCTION: 作
+:END:
+***** 方廣錩
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0005 [[mandoku:ZB6u0005.org][ZB6u0005]]  [[cbeta:W/W01n0004/W01n0004.org][W01n0004]] 八種粗重犯墮
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W01n0004
+:CUSTOM_ID: ZB6u0005
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 004
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 馬鳴菩薩
+:PROPERTIES:
+:FUNCTION: 造
+:END:
+***** 方廣錩
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0006 [[mandoku:ZB6u0006.org][ZB6u0006]]  [[cbeta:W/W01n0005/W01n0005.org][W01n0005]] 天請問經疏
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W01n0005
+:CUSTOM_ID: ZB6u0006
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 005
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 沙門文軌
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+***** 李際寧
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0007 [[mandoku:ZB6u0007.org][ZB6u0007]]  [[cbeta:W/W01n0006/W01n0006.org][W01n0006]] 《行事鈔》中分門圖錄
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W01n0006
+:CUSTOM_ID: ZB6u0007
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 006
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 沙門道宣
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+***** 蘇軍
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0008 [[mandoku:ZB6u0008.org][ZB6u0008]]  [[cbeta:W/W01n0007/W01n0007.org][W01n0007]] 《阿毗達磨俱舍論實義疏》
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W01n0007
+:CUSTOM_ID: ZB6u0008
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 007
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 尊者安惠
+:PROPERTIES:
+:FUNCTION: 造
+:END:
+***** 蘇軍
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0009 [[mandoku:ZB6u0009.org][ZB6u0009]]  [[cbeta:W/W01n0008/W01n0008.org][W01n0008]] 佛為心王菩薩說頭陀經（附註疏）
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W01n0008
+:CUSTOM_ID: ZB6u0009
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 008
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 惠辯禪師
+:PROPERTIES:
+:FUNCTION: 註
+:END:
+***** 方廣錩
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0010 [[mandoku:ZB6u0010.org][ZB6u0010]]  [[cbeta:W/W01n0009/W01n0009.org][W01n0009]] 佛說孝順子修行成佛經
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W01n0009
+:CUSTOM_ID: ZB6u0010
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 009
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 方廣錩
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0011 [[mandoku:ZB6u0011.org][ZB6u0011]]  [[cbeta:W/W01n0010/W01n0010.org][W01n0010]] 最妙勝定經
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W01n0010
+:CUSTOM_ID: ZB6u0011
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 010
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 方廣錩
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0012 [[mandoku:ZB6u0012.org][ZB6u0012]]  [[cbeta:W/W01n0011/W01n0011.org][W01n0011]] 佛說水月光觀音菩薩經
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W01n0011
+:CUSTOM_ID: ZB6u0012
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 011
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 方廣錩
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0013 [[mandoku:ZB6u0013.org][ZB6u0013]]  [[cbeta:W/W01n0012/W01n0012.org][W01n0012]] 佛說金剛經纂
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W01n0012
+:CUSTOM_ID: ZB6u0013
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 012
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 方廣錩
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0014 [[mandoku:ZB6u0014.org][ZB6u0014]]  [[cbeta:W/W01n0013/W01n0013.org][W01n0013]] 大方廣華嚴十惡品經
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W01n0013
+:CUSTOM_ID: ZB6u0014
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 013
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 徐紹強
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0015 [[mandoku:ZB6u0015.org][ZB6u0015]]  [[cbeta:W/W01n0014a/W01n0014a.org][W01n0014a]] 天公經
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W01n0014a
+:CUSTOM_ID: ZB6u0015
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 014a
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 方廣錩
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0016 [[mandoku:ZB6u0016.org][ZB6u0016]]  [[cbeta:W/W01n0014b/W01n0014b.org][W01n0014b]] 佛說天公經
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W01n0014b
+:CUSTOM_ID: ZB6u0016
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 014b
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 方廣錩
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0017 [[mandoku:ZB6u0017.org][ZB6u0017]]  [[cbeta:W/W01n0014c/W01n0014c.org][W01n0014c]] 天公經
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W01n0014c
+:CUSTOM_ID: ZB6u0017
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 014c
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 方廣錩
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0018 [[mandoku:ZB6u0018.org][ZB6u0018]]  [[cbeta:W/W01n0015a/W01n0015a.org][W01n0015a]] 大般涅槃摩耶夫人品經
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W01n0015a
+:CUSTOM_ID: ZB6u0018
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 015a
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 大德安法師
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+***** 李際寧
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0019 [[mandoku:ZB6u0019.org][ZB6u0019]]  [[cbeta:W/W01n0015b/W01n0015b.org][W01n0015b]] 大般涅槃經佛母品
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W01n0015b
+:CUSTOM_ID: ZB6u0019
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 015b
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 李際寧
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0020 [[mandoku:ZB6u0020.org][ZB6u0020]]  [[cbeta:W/W01n0015c/W01n0015c.org][W01n0015c]] 大般涅槃經佛母品
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W01n0015c
+:CUSTOM_ID: ZB6u0020
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 015c
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 李際寧
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0021 [[mandoku:ZB6u0021.org][ZB6u0021]]  [[cbeta:W/W01n0015d/W01n0015d.org][W01n0015d]] 大般涅槃經佛為摩耶夫人說偈品經
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W01n0015d
+:CUSTOM_ID: ZB6u0021
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 015d
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 李際寧
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0022 [[mandoku:ZB6u0022.org][ZB6u0022]]  [[cbeta:W/W01n0016/W01n0016.org][W01n0016]] 關於《禪藏》與敦煌禪籍的若干問題
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W01n0016
+:CUSTOM_ID: ZB6u0022
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 016
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 方廣錩
+:PROPERTIES:
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0023 [[mandoku:ZB6u0023.org][ZB6u0023]]  [[cbeta:W/W02n0017/W02n0017.org][W02n0017]] 七祖法寶記下卷
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W02n0017
+:CUSTOM_ID: ZB6u0023
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 02, No. 017
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 華方田
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0024 [[mandoku:ZB6u0024.org][ZB6u0024]]  [[cbeta:W/W02n0018a/W02n0018a.org][W02n0018a]] 天竺國菩提達摩禪師論
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W02n0018a
+:CUSTOM_ID: ZB6u0024
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 02, No. 018a
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 方廣錩
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0025 [[mandoku:ZB6u0025.org][ZB6u0025]]  [[cbeta:W/W02n0018b/W02n0018b.org][W02n0018b]] 天竺國菩提達摩禪師論
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W02n0018b
+:CUSTOM_ID: ZB6u0025
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 02, No. 018b
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 方廣錩
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0026 [[mandoku:ZB6u0026.org][ZB6u0026]]  [[cbeta:W/W02n0019/W02n0019.org][W02n0019]] 淨名經集解關中疏卷上
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W02n0019
+:CUSTOM_ID: ZB6u0026
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 02, No. 019
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 沙門道液
+:PROPERTIES:
+:FUNCTION: 集
+:END:
+***** 黎明
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0027 [[mandoku:ZB6u0027.org][ZB6u0027]]  [[cbeta:W/W02n0020/W02n0020.org][W02n0020]] 法華經文外義
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W02n0020
+:CUSTOM_ID: ZB6u0027
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 02, No. 020
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 李際寧
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+***** 張曉娟
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0028 [[mandoku:ZB6u0028.org][ZB6u0028]]  [[cbeta:W/W02n0021/W02n0021.org][W02n0021]] 諦義證得經
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W02n0021
+:CUSTOM_ID: ZB6u0028
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 02, No. 021
+:DYNASTY: 古印度
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 烏瑪斯伐蒂
+:PROPERTIES:
+:FUNCTION: 著
+:END:
+***** 方廣錩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 譯註
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【大】
+:PROPERTIES: 
+:WITID: wit4
+:END:
+
+*** KR6v0029 [[mandoku:ZB6u0029.org][ZB6u0029]]  [[cbeta:W/W02n0022/W02n0022.org][W02n0022]] 《瑜伽師地論》披尋記敘
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W02n0022
+:CUSTOM_ID: ZB6u0029
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 02, No. 022
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 韓清淨
+:PROPERTIES:
+:FUNCTION: 著
+:END:
+***** 程恭讓
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0030 [[mandoku:ZB6u0030.org][ZB6u0030]]  [[cbeta:W/W03n0023/W03n0023.org][W03n0023]] 菩薩總持法
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W03n0023
+:CUSTOM_ID: ZB6u0030
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 023
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 上山大峻
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+***** 袁德領
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0031 [[mandoku:ZB6u0031.org][ZB6u0031]]  [[cbeta:W/W03n0024/W03n0024.org][W03n0024]] 大乘起世論
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W03n0024
+:CUSTOM_ID: ZB6u0031
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 024
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 方廣錩
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0032 [[mandoku:ZB6u0032.org][ZB6u0032]]  [[cbeta:W/W03n0025/W03n0025.org][W03n0025]] 淨名經集解關中疏卷下
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W03n0025
+:CUSTOM_ID: ZB6u0032
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 025
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 沙門道液
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+***** 黎明
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0033 [[mandoku:ZB6u0033.org][ZB6u0033]]  [[cbeta:W/W03n0026/W03n0026.org][W03n0026]] 因緣心論頌
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W03n0026
+:CUSTOM_ID: ZB6u0033
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 026
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 龍猛菩薩
+:PROPERTIES:
+:FUNCTION: 作
+:END:
+***** 華方田
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0034 [[mandoku:ZB6u0034.org][ZB6u0034]]  [[cbeta:W/W03n0027/W03n0027.org][W03n0027]] 因緣心論釋
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W03n0027
+:CUSTOM_ID: ZB6u0034
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 027
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 龍猛菩薩
+:PROPERTIES:
+:FUNCTION: 造
+:END:
+***** 華方田
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0035 [[mandoku:ZB6u0035.org][ZB6u0035]]  [[cbeta:W/W03n0028/W03n0028.org][W03n0028]] 因緣心釋論開決記
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W03n0028
+:CUSTOM_ID: ZB6u0035
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 028
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 華方田
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0036 [[mandoku:ZB6u0036.org][ZB6u0036]]  [[cbeta:W/W03n0029/W03n0029.org][W03n0029]] 金剛般若經疏
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W03n0029
+:CUSTOM_ID: ZB6u0036
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 029
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 華方田
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0037 [[mandoku:ZB6u0037.org][ZB6u0037]]  [[cbeta:W/W03n0030/W03n0030.org][W03n0030]] 瑜伽論卷第十四手記
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W03n0030
+:CUSTOM_ID: ZB6u0037
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 030
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 徐紹強
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0038 [[mandoku:ZB6u0038.org][ZB6u0038]]  [[cbeta:W/W03n0031a/W03n0031a.org][W03n0031a]] 佛說觀佛三昧海經本行品第八
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W03n0031a
+:CUSTOM_ID: ZB6u0038
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 031a
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 黃霞
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0039 [[mandoku:ZB6u0039.org][ZB6u0039]]  [[cbeta:W/W03n0031b/W03n0031b.org][W03n0031b]] 佛說相好經
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W03n0031b
+:CUSTOM_ID: ZB6u0039
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 031b
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 黃霞
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0040 [[mandoku:ZB6u0040.org][ZB6u0040]]  [[cbeta:W/W03n0031c/W03n0031c.org][W03n0031c]] 佛說觀佛三昧海藏經本行品第八
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W03n0031c
+:CUSTOM_ID: ZB6u0040
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 031c
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 黃霞
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0041 [[mandoku:ZB6u0041.org][ZB6u0041]]  [[cbeta:W/W03n0031d/W03n0031d.org][W03n0031d]] 佛說相好經
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W03n0031d
+:CUSTOM_ID: ZB6u0041
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 031d
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 黃霞
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0042 [[mandoku:ZB6u0042.org][ZB6u0042]]  [[cbeta:W/W03n0031e/W03n0031e.org][W03n0031e]] 觀佛三昧海經本行品第八
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W03n0031e
+:CUSTOM_ID: ZB6u0042
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 031e
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 黃霞
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0043 [[mandoku:ZB6u0043.org][ZB6u0043]]  [[cbeta:W/W03n0032/W03n0032.org][W03n0032]] 《金藏》新資料考
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W03n0032
+:CUSTOM_ID: ZB6u0043
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 032
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 李際寧
+:PROPERTIES:
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0044 [[mandoku:ZB6u0044.org][ZB6u0044]]  [[cbeta:W/W04n0033/W04n0033.org][W04n0033]] 入菩薩行論廣解
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W04n0033
+:CUSTOM_ID: ZB6u0044
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 033
+:EXTENT:  10卷
+:END:
+**** 人物 
+***** 寂天菩薩
+:PROPERTIES:
+:FUNCTION: 造頌
+:END:
+***** 傑操大師
+:PROPERTIES:
+:FUNCTION: 註解
+:END:
+***** 隆蓮法師
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0045 [[mandoku:ZB6u0045.org][ZB6u0045]]  [[cbeta:W/W04n0034/W04n0034.org][W04n0034]] 大藏佛說守護大千國土經
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W04n0034
+:CUSTOM_ID: ZB6u0045
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 034
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 陳明光
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0046 [[mandoku:ZB6u0046.org][ZB6u0046]]  [[cbeta:W/W04n0035/W04n0035.org][W04n0035]] 六道輪迴圖偈頌
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W04n0035
+:CUSTOM_ID: ZB6u0046
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 035
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 陳明光
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0047 [[mandoku:ZB6u0047.org][ZB6u0047]]  [[cbeta:W/W04n0036/W04n0036.org][W04n0036]] 父母恩重經變經文偈頌
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W04n0036
+:CUSTOM_ID: ZB6u0047
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 036
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 陳明光
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0048 [[mandoku:ZB6u0048.org][ZB6u0048]]  [[cbeta:W/W04n0037/W04n0037.org][W04n0037]] 大方便佛報恩經變經文偈頌
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W04n0037
+:CUSTOM_ID: ZB6u0048
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 037
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 陳明光
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0049 [[mandoku:ZB6u0049.org][ZB6u0049]]  [[cbeta:W/W04n0038/W04n0038.org][W04n0038]] 三聖御制佛牙贊
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W04n0038
+:CUSTOM_ID: ZB6u0049
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 038
+:DYNASTY: 北宋
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 太宗
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+***** 真宗
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+***** 仁宗
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+***** 陳明光
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0050 [[mandoku:ZB6u0050.org][ZB6u0050]]  [[cbeta:W/W04n0039/W04n0039.org][W04n0039]] 觀經變像經文偈頌
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W04n0039
+:CUSTOM_ID: ZB6u0050
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 039
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 陳明光
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0051 [[mandoku:ZB6u0051.org][ZB6u0051]]  [[cbeta:W/W04n0040/W04n0040.org][W04n0040]] 地獄變經文偈頌
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W04n0040
+:CUSTOM_ID: ZB6u0051
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 040
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 陳明光
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0052 [[mandoku:ZB6u0052.org][ZB6u0052]]  [[cbeta:W/W04n0041/W04n0041.org][W04n0041]] 佛性問答
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W04n0041
+:CUSTOM_ID: ZB6u0052
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 041
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 業露華
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0053 [[mandoku:ZB6u0053.org][ZB6u0053]]  [[cbeta:W/W04n0042/W04n0042.org][W04n0042]] 大乘無盡藏法
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W04n0042
+:CUSTOM_ID: ZB6u0053
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 042
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 信行
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+***** 方廣錩
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0054 [[mandoku:ZB6u0054.org][ZB6u0054]]  [[cbeta:W/W04n0043a/W04n0043a.org][W04n0043a]] 佛在金棺上囑累經
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W04n0043a
+:CUSTOM_ID: ZB6u0054
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 043a
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 侯旭東
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0055 [[mandoku:ZB6u0055.org][ZB6u0055]]  [[cbeta:W/W04n0043b/W04n0043b.org][W04n0043b]] 如來在金棺囑累清淨莊嚴敬福經
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W04n0043b
+:CUSTOM_ID: ZB6u0055
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 043b
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 侯旭東
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0056 [[mandoku:ZB6u0056.org][ZB6u0056]]  [[cbeta:W/W04n0044/W04n0044.org][W04n0044]] 傳善無畏所譯三部密教儀軌出處及年代考
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W04n0044
+:CUSTOM_ID: ZB6u0056
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 044
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 陳金華
+:PROPERTIES:
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0057 [[mandoku:ZB6u0057.org][ZB6u0057]]  [[cbeta:W/W05n0045/W05n0045.org][W05n0045]] 小誦
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W05n0045
+:CUSTOM_ID: ZB6u0057
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 05, No. 045
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 鄧殿臣
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0058 [[mandoku:ZB6u0058.org][ZB6u0058]]  [[cbeta:W/W05n0046/W05n0046.org][W05n0046]] 即興自說
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W05n0046
+:CUSTOM_ID: ZB6u0058
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 05, No. 046
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 鄧殿臣
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0059 [[mandoku:ZB6u0059.org][ZB6u0059]]  [[cbeta:W/W05n0047/W05n0047.org][W05n0047]] 大隧道本生
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W05n0047
+:CUSTOM_ID: ZB6u0059
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 05, No. 047
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 鄧殿臣
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0060 [[mandoku:ZB6u0060.org][ZB6u0060]]  [[cbeta:W/W05n0048/W05n0048.org][W05n0048]] 大念處經
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W05n0048
+:CUSTOM_ID: ZB6u0060
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 05, No. 048
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 鄧殿臣
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+***** 趙桐
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0061 [[mandoku:ZB6u0061.org][ZB6u0061]]  [[cbeta:W/W05n0049/W05n0049.org][W05n0049]] 瑜伽師地開釋分門記
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W05n0049
+:CUSTOM_ID: ZB6u0061
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 05, No. 049
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 徐紹強
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0062 [[mandoku:ZB6u0062.org][ZB6u0062]]  [[cbeta:W/W05n0050/W05n0050.org][W05n0050]] 天台教典入藏考
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W05n0050
+:CUSTOM_ID: ZB6u0062
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 05, No. 050
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 方廣錩
+:PROPERTIES:
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0063 [[mandoku:ZB6u0063.org][ZB6u0063]]  [[cbeta:W/W06n0051/W06n0051.org][W06n0051]] 楞嚴解冤釋結道場儀
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W06n0051
+:CUSTOM_ID: ZB6u0063
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 06, No. 051
+:DYNASTY: 宋
+:EXTENT:  8卷
+:END:
+**** 人物 
+***** 釋祖照
+:PROPERTIES:
+:FUNCTION: 集
+:END:
+***** 趙文煥
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 整理
+:END:
+***** 侯沖
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0064 [[mandoku:ZB6u0064.org][ZB6u0064]]  [[cbeta:W/W06n0052/W06n0052.org][W06n0052]] 地藏慈悲救苦薦福利生道場儀
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W06n0052
+:CUSTOM_ID: ZB6u0064
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 06, No. 052
+:DYNASTY: 宋
+:EXTENT:  4卷
+:END:
+**** 人物 
+***** 釋元照
+:PROPERTIES:
+:FUNCTION: 集
+:END:
+***** 趙文煥
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 整理
+:END:
+***** 侯沖
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0065 [[mandoku:ZB6u0065.org][ZB6u0065]]  [[cbeta:W/W06n0053/W06n0053.org][W06n0053]] 銷釋金剛經科儀
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W06n0053
+:CUSTOM_ID: ZB6u0065
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 06, No. 053
+:DYNASTY: 宋
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 釋宗鏡
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+***** 侯沖
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0066 [[mandoku:ZB6u0066.org][ZB6u0066]]  [[cbeta:W/W06n0054/W06n0054.org][W06n0054]] 廣施無遮道場儀
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W06n0054
+:CUSTOM_ID: ZB6u0066
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 06, No. 054
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 侯沖
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0067 [[mandoku:ZB6u0067.org][ZB6u0067]]  [[cbeta:W/W06n0055/W06n0055.org][W06n0055]] 大黑天神道場儀
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W06n0055
+:CUSTOM_ID: ZB6u0067
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 06, No. 055
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 侯沖
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0068 [[mandoku:ZB6u0068.org][ZB6u0068]]  [[cbeta:W/W06n0056/W06n0056.org][W06n0056]] 進新譯大方廣佛花嚴經表
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W06n0056
+:CUSTOM_ID: ZB6u0068
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 06, No. 056
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 弘景
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+***** 方廣錩
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0069 [[mandoku:ZB6u0069.org][ZB6u0069]]  [[cbeta:W/W06n0057/W06n0057.org][W06n0057]] 雲南阿吒力教經典及其在中國佛教研究中的價值
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W06n0057
+:CUSTOM_ID: ZB6u0069
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 06, No. 057
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 侯沖
+:PROPERTIES:
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0070 [[mandoku:ZB6u0070.org][ZB6u0070]]  [[cbeta:W/W07n0058/W07n0058.org][W07n0058]] 注心要法門
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W07n0058
+:CUSTOM_ID: ZB6u0070
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 058
+:DYNASTY: 唐
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 宗密
+:PROPERTIES:
+:FUNCTION: 注
+:END:
+***** 方廣錩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0071 [[mandoku:ZB6u0071.org][ZB6u0071]]  [[cbeta:W/W07n0059a/W07n0059a.org][W07n0059a]] 姚和上金剛五禮一本
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W07n0059a
+:CUSTOM_ID: ZB6u0071
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 059a
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 姚和尚
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+***** 達照
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0072 [[mandoku:ZB6u0072.org][ZB6u0072]]  [[cbeta:W/W07n0059b/W07n0059b.org][W07n0059b]] 金剛五禮
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W07n0059b
+:CUSTOM_ID: ZB6u0072
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 059b
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 姚和尚
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+***** 達照
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0073 [[mandoku:ZB6u0073.org][ZB6u0073]]  [[cbeta:W/W07n0060/W07n0060.org][W07n0060]] 金剛禮
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W07n0060
+:CUSTOM_ID: ZB6u0073
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 060
+:DYNASTY: 遼
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 通理大師
+:PROPERTIES:
+:FUNCTION: 集
+:END:
+***** 達照
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0074 [[mandoku:ZB6u0074.org][ZB6u0074]]  [[cbeta:W/W07n0061/W07n0061.org][W07n0061]] 護國司南抄
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W07n0061
+:CUSTOM_ID: ZB6u0074
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 061
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 沙門玄鑒
+:PROPERTIES:
+:FUNCTION: 集
+:END:
+***** 侯沖
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0075 [[mandoku:ZB6u0075.org][ZB6u0075]]  [[cbeta:W/W07n0062/W07n0062.org][W07n0062]] 佛說消災延壽藥師灌頂章句儀
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W07n0062
+:CUSTOM_ID: ZB6u0075
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 062
+:EXTENT:  6卷
+:END:
+**** 人物 
+***** 沙門若愚
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+***** 侯沖
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0076 [[mandoku:ZB6u0076.org][ZB6u0076]]  [[cbeta:W/W07n0063/W07n0063.org][W07n0063]] 淨度三昧經
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W07n0063
+:CUSTOM_ID: ZB6u0076
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 063
+:EXTENT:  3卷
+:END:
+**** 人物 
+***** 大內文雄
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+***** 齊藤隆信
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0077 [[mandoku:ZB6u0077.org][ZB6u0077]]  [[cbeta:W/W07n0064a/W07n0064a.org][W07n0064a]] 地藏菩薩十齋日
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W07n0064a
+:CUSTOM_ID: ZB6u0077
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064a
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 張總
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0078 [[mandoku:ZB6u0078.org][ZB6u0078]]  [[cbeta:W/W07n0064b/W07n0064b.org][W07n0064b]] 地藏菩薩十齋日
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W07n0064b
+:CUSTOM_ID: ZB6u0078
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064b
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 張總
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0079 [[mandoku:ZB6u0079.org][ZB6u0079]]  [[cbeta:W/W07n0064c/W07n0064c.org][W07n0064c]] 地藏菩薩十齋日
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W07n0064c
+:CUSTOM_ID: ZB6u0079
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064c
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 張總
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0080 [[mandoku:ZB6u0080.org][ZB6u0080]]  [[cbeta:W/W07n0064d/W07n0064d.org][W07n0064d]] 地藏菩薩十齋日
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W07n0064d
+:CUSTOM_ID: ZB6u0080
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064d
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 張總
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0081 [[mandoku:ZB6u0081.org][ZB6u0081]]  [[cbeta:W/W07n0064e/W07n0064e.org][W07n0064e]] 地藏菩薩十齋日
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W07n0064e
+:CUSTOM_ID: ZB6u0081
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064e
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 張總
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0082 [[mandoku:ZB6u0082.org][ZB6u0082]]  [[cbeta:W/W07n0064f/W07n0064f.org][W07n0064f]] 地藏菩薩十齋日
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W07n0064f
+:CUSTOM_ID: ZB6u0082
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064f
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 張總
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0083 [[mandoku:ZB6u0083.org][ZB6u0083]]  [[cbeta:W/W07n0064g/W07n0064g.org][W07n0064g]] 地藏菩薩十齋日
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W07n0064g
+:CUSTOM_ID: ZB6u0083
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064g
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 張總
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0084 [[mandoku:ZB6u0084.org][ZB6u0084]]  [[cbeta:W/W07n0064h/W07n0064h.org][W07n0064h]] 地藏菩薩十齋日
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W07n0064h
+:CUSTOM_ID: ZB6u0084
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064h
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 張總
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0085 [[mandoku:ZB6u0085.org][ZB6u0085]]  [[cbeta:W/W07n0065/W07n0065.org][W07n0065]] 寧夏西夏方塔出土漢文佛典敘錄
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W07n0065
+:CUSTOM_ID: ZB6u0085
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 065
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 方廣錩
+:PROPERTIES:
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0086 [[mandoku:ZB6u0086.org][ZB6u0086]]  [[cbeta:W/W07n0066/W07n0066.org][W07n0066]] 日本佛教目錄學的形成——以《東域傳燈錄》為中心
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W07n0066
+:CUSTOM_ID: ZB6u0086
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 066
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 末木文美士
+:PROPERTIES:
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0087 [[mandoku:ZB6u0087.org][ZB6u0087]]  [[cbeta:W/W08n0067/W08n0067.org][W08n0067]] 華嚴略疏卷第一
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W08n0067
+:CUSTOM_ID: ZB6u0087
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 08, No. 067
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 悟緣
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0088 [[mandoku:ZB6u0088.org][ZB6u0088]]  [[cbeta:W/W08n0068/W08n0068.org][W08n0068]] 如來廣孝十種報恩道場儀
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W08n0068
+:CUSTOM_ID: ZB6u0088
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 08, No. 068
+:DYNASTY: 南宋
+:EXTENT:  8卷
+:END:
+**** 人物 
+***** 思覺
+:PROPERTIES:
+:FUNCTION: 集
+:END:
+***** 趙文煥
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 整理
+:END:
+***** 侯沖
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0089 [[mandoku:ZB6u0089.org][ZB6u0089]]  [[cbeta:W/W08n0069/W08n0069.org][W08n0069]] 二曜金剛合璧
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W08n0069
+:CUSTOM_ID: ZB6u0089
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 08, No. 069
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 通源
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0090 [[mandoku:ZB6u0090.org][ZB6u0090]]  [[cbeta:W/W08n0070/W08n0070.org][W08n0070]] 敦煌寺院所藏大藏經概貌
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W08n0070
+:CUSTOM_ID: ZB6u0090
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 08, No. 070
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 方廣錩
+:PROPERTIES:
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0091 [[mandoku:ZB6u0091.org][ZB6u0091]]  [[cbeta:W/W08n0071/W08n0071.org][W08n0071]] 《慧琳音義》與唐代大藏經
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W08n0071
+:CUSTOM_ID: ZB6u0091
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 08, No. 071
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 方廣錩
+:PROPERTIES:
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0092 [[mandoku:ZB6u0092.org][ZB6u0092]]  [[cbeta:W/W09n0072/W09n0072.org][W09n0072]] 佛性觀修善法
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W09n0072
+:CUSTOM_ID: ZB6u0092
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 072
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 信行
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+***** 西本照真
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0093 [[mandoku:ZB6u0093.org][ZB6u0093]]  [[cbeta:W/W09n0073a/W09n0073a.org][W09n0073a]] 金剛經讚集
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W09n0073a
+:CUSTOM_ID: ZB6u0093
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073a
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 達照
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0094 [[mandoku:ZB6u0094.org][ZB6u0094]]  [[cbeta:W/W09n0073b/W09n0073b.org][W09n0073b]] 金剛經讚集（擬）
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W09n0073b
+:CUSTOM_ID: ZB6u0094
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073b
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 達照
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0095 [[mandoku:ZB6u0095.org][ZB6u0095]]  [[cbeta:W/W09n0073c/W09n0073c.org][W09n0073c]] 金剛經讚集（擬）
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W09n0073c
+:CUSTOM_ID: ZB6u0095
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073c
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 達照
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0096 [[mandoku:ZB6u0096.org][ZB6u0096]]  [[cbeta:W/W09n0073d/W09n0073d.org][W09n0073d]] 金剛經注頌釋
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W09n0073d
+:CUSTOM_ID: ZB6u0096
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073d
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 達照
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0097 [[mandoku:ZB6u0097.org][ZB6u0097]]  [[cbeta:W/W09n0073e/W09n0073e.org][W09n0073e]] 金剛經頌（擬）
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W09n0073e
+:CUSTOM_ID: ZB6u0097
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073e
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 達照
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0098 [[mandoku:ZB6u0098.org][ZB6u0098]]  [[cbeta:W/W09n0073f/W09n0073f.org][W09n0073f]] 梁朝傅大士頌金剛經
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W09n0073f
+:CUSTOM_ID: ZB6u0098
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073f
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 達照
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0099 [[mandoku:ZB6u0099.org][ZB6u0099]]  [[cbeta:W/W09n0073g/W09n0073g.org][W09n0073g]] 梁朝傅大士頌金剛經
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W09n0073g
+:CUSTOM_ID: ZB6u0099
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073g
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 達照
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0100 [[mandoku:ZB6u0100.org][ZB6u0100]]  [[cbeta:W/W09n0073h/W09n0073h.org][W09n0073h]] 梁朝傅大士夾頌金剛經
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W09n0073h
+:CUSTOM_ID: ZB6u0100
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073h
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 達照
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0101 [[mandoku:ZB6u0101.org][ZB6u0101]]  [[cbeta:W/W09n0074/W09n0074.org][W09n0074]] 寶髻大王菩薩本緣
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W09n0074
+:CUSTOM_ID: ZB6u0101
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 074
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 任遠
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0102 [[mandoku:ZB6u0102.org][ZB6u0102]]  [[cbeta:W/W09n0075/W09n0075.org][W09n0075]] 寶髻本緣
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W09n0075
+:CUSTOM_ID: ZB6u0102
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 075
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 克什曼德拉
+:PROPERTIES:
+:FUNCTION: 原著
+:END:
+***** 任遠
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0103 [[mandoku:ZB6u0103.org][ZB6u0103]]  [[cbeta:W/W09n0076/W09n0076.org][W09n0076]] 三階教文獻綜述
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W09n0076
+:CUSTOM_ID: ZB6u0103
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 076
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 西本照真
+:PROPERTIES:
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0104 [[mandoku:ZB6u0104.org][ZB6u0104]]  [[cbeta:W/W09n0077/W09n0077.org][W09n0077]] 關於江泌女子僧法誦出經
+:PROPERTIES: 
+:BASEEDITION:  W
+:CBETA_ID:  W09n0077
+:CUSTOM_ID: ZB6u0104
+:SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 077
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 方廣錩
+:PROPERTIES:
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:
+
+*** KR6v0105 [[mandoku:ZB6u0105.org][ZB6u0105]]  [[cbeta:I/I01n0001/I01n0001.org][I01n0001]] 宕昌公暉福寺碑
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0001
+:CUSTOM_ID: ZB6u0105
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 001
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0106 [[mandoku:ZB6u0106.org][ZB6u0106]]  [[cbeta:I/I01n0002/I01n0002.org][I01n0002]] 姚伯多等造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0002
+:CUSTOM_ID: ZB6u0106
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 002
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0107 [[mandoku:ZB6u0107.org][ZB6u0107]]  [[cbeta:I/I01n0003/I01n0003.org][I01n0003]] 元景造石窟記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0003
+:CUSTOM_ID: ZB6u0107
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 003
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0108 [[mandoku:ZB6u0108.org][ZB6u0108]]  [[cbeta:I/I01n0004/I01n0004.org][I01n0004]] 韓貞等造石窟記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0004
+:CUSTOM_ID: ZB6u0108
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 004
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0109 [[mandoku:ZB6u0109.org][ZB6u0109]]  [[cbeta:I/I01n0005/I01n0005.org][I01n0005]] 劉未等造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0005
+:CUSTOM_ID: ZB6u0109
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 005
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0110 [[mandoku:ZB6u0110.org][ZB6u0110]]  [[cbeta:I/I01n0006/I01n0006.org][I01n0006]] 高伏德等三百人造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0006
+:CUSTOM_ID: ZB6u0110
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 006
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0111 [[mandoku:ZB6u0111.org][ZB6u0111]]  [[cbeta:I/I01n0007/I01n0007.org][I01n0007]] 比丘法雅等千人造九級浮圖碑
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0007
+:CUSTOM_ID: ZB6u0111
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 007
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0112 [[mandoku:ZB6u0112.org][ZB6u0112]]  [[cbeta:I/I01n0008/I01n0008.org][I01n0008]] 張道智造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0008
+:CUSTOM_ID: ZB6u0112
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 008
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0113 [[mandoku:ZB6u0113.org][ZB6u0113]]  [[cbeta:I/I01n0009/I01n0009.org][I01n0009]] 高洛周七十人等造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0009
+:CUSTOM_ID: ZB6u0113
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 009
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0114 [[mandoku:ZB6u0114.org][ZB6u0114]]  [[cbeta:I/I01n0010/I01n0010.org][I01n0010]] 僧暈等造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0010
+:CUSTOM_ID: ZB6u0114
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 010
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0115 [[mandoku:ZB6u0115.org][ZB6u0115]]  [[cbeta:I/I01n0011/I01n0011.org][I01n0011]] 馮神育等二百廿人造像碑
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0011
+:CUSTOM_ID: ZB6u0115
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 011
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0116 [[mandoku:ZB6u0116.org][ZB6u0116]]  [[cbeta:I/I01n0012/I01n0012.org][I01n0012]] 嵩顯寺碑
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0012
+:CUSTOM_ID: ZB6u0116
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 012
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0117 [[mandoku:ZB6u0117.org][ZB6u0117]]  [[cbeta:I/I01n0013/I01n0013.org][I01n0013]] 南石窟寺碑
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0013
+:CUSTOM_ID: ZB6u0117
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 013
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0118 [[mandoku:ZB6u0118.org][ZB6u0118]]  [[cbeta:I/I01n0014/I01n0014.org][I01n0014]] 比丘郭曇勝造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0014
+:CUSTOM_ID: ZB6u0118
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 014
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+*** KR6v0119 [[mandoku:ZB6u0119.org][ZB6u0119]]  [[cbeta:I/I01n0015/I01n0015.org][I01n0015]] 張安世造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0015
+:CUSTOM_ID: ZB6u0119
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 015
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0120 [[mandoku:ZB6u0120.org][ZB6u0120]]  [[cbeta:I/I01n0016/I01n0016.org][I01n0016]] 比丘劉僧真等造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0016
+:CUSTOM_ID: ZB6u0120
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 016
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0121 [[mandoku:ZB6u0121.org][ZB6u0121]]  [[cbeta:I/I01n0017/I01n0017.org][I01n0017]] 夫蒙文慶造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0017
+:CUSTOM_ID: ZB6u0121
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 017
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0122 [[mandoku:ZB6u0122.org][ZB6u0122]]  [[cbeta:I/I01n0018/I01n0018.org][I01n0018]] 張乾度七十人等造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0018
+:CUSTOM_ID: ZB6u0122
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 018
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0123 [[mandoku:ZB6u0123.org][ZB6u0123]]  [[cbeta:I/I01n0019/I01n0019.org][I01n0019]] 錡雙胡廿人等造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0019
+:CUSTOM_ID: ZB6u0123
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 019
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0124 [[mandoku:ZB6u0124.org][ZB6u0124]]  [[cbeta:I/I01n0020/I01n0020.org][I01n0020]] 袁永等五十人造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0020
+:CUSTOM_ID: ZB6u0124
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 020
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0125 [[mandoku:ZB6u0125.org][ZB6u0125]]  [[cbeta:I/I01n0021/I01n0021.org][I01n0021]] 馬鳴寺根法師碑
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0021
+:CUSTOM_ID: ZB6u0125
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 021
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0126 [[mandoku:ZB6u0126.org][ZB6u0126]]  [[cbeta:I/I01n0022/I01n0022.org][I01n0022]] 比丘尼統慈慶墓誌銘
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0022
+:CUSTOM_ID: ZB6u0126
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 022
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0127 [[mandoku:ZB6u0127.org][ZB6u0127]]  [[cbeta:I/I01n0023/I01n0023.org][I01n0023]] 孫遼浮圖銘
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0023
+:CUSTOM_ID: ZB6u0127
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 023
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0128 [[mandoku:ZB6u0128.org][ZB6u0128]]  [[cbeta:I/I01n0024/I01n0024.org][I01n0024]] 仇臣生造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0024
+:CUSTOM_ID: ZB6u0128
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 024
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0129 [[mandoku:ZB6u0129.org][ZB6u0129]]  [[cbeta:I/I01n0025/I01n0025.org][I01n0025]] 常煥等造浮圖記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0025
+:CUSTOM_ID: ZB6u0129
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 025
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0130 [[mandoku:ZB6u0130.org][ZB6u0130]]  [[cbeta:I/I01n0026/I01n0026.org][I01n0026]] 蔣伯仙造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0026
+:CUSTOM_ID: ZB6u0130
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 026
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0131 [[mandoku:ZB6u0131.org][ZB6u0131]]  [[cbeta:I/I01n0027/I01n0027.org][I01n0027]] 杜善勝合邑七十人造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0027
+:CUSTOM_ID: ZB6u0131
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 027
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0132 [[mandoku:ZB6u0132.org][ZB6u0132]]  [[cbeta:I/I01n0028/I01n0028.org][I01n0028]] 大覺寺元尼墓誌銘并序
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0028
+:CUSTOM_ID: ZB6u0132
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 028
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0133 [[mandoku:ZB6u0133.org][ZB6u0133]]  [[cbeta:I/I01n0029/I01n0029.org][I01n0029]] 僧智薛鳳規等道俗造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0029
+:CUSTOM_ID: ZB6u0133
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 029
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0134 [[mandoku:ZB6u0134.org][ZB6u0134]]  [[cbeta:I/I01n0030/I01n0030.org][I01n0030]] 廣業寺造像碑
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0030
+:CUSTOM_ID: ZB6u0134
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 030
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0135 [[mandoku:ZB6u0135.org][ZB6u0135]]  [[cbeta:I/I01n0031/I01n0031.org][I01n0031]] 儁蒙文姬卅一人等造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0031
+:CUSTOM_ID: ZB6u0135
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 031
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0136 [[mandoku:ZB6u0136.org][ZB6u0136]]  [[cbeta:I/I01n0032/I01n0032.org][I01n0032]] 大魏故昭玄沙門大統令法師墓誌銘
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0032
+:CUSTOM_ID: ZB6u0136
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 032
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0137 [[mandoku:ZB6u0137.org][ZB6u0137]]  [[cbeta:I/I01n0033/I01n0033.org][I01n0033]] 法義兄弟等二百人造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0033
+:CUSTOM_ID: ZB6u0137
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 033
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0138 [[mandoku:ZB6u0138.org][ZB6u0138]]  [[cbeta:I/I01n0034/I01n0034.org][I01n0034]] 中岳嵩陽寺碑
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0034
+:CUSTOM_ID: ZB6u0138
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 034
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0139 [[mandoku:ZB6u0139.org][ZB6u0139]]  [[cbeta:I/I01n0035/I01n0035.org][I01n0035]] 張法壽息榮遷等造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0035
+:CUSTOM_ID: ZB6u0139
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 035
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0140 [[mandoku:ZB6u0140.org][ZB6u0140]]  [[cbeta:I/I01n0036/I01n0036.org][I01n0036]] 安村道俗一百餘人修塔記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0036
+:CUSTOM_ID: ZB6u0140
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 036
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0141 [[mandoku:ZB6u0141.org][ZB6u0141]]  [[cbeta:I/I01n0040/I01n0040.org][I01n0040]] 凝禪寺三級浮圖碑
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0040
+:CUSTOM_ID: ZB6u0141
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 040
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0142 [[mandoku:ZB6u0142.org][ZB6u0142]]  [[cbeta:I/I01n0041/I01n0041.org][I01n0041]] 敬史君碑
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0041
+:CUSTOM_ID: ZB6u0142
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 041
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0143 [[mandoku:ZB6u0143.org][ZB6u0143]]  [[cbeta:I/I01n0043/I01n0043.org][I01n0043]] 李氏合邑造像碑
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0043
+:CUSTOM_ID: ZB6u0143
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 043
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0144 [[mandoku:ZB6u0144.org][ZB6u0144]]  [[cbeta:I/I01n0044/I01n0044.org][I01n0044]] 李贊邑等邑義五百餘人造像碑
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0044
+:CUSTOM_ID: ZB6u0144
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 044
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0145 [[mandoku:ZB6u0145.org][ZB6u0145]]  [[cbeta:I/I01n0045/I01n0045.org][I01n0045]] 道俗九十人造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0045
+:CUSTOM_ID: ZB6u0145
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 045
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0146 [[mandoku:ZB6u0146.org][ZB6u0146]]  [[cbeta:I/I01n0046/I01n0046.org][I01n0046]] 王貳郎法義三百人等造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0046
+:CUSTOM_ID: ZB6u0146
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 046
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0147 [[mandoku:ZB6u0147.org][ZB6u0147]]  [[cbeta:I/I01n0047/I01n0047.org][I01n0047]] 朱永隆七十人等造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0047
+:CUSTOM_ID: ZB6u0147
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 047
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0148 [[mandoku:ZB6u0148.org][ZB6u0148]]  [[cbeta:I/I01n0048/I01n0048.org][I01n0048]] 報德玉像七佛頌碑
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0048
+:CUSTOM_ID: ZB6u0148
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 048
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0149 [[mandoku:ZB6u0149.org][ZB6u0149]]  [[cbeta:I/I01n0052/I01n0052.org][I01n0052]] 比丘道瓊造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0052
+:CUSTOM_ID: ZB6u0149
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 052
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0150 [[mandoku:ZB6u0150.org][ZB6u0150]]  [[cbeta:I/I01n0053/I01n0053.org][I01n0053]] 杜英儁等十四人造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0053
+:CUSTOM_ID: ZB6u0150
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 053
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0151 [[mandoku:ZB6u0151.org][ZB6u0151]]  [[cbeta:I/I01n0037/I01n0037.org][I01n0037]] 白實等造中興寺石像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0037
+:CUSTOM_ID: ZB6u0151
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 037
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0152 [[mandoku:ZB6u0152.org][ZB6u0152]]  [[cbeta:I/I01n0038/I01n0038.org][I01n0038]] 僧演造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0038
+:CUSTOM_ID: ZB6u0152
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 038
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0153 [[mandoku:ZB6u0153.org][ZB6u0153]]  [[cbeta:I/I01n0039/I01n0039.org][I01n0039]] 合邑四十人造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0039
+:CUSTOM_ID: ZB6u0153
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 039
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0154 [[mandoku:ZB6u0154.org][ZB6u0154]]  [[cbeta:I/I01n0042/I01n0042.org][I01n0042]] 巨始光等造像碑
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0042
+:CUSTOM_ID: ZB6u0154
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 042
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0155 [[mandoku:ZB6u0155.org][ZB6u0155]]  [[cbeta:I/I01n0049/I01n0049.org][I01n0049]] 杜照賢十三人等造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0049
+:CUSTOM_ID: ZB6u0155
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 049
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0156 [[mandoku:ZB6u0156.org][ZB6u0156]]  [[cbeta:I/I01n0050/I01n0050.org][I01n0050]] 陳神姜等造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0050
+:CUSTOM_ID: ZB6u0156
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 050
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0157 [[mandoku:ZB6u0157.org][ZB6u0157]]  [[cbeta:I/I01n0051/I01n0051.org][I01n0051]] 邑子七十人等造大道如來記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0051
+:CUSTOM_ID: ZB6u0157
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 051
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0158 [[mandoku:ZB6u0158.org][ZB6u0158]]  [[cbeta:I/I01n0054/I01n0054.org][I01n0054]] 道俗卅七人造經像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0054
+:CUSTOM_ID: ZB6u0158
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 054
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0159 [[mandoku:ZB6u0159.org][ZB6u0159]]  [[cbeta:I/I01n0064/I01n0064.org][I01n0064]] 強獨樂為周文王造像碑
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0064
+:CUSTOM_ID: ZB6u0159
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 064
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0160 [[mandoku:ZB6u0160.org][ZB6u0160]]  [[cbeta:I/I01n0070/I01n0070.org][I01n0070]] 周大將軍延壽公碑頌
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0070
+:CUSTOM_ID: ZB6u0160
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 070
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0161 [[mandoku:ZB6u0161.org][ZB6u0161]]  [[cbeta:I/I01n0074/I01n0074.org][I01n0074]] 比丘尼法藏等造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0074
+:CUSTOM_ID: ZB6u0161
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 074
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0162 [[mandoku:ZB6u0162.org][ZB6u0162]]  [[cbeta:I/I01n0081/I01n0081.org][I01n0081]] 雷暉嫗造釋迦像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0081
+:CUSTOM_ID: ZB6u0162
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 081
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0163 [[mandoku:ZB6u0163.org][ZB6u0163]]  [[cbeta:I/I01n0082/I01n0082.org][I01n0082]] 陳氏合村造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0082
+:CUSTOM_ID: ZB6u0163
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 082
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+*** KR6v0164 [[mandoku:ZB6u0164.org][ZB6u0164]]  [[cbeta:I/I01n0083/I01n0083.org][I01n0083]] 雷明香造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0083
+:CUSTOM_ID: ZB6u0164
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 083
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0165 [[mandoku:ZB6u0165.org][ZB6u0165]]  [[cbeta:I/I01n0097/I01n0097.org][I01n0097]] 瓽仲義八十人等造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0097
+:CUSTOM_ID: ZB6u0165
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 097
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0166 [[mandoku:ZB6u0166.org][ZB6u0166]]  [[cbeta:I/I01n0099/I01n0099.org][I01n0099]] 建崇寺浮圖銘
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0099
+:CUSTOM_ID: ZB6u0166
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 099
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0167 [[mandoku:ZB6u0167.org][ZB6u0167]]  [[cbeta:I/I01n0055/I01n0055.org][I01n0055]] 邢多五十人等造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0055
+:CUSTOM_ID: ZB6u0167
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 055
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0168 [[mandoku:ZB6u0168.org][ZB6u0168]]  [[cbeta:I/I01n0056/I01n0056.org][I01n0056]] 馬敬賢五十人等造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0056
+:CUSTOM_ID: ZB6u0168
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 056
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0169 [[mandoku:ZB6u0169.org][ZB6u0169]]  [[cbeta:I/I01n0057/I01n0057.org][I01n0057]] 葉容等造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0057
+:CUSTOM_ID: ZB6u0169
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 057
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0170 [[mandoku:ZB6u0170.org][ZB6u0170]]  [[cbeta:I/I01n0058/I01n0058.org][I01n0058]] 李清造報德像碑
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0058
+:CUSTOM_ID: ZB6u0170
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 058
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0171 [[mandoku:ZB6u0171.org][ZB6u0171]]  [[cbeta:I/I01n0059/I01n0059.org][I01n0059]] 郭猛八十人等造塔像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0059
+:CUSTOM_ID: ZB6u0171
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 059
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0172 [[mandoku:ZB6u0172.org][ZB6u0172]]  [[cbeta:I/I01n0060/I01n0060.org][I01n0060]] 趙郡王高叡定國寺碑
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0060
+:CUSTOM_ID: ZB6u0172
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 060
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0173 [[mandoku:ZB6u0173.org][ZB6u0173]]  [[cbeta:I/I01n0061/I01n0061.org][I01n0061]] 趙郡王高叡修定國寺頌
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0061
+:CUSTOM_ID: ZB6u0173
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 061
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0174 [[mandoku:ZB6u0174.org][ZB6u0174]]  [[cbeta:I/I01n0062/I01n0062.org][I01n0062]] 靜明等修塔造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0062
+:CUSTOM_ID: ZB6u0174
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 062
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0175 [[mandoku:ZB6u0175.org][ZB6u0175]]  [[cbeta:I/I01n0063/I01n0063.org][I01n0063]] 劉碑造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0063
+:CUSTOM_ID: ZB6u0175
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 063
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0176 [[mandoku:ZB6u0176.org][ZB6u0176]]  [[cbeta:I/I01n0065/I01n0065.org][I01n0065]] 宋敬業等造塔記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0065
+:CUSTOM_ID: ZB6u0176
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 065
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0177 [[mandoku:ZB6u0177.org][ZB6u0177]]  [[cbeta:I/I01n0066/I01n0066.org][I01n0066]] 魯思明等造寺記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0066
+:CUSTOM_ID: ZB6u0177
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 066
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0178 [[mandoku:ZB6u0178.org][ZB6u0178]]  [[cbeta:I/I01n0067/I01n0067.org][I01n0067]] 董黃頭七十人等造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0067
+:CUSTOM_ID: ZB6u0178
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 067
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0179 [[mandoku:ZB6u0179.org][ZB6u0179]]  [[cbeta:I/I01n0068/I01n0068.org][I01n0068]] 東平郡須昌縣□檀寺造經碑
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0068
+:CUSTOM_ID: ZB6u0179
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 068
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0180 [[mandoku:ZB6u0180.org][ZB6u0180]]  [[cbeta:I/I01n0069/I01n0069.org][I01n0069]] 方法師鏤石班經記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0069
+:CUSTOM_ID: ZB6u0180
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 069
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0181 [[mandoku:ZB6u0181.org][ZB6u0181]]  [[cbeta:I/I01n0071/I01n0071.org][I01n0071]] 陳神忻七十二人等造石室記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0071
+:CUSTOM_ID: ZB6u0181
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 071
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0182 [[mandoku:ZB6u0182.org][ZB6u0182]]  [[cbeta:I/I01n0072/I01n0072.org][I01n0072]] 彭城王高浟修寺碑
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0072
+:CUSTOM_ID: ZB6u0182
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 072
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0183 [[mandoku:ZB6u0183.org][ZB6u0183]]  [[cbeta:I/I01n0073/I01n0073.org][I01n0073]] 標異鄉義慈惠石柱頌
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0073
+:CUSTOM_ID: ZB6u0183
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 073
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0184 [[mandoku:ZB6u0184.org][ZB6u0184]]  [[cbeta:I/I01n0075/I01n0075.org][I01n0075]] 陳榮等三百餘人造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0075
+:CUSTOM_ID: ZB6u0184
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 075
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0185 [[mandoku:ZB6u0185.org][ZB6u0185]]  [[cbeta:I/I01n0076/I01n0076.org][I01n0076]] 阿鹿交村七十人等造石室像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0076
+:CUSTOM_ID: ZB6u0185
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 076
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0186 [[mandoku:ZB6u0186.org][ZB6u0186]]  [[cbeta:I/I01n0077/I01n0077.org][I01n0077]] 嚴壽等重修故塔記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0077
+:CUSTOM_ID: ZB6u0186
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 077
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0187 [[mandoku:ZB6u0187.org][ZB6u0187]]  [[cbeta:I/I01n0078/I01n0078.org][I01n0078]] 比丘道政四十人等造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0078
+:CUSTOM_ID: ZB6u0187
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 078
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0188 [[mandoku:ZB6u0188.org][ZB6u0188]]  [[cbeta:I/I01n0079/I01n0079.org][I01n0079]] 王氏道俗百人造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0079
+:CUSTOM_ID: ZB6u0188
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 079
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0189 [[mandoku:ZB6u0189.org][ZB6u0189]]  [[cbeta:I/I01n0080/I01n0080.org][I01n0080]] 郭顯邕等造一切經記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0080
+:CUSTOM_ID: ZB6u0189
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 080
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0190 [[mandoku:ZB6u0190.org][ZB6u0190]]  [[cbeta:I/I01n0084/I01n0084.org][I01n0084]] 宋買廿二人等造天宮石像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0084
+:CUSTOM_ID: ZB6u0190
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 084
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0191 [[mandoku:ZB6u0191.org][ZB6u0191]]  [[cbeta:I/I01n0085/I01n0085.org][I01n0085]] 韓永義等造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0085
+:CUSTOM_ID: ZB6u0191
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 085
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0192 [[mandoku:ZB6u0192.org][ZB6u0192]]  [[cbeta:I/I01n0086/I01n0086.org][I01n0086]] 潘景暉造碑像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0086
+:CUSTOM_ID: ZB6u0192
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 086
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0193 [[mandoku:ZB6u0193.org][ZB6u0193]]  [[cbeta:I/I01n0087/I01n0087.org][I01n0087]] 棲閑寺邑義六十人造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0087
+:CUSTOM_ID: ZB6u0193
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 087
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0194 [[mandoku:ZB6u0194.org][ZB6u0194]]  [[cbeta:I/I01n0088/I01n0088.org][I01n0088]] 劉氏造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0088
+:CUSTOM_ID: ZB6u0194
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 088
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0195 [[mandoku:ZB6u0195.org][ZB6u0195]]  [[cbeta:I/I01n0089/I01n0089.org][I01n0089]] 舜禪師等百餘人造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0089
+:CUSTOM_ID: ZB6u0195
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 089
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0196 [[mandoku:ZB6u0196.org][ZB6u0196]]  [[cbeta:I/I01n0090/I01n0090.org][I01n0090]] 董洪達四十人等造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0090
+:CUSTOM_ID: ZB6u0196
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 090
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0197 [[mandoku:ZB6u0197.org][ZB6u0197]]  [[cbeta:I/I01n0091/I01n0091.org][I01n0091]] 楊暎香等八十人造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0091
+:CUSTOM_ID: ZB6u0197
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 091
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0198 [[mandoku:ZB6u0198.org][ZB6u0198]]  [[cbeta:I/I01n0092/I01n0092.org][I01n0092]] 道略等造神碑像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0092
+:CUSTOM_ID: ZB6u0198
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 092
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0199 [[mandoku:ZB6u0199.org][ZB6u0199]]  [[cbeta:I/I01n0093/I01n0093.org][I01n0093]] 永顯寺道端等三百人造像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0093
+:CUSTOM_ID: ZB6u0199
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 093
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0200 [[mandoku:ZB6u0200.org][ZB6u0200]]  [[cbeta:I/I01n0094/I01n0094.org][I01n0094]] 興聖寺四十人等造碑像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0094
+:CUSTOM_ID: ZB6u0200
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 094
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0201 [[mandoku:ZB6u0201.org][ZB6u0201]]  [[cbeta:I/I01n0095/I01n0095.org][I01n0095]] 唐邕刻經記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0095
+:CUSTOM_ID: ZB6u0201
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 095
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0202 [[mandoku:ZB6u0202.org][ZB6u0202]]  [[cbeta:I/I01n0096/I01n0096.org][I01n0096]] 馮翊王高潤修平等寺碑
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0096
+:CUSTOM_ID: ZB6u0202
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 096
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0203 [[mandoku:ZB6u0203.org][ZB6u0203]]  [[cbeta:I/I01n0098/I01n0098.org][I01n0098]] 臨淮王像碑
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0098
+:CUSTOM_ID: ZB6u0203
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 098
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit3
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+
+*** KR6v0204 [[mandoku:ZB6u0204.org][ZB6u0204]]  [[cbeta:I/I01n0100/I01n0100.org][I01n0100]] 比丘尼圓照圓光造雙像記
+:PROPERTIES: 
+:BASEEDITION:  I
+:CBETA_ID:  I01n0100
+:CUSTOM_ID: ZB6u0204
+:SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 100
+:DYNASTY: 民國
+:EXTENT:  1卷
+:END:
+**** 人物 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** 【史】
+:PROPERTIES: 
+:WITID: wit5
+:END:
+
+***** 【原】
+:PROPERTIES: 
+:WITID: wit6
+:END:
+

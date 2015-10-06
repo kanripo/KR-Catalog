@@ -1,0 +1,182 @@
+#-*- mode: org; -*-
+#+COLUMNS: %30ITEM %15CUSTOM_ID
+** KR3c ZB3c 法家類
+*** KR3c0001 [[mandoku:ZB3c0001.org][ZB3c0001]] 管子
+:PROPERTIES:
+:CUSTOM_ID:  ZB3c0001
+:SOURCE:   四庫全書 文淵閣版, V729.1, p1
+:EXTENT: 24 卷
+:BOOK:   10
+:END:
+**** 人物
+***** 管仲
+     :PROPERTIES:
+     :DYNASTY:  周
+     :FUNCTION: 撰
+     :DATES:    d. -645
+     :END:
+
+***** 房玄齡
+     :PROPERTIES:
+     :DYNASTY:  唐
+     :FUNCTION: 注
+     :END:
+
+**** 版本
+***** WYG
+*** KR3c0002 [[mandoku:ZB3c0002.org][ZB3c0002]] 管子補注
+:PROPERTIES:
+:CUSTOM_ID:  ZB3c0002
+:SOURCE:   四庫全書 文淵閣版, V729.2, p275
+:EXTENT: 24 卷
+:BOOK:   12
+:DATE:   1490
+:END:
+**** 人物
+***** 劉績
+     :PROPERTIES:
+     :DYNASTY:  明
+     :FUNCTION: 撰
+     :END:
+
+**** 版本
+***** WYG
+*** KR3c0003 [[mandoku:ZB3c0003.org][ZB3c0003]] 鄧析子
+:PROPERTIES:
+:CUSTOM_ID:  ZB3c0003
+:SOURCE:   四庫全書 文淵閣版, V729.3, p553
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** 人物
+***** 鄧析
+     :PROPERTIES:
+     :DYNASTY:  周
+     :FUNCTION: 撰
+     :DATES:    -545 - -501
+     :END:
+
+**** 版本
+***** WYG
+*** KR3c0004 [[mandoku:ZB3c0004.org][ZB3c0004]] 商子
+:PROPERTIES:
+:CUSTOM_ID:  ZB3c0004
+:SOURCE:   四庫全書 文淵閣版, V729.4, p561
+:EXTENT: 5 卷
+:BOOK:   1
+:END:
+**** 人物
+***** 商鞅
+     :PROPERTIES:
+     :DYNASTY:  秦
+     :FUNCTION: 撰
+     :DATES:    d. -338
+     :END:
+
+**** 版本
+***** WYG
+*** KR3c0005 [[mandoku:ZB3c0005.org][ZB3c0005]] 韓非子
+:PROPERTIES:
+:CUSTOM_ID:  ZB3c0005
+:SOURCE:   四庫全書 文淵閣版, V729.5, p597
+:EXTENT: 20 卷
+:BOOK:   10
+:END:
+**** 人物
+***** 韓非
+     :PROPERTIES:
+     :DYNASTY:  周
+     :FUNCTION: 撰
+     :DATES:    d. -233
+     :END:
+
+***** 何犿
+     :PROPERTIES:
+     :DYNASTY:  元
+     :FUNCTION: 注
+     :END:
+
+**** 版本
+***** WYG
+*** KR3c0006 [[mandoku:ZB3c0006.org][ZB3c0006]] 疑獄集
+:PROPERTIES:
+:CUSTOM_ID:  ZB3c0006
+:SOURCE:   四庫全書 文淵閣版, V729.6, p795
+:EXTENT: 4 卷
+:BOOK:   3
+:END:
+**** 人物
+***** 和凝
+     :PROPERTIES:
+     :DYNASTY:  五代
+     :FUNCTION: 撰
+     :END:
+
+***** 和㠓
+     :PROPERTIES:
+     :DYNASTY:  五代
+     :FUNCTION: 撰
+     :END:
+
+**** 版本
+***** WYG
+**** 補疑獄集
+     :PROPERTIES:
+     :TYPE:   appendix
+     :EXTENT: 6 卷
+     :BOOK:   (3)
+     :END:
+***** 人物
+****** 張景
+     :PROPERTIES:
+     :DYNASTY:  明
+     :FUNCTION: 撰
+     :END:
+
+*** KR3c0007 [[mandoku:ZB3c0007.org][ZB3c0007]] 折獄龜鑑
+:PROPERTIES:
+:CUSTOM_ID:  ZB3c0007
+:SOURCE:   四庫全書 文淵閣版, V729.7, p861
+:EXTENT: 8 卷
+:BOOK:   4
+:END:
+**** 人物
+***** 鄭克
+     :PROPERTIES:
+     :DYNASTY:  宋
+     :FUNCTION: 撰
+     :DATES:    12th cent
+     :END:
+
+**** 版本
+***** WYG
+*** KR3c0008 [[mandoku:ZB3c0008.org][ZB3c0008]] 棠陰比事
+:PROPERTIES:
+:CUSTOM_ID:  ZB3c0008
+:SOURCE:   四庫全書 文淵閣版, V729.8, p969
+:EXTENT: 1 卷
+:BOOK:   1
+:DATE:   1196
+:END:
+**** 人物
+***** 桂萬榮
+     :PROPERTIES:
+     :DYNASTY:  宋
+     :FUNCTION: 撰
+     :END:
+
+***** 吳訥
+     :PROPERTIES:
+     :DYNASTY:  明
+     :FUNCTION: 刪補
+     :END:
+
+**** 版本
+***** WYG
+**** 附錄
+     :PROPERTIES:
+     :TYPE:   appendix
+     :EXTENT: 1 卷
+     :BOOK:   (1)
+     :END:
+

@@ -1,0 +1,278 @@
+#-*- mode: org; -*-
+#+COLUMNS: %30ITEM %15CUSTOM_ID
+** KR1f ZB1f 孝經類
+*** KR1f0001 [[at:text/chant/H15-22-0082/H15-22-0082_001.txt][H15-22-0082]] 孝經(正文)
+    :PROPERTIES:
+    :CUSTOM_ID: H15-22-0082
+    :SOURCE:   據清嘉慶二十年(1816)江西南昌府學重刊之宋本《孝經注疏》。
+    :END:
+
+*** KR1f0002 SB11n010 孝經
+:PROPERTIES:
+:TYPE:  text
+:CUSTOM_ID: SB11n010
+:EXTENT: 一卷
+:BOOK: 0036
+:ZB_ID:    SB11n010
+:_RESP:    （唐）玄宗明皇帝
+:END:
+
+**** 人物
+***** 玄宗明皇帝
+:PROPERTIES:
+:FUNCTION: 御注
+:DYNASTY: 唐
+:END:
+
+**** 版本
+***** SBCK
+:PROPERTIES:
+:EDITION:  江陰繆氏藏傳是樓景鈔宋相臺本
+:END:
+
+
+**** 电子版
+[[krpimg:sbck/SB1/SB11n010/SB11n010_001-002.tif][冊 1]]
+*** KR1f0003 [[mandoku:ZB1f0001.org][ZB1f0001]] 古文孝經孔氏傳
+:PROPERTIES:
+:CUSTOM_ID:  ZB1f0001
+:SOURCE:   四庫全書 文淵閣版, V182.1, p1
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** 人物
+***** 孔安國
+     :PROPERTIES:
+     :DYNASTY:  漢
+     :FUNCTION: 傳
+     :END:
+
+***** 太宰純
+     :PROPERTIES:
+     :DYNASTY:  日本
+     :FUNCTION: 音
+     :END:
+
+**** 版本
+***** WYG
+**** (附)宋本古文孝經
+     :PROPERTIES:
+     :TYPE:   appendix
+     :EXTENT: 1 卷
+     :BOOK:   (1)
+     :END:
+
+*** KR1f0004 [[mandoku:ZB1f0002.org][ZB1f0002]] 孝經注疏
+:PROPERTIES:
+:CUSTOM_ID:  ZB1f0002
+:SOURCE:   四庫全書 文淵閣版, V182.2, p23
+:EXTENT: 9 卷
+:BOOK:   2
+:END:
+**** 人物
+***** 玄宗
+     :PROPERTIES:
+     :DYNASTY:  唐
+     :FUNCTION: 御注
+     :DATES:    597 - 649
+     :END:
+
+***** 陸德明
+     :PROPERTIES:
+     :DYNASTY:  唐
+     :FUNCTION: 音義
+     :END:
+
+***** 邢昺
+     :PROPERTIES:
+     :DYNASTY:  宋
+     :FUNCTION: 疏
+     :END:
+
+***** 李清植
+     :PROPERTIES:
+     :DYNASTY:  清
+     :FUNCTION: 考證
+     :END:
+
+**** 版本
+***** WYG
+**** (附)考證
+     :PROPERTIES:
+     :TYPE:   appendix
+     :EXTENT: # 卷
+     :BOOK:   (2)
+     :END:
+
+*** KR1f0005 [[mandoku:ZB1f0003.org][ZB1f0003]] 孝經指解
+:PROPERTIES:
+:CUSTOM_ID:  ZB1f0003
+:SOURCE:   四庫全書 文淵閣版, V182.3, p85
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** 人物
+***** 玄宗
+     :PROPERTIES:
+     :DYNASTY:  唐
+     :FUNCTION: 御注
+     :DATES:    597 - 649
+     :END:
+
+***** 司馬光
+     :PROPERTIES:
+     :DYNASTY:  宋
+     :FUNCTION: 指解
+     :DATES:    1019 - 1086
+     :END:
+
+***** 范祖禹
+     :PROPERTIES:
+     :DYNASTY:  宋
+     :FUNCTION: 說
+     :END:
+
+**** 版本
+***** WYG
+*** KR1f0006 [[mandoku:ZB1f0004.org][ZB1f0004]] 孝經刋誤
+:PROPERTIES:
+:CUSTOM_ID:  ZB1f0004
+:SOURCE:   四庫全書 文淵閣版, V182.4, p103
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** 人物
+***** 朱熹
+     :PROPERTIES:
+     :DYNASTY:  宋
+     :FUNCTION: 撰
+     :DATES:    1130 - 1200
+     :END:
+
+**** 版本
+***** WYG
+*** KR1f0007 [[mandoku:ZB1f0005.org][ZB1f0005]] 孝經大義
+:PROPERTIES:
+:CUSTOM_ID:  ZB1f0005
+:SOURCE:   四庫全書 文淵閣版, V182.5, p111
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** 人物
+***** 董鼎
+     :PROPERTIES:
+     :DYNASTY:  元
+     :FUNCTION: 撰
+     :DATES:    13th cent
+     :END:
+
+**** 版本
+***** WYG
+*** KR1f0008 [[mandoku:ZB1f0006.org][ZB1f0006]] 孝經定本
+:PROPERTIES:
+:CUSTOM_ID:  ZB1f0006
+:SOURCE:   四庫全書 文淵閣版, V182.6, p127
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** 人物
+***** 吳澄
+     :PROPERTIES:
+     :DYNASTY:  元
+     :FUNCTION: 撰
+     :DATES:    1249 - 1331
+     :END:
+
+**** 版本
+***** WYG
+*** KR1f0009 [[mandoku:ZB1f0007.org][ZB1f0007]] 孝經述註
+:PROPERTIES:
+:CUSTOM_ID:  ZB1f0007
+:SOURCE:   四庫全書 文淵閣版, V182.7, p141
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** 人物
+***** 項霦
+     :PROPERTIES:
+     :DYNASTY:  明
+     :FUNCTION: 撰
+     :END:
+
+**** 版本
+***** WYG
+*** KR1f0010 [[mandoku:ZB1f0008.org][ZB1f0008]] 孝經集傳
+:PROPERTIES:
+:CUSTOM_ID:  ZB1f0008
+:SOURCE:   四庫全書 文淵閣版, V182.8, p155
+:EXTENT: 4 卷
+:BOOK:   4
+:END:
+**** 人物
+***** 黃道周
+     :PROPERTIES:
+     :DYNASTY:  明
+     :FUNCTION: 撰
+     :DATES:    1585 - 1646
+     :END:
+
+**** 版本
+***** WYG
+*** KR1f0011 [[mandoku:ZB1f0009.org][ZB1f0009]] 御定孝經注
+:PROPERTIES:
+:CUSTOM_ID:  ZB1f0009
+:SOURCE:   四庫全書 文淵閣版, V182.9, p255
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** 人物
+***** 世祖
+     :PROPERTIES:
+     :DYNASTY:  清
+     :FUNCTION: 御定
+     :DATES:    1638 - 1661
+     :END:
+
+***** 蔣赫德
+     :PROPERTIES:
+     :DYNASTY:  清
+     :FUNCTION: 纂
+     :END:
+
+**** 版本
+***** WYG
+*** KR1f0012 [[mandoku:ZB1f0010.org][ZB1f0010]] 御纂孝經集註
+:PROPERTIES:
+:CUSTOM_ID:  ZB1f0010
+:SOURCE:   四庫全書 文淵閣版, V182.10, p269
+:EXTENT: 1 卷
+:BOOK:   1
+:DATE:   雍正五年
+:END:
+**** 人物
+***** 世宗胤禎
+     :PROPERTIES:
+     :DYNASTY:  清
+     :FUNCTION: 御定
+     :DATES:    1678 - 1735
+     :END:
+
+**** 版本
+***** WYG
+*** KR1f0013 [[mandoku:ZB1f0011.org][ZB1f0011]] 孝經問
+:PROPERTIES:
+:CUSTOM_ID:  ZB1f0011
+:SOURCE:   四庫全書 文淵閣版, V182.11, p281
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** 人物
+***** 毛奇齡
+     :PROPERTIES:
+     :DYNASTY:  清
+     :FUNCTION: 撰
+     :DATES:    1623 - 1716
+     :END:
+
+**** 版本
+***** WYG

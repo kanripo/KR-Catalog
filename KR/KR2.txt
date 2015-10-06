@@ -1,0 +1,17 @@
+# -*- mode: org; -*-
+* KR2 史部
+** [[file:KR2a.txt][KR2a 正史類]]
+** [[file:KR2b.txt][KR2b 編年類]]
+** [[file:KR2c.txt][KR2c 紀事本末類]]
+** [[file:KR2d.txt][KR2d 別史類]]
+** [[file:KR2e.txt][KR2e 雜史類]]
+** [[file:KR2f.txt][KR2f 詔令奏議類]]
+** [[file:KR2g.txt][KR2g 傳記類]]
+** [[file:KR2h.txt][KR2h 史鈔類]]
+** [[file:KR2i.txt][KR2i 載記類]]
+** [[file:KR2j.txt][KR2j 時令類]]
+** [[file:KR2k.txt][KR2k 地理類]]
+** [[file:KR2l.txt][KR2l 職官類]]
+** [[file:KR2m.txt][KR2m 政書類]]
+** [[file:KR2n.txt][KR2n 目錄類]]
+** [[file:KR2o.txt][KR2o 史評類]]

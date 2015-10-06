@@ -1,0 +1,429 @@
+#-*- mode: org; -*-
+#+COLUMNS: %30ITEM %15CUSTOM_ID
+** KR3b ZB3b 兵家類
+*** KR3b0001 [[mandoku:ZB3b0001.org][ZB3b0001]] 握奇經
+:PROPERTIES:
+:CUSTOM_ID:  ZB3b0001
+:SOURCE:   四庫全書 文淵閣版, V726.1, p1
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** 人物
+***** 公孫宏
+     :PROPERTIES:
+     :DYNASTY:  漢
+     :FUNCTION: 解
+     :DATES:    -200 - -121
+     :END:
+
+***** 馬后
+     :PROPERTIES:
+     :FUNCTION: 撰
+     :END:
+
+***** 馬隆述
+     :PROPERTIES:
+     :DYNASTY:  晉
+     :FUNCTION: 讚
+     :END:
+
+***** 高似孫
+     :PROPERTIES:
+     :DYNASTY:  宋
+     :FUNCTION: 注跋
+     :END:
+
+**** 版本
+***** WYG
+*** KR3b0002 [[mandoku:ZB3b0002.org][ZB3b0002]] 六韜
+:PROPERTIES:
+:CUSTOM_ID:  ZB3b0002
+:SOURCE:   四庫全書 文淵閣版, V726.2, p9
+:EXTENT: 6 卷
+:BOOK:   1
+:END:
+**** 人物
+***** 呂望
+     :PROPERTIES:
+     :DYNASTY:  周
+     :FUNCTION: 撰
+     :END:
+
+**** 版本
+***** WYG
+*** KR3b0003 [[mandoku:ZB3b0003.org][ZB3b0003]] 孫子
+:PROPERTIES:
+:CUSTOM_ID:  ZB3b0003
+:SOURCE:   四庫全書 文淵閣版, V726.3, p43
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** 人物
+***** 孫武
+     :PROPERTIES:
+     :DYNASTY:  周
+     :FUNCTION: 撰
+     :DATES:    fl. -380 - -320
+     :END:
+
+**** 版本
+***** WYG
+*** KR3b0004 [[mandoku:ZB3b0004.org][ZB3b0004]] 吳子
+:PROPERTIES:
+:CUSTOM_ID:  ZB3b0004
+:SOURCE:   四庫全書 文淵閣版, V726.4, p57
+:EXTENT: 1 卷
+:BOOK:   (1)
+:END:
+**** 人物
+***** 吳起
+     :PROPERTIES:
+     :DYNASTY:  周
+     :FUNCTION: 撰
+     :DATES:    d. -378
+     :END:
+
+**** 版本
+***** WYG
+*** KR3b0005 [[mandoku:ZB3b0005.org][ZB3b0005]] 司馬法
+:PROPERTIES:
+:CUSTOM_ID:  ZB3b0005
+:SOURCE:   四庫全書 文淵閣版, V726.5, p65
+:EXTENT: 1 卷
+:BOOK:   (1)
+:END:
+**** 人物
+***** 司馬穰苴
+     :PROPERTIES:
+     :DYNASTY:  周
+     :FUNCTION: 撰
+     :DATES:    -722 - -481
+     :END:
+
+**** 版本
+***** WYG
+*** KR3b0006 [[mandoku:ZB3b0006.org][ZB3b0006]] 尉繚子
+:PROPERTIES:
+:CUSTOM_ID:  ZB3b0006
+:SOURCE:   四庫全書 文淵閣版, V726.6, p71
+:EXTENT: 5 卷
+:BOOK:   1
+:END:
+**** 人物
+***** 尉繚
+     :PROPERTIES:
+     :DYNASTY:  周
+     :FUNCTION: 撰
+     :END:
+
+**** 版本
+***** WYG
+*** KR3b0007 [[mandoku:ZB3b0007.org][ZB3b0007]] 黃石公三畧
+:PROPERTIES:
+:CUSTOM_ID:  ZB3b0007
+:SOURCE:   四庫全書 文淵閣版, V726.7, p89
+:EXTENT: 3 卷
+:BOOK:   1
+:END:
+**** 人物
+***** 黃石公
+     :PROPERTIES:
+     :DYNASTY:  秦
+     :FUNCTION: 撰
+     :END:
+
+**** 版本
+***** WYG
+*** KR3b0008 [[mandoku:ZB3b0008.org][ZB3b0008]] 三畧直解
+:PROPERTIES:
+:CUSTOM_ID:  ZB3b0008
+:SOURCE:   四庫全書 文淵閣版, V726.8, p99
+:EXTENT: 3 卷
+:BOOK:   (1)
+:DATE:   1371
+:END:
+**** 人物
+***** 劉寅
+     :PROPERTIES:
+     :DYNASTY:  明
+     :FUNCTION: 撰
+     :END:
+
+**** 版本
+***** WYG
+*** KR3b0009 [[mandoku:ZB3b0009.org][ZB3b0009]] 黃石公素書
+:PROPERTIES:
+:CUSTOM_ID:  ZB3b0009
+:SOURCE:   四庫全書 文淵閣版, V726.9, p127
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** 人物
+***** 黃石公
+     :PROPERTIES:
+     :DYNASTY:  秦
+     :FUNCTION: 撰
+     :END:
+
+***** 張商英
+     :PROPERTIES:
+     :DYNASTY:  宋
+     :FUNCTION: 註
+     :END:
+
+**** 版本
+***** WYG
+*** KR3b0010 [[mandoku:ZB3b0010.org][ZB3b0010]] 李衞公問對
+:PROPERTIES:
+:CUSTOM_ID:  ZB3b0010
+:SOURCE:   四庫全書 文淵閣版, V726.10, p143
+:EXTENT: 3 卷
+:BOOK:   1
+:END:
+**** 人物
+***** 李靖
+     :PROPERTIES:
+     :DYNASTY:  唐
+     :FUNCTION: 撰
+     :DATES:    571 - 649
+     :END:
+
+**** 版本
+***** WYG
+*** KR3b0011 [[mandoku:ZB3b0011.org][ZB3b0011]] 太白陰經
+:PROPERTIES:
+:CUSTOM_ID:  ZB3b0011
+:SOURCE:   四庫全書 文淵閣版, V726.11, p163
+:EXTENT: 8 卷
+:BOOK:   3
+:END:
+**** 人物
+***** 李筌
+     :PROPERTIES:
+     :DYNASTY:  唐
+     :FUNCTION: 撰
+     :DATES:    fl. 759
+     :END:
+
+**** 版本
+***** WYG
+*** KR3b0012 [[mandoku:ZB3b0012.org][ZB3b0012]] 武經總要
+:PROPERTIES:
+:CUSTOM_ID:  ZB3b0012
+:SOURCE:   四庫全書 文淵閣版, V726.12, p235
+:EXTENT: 40 卷
+:BOOK:   32
+:END:
+**** 人物
+***** 曾公亮
+     :PROPERTIES:
+     :DYNASTY:  宋
+     :FUNCTION: 奉敕撰
+     :DATES:    998 - 1078
+     :END:
+
+***** 丁度
+     :PROPERTIES:
+     :DYNASTY:  宋
+     :FUNCTION: 奉敕撰
+     :END:
+
+**** 版本
+***** WYG
+**** 前集
+     :PROPERTIES:
+     :EXTENT: (20) 卷
+     :BOOK:   (14)
+     :END:
+
+**** ZB3b0012a 後集
+     :PROPERTIES:
+     :EXTENT: (20) 卷
+     :BOOK:   (18)
+     :END:
+
+*** KR3b0013 [[mandoku:ZB3b0013.org][ZB3b0013]] 虎鈴經
+:PROPERTIES:
+:CUSTOM_ID:  ZB3b0013
+:SOURCE:   四庫全書 文淵閣版, V727.1, p1
+:EXTENT: 20 卷
+:BOOK:   4
+:DATE:   1000
+:END:
+**** 人物
+***** 許洞
+     :PROPERTIES:
+     :DYNASTY:  宋
+     :FUNCTION: 撰
+     :END:
+
+**** 版本
+***** WYG
+*** KR3b0014 [[mandoku:ZB3b0014.org][ZB3b0014]] 何博士備論
+:PROPERTIES:
+:CUSTOM_ID:  ZB3b0014
+:SOURCE:   四庫全書 文淵閣版, V727.2, p131
+:EXTENT: 2 卷
+:BOOK:   2
+:END:
+**** 人物
+***** 何去非
+     :PROPERTIES:
+     :DYNASTY:  宋
+     :FUNCTION: 撰
+     :DATES:    fl. 1082 - 1090
+     :END:
+
+**** 版本
+***** WYG
+*** KR3b0015 [[mandoku:ZB3b0015.org][ZB3b0015]] 守城錄
+:PROPERTIES:
+:CUSTOM_ID:  ZB3b0015
+:SOURCE:   四庫全書 文淵閣版, V727.3, p175
+:EXTENT: 4 卷
+:BOOK:   1
+:END:
+**** 人物
+***** 陳規
+     :PROPERTIES:
+     :DYNASTY:  宋
+     :FUNCTION: 撰
+     :DATES:    1071 - 1141
+     :END:
+
+**** 版本
+***** WYG
+**** 靖康朝野僉言後序
+     :PROPERTIES:
+     :EXTENT: (1) 卷
+     :BOOK:   (1)
+     :END:
+
+**** 守城機要
+     :PROPERTIES:
+     :EXTENT: (1) 卷
+     :BOOK:   (1)
+     :END:
+
+**** 建炎德安守禦錄
+     :PROPERTIES:
+     :EXTENT: (2) 卷
+     :BOOK:   (1)
+     :END:
+***** 人物
+****** 湯璹
+     :PROPERTIES:
+     :DYNASTY:  宋
+     :FUNCTION: 撰
+     :END:
+
+*** KR3b0016 [[mandoku:ZB3b0016.org][ZB3b0016]] 武編
+:PROPERTIES:
+:CUSTOM_ID:  ZB3b0016
+:SOURCE:   四庫全書 文淵閣版, V727.4, p205
+:EXTENT: 10 卷
+:BOOK:   10
+:END:
+**** 人物
+***** 唐順之
+     :PROPERTIES:
+     :DYNASTY:  明
+     :FUNCTION: 撰
+     :DATES:    1507 - 1560
+     :END:
+
+**** 版本
+***** WYG
+**** 前集
+     :PROPERTIES:
+     :EXTENT: (6) 卷
+     :BOOK:   (6)
+     :END:
+
+**** ZB3b0016a 後集
+     :PROPERTIES:
+     :EXTENT: (4) 卷
+     :BOOK:   (4)
+     :END:
+
+*** KR3b0017 [[mandoku:ZB3b0017.org][ZB3b0017]] 陣紀
+:PROPERTIES:
+:CUSTOM_ID:  ZB3b0017
+:SOURCE:   四庫全書 文淵閣版, V727.5, p675
+:EXTENT: 4 卷
+:BOOK:   2
+:END:
+**** 人物
+***** 何良臣
+     :PROPERTIES:
+     :DYNASTY:  明
+     :FUNCTION: 撰
+     :END:
+
+**** 版本
+***** WYG
+*** KR3b0018 [[mandoku:ZB3b0018.org][ZB3b0018]] 江南經畧
+:PROPERTIES:
+:CUSTOM_ID:  ZB3b0018
+:SOURCE:   四庫全書 文淵閣版, V728.1, p1
+:EXTENT: 8 卷
+:BOOK:   14
+:END:
+**** 人物
+***** 鄭若曾
+     :PROPERTIES:
+     :DYNASTY:  明
+     :FUNCTION: 撰
+     :DATES:    1505 - 1580
+     :END:
+
+**** 版本
+***** WYG
+*** KR3b0019 [[mandoku:ZB3b0019.org][ZB3b0019]] 紀效新書
+:PROPERTIES:
+:CUSTOM_ID:  ZB3b0019
+:SOURCE:   四庫全書 文淵閣版, V728.2, p487
+:EXTENT: 18 卷
+:BOOK:   6
+:END:
+**** 人物
+***** 戚繼光
+     :PROPERTIES:
+     :DYNASTY:  明
+     :FUNCTION: 撰
+     :DATES:    1528 - 1587
+     :END:
+
+**** 版本
+***** WYG
+**** 卷首
+     :PROPERTIES:
+     :TYPE:   appendix
+     :EXTENT: 1 卷
+     :BOOK:   (6)
+     :END:
+
+*** KR3b0020 [[mandoku:ZB3b0020.org][ZB3b0020]] 練兵實紀
+:PROPERTIES:
+:CUSTOM_ID:  ZB3b0020
+:SOURCE:   四庫全書 文淵閣版, V728.3, p687
+:EXTENT: 9 卷
+:BOOK:   4
+:END:
+**** 人物
+***** 戚繼光
+     :PROPERTIES:
+     :DYNASTY:  明
+     :FUNCTION: 撰
+     :DATES:    1528 - 1587
+     :END:
+
+**** 版本
+***** WYG
+**** ZB3b0020a 練兵雜紀
+     :PROPERTIES:
+     :TYPE:   appendix
+     :EXTENT: 6 卷
+     :BOOK:   4
+     :END:
+
