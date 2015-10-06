@@ -1,13 +1,10 @@
 #+TITLE: DZJY notes
-#+LINK: dzjycan file:~/db/text/dzjy-can/%s
-#+LINK: dzjy file:~/db/text/dzjy/%s
-#+LINK: dz file:~/db/text/dz/%s
 #+OPTIONS: toc:nil num:nil
-#+COLUMNS: %35ITEM %10CT %5TAGS %10EXTENT %10LODGE %15KZ %10DZ
 #+DATE: 2015-02-08
 
 * JY001 元始無量度人上品妙經  Yuanshi wuliang duren shangpin miaojing :can:
 :PROPERTIES:
+:KR_ID: KR5a0001
 :EXTENT:  61 juan
 :LODGE:  角 1-7, 亢 1-5
 :KZ:  1: 411-59, 2: 463-850, 3: 853-946
@@ -23,6 +20,7 @@ DZJ0: [[dzjy:JY001/JY001_01.txt][JY001 元始無量度人上品妙經 ]]
 
 * JY002 太上洞玄靈寶無量度人上品妙經註 Taishang dongxuan lingbao wuliang duren shangpin miaojing zhu :can:
 :PROPERTIES:
+:KR_ID: KR5a0092
 :EXTENT:  3 juan
 :LODGE:  亢 6
 :KZ:  3: 947-98
@@ -37,6 +35,7 @@ DZJ0: [[dzjy:JY002/JY002_01.txt][JY002 太上洞玄靈寶無量度人上品妙�
 xu (SEC 1) in KX version at the end.
 * JY003 元始無量度人上品經法 Yuanshi wuliang duren shangpin jing fa :can:
 :PROPERTIES:
+:KR_ID: KR5a0094
 :EXTENT:  5 juan
 :LODGE:  亢 7 
 :KZ:  3: 999-1063
@@ -51,6 +50,7 @@ DZJ0: [[dzjy:JY003/JY003_01.txt][JY003 元始無量度人上品經法]]
 
 * JY004* 元始天尊說無上內祕真藏經 Yuanshi tianzun shuo wushang neibi zhenzang jing :can:
 :PROPERTIES:
+:KR_ID: KR5a0004
 :EXTENT:  59 fols.
 :LODGE:  氐 1
 :KZ:  3: 1065-94
@@ -65,6 +65,7 @@ DZJ0: [[dzjy:JY004/JY004_01.txt][JY004 元始天尊說無上內祕真藏經]]
 
 * JY005 元始說先天道德經註解 Yuanshi shuo xiantian daode jing zhujie :can:
 :PROPERTIES:
+:KR_ID: KR5a0003
 :EXTENT:  61 fols.
 :LODGE:  心 1
 :KZ:  3: 1095-1125
@@ -79,6 +80,7 @@ DZJ0: [[dzjy:JY005/JY005_01.txt][JY005 元始說先天道德經註解]]
 
 * JY006 元始大洞玉經 Yuanshi dadong yujing :excan:
 :PROPERTIES:
+:KR_ID: KR5i0001
 :EXTENT:  3 juan
 :LODGE:  氐 3
 :KZ:  3:1127-1174
@@ -91,6 +93,7 @@ DZJY: [[dzjy:JY006/JY006_01.txt][JY006 元始大洞玉經]]
 
 * JY007 洞經示讀 Dongjing shidu :excan:
 :PROPERTIES:
+:KR_ID: KR5i0002
 :EXTENT:  3 juan
 :LODGE:  氐 3
 :KZ:  3:1174-1207
@@ -103,6 +106,7 @@ DZJY: [[dzjy:JY007/JY007_01.txt][JY007 洞經示讀]]
 
 * JY008 元始大洞玉經 Yuanshi dadong yujing :excan:
 :PROPERTIES:
+:KR_ID: KR5i0003
 :EXTENT:  3 juan
 :LODGE:  氐 4
 :KZ:  3:1209-1270
@@ -115,6 +119,7 @@ DZJY: [[dzjy:JY008/JY008_01.txt][JY008 元始大洞玉經]]
 
 * JY009 大乘妙林經  Dasheng miaolin jing :can:
 :PROPERTIES:
+:KR_ID: KR5g0207
 :EXTENT:  43 fols.
 :LODGE:  氐 5 
 :KZ:  4: 1273-94
@@ -129,6 +134,7 @@ DZJ0: [[dzjy:JY009/JY009_01.txt][JY009 大乘妙林經 ]]
 
 * JY010 太上昇玄說消災護命妙經註  Taishang shengxuan shuo xiaozai huming miaojing zhu :can:
 :PROPERTIES:
+:KR_ID: KR5a0101
 :EXTENT:  8 fols.
 :LODGE:  氐 5
 :KZ:  4: 1294-98
@@ -143,6 +149,7 @@ DZJ0: [[dzjy:JY010/JY010_01.txt][JY010 太上昇玄說消災護命妙經註 ]]
 
 * JY011 元始天尊說生天得道經  Yuanshi tianzun shuo shengtian dedao jing :can:
 :PROPERTIES:
+:KR_ID: KR5a0024
 :EXTENT:  1 fol.
 :LODGE:  氐 5
 :KZ:  4: 1298;
@@ -157,6 +164,7 @@ DZJ0: [[dzjy:JY011/JY011_01.txt][JY011 元始天尊說生天得道經 ]]
 
 * JY012 元始天尊說得道了身經  Yuanshi tianzun shuo dedao liaoshen jing :can:
 :PROPERTIES:
+:KR_ID: KR5a0025
 :EXTENT:  3 fols.
 :LODGE:  氐 5
 :KZ:  4: 1299-1300
@@ -171,6 +179,7 @@ DZJ0: [[dzjy:JY012/JY012_01.txt][JY012 元始天尊說得道了身經 ]]
 
 * JY013 元始上帝毘盧遮耶說大洞救劫尊經 Yuanshi shangdi piluzheye shuo dadong jiujie zunjing :excan:
 :PROPERTIES:
+:KR_ID: KR5i0004
 :EXTENT:  20 fols.
 :LODGE:  氐 5
 :KZ:  4:1300-1310
@@ -183,6 +192,7 @@ DZJY: [[dzjy:JY013/JY013_01.txt][JY013 元始上帝毘盧遮耶說大洞救劫�
 
 * JY014 元始天尊說藥王救八十一難真經 Yuanshi tianzun shuo yaowang jiu bashiyi nan zhenjing :can:
 :PROPERTIES:
+:KR_ID: KR5h0013
 :EXTENT:  7 fols.
 :LODGE:  氐 5
 :KZ:  4: 1310-13
@@ -197,6 +207,7 @@ DZJ0: [[dzjy:JY014/JY014_01.txt][JY014 元始天尊說藥王救八十一難真�
 
 * JY015* 元始消劫梓潼本願真經  Yuanshi xiaojie zitong benyuan zhenjing :can:
 :PROPERTIES:
+:KR_ID: KR5a0029
 :EXTENT:  9 fols.
 :LODGE:  氐 5
 :KZ:  4: 1314-18
@@ -211,6 +222,7 @@ DZJ0: [[dzjy:JY015/JY015_01.txt][JY015 元始消劫梓潼本願真經 ]]
 
 * JY016 元始天尊說東嶽化身濟生拔罪保命妙經  Yuanshi tianzun shuo dongyue huashen jisheng bazui baoming miaojing :can:
 :PROPERTIES:
+:KR_ID: KR5h0010
 :EXTENT:  9 fols.
 :LODGE:  氐 5
 :KZ:  4: 1318-22
@@ -225,6 +237,7 @@ DZJ0: [[dzjy:JY016/JY016_01.txt][JY016 元始天尊說東嶽化身濟生拔罪�
 
 * JY017 碧霞元君護國庇民普濟保生妙經  Bixia yuanjun huguo bimin puji baosheng miaojing :can:
 :PROPERTIES:
+:KR_ID: KR5h0014
 :EXTENT:  5 fols.
 :LODGE:  氐 5
 :KZ:  4: 1323-25
@@ -239,6 +252,7 @@ DZJ0: [[dzjy:JY017/JY017_01.txt][JY017 碧霞元君護國庇民普濟保生妙�
 
 * JY018 太上大道玉清經 Taishang dadao yuqing jing :can:
 :PROPERTIES:
+:KR_ID: KR5g0121
 :EXTENT:  2 juan
 :LODGE:  氐 6-7
 :KZ:  4: 1327-1433
@@ -253,6 +267,7 @@ DZJ0: [[dzjy:JY018/JY018_01.txt][JY018 太上大道玉清經]]
 
 * JY019 太上中道妙法蓮華經  Taishang zhongdao miaofa lianhua jing :can:
 :PROPERTIES:
+:KR_ID: KR5h0001
 :EXTENT:  30 fols
 :LODGE:  氐 8 
 :KZ:  4: 1435-49
@@ -267,6 +282,7 @@ DZJ0: [[dzjy:JY019/JY019_01.txt][JY019 太上中道妙法蓮華經 ]]
 
 * JY020 洞玄靈寶自然九天生神章經解義  Dongxuan lingbao ziran jiutian shengshen zhangjing jieyi :can:
 :PROPERTIES:
+:KR_ID: KR5b0080
 :EXTENT:  4 juan
 :LODGE:  房 1
 :KZ:  4: 1451-89
@@ -281,6 +297,7 @@ DZJ0: [[dzjy:JY020/JY020_01.txt][JY020 洞玄靈寶自然九天生神章經解�
 
 * JY021 洞玄靈寶自然九天生神玉章經解  Dongxuan lingbao ziran jiutian shengshen yuzhang jing jie :can:
 :PROPERTIES:
+:KR_ID: KR5b0081
 :EXTENT:  3 juan
 :LODGE:  房 2 
 :KZ:  4: 1491-1533
@@ -295,6 +312,7 @@ DZJ0: [[dzjy:JY021/JY021_01.txt][JY021 洞玄靈寶自然九天生神玉章經�
 
 * JY022 洞玄靈寶自然九天生神章經注  Dongxuan lingbao ziran jiutian shengshen zhangjing zhu :can:
 :PROPERTIES:
+:KR_ID: KR5b0082
 :EXTENT:  3 juan
 :LODGE:  房 3 
 :KZ:  4: 1535-62
@@ -309,6 +327,7 @@ DZJ0: [[dzjy:JY022/JY022_01.txt][JY022 洞玄靈寶自然九天生神章經注 ]
 
 * JY023 太上洞玄靈寶天尊說救苦妙經  Taishang dongxuan lingbao tianzun shuo jiuku miaojing :can:
 :PROPERTIES:
+:KR_ID: KR5b0083
 :EXTENT:  21 fols.
 :LODGE:  房 4 
 :KZ:  4: 1563-73
@@ -323,6 +342,7 @@ DZJ0: [[dzjy:JY023/JY023_01.txt][JY023 太上洞玄靈寶天尊說救苦妙經 ]
 
 * JY024 洞玄靈寶八仙王教誡經  Dongxuan lingbao ba xianwang jiaojie jing :can:
 :PROPERTIES:
+:KR_ID: KR5e0014
 :EXTENT:  5 fols.
 :LODGE:  房 4
 :KZ:  4: 1573-75
@@ -337,6 +357,7 @@ DZJ0: [[dzjy:JY024/JY024_01.txt][JY024 洞玄靈寶八仙王教誡經 ]]
 
 * JY025 太上洞玄靈寶國王行道經  Taishang dongxuan lingbao guowang xingdao jing :can:
 :PROPERTIES:
+:KR_ID: KR5e0015
 :EXTENT:  9 fols.
 :LODGE:  房 4
 :KZ:  4: 1576-80
@@ -351,6 +372,7 @@ DZJ0: [[dzjy:JY025/JY025_01.txt][JY025 太上洞玄靈寶國王行道經 ]]
 
 * JY026 太上金匱玉鏡修真指玄妙經  Taishang jingui yujing xiuzhen zhixuan miaojing :can:
 :PROPERTIES:
+:KR_ID: KR5b0037
 :EXTENT:  25 fols.
 :LODGE:  房 5
 :KZ:  4: 1581-93
@@ -365,6 +387,7 @@ DZJ0: [[dzjy:JY026/JY026_01.txt][JY026 太上金匱玉鏡修真指玄妙經 ]]
 
 * JY027 太上洞玄靈寶福日妙經  Taishang dongxuan lingbao furi miaojing :can:
 :PROPERTIES:
+:KR_ID: KR5b0039
 :EXTENT:  2 fols.
 :LODGE:  房 5
 :KZ:  4: 1593-94
@@ -379,6 +402,7 @@ DZJ0: [[dzjy:JY027/JY027_01.txt][JY027 太上洞玄靈寶福日妙經 ]]
 
 * JY028 太上靈寶天尊說禳災度厄經  Taishang lingbao tianzun shuo rangzai du’e jing :can:
 :PROPERTIES:
+:KR_ID: KR5b0041
 :EXTENT:  1 fol.
 :LODGE:  房 5
 :KZ:  4: 1594;
@@ -393,6 +417,7 @@ DZJ0: [[dzjy:JY028/JY028_01.txt][JY028 太上靈寶天尊說禳災度厄經 ]]
 
 * JY029 太上神咒延壽妙經  Taishang shenzhou yanshou miaojing :can:
 :PROPERTIES:
+:KR_ID: KR5b0042
 :EXTENT:  1 fol.
 :LODGE:  房 5
 :KZ:  4: 1595;
@@ -407,6 +432,7 @@ DZJ0: [[dzjy:JY029/JY029_01.txt][JY029 太上神咒延壽妙經 ]]
 
 * JY030 太上洞淵說請雨龍王經 Taishang dongyuan shuo qingyu longwang jing :can:
 :PROPERTIES:
+:KR_ID: KR5b0046
 :EXTENT:  3 fols.
 :LODGE:  房 5
 :KZ:  4: 1595-96
@@ -421,6 +447,7 @@ DZJ0: [[dzjy:JY030/JY030_01.txt][JY030 太上洞淵說請雨龍王經]]
 
 * JY031 太上洞玄寶元上經  Taishang dongxuan baoyuan shangjing :can:
 :PROPERTIES:
+:KR_ID: KR5b0052
 :EXTENT:  15 fols.
 :LODGE:  房 5
 :KZ:  4: 1597-1604
@@ -435,6 +462,7 @@ DZJ0: [[dzjy:JY031/JY031_01.txt][JY031 太上洞玄寶元上經 ]]
 
 * JY032 太上洞玄靈寶淨供妙經 Taishang dongxuan lingbao jinggong miaojing :can:
 :PROPERTIES:
+:KR_ID: KR5b0060
 :EXTENT:  7 fols.
 :LODGE:  房 5
 :KZ:  4: 1604-07
@@ -450,6 +478,7 @@ DZJ0: [[dzjy:JY032/JY032_01.txt][JY032 太上洞玄靈寶淨供妙經]]
 
 * JY033 太上靈寶洪福滅罪像名經 Taishang lingbao hongfu miezui xiangming jing :can:
 :PROPERTIES:
+:KR_ID: KR5b0061
 :EXTENT:  36 fols.
 :LODGE:  房 5
 :KZ:  4: 1608-25
@@ -464,6 +493,7 @@ DZJ0: [[dzjy:JY033/JY033_01.txt][JY033 太上靈寶洪福滅罪像名經]]
 
 * JY034 太上洞淵三昧帝心光明正印太極紫微伏魔制鬼拯救惡道集福吉祥神咒 Taishang dongyuan sanmei dixin guangming zhengyin taiji ziwei fumo zhigui zhengjiu edao jifu jixiang shenzhou :can:
 :PROPERTIES:
+:KR_ID: KR5b0070
 :EXTENT:  4 fols.
 :LODGE:  房 5
 :KZ:  4: 1626-27
@@ -478,6 +508,7 @@ DZJ0: [[dzjy:JY034/JY034_01.txt][JY034 太上洞淵三昧帝心光明正印太�
 
 * JY035 洞玄靈寶定觀經註 Dongxuan lingbao dingguan jing zhu :can:
 :PROPERTIES:
+:KR_ID: KR5b0084
 :EXTENT:  7 fols.
 :LODGE:  房 6
 :KZ:  4: 1629-32
@@ -492,6 +523,7 @@ DZJ0: [[dzjy:JY035/JY035_01.txt][JY035 洞玄靈寶定觀經註]]
 
 * JY036 太上洞玄靈寶開演祕密藏經  Taishang dongxuan lingbao kaiyan bimi zang jing :can:
 :PROPERTIES:
+:KR_ID: KR5b0013
 :EXTENT:  11 fols.
 :LODGE:  房 6
 :KZ:  4: 1632-37
@@ -506,6 +538,7 @@ DZJ0: [[dzjy:JY036/JY036_01.txt][JY036 太上洞玄靈寶開演祕密藏經 ]]
 
 * JY037 洞玄靈寶諸天世界造化經  Dongxuan lingbao zhutian shijie zaohua jing :can:
 :PROPERTIES:
+:KR_ID: KR5b0005
 :EXTENT:  11 fols.
 :LODGE:  房 6 
 :KZ:  4: 1638-43
@@ -520,6 +553,7 @@ DZJ0: [[dzjy:JY037/JY037_01.txt][JY037 洞玄靈寶諸天世界造化經 ]]
 
 * JY038 太上洞玄靈寶十號功德因緣妙經  Taishang dongxuan lingbao shihao gongde yinyuan miaojing :can:
 :PROPERTIES:
+:KR_ID: KR5b0021
 :EXTENT:  7 fols.
 :LODGE:  房 6
 :KZ:  4: 1643-46
@@ -534,6 +568,7 @@ DZJ0: [[dzjy:JY038/JY038_01.txt][JY038 太上洞玄靈寶十號功德因緣妙�
 
 * JY039 太上洞玄靈寶真文要解上經  Taishang dongxuan lingbao zhenwen yaojie shangjing :can:
 :PROPERTIES:
+:KR_ID: KR5b0014
 :EXTENT:  13 fols.
 :LODGE:  房 6 
 :KZ:  4: 1647-53
@@ -548,6 +583,7 @@ DZJ0: [[dzjy:JY039/JY039_01.txt][JY039 太上洞玄靈寶真文要解上經 ]]
 
 * JY040* 太上洞玄靈寶業報因緣經  Taishang dongxuan lingbao yebao yinyuan jing :can:
 :PROPERTIES:
+:KR_ID: KR5b0020
 :EXTENT:  10 fols.
 :LODGE:  房 6
 :KZ:  4: 1653-58
@@ -563,6 +599,7 @@ DZJ0: [[dzjy:JY040/JY040_01.txt][JY040 太上洞玄靈寶業報因緣經 ]]
 
 * JY041 太上洞玄靈寶出家因緣經  Taishang dongxuan lingbao chujia yinyuan jing :can:
 :PROPERTIES:
+:KR_ID: KR5b0023
 :EXTENT:  14 fols.
 :LODGE:  房 6 
 :KZ:  4: 1658-65
@@ -577,6 +614,7 @@ DZJ0: [[dzjy:JY041/JY041_01.txt][JY041 太上洞玄靈寶出家因緣經 ]]
 
 * JY042 太上洞玄靈寶法燭經  Taishang dongxuan lingbao fazhu jing :can:
 :PROPERTIES:
+:KR_ID: KR5b0033
 :EXTENT:  7 fols.
 :LODGE:  房 6
 :KZ:  4: 1665-68
@@ -591,6 +629,7 @@ DZJ0: [[dzjy:JY042/JY042_01.txt][JY042 太上洞玄靈寶法燭經 ]]
 
 * JY043 太上靈寶智慧觀身經  Taishang lingbao zhihui guanshen jing :can:
 :PROPERTIES:
+:KR_ID: KR5b0034
 :EXTENT:  1 fol.
 :LODGE:  房 6
 :KZ:  4: 1669;
@@ -605,6 +644,7 @@ DZJ0: [[dzjy:JY043/JY043_01.txt][JY043 太上靈寶智慧觀身經 ]]
 
 * JY044 太一救苦護身妙經  Taiyi jiuku hushen miaojing :can:
 :PROPERTIES:
+:KR_ID: KR5b0035
 :EXTENT:  4 fols.
 :LODGE:  房 6  
 :KZ:  4: 1669-71
@@ -619,6 +659,7 @@ DZJ0: [[dzjy:JY044/JY044_01.txt][JY044 太一救苦護身妙經 ]]
 
 * JY045 太上玄元道德經解 Taishang xuanyuan daode jingjie :excan:
 :PROPERTIES:
+:KR_ID: KR5i0005
 :EXTENT:  7+101 fols.
 :LODGE:  心 1
 :KZ:  4:1673-1726
@@ -631,6 +672,7 @@ DZJY: [[dzjy:JY045/JY045_01.txt][JY045 太上玄元道德經解]]
 
 * JY046 太上道德真經四子古道集解  Taishang daode zhenjing sizi gudao jijie :can:
 :PROPERTIES:
+:KR_ID: KR5c0067
 :EXTENT:  68 fols.
 :LODGE:  心 2 
 :KZ:  5: 1729-63
@@ -645,6 +687,7 @@ DZJ0: [[dzjy:JY046/JY046_01.txt][JY046 太上道德真經四子古道集解 ]]
 
 * JY047 太上道德寶章翼 Taishang daode baozhang yi :excan:
 :PROPERTIES:
+:KR_ID: KR5i0006
 :EXTENT:  2 juan
 :LODGE:  心 3-4
 :KZ:  5:1765-1826
@@ -657,6 +700,7 @@ DZJY: [[dzjy:JY047/JY047_01.txt][JY047 太上道德寶章翼]]
 
 * JY048 太上道德真經章句訓頌  Taishang daode zhenjing zhangju xunsong :can:
 :PROPERTIES:
+:KR_ID: KR5c0085
 :EXTENT:  36 fols.
 :LODGE:  心 5
 :KZ:  5: 1827-44
@@ -671,6 +715,7 @@ DZJ0: [[dzjy:JY048/JY048_01.txt][JY048 太上道德真經章句訓頌 ]]
 
 * JY049 太上道德真經集註  Taishang daode zhenjing jizhu :can:
 :PROPERTIES:
+:KR_ID: KR5c0095
 :EXTENT:  3 juan
 :LODGE:  心 6-8
 :KZ:  5: 1845-1999;
@@ -685,6 +730,7 @@ DZJ0: [[dzjy:JY049/JY049_01.txt][JY049 太上道德真經集註 ]]
 
 * JY050 太上道德真經集註釋文  Taishang daode zhenjing jizhu shiwen :can:
 :PROPERTIES:
+:KR_ID: KR5c0096
 :EXTENT:  17 fols.
 :LODGE:  心 8
 :KZ:  5: 2000-8
@@ -700,6 +746,7 @@ DZJ0: [[dzjy:JY050/JY050_01.txt][JY050 太上道德真經集註釋文 ]]
 
 * JY051 太上道德真經集註雜說  Taishang daode zhenjing jizhu zashuo :can:
 :PROPERTIES:
+:KR_ID: KR5c0097
 :EXTENT:  40 fols.
 :LODGE:  心 8
 :KZ:  5: 2008-28
@@ -715,6 +762,7 @@ DZJ0: [[dzjy:JY051/JY051_01.txt][JY051 太上道德真經集註雜說 ]]
 
 * JY052 道德經釋辭 Daodejing shici :excan:
 :PROPERTIES:
+:KR_ID: KR5i0007
 :EXTENT:  8+72 fols.
 :LODGE:  心 9
 :KZ:  5:2029-2068
@@ -727,6 +775,7 @@ DZJY: [[dzjy:JY052/JY052_01.txt][JY052 道德經釋辭]]
 
 * JY053* 道德真經註  Daode zhenjing zhu :can:
 :PROPERTIES:
+:KR_ID: KR5c0091
 :EXTENT:  4 juan
 :LODGE:  心 10 
 :KZ:  5: 2069-2113
@@ -742,6 +791,7 @@ DZJ0: [[dzjy:JY053/JY053_01.txt][JY053 道德真經註 ]]
 
 * JY054 太上老君說常清靜真經 Taishang laojun shuo changqingjing zhenjing :excan:
 :PROPERTIES:
+:KR_ID: KR5i0008
 :EXTENT:  6 fols.
 :LODGE:  尾 1
 :KZ:  5:2115-16,2119*
@@ -754,6 +804,7 @@ DZJY: [[dzjy:JY054/JY054_01.txt][JY054 太上老君說常清靜真經]]
 
 * JY055 太上老君說常清靜經註  Taishang laojun shuo chang qingjing jing zhu :can:
 :PROPERTIES:
+:KR_ID: KR5c0151
 :EXTENT:  5 fols.
 :LODGE:  尾 1
 :KZ:  5: 2117-18
@@ -769,6 +820,7 @@ DZJ0: [[dzjy:JY055/JY055_01.txt][JY055 太上老君說常清靜經註 ]]
 
 * JY056 太上道德大天尊說道元一氣經 Taishang daode tianzun shuo daoyuan yiqi jing :excan:
 :PROPERTIES:
+:KR_ID: KR5i0009
 :EXTENT:  1 fol.
 :LODGE:  尾 1
 :KZ:  5:2120
@@ -781,6 +833,7 @@ DZJY: [[dzjy:JY056/JY056_01.txt][JY056 太上道德大天尊說道元一氣經]]
 
 * JY057 太清中黃真經  Taiqing zhonghuang zhenjing :can:
 :PROPERTIES:
+:KR_ID: KR5c0214
 :EXTENT:  25 fols.
 :LODGE:  尾 1
 :KZ:  5: 2121-33
@@ -796,6 +849,7 @@ DZJ0: [[dzjy:JY057/JY057_01.txt][JY057 太清中黃真經 ]]
 
 * JY058* 太上赤文洞古經註  Taishang chiwen donggu jing zhu :can:
 :PROPERTIES:
+:KR_ID: KR5a0107
 :EXTENT:  5 fols.
 :LODGE:  尾 1
 :KZ:  5: 2133-35
@@ -811,6 +865,7 @@ DZJ0: [[dzjy:JY058/JY058_01.txt][JY058 太上赤文洞古經註 ]]
 
 * JY059 太上大通經註  Taishang datong jing zhu :can:
 :PROPERTIES:
+:KR_ID: KR5a0106
 :EXTENT:  3 fols.
 :LODGE:  尾 1
 :KZ:  5: 2136-37
@@ -826,6 +881,7 @@ DZJ0: [[dzjy:JY059/JY059_01.txt][JY059 太上大通經註 ]]
 
 * JY060 太上老君內日用妙經  Taishang laojun nei riyong miaojing :can:
 :PROPERTIES:
+:KR_ID: KR5c0026
 :EXTENT:  1 fol.
 :LODGE:  尾 1
 :KZ:  5: 2137;
@@ -841,6 +897,7 @@ DZJ0: [[dzjy:JY060/JY060_01.txt][JY060 太上老君內日用妙經 ]]
 
 * JY061 太上老君外日用妙經  Taishang laojun wai riyong miaojing :can:
 :PROPERTIES:
+:KR_ID: KR5c0027
 :EXTENT:  1 fol.
 :LODGE:  尾 1
 :KZ:  5: 2138;
@@ -856,6 +913,7 @@ DZJ0: [[dzjy:JY061/JY061_01.txt][JY061 太上老君外日用妙經 ]]
 
 * JY062 老子說五廚經註  Laozi shuo wuchu jing zhu :can:
 :PROPERTIES:
+:KR_ID: KR5c0159
 :EXTENT:  6 fols.
 :LODGE:  尾 1
 :KZ:  5: 2138-41
@@ -871,6 +929,7 @@ DZJ0: [[dzjy:JY062/JY062_01.txt][JY062 老子說五廚經註 ]]
 
 * JY063 太上老君內觀經  Taishang laojun neiguan jing :can:
 :PROPERTIES:
+:KR_ID: KR5c0022
 :EXTENT:  5 fols.
 :LODGE:  尾 1
 :KZ:  5: 2141-43
@@ -886,6 +945,7 @@ DZJ0: [[dzjy:JY063/JY063_01.txt][JY063 太上老君內觀經 ]]
 
 * JY064 太上老君說了心經 Taishang laojun shuo liaoxin jing :can:
 :PROPERTIES:
+:KR_ID: KR5c0023
 :EXTENT:  1 fol.
 :LODGE:  尾 1
 :KZ:  5: 2144;
@@ -901,6 +961,7 @@ DZJ0: [[dzjy:JY064/JY064_01.txt][JY064 太上老君說了心經]]
 
 * JY065 太上內丹守一真定經  Taishang neidan shouyi zhending jing :can:
 :PROPERTIES:
+:KR_ID: KR5c0025
 :EXTENT:  1 fol.
 :LODGE:  尾 1
 :KZ:  5: 2144;
@@ -916,6 +977,7 @@ DZJ0: [[dzjy:JY065/JY065_01.txt][JY065 太上內丹守一真定經 ]]
 
 * JY066 太上說轉輪五道宿命因緣經  Taishang shuo zhuanlun wudao suming yinyuan jing :can:
 :PROPERTIES:
+:KR_ID: KR5c0028
 :EXTENT:  6 fols.
 :LODGE:  尾 1
 :KZ:  5: 2145-47
@@ -931,6 +993,7 @@ DZJ0: [[dzjy:JY066/JY066_01.txt][JY066 太上說轉輪五道宿命因緣經 ]]
 
 * JY067 太上老君內丹經  Taishang laojun neidan jing :can:
 :PROPERTIES:
+:KR_ID: KR5c0024
 :EXTENT:  2 fols.
 :LODGE:  尾 1
 :KZ:  5: 2148;
@@ -946,6 +1009,7 @@ DZJ0: [[dzjy:JY067/JY067_01.txt][JY067 太上老君內丹經 ]]
 
 * JY068 太上妙始經  Taishang miaoshi jing :can:
 :PROPERTIES:
+:KR_ID: KR5c0039
 :EXTENT:  5 fols.
 :LODGE:  尾 1
 :KZ:  5: 2149-51
@@ -960,6 +1024,7 @@ DZJ0: [[dzjy:JY068/JY068_01.txt][JY068 太上妙始經 ]]
 
 * JY069 太上浩元經 Taishang haoyuan jing :can:
 :PROPERTIES:
+:KR_ID: KR5c0040
 :EXTENT:  1 fol.
 :LODGE:  尾 1
 :KZ:  5: 2151;
@@ -974,6 +1039,7 @@ DZJ0: [[dzjy:JY069/JY069_01.txt][JY069 太上浩元經]]
 
 * JY070 太上無極大道自然真一五稱符經   Taishang wuji dadao ziran zhenyi wu chengfu jing :can:
 :PROPERTIES:
+:KR_ID: KR5c0052
 :EXTENT:  22 fols.
 :LODGE:  尾 1
 :KZ:  5: 2152-62
@@ -988,6 +1054,7 @@ DZJ0: [[dzjy:JY070/JY070_01.txt][JY070 太上無極大道自然真一五稱符�
 
 * JY071 枕中經  Zhenzhong jing :can:
 :PROPERTIES:
+:KR_ID: KR5g0231
 :EXTENT:  2 fols.
 :LODGE:  尾 1
 :KZ:  5: 2163;
@@ -1003,6 +1070,7 @@ DZJ0: [[dzjy:JY071/JY071_01.txt][JY071 枕中經 ]]
 
 * JY072 太清元道真經  Taiqing yuandao zhenjing :can:
 :PROPERTIES:
+:KR_ID: KR5g0232
 :EXTENT:  3 juan
 :LODGE:  尾 1
 :KZ:  5: 2163-66
@@ -1019,6 +1087,7 @@ DZJ0: [[dzjy:JY072/JY072_01.txt][JY072 太清元道真經 ]]
 
 * JY073 太上老君太素經  Taishang laojun taisu jing :can:
 :PROPERTIES:
+:KR_ID: KR5g0233
 :EXTENT:  2 fols
 :LODGE:  尾 1
 :KZ:  5: 2166;
@@ -1033,6 +1102,7 @@ DZJ0: [[dzjy:JY073/JY073_01.txt][JY073 太上老君太素經 ]]
 
 * JY074 太上黃庭內景玉經 Taishang huangting neijing yujing :excan:
 :PROPERTIES:
+:KR_ID: KR5i0010
 :EXTENT:  3 juan
 :LODGE:  尾 2
 :KZ:  6:2169-2192
@@ -1045,6 +1115,7 @@ DZJY: [[dzjy:JY074/JY074_01.txt][JY074 太上黃庭內景玉經]]
 
 * JY075 黃庭內景經 Huangting neijing jing :excan:
 :PROPERTIES:
+:KR_ID: KR5i0011
 :EXTENT:  20 fols.
 :LODGE:  尾 2
 :KZ:  6:2193-2202
@@ -1057,6 +1128,7 @@ DZJY: [[dzjy:JY075/JY075_01.txt][JY075 黃庭內景經]]
 
 * JY076 黃庭外景經 Huanting waijing jing :excan:
 :PROPERTIES:
+:KR_ID: KR5i0012
 :EXTENT:  6 fols.
 :LODGE:  尾 2
 :KZ:  6:2203-2205
@@ -1069,6 +1141,7 @@ DZJY: [[dzjy:JY076/JY076_01.txt][JY076 黃庭外景經]]
 
 * JY077* 太上黃庭內景玉經  Taishang huangting neijing yujing :can:
 :PROPERTIES:
+:KR_ID: KR5b0086
 :EXTENT:  23 fols.
 :LODGE:  中尾 2 
 :KZ:  6: 2206-17
@@ -1083,6 +1156,7 @@ DZJ0: [[dzjy:JY077/JY077_01.txt][JY077 太上黃庭內景玉經 ]]
 
 * JY078 太上黃庭外景經  Taishang huangting waijing jing :can:
 :PROPERTIES:
+:KR_ID: KR5a0275
 :EXTENT:  8 fols.
 :LODGE:  中尾 2 
 :KZ:  6: 2217-21
@@ -1098,6 +1172,7 @@ DZJY: [[dzjy:JY078/JY078_01.txt][JY078 太上黃庭外景經 ]]
    
 * JY079 太上黃庭中景經  Taishang huangting zhongjing jing :can:
 :PROPERTIES:
+:KR_ID: KR5g0210
 :EXTENT:  25 fols.
 :LODGE:  下尾 2 
 :KZ:  6: 2217-21
@@ -1112,6 +1187,7 @@ DZJ0: [[dzjy:JY079/JY079_01.txt][JY079 太上黃庭中景經 ]]
 
 * JY080 太上洞真賢門經  Taishang dongzhen xianmen jing :can:
 :PROPERTIES:
+:KR_ID: KR5a0061
 :EXTENT:  61fols.
 :LODGE:  尾 3 
 :KZ:  6: 2235-65;
@@ -1126,6 +1202,7 @@ DZJ0: [[dzjy:JY080/JY080_01.txt][JY080 太上洞真賢門經 ]]
 
 * JY081 太上感應篇箋注 Taishang ganyingpian jianzhu :excan:
 :PROPERTIES:
+:KR_ID: KR5i0013
 :EXTENT:  63 fols.
 :LODGE:  尾 4
 :KZ:  6:2267-2298
@@ -1145,6 +1222,7 @@ KX077_p0304_02	太上感應篇
 
 * JY082 太上感應篇集注 Taishang ganyingpian jizhu :excan:
 :PROPERTIES:
+:KR_ID: KR5i0014
 :EXTENT:  70 fols.
 :LODGE:  尾 4
 :KZ:  6:2298-2333
@@ -1157,6 +1235,7 @@ DZJY: [[dzjy:JY082/JY082_01.txt][JY082 太上感應篇集注]]
 
 * JY083 猶龍傳 Youlong zhuan :can:
 :PROPERTIES:
+:KR_ID: KR5c0170
 :EXTENT:  79 fols.
 :LODGE:  尾 5 
 :KZ:  6: 2335-74
@@ -1171,6 +1250,7 @@ DZJ0: [[dzjy:JY083/JY083_01.txt][JY083 猶龍傳]]
 
 * JY084 西昇經  Xisheng jing :can:
 :PROPERTIES:
+:KR_ID: KR5c0047
 :EXTENT:  53 fols.
 :LODGE:  尾 5 
 :KZ:  6: 2374-2400
@@ -1185,6 +1265,7 @@ DZJ0: [[dzjy:JY084/JY084_01.txt][JY084 西昇經 ]]
 
 * JY085 太上老君年譜要略  Taishang laojun nianpu yaolüe :can:
 :PROPERTIES:
+:KR_ID: KR5c0167
 :EXTENT:  10 fols.
 :LODGE:  尾 5
 :KZ:  6: 2401-05
@@ -1199,6 +1280,7 @@ DZJ0: [[dzjy:JY085/JY085_01.txt][JY085 太上老君年譜要略 ]]
 
 * JY086 混元聖紀  Hunyuan shengji :can:
 :PROPERTIES:
+:KR_ID: KR5c0166
 :EXTENT:  9 juan
 :LODGE:  尾 6-7
 :KZ:  6: 2407-2523
@@ -1213,6 +1295,7 @@ DZJ0: [[dzjy:JY086/JY086_01.txt][JY086 混元聖紀 ]]
 
 * JY087 高上玉皇本行集經 Gaoshang yuhuang benxing jijing :excan:
 :PROPERTIES:
+:KR_ID: KR5i0015
 :EXTENT:  3 juan
 :LODGE:  箕 1-3
 :KZ:  6-7:2525-2585
@@ -1229,6 +1312,7 @@ DZJY: [[dzjy:JY087/JY087_01.txt][JY087 高上玉皇本行集經]]
 
 * JY088 高上玉皇本行集經  Gaoshang yuhuang benxing jijing :can:
 :PROPERTIES:
+:KR_ID: KR5a0011
 :EXTENT:  3 juan
 :LODGE:  箕 4
 :KZ:  7: 2587-2632
@@ -1243,6 +1327,7 @@ DZJ0: [[dzjy:JY088/JY088_01.txt][JY088 高上玉皇本行集經 ]]
 
 * JY089* 高上玉皇本行集經註解  Gaoshang yuhuang benxing jijing zhujie :can:
 :PROPERTIES:
+:KR_ID: KR5h0009
 :EXTENT:  3 juan
 :LODGE:  箕 5-7
 :KZ:  7: 2633-2738
@@ -1257,6 +1342,7 @@ DZJ0: [[dzjy:JY089/JY089_01.txt][JY089 高上玉皇本行集經註解 ]]
 
 * JY090 太上洞玄靈寶紫微金格高上玉皇本行集經闡微 Taishang dongxuan lingbao ziwei jinge gaoshang yuhuang benxing jijing chanwei :excan:
 :PROPERTIES:
+:KR_ID: KR5i0016
 :EXTENT:  3 juan
 :LODGE:  箕 8
 :KZ:  7:2743-2829
@@ -1274,6 +1360,7 @@ DZJY: [[dzjy:JY090/JY090_01.txt][JY090 太上洞玄靈寶紫微金格高上玉�
 
 * JY091 高上玉皇心印妙經 Gaoshang yuhuang xinyin miaojing :excan:
 :PROPERTIES:
+:KR_ID: KR5i0017
 :EXTENT:  15 fols.
 :LODGE:  箕 9
 :KZ:  7:2831-2838
@@ -1286,6 +1373,7 @@ DZJY: [[dzjy:JY091/JY091_01.txt][JY091 高上玉皇心印妙經]]
 
 * JY092 終南八祖說心印妙經解 Zhongnan bazu shuo xinyin miao jingjie :excan:
 :PROPERTIES:
+:KR_ID: KR5i0018
 :EXTENT:  2 fols.
 :LODGE:  箕 9
 :KZ:  7:2838-2839
@@ -1298,6 +1386,7 @@ DZJY: [[dzjy:JY092/JY092_01.txt][JY092 終南八祖說心印妙經解]]
 
 * JY093 高上玉皇心印經 Gaoshang yuhuang xinyin jing :excan:
 :PROPERTIES:
+:KR_ID: KR5i0019
 :EXTENT:  7 fols.
 :LODGE:  箕 9
 :KZ:  7:2839-2842
@@ -1310,6 +1399,7 @@ DZJY: [[dzjy:JY093/JY093_01.txt][JY093 高上玉皇心印經]]
 
 * JY094 玉皇心印經 Yuhuang xinyin jing :excan:
 :PROPERTIES:
+:KR_ID: KR5i0020
 :EXTENT:  11 fols.
 :LODGE:  箕 9
 :KZ:  7:2843-2848
@@ -1322,6 +1412,7 @@ DZJY: [[dzjy:JY094/JY094_01.txt][JY094 玉皇心印經]]
 
 * JY095 胎息經註  Taixi jing zhu :can:
 :PROPERTIES:
+:KR_ID: KR5a0131
 :EXTENT:  3 fols.
 :LODGE:  箕 9 
 :KZ:  7: 2848-49
@@ -1336,6 +1427,7 @@ DZJ0: [[dzjy:JY095/JY095_01.txt][JY095 胎息經註 ]]
 
 * JY096 玉皇宥罪錫福寶懺 Yuhuang youzui xifu baochan :can:
 :PROPERTIES:
+:KR_ID: KR5a0194
 :EXTENT:  18 fols.
 :LODGE:  箕 9
 :KZ:  7: 2850-58
@@ -1350,6 +1442,7 @@ DZJ0: [[dzjy:JY096/JY096_01.txt][JY096 玉皇宥罪錫福寶懺]]
 
 * JY097 玉皇十七慈光燈儀  Yuhuang shiqi ciguang dengyi :can:
 :PROPERTIES:
+:KR_ID: KR5a0198
 :EXTENT:  16 fols.
 :LODGE:  箕 9 
 :KZ:  7: 2859-66
@@ -1364,6 +1457,7 @@ DZJ0: [[dzjy:JY097/JY097_01.txt][JY097 玉皇十七慈光燈儀 ]]
 
 * JY098 玉清贊化九天演政心印集經  Yuqing zanhua jiutian yanzheng xinyin jijing :excan:
 :PROPERTIES:
+:KR_ID: KR5i0021
 :EXTENT:  3 juan
 :LODGE:  箕 10
 :KZ:  
@@ -1376,6 +1470,7 @@ DZJY: [[dzjy:JY098/JY098_01.txt][JY098 玉清贊化九天演政心印集經 ]]
 
 * JY099 玉清贊化九天演政心印寶懺 Yuqing zanhua jiutian yanzheng xinyin baochan  :excan:
 :PROPERTIES:
+:KR_ID: KR5i0022
 :EXTENT:  1+136 fols.
 :LODGE:  箕 11
 :KZ:  
@@ -1388,6 +1483,7 @@ DZJY: [[dzjy:JY099/JY099_01.txt][JY099 玉清贊化九天演政心印寶懺]]
 
 * JY100 先天斗帝敕演無上玄功靈妙真經 Xiantian doudi chiyan wushang xuangong lingmiao zhenjing  :excan:
 :PROPERTIES:
+:KR_ID: KR5i0023
 :EXTENT:  25 fols.
 :LODGE:  斗 1
 :KZ:  7:2867-79
@@ -1400,6 +1496,7 @@ DZJY: [[dzjy:JY100/JY100_01.txt][JY100 先天斗帝敕演無上玄功靈妙真�
 
 * JY101 九皇斗姥戒殺延生真經 Jiuhuang doumu jiesha yansheng zhenjing :excan:
 :PROPERTIES:
+:KR_ID: KR5i0024
 :EXTENT:  40 fols.
 :LODGE:  又斗 1
 :KZ:  7:2879-99
@@ -1418,6 +1515,7 @@ KX097_p0029_01	九皇斗姥說戒殺延生眞經
 
 * JY102 觀音大士蓮船經 Guanyin dashi lianchuan jing :excan:
 :PROPERTIES:
+:KR_ID: KR5i0025
 :EXTENT:  4+21 fols.
 :LODGE:  續斗 1
 :KZ:  7:2899-2911
@@ -1451,6 +1549,7 @@ KX103_p0077_05	䶻䶻志心皈命禮
 
 * JY103 太上玄靈北斗本命延生真經  Taishang xuanling beidou benming yansheng zhenjing :can:
 :PROPERTIES:
+:KR_ID: KR5c0003
 :EXTENT:  8 fols.
 :LODGE:  斗 2 
 :KZ:  7: 2913-16
@@ -1466,6 +1565,7 @@ DZJ0: [[dzjy:JY103/JY103_01.txt][JY103 太上玄靈北斗本命延生真經 ]]
 
 * JY104 太上說南斗六司延壽度人妙經  Taishang shuo nandou liusi yanshou duren miaojing :can:
 :PROPERTIES:
+:KR_ID: KR5c0005
 :EXTENT:  4 fols.
 :LODGE:  斗 2 
 :KZ:  7: 2917-18
@@ -1480,6 +1580,7 @@ DZJ0: [[dzjy:JY104/JY104_01.txt][JY104 太上說南斗六司延壽度人妙經 ]
 
 * JY105 太上說東斗主算護命妙經  Taishang shuo dongdou zhusuan huming miaojing :can:
 :PROPERTIES:
+:KR_ID: KR5c0006
 :EXTENT:  2 fols
 :LODGE:  斗 2 
 :KZ:  7: 2919;
@@ -1494,6 +1595,7 @@ DZJ0: [[dzjy:JY105/JY105_01.txt][JY105 太上說東斗主算護命妙經 ]]
 
 * JY106 太上說西斗記名護身妙經  Taishang shuo xidou jiming hushen miaojing :can:
 :PROPERTIES:
+:KR_ID: KR5c0007
 :EXTENT:  3 fols.
 :LODGE:  斗 2 
 :KZ:  7: 2920-21
@@ -1508,6 +1610,7 @@ DZJ0: [[dzjy:JY106/JY106_01.txt][JY106 太上說西斗記名護身妙經 ]]
 
 * JY107 太上說中斗大魁保命妙經 ( Taishang shuo zhongdou dakui baoming miaojing :can:
 :PROPERTIES:
+:KR_ID: KR5c0008
 :EXTENT:  3 fols.
 :LODGE:  斗 2 
 :KZ:  7: 2921-22
@@ -1522,6 +1625,7 @@ DZJ0: [[dzjy:JY107/JY107_01.txt][JY107 太上說中斗大魁保命妙經 (]]
 
 * JY108 太上玄靈北斗本命延生真經註解  Taishang xuanling beidou benming yansheng zhenjing zhujie :can:
 :PROPERTIES:
+:KR_ID: KR5c0147
 :EXTENT:  68 fols.
 :LODGE:  斗 2 
 :KZ:  7: 2923-56
@@ -1536,6 +1640,7 @@ DZJ0: [[dzjy:JY108/JY108_01.txt][JY108 太上玄靈北斗本命延生真經註�
 
 * JY109 九皇新經註解 Jiuhuang xinjing zhujie :excan:
 :PROPERTIES:
+:KR_ID: KR5i0026
 :EXTENT:  3 juan
 :LODGE:  斗 3
 :KZ:  8:2959-3043*
@@ -1548,6 +1653,7 @@ DZJY: [[dzjy:JY109/JY109_01.txt][JY109 九皇新經註解]]
 
 * JY110 玄宗正旨 Xuanzong zhengzhi :excan:
 :PROPERTIES:
+:KR_ID: KR5i0027
 :EXTENT:  2+24 fols.
 :LODGE:  斗 4
 :KZ:  8:3045-57
@@ -1560,6 +1666,7 @@ DZJY: [[dzjy:JY110/JY110_01.txt][JY110 玄宗正旨]]
 
 * JY111 浮黎鼻祖金華祕訣 Fulibizu jinhua bijue :excan:
 :PROPERTIES:
+:KR_ID: KR5i0028
 :EXTENT:  13 fols.
 :LODGE:  斗 4
 :KZ:  8:3058-64
@@ -1572,6 +1679,7 @@ DZJY: [[dzjy:JY111/JY111_01.txt][JY111 浮黎鼻祖金華祕訣]]
 
 * JY112 金碧古文龍虎上經  Jinbi guwen longhu shangjing :can:
 :PROPERTIES:
+:KR_ID: KR5d0013
 :EXTENT:  3 juan
 :LODGE:  斗 4 
 :KZ:  8: 3064-92
@@ -1586,6 +1694,7 @@ DZJ0: [[dzjy:JY112/JY112_01.txt][JY112 金碧古文龍虎上經 ]]
 
 * JY113 金碧古文龍虎上經 Jinbi guwen longhu shangjing	          :excan:
 :PROPERTIES:
+:KR_ID: KR5i0029
 :EXTENT:  19 fols.
 :LODGE:  斗 4
 :KZ:  8:3093-3102
@@ -1598,6 +1707,7 @@ DZJY: [[dzjy:JY113/JY113_01.txt][JY113 金碧古文龍虎上經]]
 
 * JY114 唱道真言 Changdao zhenyan :excan:
 :PROPERTIES:
+:KR_ID: KR5i0030
 :EXTENT:  5 juan
 :LODGE:  斗 5
 :KZ:  8:3103-48*
@@ -1610,6 +1720,7 @@ DZJY: [[dzjy:JY114/JY114_01.txt][JY114 唱道真言]]
 
 * JY115 黃帝陰符經十真集解 Huangdi yinfu jing shizhen jijie :can:
 :PROPERTIES:
+:KR_ID: KR5a0112
 :EXTENT:  3 juan
 :LODGE:  斗 6
 :KZ:  8: 3148-59
@@ -1626,6 +1737,7 @@ DZJ0: [[dzjy:JY115/JY115_01.txt][JY115 黃帝陰符經十真集解]]
 
 * JY116 黃帝陰符經 Huangdi yinfu jing :excan:
 :PROPERTIES:
+:KR_ID: KR5i0031
 :EXTENT:  31 fols.
 :LODGE:  斗 6
 :KZ:  8:3159-74
@@ -1638,6 +1750,7 @@ DZJY: [[dzjy:JY116/JY116_01.txt][JY116 黃帝陰符經]]
 
 * JY117 黃帝陰符經註 Huangdi yinfu jing zhu  :can:
 :PROPERTIES:
+:KR_ID: KR5a0117
 :EXTENT:  6  fols.
 :LODGE:  斗 6 
 :KZ:  8: 3175-77
@@ -1653,6 +1766,7 @@ DZJ0: [[dzjy:JY117/JY117_01.txt][JY117 黃帝陰符經註]]
 
 * JY118 黃帝陰符經 Huangdi yinfu jing :excan:
 :PROPERTIES:
+:KR_ID: KR5i0032
 :EXTENT:  5 fols.
 :LODGE:  斗 6
 :KZ:  8:3178-80
@@ -1665,6 +1779,7 @@ DZJY: [[dzjy:JY118/JY118_01.txt][JY118 黃帝陰符經]]
 
 * JY119 黃帝陰符經頌  Huangdi yinfu jing song :can:
 :PROPERTIES:
+:KR_ID: KR5a0323
 :EXTENT:  7  fols.
 :LODGE:  斗 6 
 :KZ:  8: 3181-84
@@ -1680,6 +1795,7 @@ DZJ0: [[dzjy:JY119/JY119_01.txt][JY119 黃帝陰符經頌 ]]
 
 * JY120 陰符玄解 Yinfu xuanjie :excan:
 :PROPERTIES:
+:KR_ID: KR5i0033
 :EXTENT:  16 fols.
 :LODGE:  下斗 6
 :KZ:  8:3184-92
@@ -1692,6 +1808,7 @@ DZJY: [[dzjy:JY120/JY120_01.txt][JY120 陰符玄解]]
 
 * JY121 洞真太上太霄琅書 Dongzhen taishang taixiao langshu :can:
 :PROPERTIES:
+:KR_ID: KR5g0161
 :EXTENT:  119 fols.
 :LODGE:  斗 7
 :KZ:  8: 3193-3252
@@ -1707,6 +1824,7 @@ DZJ0: [[dzjy:JY121/JY121_01.txt][JY121 洞真太上太霄琅書]]
 
 * JY122 高上神霄玉清真王紫書大法  Gaoshang shenxiao yuqing zhenwang zishu dafa :can:
 :PROPERTIES:
+:KR_ID: KR5g0028
 :EXTENT:  3 juan
 :LODGE:  斗 8-10
 :KZ:  8: 3253-3449
@@ -1724,6 +1842,7 @@ DZJ0: [[dzjy:JY122/JY122_01.txt][JY122 高上神霄玉清真王紫書大法 ]]
 
 * JY123 洞真太上三元流珠經  Dongzhen taishang sanyuan liuzhu jing :can:
 :PROPERTIES:
+:KR_ID: KR5g0127
 :EXTENT:  7 fols.
 :LODGE:  斗 11
 :KZ:  8: 3451-54
@@ -1739,6 +1858,7 @@ DZJ0: [[dzjy:JY123/JY123_01.txt][JY123 洞真太上三元流珠經 ]]
 
 * JY124 長生胎元神用經  Changsheng taiyuan shenyong jing :can:
 :PROPERTIES:
+:KR_ID: KR5g0214
 :EXTENT:  14 fols.
 :LODGE:  斗 11 
 :KZ:  8: 3454-61
@@ -1754,6 +1874,7 @@ DZJ0: [[dzjy:JY124/JY124_01.txt][JY124 長生胎元神用經 ]]
 
 * JY125 洞真西王母寶神起居經  Dongzhen xiwang mu baoshen qiju jing :can:
 :PROPERTIES:
+:KR_ID: KR5g0128
 :EXTENT:  15 fols.
 :LODGE:  斗 11
 :KZ:  8: 3461-68
@@ -1769,6 +1890,7 @@ DZJ0: [[dzjy:JY125/JY125_01.txt][JY125 洞真西王母寶神起居經 ]]
 
 * JY126 洞真上清青要紫書金根眾經  Dongzhen shangqing qingyao zishu jingen zhongjing :can:
 :PROPERTIES:
+:KR_ID: KR5g0124
 :EXTENT:  35 fols.
 :LODGE:  斗 11 
 :KZ:  8: 3469-86
@@ -1784,6 +1906,7 @@ DZJ0: [[dzjy:JY126/JY126_01.txt][JY126 洞真上清青要紫書金根眾經 ]]
 
 * JY127 七元真人說神真靈符經  Qiyuan zhenren shuo shenzhen lingfu jing :can:
 :PROPERTIES:
+:KR_ID: KR5g0229
 :EXTENT:  13 fols.
 :LODGE:  斗 11
 :KZ:  8: 3486-92
@@ -1799,6 +1922,7 @@ DZJ0: [[dzjy:JY127/JY127_01.txt][JY127 七元真人說神真靈符經 ]]
 
 * JY128 太上紫微中天七元真經  Taishang ziwei zhongtian qiyuan zhenjing :can:
 :PROPERTIES:
+:KR_ID: KR5g0230
 :EXTENT:  4 fols.
 :LODGE:  一斗 11
 :KZ:  8: 3492-94
@@ -1814,6 +1938,7 @@ DZJ0: [[dzjy:JY128/JY128_01.txt][JY128 太上紫微中天七元真經 ]]
 
 * JY129 中天紫微星真寶懺  Zhongtian ziwei xingzhen baochan :can:
 :PROPERTIES:
+:KR_ID: KR5h0019
 :EXTENT:  6 fols.
 :LODGE:  一斗 11
 :KZ:  8: 3494-96
@@ -1829,6 +1954,7 @@ DZJ0: [[dzjy:JY129/JY129_01.txt][JY129 中天紫微星真寶懺 ]]
 
 * JY130 五百靈官爵位姓氏總錄 Wubai lingguan juewei xingshi zonglu :excan:
 :PROPERTIES:
+:KR_ID: KR5i0034
 :EXTENT:  14 fols.
 :LODGE:  二斗 11
 :KZ:  8:3497-3503
@@ -1841,6 +1967,7 @@ DZJY: [[dzjy:JY130/JY130_01.txt][JY130 五百靈官爵位姓氏總錄]]
 
 * JY131 玉樞寶經 Yushu baojing :excan:
 :PROPERTIES:
+:KR_ID: KR5i0035
 :EXTENT:  18 fols.
 :LODGE:  三斗 11
 :KZ:  8:3504-12
@@ -1853,6 +1980,7 @@ DZJY: [[dzjy:JY131/JY131_01.txt][JY131 玉樞寶經]]
 
 * JY132 南華真經註疏 Nanhua zhenjing zhushu :can:
 :PROPERTIES:
+:KR_ID: KR5c0139
 :EXTENT:  8 juan
 :LODGE:  牛 1-8
 :KZ:  9:3515-3989
@@ -1867,6 +1995,7 @@ DZJ0: [[dzjy:JY132/JY132_01.txt][JY132 南華真經註疏]]
 
 * JY133 南華真經註疏 Nanhua zhenjing zhushu :excan:
 :PROPERTIES:
+:KR_ID: KR5i0036
 :EXTENT:  4 juan
 :LODGE:  牛 9-12
 :KZ:  9:3991-4032,10:4035-4188*
@@ -1885,6 +2014,7 @@ DZJY: [[dzjy:JY133/JY133_01.txt][JY133 南華真經註疏]]
 
 * JY134** 文始真經  Wenshi zhenjing :can:
 :PROPERTIES:
+:KR_ID: KR5c0117
 :EXTENT:  2 juan
 :LODGE:  女 1
 :KZ:  10: 4189-4239
@@ -1900,6 +2030,7 @@ DZJ0: [[dzjy:JY134/JY134_01.txt][JY134 文始真經 ]]
 
 * JY135 沖虛至德真經解  Chongxu zhide zhenjing jie :can:
 :PROPERTIES:
+:KR_ID: KR5c0121
 :EXTENT:  3 juan
 :LODGE:  女 2-4 
 :KZ:  10: 4241-4344
@@ -1917,6 +2048,7 @@ added these two files from the CTDZJY files
 
 * JY136 通玄真經  Tongxuan zhenjing :can:
 :PROPERTIES:
+:KR_ID: KR5c0140
 :EXTENT:  2 juan
 :LODGE:  女 5-6 
 :KZ:  10: 4345-4408
@@ -1931,6 +2063,7 @@ DZJ0: [[dzjy:JY136/JY136_01.txt][JY136 通玄真經 ]]
 
 * JY137 洞靈真經  Dongling zhenjing :can:
 :PROPERTIES:
+:KR_ID: KR5c0141
 :EXTENT:  53 fols.
 :LODGE:  女 7
 :KZ:  10: 4409-35
@@ -1945,6 +2078,7 @@ DZJ0: [[dzjy:JY137/JY137_01.txt][JY137 洞靈真經 ]]
 
 * JY138 太極葛仙公傳  Taiji ge xiangong zhuan :can:
 :PROPERTIES:
+:KR_ID: KR5b0134
 :EXTENT:  21 fols.
 :LODGE:  女 7
 :KZ:  10: 4435-45
@@ -1959,6 +2093,7 @@ DZJ0: [[dzjy:JY138/JY138_01.txt][JY138 太極葛仙公傳 ]]
 
 * JY139 參同契闡幽 Cantong qi chanyou :excan:
 :PROPERTIES:
+:KR_ID: KR5i0037
 :EXTENT:  2 juan
 :LODGE:  虛 1-2
 :KZ:  10:4447-4535
@@ -1971,6 +2106,7 @@ DZJY: [[dzjy:JY139/JY139_01.txt][JY139 參同契闡幽]]
 
 * JY140 參同契分章註 Cantong qi fenzhang zhu :excan:
 :PROPERTIES:
+:KR_ID: KR5i0038
 :EXTENT:  3 juan
 :LODGE:  虛 3
 :KZ:  11:4539-81
@@ -1983,6 +2119,7 @@ DZJY: [[dzjy:JY140/JY140_01.txt][JY140 參同契分章註]]
 
 * JY141* 參同契  Cantong qi :can:
 :PROPERTIES:
+:KR_ID: KR5d0025
 :EXTENT:  3 juan
 :LODGE:  虛 4 
 :KZ:  11: 4583-4612
@@ -1997,6 +2134,7 @@ DZJ0: [[dzjy:JY141/JY141_01.txt][JY141 參同契 ]]
 
 * JY142 入藥鏡 Ruyao jing :excan:
 :PROPERTIES:
+:KR_ID: KR5i0039
 :EXTENT:  2+40 fols.
 :LODGE:  虛 5
 :KZ:  11:4612-33
@@ -2009,6 +2147,7 @@ DZJY: [[dzjy:JY142/JY142_01.txt][JY142 入藥鏡]]
 
 * JY143 淮南鴻烈解  Huainan honglie jie :can:
 :PROPERTIES:
+:KR_ID: KR5f0018
 :EXTENT:  3 juan
 :LODGE:  虛 6-8 
 :KZ:  11: 4635-4812
@@ -2023,6 +2162,7 @@ DZJ0: [[dzjy:JY143/JY143_01.txt][JY143 淮南鴻烈解 ]]
 
 * JY144* 抱朴子內篇  Baopu zi neipian :can:
 :PROPERTIES:
+:KR_ID: KR5f0019
 :EXTENT:  168 fols.
 :LODGE:  虛 9
 :KZ:  11: 4813-96
@@ -2037,6 +2177,7 @@ DZJ0: [[dzjy:JY144/JY144_01.txt][JY144 抱朴子內篇 ]]
 
 * JY145* 抱朴子外篇  Baopu zi waipian :can:
 :PROPERTIES:
+:KR_ID: KR5f0021
 :EXTENT:  17 fols.
 :LODGE:  虛 9
 :KZ:  11: 4897-4905
@@ -2051,6 +2192,7 @@ DZJ0: [[dzjy:JY145/JY145_01.txt][JY145 抱朴子外篇 ]]
 
 * JY146 葛仙翁肘後備急方  Ge xianweng zhouhou beiji fang  :can:
 :PROPERTIES:
+:KR_ID: KR5g0115
 :EXTENT:  2 juan
 :LODGE:  虛 10-11
 :KZ:  11: 4907-5034
@@ -2065,6 +2207,7 @@ DZJ0: [[dzjy:JY146/JY146_01.txt][JY146 葛仙翁肘後備急方 ]]
 
 * JY147* 孫真人備急千金要方  Sun zhenren beiji qianjin yaofang :can:
 :PROPERTIES:
+:KR_ID: KR5e0065
 :EXTENT:  5 juan
 :LODGE:  續虛
 :KZ:  12: 5037-96
@@ -2079,6 +2222,7 @@ DZJ0: [[dzjy:JY147/JY147_01.txt][JY147 孫真人備急千金要方 ]]
 
 * JY148 靈寶畢法 Lingbao bifa :can:
 :PROPERTIES:
+:KR_ID: KR5f0025
 :EXTENT:  32 fols.
 :LODGE:  危 1
 :KZ:  12: 5097-5112
@@ -2093,6 +2237,7 @@ DZJ0: [[dzjy:JY148/JY148_01.txt][JY148 靈寶畢法]]
 
 * JY149** 鍾呂傳道集  Zhong lü chuandao ji :can:
 :PROPERTIES:
+:KR_ID: KR5a0266
 :EXTENT:  60 fols.
 :LODGE:  危 2 
 :KZ:  12: 5113-42
@@ -2109,6 +2254,7 @@ DZJY: [[dzjy:JY149/JY149_01.txt][JY149 鍾呂傳道集 ]]
 
 * JY150 銅符鐵券 Tongfu tiequan :excan:
 :PROPERTIES:
+:KR_ID: KR5i0040
 :EXTENT:  1+28 ff.
 :LODGE:  危 3
 :KZ:  12:5143-57
@@ -2128,6 +2274,7 @@ DZJY: [[dzjy:JY150/JY150_01.txt][JY150 銅符鐵券]]
 
 * JY151* 石函記 Shihan ji :can:
 :PROPERTIES:
+:KR_ID: KR5c0351
 :EXTENT:  34 fols.
 :LODGE:  危 3 
 :KZ:  12: 5157-74
@@ -2142,6 +2289,7 @@ DZJ0: [[dzjy:JY151/JY151_01.txt][JY151 石函記]]
 
 * JY152 太上靈寶淨明宗教錄 Taishang lingbao jingming zongjiao lu :excan:
 :PROPERTIES:
+:KR_ID: KR5i0041
 :EXTENT:  5+49 fols.
 :LODGE:  危 4
 :KZ:  12:5175-5201
@@ -2162,6 +2310,7 @@ JY152_Xu* DZ0559
 
 * JY153** 化書 Huashu :excan:
 :PROPERTIES:
+:KR_ID: KR5i0042
 :EXTENT:  1+2+100 fols.
 :LODGE:  危 5
 :KZ:  12:5203-54
@@ -2179,6 +2328,7 @@ DZJY: [[dzjy:JY153/JY153_01.txt][JY153 化書]]
 
 * JY154 葛仙翁太極沖玄至道心傳 Ge xianweng taiji chongxuan zhidao xinchuan :excan:
 :PROPERTIES:
+:KR_ID: KR5i0043
 :EXTENT:  36 fols.
 :LODGE:  危 6
 :KZ:  12: 5255-72
@@ -2191,6 +2341,7 @@ DZJY: [[dzjy:JY154/JY154_01.txt][JY154 葛仙翁太極沖玄至道心傳]]
 
 * JY155* 黃石公素書 Huangshi gong sushu :can:
 :PROPERTIES:
+:KR_ID: KR5f0013
 :EXTENT:  6  fols.
 :LODGE:  危 7
 :KZ:  12: 5273-75
@@ -2205,6 +2356,7 @@ DZJ0: [[dzjy:JY155/JY155_01.txt][JY155 黃石公素書]]
 
 * JY156* 劉子 Liuzi :can:
 :PROPERTIES:
+:KR_ID: KR5d0053
 :EXTENT:  13 fols.
 :LODGE:  危 7 
 :KZ:  12: 5276-82
@@ -2219,6 +2371,7 @@ DZJ0: [[dzjy:JY156/JY156_01.txt][JY156 劉子]]
 
 * JY157 玄真子  Xuanzhen zi :can:
 :PROPERTIES:
+:KR_ID: KR5d0052
 :EXTENT:  17 fols.
 :LODGE:  危 7
 :KZ:  12: 5282-90
@@ -2234,6 +2387,7 @@ DZJ0: [[dzjy:JY157/JY157_01.txt][JY157 玄真子 ]]
 
 * JY158 天隱子  Tianyin zi :can:
 :PROPERTIES:
+:KR_ID: KR5d0049
 :EXTENT:  4 fols.
 :LODGE:  危 7
 :KZ:  12: 5291-92
@@ -2249,6 +2403,7 @@ DZJ0: [[dzjy:JY158/JY158_01.txt][JY158 天隱子 ]]
 
 * JY159 十六品經 Shiliupin jing :excan:
 :PROPERTIES:
+:KR_ID: KR5i0044
 :EXTENT:  2+4+90 fols.
 :LODGE:  室 1
 :KZ:  12: 5293-5340
@@ -2261,6 +2416,7 @@ DZJY: [[dzjy:JY159/JY159_01.txt][JY159 十六品經]]
 
 * JY160 呂祖本傳 Lüzu benzhuan :excan:
 :PROPERTIES:
+:KR_ID: KR5i0045
 :EXTENT:  15 fols.
 :LODGE:  續室 1
 :KZ:  12: 5341-48
@@ -2273,6 +2429,7 @@ DZJY: [[dzjy:JY160/JY160_01.txt][JY160 呂祖本傳]]
 
 * JY161 金華宗旨 Jinhua zongzhi :excan:
 :PROPERTIES:
+:KR_ID: KR5i0046
 :EXTENT:  8+53+4 fols.
 :LODGE:  室 2
 :KZ:  12: 5349-82
@@ -2285,6 +2442,7 @@ DZJY: [[dzjy:JY161/JY161_01.txt][JY161 金華宗旨]]
 
 * JY162 同參經 Tongcan jing :excan:
 :PROPERTIES:
+:KR_ID: KR5i0047
 :EXTENT:  3 juan
 :LODGE:  室 3
 :KZ:  12: 5383-5415
@@ -2297,6 +2455,7 @@ DZJY: [[dzjy:JY162/JY162_01.txt][JY162 同參經]]
 
 * JY163 五經合編 Wujing hebian :excan:
 :PROPERTIES:
+:KR_ID: KR5i0048
 :EXTENT:  52 fols.
 :LODGE:  室 4
 :KZ:  12: 5417-42
@@ -2309,6 +2468,7 @@ DZJY: [[dzjy:JY163/JY163_01.txt][JY163 五經合編]]
 
 * JY164 呂帝文集 Lüdi wenji :excan:
 :PROPERTIES:
+:KR_ID: KR5i0049
 :EXTENT:  7+123 ff.
 :LODGE:  室 5
 :KZ:  12: 5443-5507
@@ -2321,6 +2481,7 @@ DZJY: [[dzjy:JY164/JY164_01.txt][JY164 呂帝文集]]
 
 * JY165 呂帝詩集 Lüdi shiji :excan:
 :PROPERTIES:
+:KR_ID: KR5i0050
 :EXTENT:  2 juan
 :LODGE:  室 6-7
 :KZ:  13: 5511-5622
@@ -2333,6 +2494,7 @@ DZJY: [[dzjy:JY165/JY165_01.txt][JY165 呂帝詩集]]
 
 * JY166 純陽三書 Chunyang sanshu :excan:
 :PROPERTIES:
+:KR_ID: KR5i0051
 :EXTENT:  6 juan
 :LODGE:  室 8
 :KZ:  
@@ -2345,6 +2507,7 @@ DZJY: [[dzjy:JY166/JY166_01.txt][JY166 純陽三書]]
 
 * JY167 易說 Yishuo :excan:
 :PROPERTIES:
+:KR_ID: KR5i0052
 :EXTENT:  2 juan
 :LODGE:  壁 1-2,又壁 1
 :KZ:  13: 5623-5714, 14: 5983-6023
@@ -2357,6 +2520,7 @@ DZJY: [[dzjy:JY167/JY167_01.txt][JY167 易說]]
 
 * JY168 語錄大觀 Yulu daguan :excan:
 :PROPERTIES:
+:KR_ID: KR5i0053
 :EXTENT:  199 fols.
 :LODGE:  壁 3-4
 :KZ:  13: 5715-5814
@@ -2377,6 +2541,7 @@ KX168_p0390_03	孚佑上帝純陽吕祖天師著
 
 * JY169 微言摘要 Weiyan zhaiyao :excan:
 :PROPERTIES:
+:KR_ID: KR5i0054
 :EXTENT:  32 fols.
 :LODGE:  壁 4
 :KZ:  13: 5815-30
@@ -2389,6 +2554,7 @@ DZJY: [[dzjy:JY169/JY169_01.txt][JY169 微言摘要]]
 
 * JY170 呂帝聖蹟紀要 Lüdi shengji jiyao :excan:
 :PROPERTIES:
+:KR_ID: KR5i0055
 :EXTENT:  1+2+50 fols.
 :LODGE:  壁 5
 :KZ:  13: 5831-57
@@ -2401,6 +2567,7 @@ DZJY: [[dzjy:JY170/JY170_01.txt][JY170 呂帝聖蹟紀要]]
 
 * JY171 天仙金丹心法 Tianxian jindan xinfa :excan:
 :PROPERTIES:
+:KR_ID: KR5i0056
 :EXTENT:  2 juan
 :LODGE:  壁 6,又壁 6
 :KZ:  13: 5859-5933
@@ -2413,6 +2580,7 @@ DZJY: [[dzjy:JY171/JY171_01.txt][JY171 天仙金丹心法]]
 
 * JY172 東園語錄 Dongyuan yulu :excan:
 :PROPERTIES:
+:KR_ID: KR5i0057
 :EXTENT:  2 juan
 :LODGE:  續壁 7
 :KZ:  13: 5935-79
@@ -2425,6 +2593,7 @@ DZJY: [[dzjy:JY172/JY172_01.txt][JY172 東園語錄]]
 
 * JY173* 至真歌 Zhizhen ge :can:
 :PROPERTIES:
+:KR_ID: KR5g0066
 :EXTENT:  3 fols.
 :LODGE:  奎 1
 :KZ:  14: 6025-26
@@ -2439,6 +2608,7 @@ DZJ0: [[dzjy:JY173/JY173_01.txt][JY173 至真歌]]
 
 * JY174* 玉清金笥青華祕文金寶內鍊丹法  Yuqing jinsi qinghua biwen jinbao neilian danfai :can:
 :PROPERTIES:
+:KR_ID: KR5a0241
 :EXTENT:  34 fols.
 :LODGE:  奎 1
 :KZ:  14: 6026-43
@@ -2454,6 +2624,7 @@ DZJ0: [[dzjy:JY174/JY174_01.txt][JY174 玉清金笥青華祕文金寶內鍊丹�
 
 * JY175 悟真篇三注  Wuzhen pian sanzhu :can:
 :PROPERTIES:
+:KR_ID: KR5a0143
 :EXTENT:  3 juan
 :LODGE:  奎 2
 :KZ:  14: 6045-99
@@ -2468,6 +2639,7 @@ DZJ0: [[dzjy:JY175/JY175_01.txt][JY175 悟真篇三注 ]]
 
 * JY176* 悟真篇拾遺  Wuzhen pian shiyi :can:
 :PROPERTIES:
+:KR_ID: KR5a0145
 :EXTENT:  17 fols.
 :LODGE:  奎 2
 :KZ:  14: 6100-08
@@ -2483,6 +2655,7 @@ DZJ0: [[dzjy:JY176/JY176_01.txt][JY176 悟真篇拾遺 ]]
 
 * JY177* 悟真篇直指詳說  Wuzhen pian zhizhi xiangshuo :can:
 :PROPERTIES:
+:KR_ID: KR5a0144
 :EXTENT:  9 fols.
 :LODGE:  奎 2
 :KZ:  14: 6108-12
@@ -2497,6 +2670,7 @@ DZJ0: [[dzjy:JY177/JY177_01.txt][JY177 悟真篇直指詳說 ]]
 
 * JY178 金丹四百字 Jindan sibaizi :excan:
 :PROPERTIES:
+:KR_ID: KR5i0058
 :EXTENT:  12 fols.
 :LODGE:  奎 2
 :KZ:  14: 6113-18
@@ -2509,6 +2683,7 @@ DZJY: [[dzjy:JY178/JY178_01.txt][JY178 金丹四百字]]
 
 * JY179* 石橋歌  Shiqiao ge :can:
 :PROPERTIES:
+:KR_ID: KR5a0142
 :EXTENT:  1 fol.
 :LODGE:  奎 2
 :KZ:  14: 6118;
@@ -2525,6 +2700,7 @@ and [[mandoku:dz:DZ0141:020964b10][紫陽真人悟真篇註疏 DZ0141:020964b10]
 
 * JY180 悟真篇闡幽 Wuzhenpian chanyou :excan:
 :PROPERTIES:
+:KR_ID: KR5i0059
 :EXTENT:  3 juan
 :LODGE:  奎 3
 :KZ:  14: 6119-63
@@ -2537,6 +2713,7 @@ DZJY: [[dzjy:JY180/JY180_01.txt][JY180 悟真篇闡幽]]
 
 * JY181 還源篇  Huanyuan pian :can:
 :PROPERTIES:
+:KR_ID: KR5d0114
 :EXTENT:  6 fols.
 :LODGE:  奎 4
 :KZ:  14: 6165-67
@@ -2551,6 +2728,7 @@ DZJ0: [[dzjy:JY181/JY181_01.txt][JY181 還源篇 ]]
 
 * JY182 還丹復命篇  Huandan fuming pian :can:
 :PROPERTIES:
+:KR_ID: KR5d0111
 :EXTENT:  15 fols.
 :LODGE:  奎 4
 :KZ:  14: 6168-75
@@ -2565,6 +2743,7 @@ DZJ0: [[dzjy:JY182/JY182_01.txt][JY182 還丹復命篇 ]]
 
 * JY183* 泥洹集  Nihuan ji :can:
 :PROPERTIES:
+:KR_ID: KR5d0113
 :EXTENT:  26 fols.
 :LODGE:  奎 4
 :KZ:  14: 6175-88
@@ -2579,6 +2758,7 @@ DZJ0: [[dzjy:JY183/JY183_01.txt][JY183 泥洹集 ]]
 
 * JY184 析疑指迷論  Xiyi zhimi lun :can:
 :PROPERTIES:
+:KR_ID: KR5a0288
 :EXTENT:  12 fols.
 :LODGE:  奎 4
 :KZ:  14: 6188-94
@@ -2593,6 +2773,7 @@ DZJ0: [[dzjy:JY184/JY184_01.txt][JY184 析疑指迷論 ]]
 
 * JY185 瓊琯白真人集 Qiongguan bai zhenren ji :excan:
 :PROPERTIES:
+:KR_ID: KR5i0060
 :EXTENT:  6 juan
 :LODGE:  婁 1-6
 :KZ:  14: 6195-6366
@@ -2605,6 +2786,7 @@ DZJY: [[dzjy:JY185/JY185_01.txt][JY185 瓊琯白真人集]]
 
 * JY186* 海瓊白真君語錄  Haiqiong bai zhenjun yulu :can:
 :PROPERTIES:
+:KR_ID: KR5g0116
 :EXTENT:  45 fols.
 :LODGE:  婁 7
 :KZ:  14: 6367-89
@@ -2619,6 +2801,7 @@ JY version ends at [[mandoku:dz:DZ1307:330132a13][海瓊白真人語録 DZ1307:3
 
 * JY187 重陽全真集  Chongyang quanzhen ji :can:
 :PROPERTIES:
+:KR_ID: KR5e0055
 :EXTENT:  3 juan
 :LODGE:  胃 1
 :KZ:  15: 6393-6485
@@ -2636,6 +2819,7 @@ SEC 1 seems to be at the wrong position, most part is missing, in the file this 
 but <pb:CK-KZ_JY187_p0003a> seems to be 3a of SEC 1...¶
 * JY188 重陽教化集  Chongyang jiaohua ji :can:
 :PROPERTIES:
+:KR_ID: KR5e0056
 :EXTENT:  13+42 fols.
 :LODGE:  胃 2
 :KZ:  15: 6487-6514
@@ -2650,6 +2834,7 @@ DZJ0: [[dzjy:JY188/JY188_01.txt][JY188 重陽教化集 ]]
 
 * JY189 重陽分梨十化集  Chongyang fenli shihua ji :can:
 :PROPERTIES:
+:KR_ID: KR5e0057
 :EXTENT:  20 fols.
 :LODGE:  胃 2
 :KZ:  15: 6514-24
@@ -2664,6 +2849,7 @@ DZJ0: [[dzjy:JY189/JY189_01.txt][JY189 重陽分梨十化集 ]]
 
 * JY190 立教十五論  Lijiao shiwu lun :can:
 :PROPERTIES:
+:KR_ID: KR5g0042
 :EXTENT:  7 fols.
 :LODGE:  胃 2
 :KZ:  15: 6524-26
@@ -2678,6 +2864,7 @@ DZJ0: [[dzjy:JY190/JY190_01.txt][JY190 立教十五論 ]]
 
 * JY191 丹陽真人直言 Danyang zhenren zhiyan :can:
 :PROPERTIES:
+:KR_ID: KR5g0043
 :EXTENT:  2 fols.
 :LODGE:  胃 2
 :KZ:  15: 6527;
@@ -2692,6 +2879,7 @@ DZJ0: [[dzjy:JY191/JY191_01.txt][JY191 丹陽真人直言]]
 
 * JY192 太公陰符經 Taigong yinfu jing :excan:
 :PROPERTIES:
+:KR_ID: KR5i0061
 :EXTENT:  4+41 fols.
 :LODGE:  又胃 2
 :KZ:  15: 6528-50
@@ -2704,6 +2892,7 @@ DZJY: [[dzjy:JY192/JY192_01.txt][JY192 太公陰符經]]
 
 * JY193 五篇靈文 Wupian lingwen :excan:
 :PROPERTIES:
+:KR_ID: KR5i0062
 :EXTENT:  16 fols.
 :LODGE:  又胃 2
 :KZ:  15: 6550-58
@@ -2723,6 +2912,7 @@ DZJY: [[dzjy:JY193/JY193_01.txt][JY193 五篇靈文]]
 
 * JY194 長春真人西游記 Changchun zhenren xiyou ji :can:
 :PROPERTIES:
+:KR_ID: KR5g0238
 :EXTENT:  2+45 fols.
 :LODGE:  胃 3
 :KZ:  15: 6559-82
@@ -2737,6 +2927,7 @@ DZJ0: [[dzjy:JY194/JY194_01.txt][JY194 長春真人西游記]]
 
 * JY195* 磻溪集  Panxi ji :can:
 :PROPERTIES:
+:KR_ID: KR5e0061
 :EXTENT:  85 fols.
 :LODGE:  胃 3
 :KZ:  15: 6582-6624
@@ -2751,6 +2942,7 @@ DZJ0: [[dzjy:JY195/JY195_01.txt][JY195 磻溪集 ]]
 
 * JY196 仙樂集  Xianle ji :can:
 :PROPERTIES:
+:KR_ID: KR5e0043
 :EXTENT:  62 fols.
 :LODGE:  胃 3
 :KZ:  15: 6625-55
@@ -2765,6 +2957,7 @@ DZJ0: [[dzjy:JY196/JY196_01.txt][JY196 仙樂集 ]]
 
 * JY197 無為清靜長生真人至真語錄  Wuwei qingjing changsheng zhenren zhizhen yulu :can:
 :PROPERTIES:
+:KR_ID: KR5d0081
 :EXTENT:  26 fols.
 :LODGE:  胃 4
 :KZ:  15: 6656-68
@@ -2779,6 +2972,7 @@ DZJ0: [[dzjy:JY197/JY197_01.txt][JY197 無為清靜長生真人至真語錄 ]]
 
 * JY198 水雲集  Shuiyun ji :can:
 :PROPERTIES:
+:KR_ID: KR5e0062
 :EXTENT:  2+48 fols.
 :LODGE:  胃 5
 :KZ:  15: 6669-93
@@ -2793,6 +2987,7 @@ DZJ0: [[dzjy:JY198/JY198_01.txt][JY198 水雲集 ]]
 
 * JY199 洞玄金玉集  Dongxuan jinyu ji :can:
 :PROPERTIES:
+:KR_ID: KR5e0051
 :EXTENT:  2 juan
 :LODGE:  胃 6
 :KZ:  15: 6695-6772
@@ -2807,6 +3002,7 @@ DZJ0: [[dzjy:JY199/JY199_01.txt][JY199 洞玄金玉集 ]]
 
 * JY200 漸悟集  Jianwu ji :can:
 :PROPERTIES:
+:KR_ID: KR5e0044
 :EXTENT:  63 fols.
 :LODGE:  胃 7
 :KZ:  15: 6773-6804
@@ -2821,6 +3017,7 @@ DZJ0: [[dzjy:JY200/JY200_01.txt][JY200 漸悟集 ]]
 
 * JY201 丹陽神光燦  Danyang shenguang can :can:
 :PROPERTIES:
+:KR_ID: KR5e0052
 :EXTENT:  32 fols.
 :LODGE:  胃 7
 :KZ:  15: 6804-20
@@ -2835,6 +3032,7 @@ DZJ0: [[dzjy:JY201/JY201_01.txt][JY201 丹陽神光燦 ]]
 
 * JY202 丹陽真人語錄  Danyang zhenren yulu :can:
 :PROPERTIES:
+:KR_ID: KR5d0080
 :EXTENT:  12 fols.
 :LODGE:  胃 7
 :KZ:  15: 6820-26
@@ -2849,6 +3047,7 @@ DZJ0: [[dzjy:JY202/JY202_01.txt][JY202 丹陽真人語錄 ]]
 
 * JY203 孫不二元君法語 Sun bu'er yuanjun fayu :excan:
 :PROPERTIES:
+:KR_ID: KR5i0063
 :EXTENT:  3 fols.
 :LODGE:  胃 7
 :KZ:  15: 6826-27
@@ -2861,6 +3060,7 @@ DZJY: [[dzjy:JY203/JY203_01.txt][JY203 孫不二元君法語]]
 
 * JY204 孫不二元君傳述丹道祕書三卷 Sun bu'er yuanjun chuanshu dandao bishu sanjuan :excan:
 :PROPERTIES:
+:KR_ID: KR5i0064
 :EXTENT:  7 fols.
 :LODGE:  胃 7
 :KZ:  15: 6828-31
@@ -2873,6 +3073,7 @@ DZJY: [[dzjy:JY204/JY204_01.txt][JY204 孫不二元君傳述丹道祕書三卷]]
 
 * JY205 太古集  Taigu ji :can:
 :PROPERTIES:
+:KR_ID: KR5e0063
 :EXTENT:  45 fols.
 :LODGE:  胃 8
 :KZ:  16: 6835-57
@@ -2887,6 +3088,7 @@ DZJ0: [[dzjy:JY205/JY205_01.txt][JY205 太古集 ]]
 
 * JY206 雲光集  Yunguang ji :can:
 :PROPERTIES:
+:KR_ID: KR5e0054
 :EXTENT:  102 fols.
 :LODGE:  胃 9
 :KZ:  16: 6859-6909
@@ -2901,6 +3103,7 @@ DZJ0: [[dzjy:JY206/JY206_01.txt][JY206 雲光集 ]]
 
 * JY207 葆光集  Baoguang ji :can:
 :PROPERTIES:
+:KR_ID: KR5e0048
 :EXTENT:  3+74 fols.
 :LODGE:  胃 10
 :KZ:  16: 6911-49
@@ -2915,6 +3118,7 @@ DZJ0: [[dzjy:JY207/JY207_01.txt][JY207 葆光集 ]]
 
 * JY208 金液還丹印證圖詩 Jinye huandan yinzheng tushi :excan:
 :PROPERTIES:
+:KR_ID: KR5i0065
 :EXTENT:  46 fols.
 :LODGE:  胃 11
 :KZ:  16: 6951-73
@@ -2927,6 +3131,7 @@ DZJY: [[dzjy:JY208/JY208_01.txt][JY208 金液還丹印證圖詩]]
 
 * JY209* 金丹大要  Jindan dayao :can:
 :PROPERTIES:
+:KR_ID: KR5d0090
 :EXTENT:  3 juan
 :LODGE:  昂 1-3
 :KZ:  16: 6975-7086
@@ -2943,6 +3148,7 @@ DZJY: [[dzjy:JY209/JY209_01.txt][JY209 金丹大要 ]]
 
 * JY210* 金丹大成  Jindan dacheng :can:
 :PROPERTIES:
+:KR_ID: KR5a0265
 :EXTENT:  44 fols.
 :LODGE:  昂 4
 :KZ:  16: 7087-7108
@@ -2957,6 +3163,7 @@ DZJY: [[dzjy:JY210/JY210_01.txt][JY210 金丹大成 ]]
 
 * JY211* 規中指南  Guizhong zhinan :can:
 :PROPERTIES:
+:KR_ID: KR5a0244
 :EXTENT:  16 fols.
 :LODGE:  昂 5
 :KZ:  16: 7109-16
@@ -2971,6 +3178,7 @@ DZJ0: [[dzjy:JY211/JY211_01.txt][JY211 規中指南 ]]
 
 * JY212 太玄寶典  Taixuan baodian :can:
 :PROPERTIES:
+:KR_ID: KR5d0057
 :EXTENT:  21 fols.
 :LODGE:  昂 5
 :KZ:  16: 7117-27
@@ -2985,6 +3193,7 @@ DZJ0: [[dzjy:JY212/JY212_01.txt][JY212 太玄寶典 ]]
 
 * JY213 坐忘論  Zuowang lun :can:
 :PROPERTIES:
+:KR_ID: KR5d0059
 :EXTENT:  14 fols.
 :LODGE:  昂 5
 :KZ:  16: 7127-34
@@ -2999,6 +3208,7 @@ DZJ0: [[dzjy:JY213/JY213_01.txt][JY213 坐忘論 ]]
 
 * JY214 悟玄篇  Wuxuan pian :can:
 :PROPERTIES:
+:KR_ID: KR5d0069
 :EXTENT:  9 fols.
 :LODGE:  昂 5
 :KZ:  16: 7134-39
@@ -3013,6 +3223,7 @@ DZJ0: [[dzjy:JY214/JY214_01.txt][JY214 悟玄篇 ]]
 
 * JY215 太虛心淵篇  Taixu xinyuan pian :can:
 :PROPERTIES:
+:KR_ID: KR5d0070
 :EXTENT:  5 fols.
 :LODGE:  昂 5
 :KZ:  16: 7139-41
@@ -3027,6 +3238,7 @@ DZJ0: [[dzjy:JY215/JY215_01.txt][JY215 太虛心淵篇 ]]
 
 * JY216 丹房奧論  Danfang aolun :can:
 :PROPERTIES:
+:KR_ID: KR5c0320
 :EXTENT:  13 fols.
 :LODGE:  昂 5
 :KZ:  16: 7142-48
@@ -3041,6 +3253,7 @@ DZJ0: [[dzjy:JY216/JY216_01.txt][JY216 丹房奧論 ]]
 
 * JY217 明真破妄章頌  Mingzhen powang zhangsong :can:
 :PROPERTIES:
+:KR_ID: KR5c0379
 :EXTENT:  7 fols.
 :LODGE:  昂 5
 :KZ:  16: 7148-51
@@ -3055,6 +3268,7 @@ DZJ0: [[dzjy:JY217/JY217_01.txt][JY217 明真破妄章頌 ]]
 
 * JY218 道法心傳  Daofa xinchuan :can:
 :PROPERTIES:
+:KR_ID: KR5g0062
 :EXTENT:  31 fols.
 :LODGE:  昂 5
 :KZ:  16: 7152-67
@@ -3069,6 +3283,7 @@ DZJ0: [[dzjy:JY218/JY218_01.txt][JY218 道法心傳 ]]
 
 * JY219 橐籥子  Tuoyue zi :can:
 :PROPERTIES:
+:KR_ID: KR5f0022
 :EXTENT:  8 fols.
 :LODGE:  昂 5
 :KZ:  16: 7167-71
@@ -3083,6 +3298,7 @@ DZJ0: [[dzjy:JY219/JY219_01.txt][JY219 橐籥子 ]]
 
 * JY220 陰丹內篇  Yindan neipian :can:
 :PROPERTIES:
+:KR_ID: KR5f0023
 :EXTENT:  2 fols.
 :LODGE:  昂 5
 :KZ:  16: 7171-72
@@ -3097,6 +3313,7 @@ DZJ0: [[dzjy:JY220/JY220_01.txt][JY220 陰丹內篇 ]]
 
 * JY221 雲山集  Yunshan ji :can:
 :PROPERTIES:
+:KR_ID: KR5e0042
 :EXTENT:  2 juan?
 :LODGE:  昂 6
 :KZ:  16: 7173-7242
@@ -3111,6 +3328,7 @@ DZJ0: [[dzjy:JY221/JY221_01.txt][JY221 雲山集 ]]
 
 * JY222 草堂集  Caotang ji :can:
 :PROPERTIES:
+:KR_ID: KR5e0045
 :EXTENT:  34 fols.
 :LODGE:  昂 7
 :KZ:  16: 7243-59
@@ -3125,6 +3343,7 @@ DZJ0: [[dzjy:JY222/JY222_01.txt][JY222 草堂集 ]]
 
 * JY223 自然集  Ziran ji :can:
 :PROPERTIES:
+:KR_ID: KR5e0046
 :EXTENT:  9 fols.
 :LODGE:  昂 7
 :KZ:  16: 7260-64
@@ -3139,6 +3358,7 @@ DZJ0: [[dzjy:JY223/JY223_01.txt][JY223 自然集 ]]
 
 * JY224 鳴真集  Mingzhen ji :can:
 :PROPERTIES:
+:KR_ID: KR5e0047
 :EXTENT:  10 fols.
 :LODGE:  昂 7
 :KZ:  16: 7264-69
@@ -3153,6 +3373,7 @@ DZJ0: [[dzjy:JY224/JY224_01.txt][JY224 鳴真集 ]]
 
 * JY225 西雲集  Xiyun ji :can:
 :PROPERTIES:
+:KR_ID: KR5e0049
 :EXTENT:  30 fols.
 :LODGE:  昂 7
 :KZ:  16: 7269-84
@@ -3167,6 +3388,7 @@ DZJ0: [[dzjy:JY225/JY225_01.txt][JY225 西雲集 ]]
 
 * JY226 中和集  Zhonghe ji :can:
 :PROPERTIES:
+:KR_ID: KR5a0250
 :EXTENT:  98 fols.
 :LODGE:  昂 8
 :KZ:  17: 7287-7335
@@ -3181,6 +3403,7 @@ DZJ0: [[dzjy:JY226/JY226_01.txt][JY226 中和集 ]]
 
 * JY227 晉真人語錄  Jin zhenren yulu :can:
 :PROPERTIES:
+:KR_ID: KR5d0079
 :EXTENT:  11 fols.
 :LODGE:  昂 9
 :KZ:  17: 7337-42
@@ -3195,6 +3418,7 @@ DZJ0: [[dzjy:JY227/JY227_01.txt][JY227 晉真人語錄 ]]
 
 * JY228 虛靜沖和先生徐神翁語錄  Xujing chonghe xiansheng xu shenweng yulu :can:
 :PROPERTIES:
+:KR_ID: KR5g0060
 :EXTENT:  35 fols.
 :LODGE:  昂 9
 :KZ:  17: 7342-59
@@ -3209,6 +3433,7 @@ DZJ0: [[dzjy:JY228/JY228_01.txt][JY228 虛靜沖和先生徐神翁語錄 ]]
 
 * JY229 盤山棲雲王真人語錄  Panshan qiyun wang zhenren yulu :can:
 :PROPERTIES:
+:KR_ID: KR5d0082
 :EXTENT:  33 fols.
 :LODGE:  昂 9
 :KZ:  17: 7360-76
@@ -3223,6 +3448,7 @@ DZJ0: [[dzjy:JY229/JY229_01.txt][JY229 盤山棲雲王真人語錄 ]]
 
 * JY230 清和真人北游語錄  Qinghe zhenren beiyou yulu :can:
 :PROPERTIES:
+:KR_ID: KR5g0119
 :EXTENT:  51 fols.
 :LODGE:  昂 10
 :KZ:  17: 7377-7402
@@ -3237,6 +3463,7 @@ DZJ0: [[dzjy:JY230/JY230_01.txt][JY230 清和真人北游語錄 ]]
 
 * JY231 仙佛合宗語錄 Xianfo hezong yulu :excan:
 :PROPERTIES:
+:KR_ID: KR5i0066
 :EXTENT:  3 juan
 :LODGE:  畢 1-3
 :KZ:  17: 7403-7540
@@ -3249,6 +3476,7 @@ DZJY: [[dzjy:JY231/JY231_01.txt][JY231 仙佛合宗語錄]]
 
 * JY232 天仙正理直論 Tianxian zhengli zhilun :excan:
 :PROPERTIES:
+:KR_ID: KR5i0067
 :EXTENT:  110 fols.
 :LODGE:  畢 4
 :KZ:  17: 7541-95
@@ -3262,6 +3490,7 @@ DZJY: [[dzjy:JY232/JY232_01.txt][JY232 天仙正理直論]]
 
 * JY233 天仙正理直論淺說 Tianxian zhengli zhilun qianshuo :excan:
 :PROPERTIES:
+:KR_ID: KR5i0068
 :EXTENT:  45 fols.
 :LODGE:  畢 5
 :KZ:  17: 7597-7619
@@ -3274,6 +3503,7 @@ DZJY: [[dzjy:JY233/JY233_01.txt][JY233 天仙正理直論淺說]]
 
 * JY234 金丹要訣 Jindan yaojue :excan:
 :PROPERTIES:
+:KR_ID: KR5i0069
 :EXTENT:  19 fols.
 :LODGE:  畢 6
 :KZ:  17: 7621-30
@@ -3286,6 +3516,7 @@ DZJY: [[dzjy:JY234/JY234_01.txt][JY234 金丹要訣]]
 
 * JY235 伍真人丹道九篇 Wu zhenren dandao jiupian :excan:
 :PROPERTIES:
+:KR_ID: KR5i0070
 :EXTENT:  19 fols.
 :LODGE:  畢 6
 :KZ:  17: 7630-39
@@ -3298,6 +3529,7 @@ DZJY: [[dzjy:JY235/JY235_01.txt][JY235 伍真人丹道九篇]]
 
 * JY236 張三丰先生全集 Zhang sanfeng xiansheng quanji :excan:
 :PROPERTIES:
+:KR_ID: KR5i0071
 :EXTENT:  6 juan
 :LODGE:  續畢 7-12
 :KZ:  17: 7641-18: 7905
@@ -3310,6 +3542,7 @@ DZJY: [[dzjy:JY236/JY236_01.txt][JY236 張三丰先生全集]]
 
 * JY237* 真誥  Zhengao :can:
 :PROPERTIES:
+:KR_ID: KR5d0036
 :EXTENT:  3 juan
 :LODGE:  觜 1-2, 觜 又2
 :KZ:  18: 7907-8042
@@ -3326,6 +3559,7 @@ text for CK-KZ237_02p106a.png is missing.
 
 * JY238 道樞  Daoshu :can:
 :PROPERTIES:
+:KR_ID: KR5d0039
 :EXTENT:  4 juan
 :LODGE:  觜 3-6
 :KZ:  18: 8043-19: 8292
@@ -3343,6 +3577,7 @@ DZJ0: [[dzjy:JY238/JY238_01.txt][JY238 道樞 ]]
 
 * JY239 洞玄靈寶真靈位業圖  Dongxuan lingbao zhenling weiye tu :can:
 :PROPERTIES:
+:KR_ID: KR5a0168
 :EXTENT:  29 fols.
 :LODGE:  觜 7
 :KZ:  19: 8293-8307
@@ -3357,6 +3592,7 @@ DZJ0: [[dzjy:JY239/JY239_01.txt][JY239 洞玄靈寶真靈位業圖 ]]
 
 * JY240* 鳴鶴餘音  Minghe yuyin :can:
 :PROPERTIES:
+:KR_ID: KR5d0123
 :EXTENT:  128 fols.
 :LODGE:  觜 8
 :KZ:  19: 8309-72
@@ -3371,6 +3607,7 @@ DZJ0: [[dzjy:JY240/JY240_01.txt][JY240 鳴鶴餘音 ]]
 
 * JY241 養真集 Yangzhen ji :excan:
 :PROPERTIES:
+:KR_ID: KR5i0072
 :EXTENT:  2 juan
 :LODGE:  觜 9
 :KZ:  19: 8373-840
@@ -3383,6 +3620,7 @@ DZJY: [[dzjy:JY241/JY241_01.txt][JY241 養真集]]
 
 * JY242* 雲笈七籤  Yunji qiqian :can:
 :PROPERTIES:
+:KR_ID: KR5d0055
 :EXTENT:  13 juan
 :LODGE:  參 1-7, 井 1-6
 :KZ:  19: 8403-8647,20: 8651-8970
@@ -3414,6 +3652,7 @@ DZJ0: [[dzjy:JY242/JY242_01.txt][JY242 雲笈七籤 ]]
 
 * JY243 玉詮 Yuquan :excan:
 :PROPERTIES:
+:KR_ID: KR5i0073
 :EXTENT:  5 juan
 :LODGE:  鬼 1-5
 :KZ:  20: 8971-9098, 21: 9101-9158
@@ -3426,6 +3665,7 @@ DZJY: [[dzjy:JY243/JY243_01.txt][JY243 玉詮]]
 
 * JY244 真詮 Zhenquan :excan:
 :PROPERTIES:
+:KR_ID: KR5i0074
 :EXTENT:  3 juan
 :LODGE:  鬼 6
 :KZ:  21: 9159-87
@@ -3438,6 +3678,7 @@ DZJY: [[dzjy:JY244/JY244_01.txt][JY244 真詮]]
 
 * JY245 心傳述證錄 Xinchuan shuzheng lu :excan:
 :PROPERTIES:
+:KR_ID: KR5i0075
 :EXTENT:  57 fols.
 :LODGE:  鬼 7
 :KZ:  21: 9189-9217
@@ -3450,6 +3691,7 @@ DZJY: [[dzjy:JY245/JY245_01.txt][JY245 心傳述證錄]]
 
 * JY246 懺法大觀 Chanfa daguan :excan:
 :PROPERTIES:
+:KR_ID: KR5i0076
 :EXTENT:  6 juan
 :LODGE:  柳 1-6
 :KZ:  21: 9219-9499
@@ -3462,6 +3704,7 @@ DZJY: [[dzjy:JY246/JY246_01.txt][JY246 懺法大觀]]
 
 * JY247 三寶萬靈法懺 Sanbao wanling fachan :excan:
 :PROPERTIES:
+:KR_ID: KR5i0077
 :EXTENT:  6 juan
 :LODGE:  續柳 7-12
 :KZ:  21: 9501-22: 9871
@@ -3474,6 +3717,7 @@ DZJY: [[dzjy:JY247/JY247_01.txt][JY247 三寶萬靈法懺]]
 
 * JY248 太上靈寶朝天謝罪法懺  Taishang lingbao chaotian xiezui fachan :can:
 :PROPERTIES:
+:KR_ID: KR5a0190
 :EXTENT:  10 juan
 :LODGE:  續柳 13
 :KZ:  22: 9873-9916
@@ -3488,6 +3732,7 @@ looks like there is some text before our text, which starts at SEC 1
 
 * JY249 漢丞相諸葛忠武侯集 Han chengxiang zhuge zhong wuhou ji :excan:
 :PROPERTIES:
+:KR_ID: KR5i0078
 :EXTENT:  21 juan
 :LODGE:  星 1-6
 :KZ:  22: 9917-23: 10107
@@ -3500,6 +3745,7 @@ DZJY: [[dzjy:JY249/JY249_01.txt][JY249 漢丞相諸葛忠武侯集]]
 
 * JY250 太極圖說 Taiji tu shuo :excan:
 :PROPERTIES:
+:KR_ID: KR5i0079
 :EXTENT:  13 fols.
 :LODGE:  星 7
 :KZ:  
@@ -3512,6 +3758,7 @@ DZJY: [[dzjy:JY250/JY250_01.txt][JY250 太極圖說]]
 
 * JY251 通書 Tongshu :excan:
 :PROPERTIES:
+:KR_ID: KR5i0080
 :EXTENT:  1+24 fols.
 :LODGE:  星 7
 :KZ:  
@@ -3524,6 +3771,7 @@ DZJY: [[dzjy:JY251/JY251_01.txt][JY251 通書]]
 
 * JY252 皇極經世書 Huangji jingshi shu :excan:
 :PROPERTIES:
+:KR_ID: KR5i0081
 :EXTENT:  22  fols.
 :LODGE:  星 7
 :KZ:  
@@ -3536,6 +3784,7 @@ DZJY: [[dzjy:JY252/JY252_01.txt][JY252 皇極經世書]]
 
 * JY253 擊壤集 Jirang ji :excan:
 :PROPERTIES:
+:KR_ID: KR5i0082
 :EXTENT:  55  fols.
 :LODGE:  星 7
 :KZ:  
@@ -3551,6 +3800,7 @@ DZJY: [[dzjy:JY253/JY253_01.txt][JY253 擊壤集]]
 
 * JY254 文昌帝君本傳 Wenchang dijun benzhuan :excan:
 :PROPERTIES:
+:KR_ID: KR5i0083
 :EXTENT:  13  fols.
 :LODGE:  星 8
 :KZ:  23: 10109-15
@@ -3563,6 +3813,7 @@ DZJY: [[dzjy:JY254/JY254_01.txt][JY254 文昌帝君本傳]]
 
 * JY255* 文帝化書  Wendi huashu :can:
 :PROPERTIES:
+:KR_ID: KR5a0171
 :EXTENT:  80 fols.
 :LODGE:  星 8
 :KZ:  23: 10115-55
@@ -3577,6 +3828,7 @@ DZJ0: [[dzjy:JY255/JY255_01.txt][JY255 文帝化書 ]]
 
 * JY256 文帝孝經 Wendi xiaojing :excan:
 :PROPERTIES:
+:KR_ID: KR5i0084
 :EXTENT:  17  fols.
 :LODGE:  星 9
 :KZ:  23: 10157-65
@@ -3589,6 +3841,7 @@ DZJY: [[dzjy:JY256/JY256_01.txt][JY256 文帝孝經]]
 
 * JY257 元皇大道真君救劫寶經 Yuanhuang dadao zhenjun jiujie baojing :excan:
 :PROPERTIES:
+:KR_ID: KR5i0085
 :EXTENT:  8 fols.
 :LODGE:  星 9
 :KZ:  23: 10165-69
@@ -3601,6 +3854,7 @@ DZJY: [[dzjy:JY257/JY257_01.txt][JY257 元皇大道真君救劫寶經]]
 
 * JY258 文昌延嗣經 Wenchang yansi jing :excan:
 :PROPERTIES:
+:KR_ID: KR5i0086
 :EXTENT:  10 fols.
 :LODGE:  星 9
 :KZ:  23: 10169-74
@@ -3613,6 +3867,7 @@ DZJY: [[dzjy:JY258/JY258_01.txt][JY258 文昌延嗣經]]
 
 * JY259 陰騭文註 Yinzhi wen zhu :excan:
 :PROPERTIES:
+:KR_ID: KR5i0087
 :EXTENT:  51 fols.
 :LODGE:  星 9
 :KZ:  23: 10174-99
@@ -3625,6 +3880,7 @@ DZJY: [[dzjy:JY259/JY259_01.txt][JY259 陰騭文註]]
 
 * JY260 關帝忠孝忠義經/三界伏魔關聖帝君忠孝忠義真經 Guandi zhongxiao zhongyi jing/sanjie fumo guansheng dijun zhongxiao zhongyi zhenjing :excan:
 :PROPERTIES:
+:KR_ID: KR5i0088
 :EXTENT:  17 fols.
 :LODGE:  星 9
 :KZ:  23: 10200-10208
@@ -3637,6 +3893,7 @@ DZJY: [[dzjy:JY260/JY260_01.txt][JY260 關帝忠孝忠義經/三界伏魔關聖�
 
 * JY261 關聖帝君本傳 Guansheng dijun benzhuan :excan:
 :PROPERTIES:
+:KR_ID: KR5i0089
 :EXTENT:  8 fols.
 :LODGE:  星 9
 :KZ:  23: 10208-12
@@ -3649,6 +3906,7 @@ DZJY: [[dzjy:JY261/JY261_01.txt][JY261 關聖帝君本傳]]
 
 * JY262 清微宏範道門功課 Qingwei hongfan daomen gongke :excan:
 :PROPERTIES:
+:KR_ID: KR5i0090
 :EXTENT:  1+44 fols.
 :LODGE:  張 1
 :KZ:  23: 10213-35
@@ -3661,6 +3919,7 @@ DZJY: [[dzjy:JY262/JY262_01.txt][JY262 清微宏範道門功課]]
 
 * JY263 太上玄門功課經 Taishang xuanmen gongke jing :excan:
 :PROPERTIES:
+:KR_ID: KR5i0091
 :EXTENT:  34 fols.
 :LODGE:  張 1
 :KZ:  23: 10235-52
@@ -3673,6 +3932,7 @@ DZJY: [[dzjy:JY263/JY263_01.txt][JY263 太上玄門功課經]]
 
 * JY264* 太上三元賜福赦罪解厄消災延生保命妙經  Taishang sanyuan cifu shezui jie’e xiaozai yansheng baoming miaojing :excan:
 :PROPERTIES:
+:KR_ID: KR5h0011
 :EXTENT:  11 fols.
 :LODGE:  張 1
 :KZ:  23: 10252-57
@@ -3688,6 +3948,7 @@ DZJY: [[dzjy:JY264/JY264_01.txt][JY264 太上三元賜福赦罪解厄消災延�
 
 * JY265 靈寶文檢 Lingbao wenjian :excan:
 :PROPERTIES:
+:KR_ID: KR5i0092
 :EXTENT:  10 juan
 :LODGE:  
 :KZ:  
@@ -3700,6 +3961,7 @@ DZJY: [[dzjy:JY265/JY265_01.txt][JY265 靈寶文檢]]
 
 * JY266 心香妙語 Xinxiang miaoyu :excan:
 :PROPERTIES:
+:KR_ID: KR5i0093
 :EXTENT:  4 juan
 :LODGE:  
 :KZ:  
@@ -3712,6 +3974,7 @@ DZJY: [[dzjy:JY266/JY266_01.txt][JY266 心香妙語]]
 
 * JY267 雅宜集 Yayi ji :excan:
 :PROPERTIES:
+:KR_ID: KR5i0094
 :EXTENT:  4 juan
 :LODGE:  
 :KZ:  
@@ -3724,6 +3987,7 @@ DZJY: [[dzjy:JY267/JY267_01.txt][JY267 雅宜集]]
 
 * JY268 太上老君戒經  Taishang laojun jiejing :can:
 :PROPERTIES:
+:KR_ID: KR5c0181
 :EXTENT:  24 fols.
 :LODGE:  張 2
 :KZ:  23: 10259-70
@@ -3745,6 +4009,7 @@ CK-KZ_JY268_01p025a
 
 * JY269 太上洞真智慧上品大誡  Taishang dongzhen zhihui shangpin dajie :can:
 :PROPERTIES:
+:KR_ID: KR5a0178
 :EXTENT:  12 fols.
 :LODGE:  張 2
 :KZ:  23: 10271-76
@@ -3759,6 +4024,7 @@ DZJ0: [[dzjy:JY269/JY269_01.txt][JY269 太上洞真智慧上品大誡 ]]
 
 * JY270 三洞眾戒文  Sandong zhongjie wen :can:
 :PROPERTIES:
+:KR_ID: KR5a0179
 :EXTENT:  2 juan
 :LODGE:  張 2
 :KZ:  23: 10277-83
@@ -3773,6 +4039,7 @@ DZJ0: [[dzjy:JY270/JY270_01.txt][JY270 三洞眾戒文 ]]
 
 * JY271 太微靈書紫文仙忌真記上經  Taiwei lingshu ziwen xianji zhenji shangjing :can:
 :PROPERTIES:
+:KR_ID: KR5a0180
 :EXTENT:  3 fols.
 :LODGE:  張 2
 :KZ:  23: 10283-84
@@ -3787,6 +4054,7 @@ DZJ0: [[dzjy:JY271/JY271_01.txt][JY271 太微靈書紫文仙忌真記上經 ]]
 
 * JY272 虛皇天尊初真十戒文  Xuhuang tianzun chuzhen shijie wen :can:
 :PROPERTIES:
+:KR_ID: KR5a0181
 :EXTENT:  6 fols.
 :LODGE:  張 2
 :KZ:  23: 10285-87
@@ -3801,6 +4069,7 @@ DZJ0: [[dzjy:JY272/JY272_01.txt][JY272 虛皇天尊初真十戒文 ]]
 
 * JY273 太上九真妙戒金籙度命拔罪妙經  Taishang jiuzhen miaojie jinlu duming bazui miaojing :can:
 :PROPERTIES:
+:KR_ID: KR5a0182
 :EXTENT:  8 fols.
 :LODGE:  張 2
 :KZ:  23: 10288-91
@@ -3815,6 +4084,7 @@ DZJ0: [[dzjy:JY273/JY273_01.txt][JY273 太上九真妙戒金籙度命拔罪妙�
 
 * JY274 太上十二上品飛天法輪勸戒妙經  Taishang shi’er shangpin feitian falun quanjie miaojing :can:
 :PROPERTIES:
+:KR_ID: KR5a0183
 :EXTENT:  8 fols.
 :LODGE:  張 2
 :KZ:  23: 10292-95
@@ -3829,6 +4099,7 @@ DZJ0: [[dzjy:JY274/JY274_01.txt][JY274 太上十二上品飛天法輪勸戒妙�
 
 * JY275 太極真人說二十四門戒經  Taiji zhenren shuo ershisi men jiejing :can:
 :PROPERTIES:
+:KR_ID: KR5a0184
 :EXTENT:  6 fols.
 :LODGE:  張 2
 :KZ:  23: 10296-98
@@ -3843,6 +4114,7 @@ DZJ0: [[dzjy:JY275/JY275_01.txt][JY275 太極真人說二十四門戒經 ]]
 
 * JY276 全真清規  Quanzhen qinggui :can:
 :PROPERTIES:
+:KR_ID: KR5g0044
 :EXTENT:  12 fols.
 :LODGE:  張 2
 :KZ:  23: 10299-10304
@@ -3857,6 +4129,7 @@ DZJ0: [[dzjy:JY276/JY276_01.txt][JY276 全真清規 ]]
 
 * JY277 三洞修道儀  Sandong xiudao yi :can:
 :PROPERTIES:
+:KR_ID: KR5g0046
 :EXTENT:  8 fols.
 :LODGE:  張 2
 :KZ:  23: 10305-08
@@ -3871,6 +4144,7 @@ DZJ0: [[dzjy:JY277/JY277_01.txt][JY277 三洞修道儀 ]]
 
 * JY278 十戒功過格 Shijie gongguo ge :excan:
 :PROPERTIES:
+:KR_ID: KR5i0095
 :EXTENT:  3+1+57 fols.
 :LODGE:  張 3
 :KZ:  23: 10309-39
@@ -3883,6 +4157,7 @@ DZJY: [[dzjy:JY278/JY278_01.txt][JY278 十戒功過格]]
 
 * JY279 警世功過格 Jingshi gongguo ge :excan:
 :PROPERTIES:
+:KR_ID: KR5i0096
 :EXTENT:  29 fols.
 :LODGE:  張 3
 :KZ:  23: 10339-53
@@ -3895,6 +4170,7 @@ DZJY: [[dzjy:JY279/JY279_01.txt][JY279 警世功過格]]
 
 * JY280* 要修科儀戒律鈔  Yaoxiu keyi jielü chao :can:
 :PROPERTIES:
+:KR_ID: KR5b0147
 :EXTENT:  4 juan
 :LODGE:  張 4
 :KZ:  23: 10355-74
@@ -3909,6 +4185,7 @@ DZJ0: [[dzjy:JY280/JY280_01.txt][JY280 要修科儀戒律鈔 ]]
 
 * JY281 太上濟度章赦  Taishang jidu zhangshe :can:
 :PROPERTIES:
+:KR_ID: KR5a0328
 :EXTENT:  3 juan
 :LODGE:  張 5
 :KZ:  23: 10375-10400
@@ -3923,6 +4200,7 @@ DZJ0: [[dzjy:JY281/JY281_01.txt][JY281 太上濟度章赦 ]]
 
 * JY282* 無上黃籙大齋立成儀  Wushang huanglu dazhai licheng yi :can:
 :PROPERTIES:
+:KR_ID: KR5b0211
 :EXTENT:  78 fols.
 :LODGE:  張 6
 :KZ:  23: 10401-39
@@ -3938,6 +4216,7 @@ DZJ0: [[dzjy:JY282/JY282_01.txt][JY282 無上黃籙大齋立成儀 ]]
 
 * JY283 紫皇鍊度玄科  Zihuang liandu xuanke :can:
 :PROPERTIES:
+:KR_ID: KR5h0020
 :EXTENT:  22 fols.
 :LODGE:  張 6
 :KZ:  23: 10440-50
@@ -3952,6 +4231,7 @@ DZJ0: [[dzjy:JY283/JY283_01.txt][JY283 紫皇鍊度玄科 ]]
 
 * JY284 神功妙濟真君禮文  Shengong miaoji zhenjun liwen :can:
 :PROPERTIES:
+:KR_ID: KR5b0221
 :EXTENT:  8 fols.
 :LODGE:  張 6
 :KZ:  23: 10451-54
@@ -3966,6 +4246,7 @@ DZJ0: [[dzjy:JY284/JY284_01.txt][JY284 神功妙濟真君禮文 ]]
 
 * JY285 三壇圓滿天仙大戒略說 Santan yuanman tianxian dajie lüeshuo :excan:
 :PROPERTIES:
+:KR_ID: KR5i0097
 :EXTENT:  24 fols.
 :LODGE:  張 7
 :KZ:  24: 10457-68
@@ -3978,6 +4259,7 @@ DZJY: [[dzjy:JY285/JY285_01.txt][JY285 三壇圓滿天仙大戒略說]]
 
 * JY286 初真戒律 Chuzhen jielü :excan:
 :PROPERTIES:
+:KR_ID: KR5i0098
 :EXTENT:  37 fols.
 :LODGE:  張 7
 :KZ:  24: 10469-87
@@ -3990,6 +4272,7 @@ DZJY: [[dzjy:JY286/JY286_01.txt][JY286 初真戒律]]
 
 * JY287 中極戒 Zhongji jie :excan:
 :PROPERTIES:
+:KR_ID: KR5i0099
 :EXTENT:  18 fols.
 :LODGE:  張 7
 :KZ:  24: 10487-96
@@ -4002,6 +4285,7 @@ DZJY: [[dzjy:JY287/JY287_01.txt][JY287 中極戒]]
 
 * JY288 上清三尊譜錄  Shangqing sanzun pulu :can:
 :PROPERTIES:
+:KR_ID: KR5a0165
 :EXTENT:  9 fols.
 :LODGE:  翼 1
 :KZ:  24: 10497-10501
@@ -4016,6 +4300,7 @@ DZJ0: [[dzjy:JY288/JY288_01.txt][JY288 上清三尊譜錄 ]]
 
 * JY289* 終南山祖庭仙真內傳  Zhongnan shan zuting xianzhen neizhuan :can:
 :PROPERTIES:
+:KR_ID: KR5c0355
 :EXTENT:  55 fols.
 :LODGE:  翼 1
 :KZ:  24: 10501-28
@@ -4030,6 +4315,7 @@ DZJ0: [[dzjy:JY289/JY289_01.txt][JY289 終南山祖庭仙真內傳 ]]
 
 * JY290 終南山說經臺歷代真仙碑記  Zhongnan shan shuojingtai lidai zhenxian beiji :can:
 :PROPERTIES:
+:KR_ID: KR5c0356
 :EXTENT:  15 fols.
 :LODGE:  翼 1
 :KZ:  24: 10529-36
@@ -4044,6 +4330,7 @@ DZJ0: [[dzjy:JY290/JY290_01.txt][JY290 終南山說經臺歷代真仙碑記 ]]
 
 * JY291 西川青羊宮碑銘  Xichuan qingyang gong beiming :can:
 :PROPERTIES:
+:KR_ID: KR5c0364
 :EXTENT:  18 fols.
 :LODGE:  翼 1
 :KZ:  24: 10536-45
@@ -4058,6 +4345,7 @@ DZJ0: [[dzjy:JY291/JY291_01.txt][JY291 西川青羊宮碑銘 ]]
 
 * JY292 玄元十子圖  Xuanyuan shizi tu :can:
 :PROPERTIES:
+:KR_ID: KR5a0164
 :EXTENT:  14 fols.
 :LODGE:  翼 1
 :KZ:  24: 10545-52
@@ -4072,6 +4360,7 @@ DZJ0: [[dzjy:JY292/JY292_01.txt][JY292 玄元十子圖 ]]
 
 * JY293 二仙菴碑記 Erxian an beiji :excan:
 :PROPERTIES:
+:KR_ID: KR5i0100
 :EXTENT:  25 fols.
 :LODGE:  翼 1
 :KZ:  24: 10552-64
@@ -4084,6 +4373,7 @@ DZJY: [[dzjy:JY293/JY293_01.txt][JY293 二仙菴碑記]]
 
 * JY294 青羊宮碑記 Qingyang gong beiji :excan:
 :PROPERTIES:
+:KR_ID: KR5i0101
 :EXTENT:  15 fols.
 :LODGE:  續翼 1
 :KZ:  24: 10565-72
@@ -4096,6 +4386,7 @@ DZJY: [[dzjy:JY294/JY294_01.txt][JY294 青羊宮碑記]]
 
 * JY295 甘水仙源錄  Ganshui xianyuan lu :can:
 :PROPERTIES:
+:KR_ID: KR5c0373
 :EXTENT:  10 juan
 :LODGE:  翼 2-3
 :KZ:  24: 10573-10674
@@ -4110,6 +4401,7 @@ DZJ0: [[dzjy:JY295/JY295_01.txt][JY295 甘水仙源錄 ]]
 
 * JY296 三洞群仙錄 Sandong qunxian lu :can:
 :PROPERTIES:
+:KR_ID: KR5g0057
 :EXTENT:  20 juan
 :LODGE:  翼 4-5
 :KZ:  24: 10675-10819
@@ -4126,6 +4418,7 @@ DZJ0: [[dzjy:JY296/JY296_01.txt][JY296 三洞群仙錄]]
 
 * JY297 華蓋山三仙真經 Huagai shan sanxian zhenjing :excan:
 :PROPERTIES:
+:KR_ID: KR5i0102
 :EXTENT:  25 fols.
 :LODGE:  翼 6
 :KZ:  24: 10821-33
@@ -4138,6 +4431,7 @@ DZJY: [[dzjy:JY297/JY297_01.txt][JY297 華蓋山三仙真經]]
 
 * JY298 華蓋山浮邱王郭三真君事實  Huagai shan fuqiu wang guo san zhenjun shishi :can:
 :PROPERTIES:
+:KR_ID: KR5c0174
 :EXTENT:  73 fols.
 :LODGE:  翼 6
 :KZ:  24: 10833-70
@@ -4152,6 +4446,7 @@ DZJ0: [[dzjy:JY298/JY298_01.txt][JY298 華蓋山浮邱王郭三真君事實 ]]
 
 * JY299** 漢天師世家  Han tianshi shijia :can:
 :PROPERTIES:
+:KR_ID: KR5h0031
 :EXTENT:  9 juan
 :LODGE:  翼 7
 :KZ:  24: 10873-10912
@@ -4166,6 +4461,7 @@ DZJ0: [[dzjy:JY299/JY299_01.txt][JY299 漢天師世家 ]]
 
 * JY300 三十代天師虛靖真君語錄  Sanshidai tianshi xujing zhenjun yulu :can:
 :PROPERTIES:
+:KR_ID: KR5g0058
 :EXTENT:  48 fols.
 :LODGE:  翼 7
 :KZ:  24: 10913-36
@@ -4180,6 +4476,7 @@ DZJ0: [[dzjy:JY300/JY300_01.txt][JY300 三十代天師虛靖真君語錄 ]]
 
 * JY301 金蓮正宗記  Jinlian zhengzong ji :can:
 :PROPERTIES:
+:KR_ID: KR5a0174
 :EXTENT:  2+44 fols.
 :LODGE:  翼 8
 :KZ:  25: 10937-59
@@ -4194,6 +4491,7 @@ DZJ0: [[dzjy:JY301/JY301_01.txt][JY301 金蓮正宗記 ]]
 
 * JY302 金蓮正宗仙源像傳  Jinlian zhengzong xianyuan xiangzhuan :can:
 :PROPERTIES:
+:KR_ID: KR5a0175
 :EXTENT:  42 fols.
 :LODGE:  翼 8
 :KZ:  25: 10960-80
@@ -4208,6 +4506,7 @@ DZJ0: [[dzjy:JY302/JY302_01.txt][JY302 金蓮正宗仙源像傳 ]]
 
 * JY303 七真年譜 Qizhen nianpu :can:
 :PROPERTIES:
+:KR_ID: KR5a0176
 :EXTENT:  16 fols.
 :LODGE:  翼 8
 :KZ:  25: 10981-88
@@ -4222,6 +4521,7 @@ DZJ0: [[dzjy:JY303/JY303_01.txt][JY303 七真年譜]]
 
 * JY304 洞天福地嶽瀆名山記  Dongtian fudi yuedu mingshan ji :can:
 :PROPERTIES:
+:KR_ID: KR5b0304
 :EXTENT:  1+11 fols.
 :LODGE:  翼 9
 :KZ:  25: 10989-94
@@ -4236,6 +4536,7 @@ DZJ0: [[dzjy:JY304/JY304_01.txt][JY304 洞天福地嶽瀆名山記 ]]
 
 * JY305 南嶽/岳總勝集  Nanyue zongsheng ji :can:
 :PROPERTIES:
+:KR_ID: KR5b0311
 :EXTENT:  20 fols.
 :LODGE:  翼 9
 :KZ:  25: 10995-11004
@@ -4250,6 +4551,7 @@ DZJ0: [[dzjy:JY305/JY305_01.txt][JY305 南嶽/岳總勝集 ]]
 
 * JY306 梅仙觀記  Meixian guan ji :can:
 :PROPERTIES:
+:KR_ID: KR5b0305
 :EXTENT:  20 fols.
 :LODGE:  翼 9
 :KZ:  25: 11005-14
@@ -4264,6 +4566,7 @@ DZJ0: [[dzjy:JY306/JY306_01.txt][JY306 梅仙觀記 ]]
 
 * JY307 西山群仙會真記  Xishan qunxian huizhen ji :can:
 :PROPERTIES:
+:KR_ID: KR5a0247
 :EXTENT:  42 fols.
 :LODGE:  翼 9
 :KZ:  25: 11015-35
@@ -4278,6 +4581,7 @@ DZJ0: [[dzjy:JY307/JY307_01.txt][JY307 西山群仙會真記 ]]
 
 * JY308 青城山記 Qingcheng shan ji :excan:
 :PROPERTIES:
+:KR_ID: KR5i0103
 :EXTENT:  2 juan
 :LODGE:  翼 10
 :KZ:  25: 11037-64
@@ -4290,6 +4594,7 @@ DZJY: [[dzjy:JY308/JY308_01.txt][JY308 青城山記]]
 
 * JY309 太上無極大道延壽集福消切寶懺  Taishang wuji dadao yanshou jifu xiaojie baochan :excan:
 :PROPERTIES:
+:KR_ID: KR5i0104
 :EXTENT:  
 :LODGE:  [續]翼
 :KZ:  
@@ -4305,6 +4610,7 @@ DZJY: [[dzjy:JY309/JY309_01.txt][JY309 太上無極大道延壽集福消切寶�
 
 * JY310 天下名山記 Tianxia mingshan ji :excan:
 :PROPERTIES:
+:KR_ID: KR5i0105
 :EXTENT:  6 juan
 :LODGE:  軫 1-6
 :KZ:  25: 11065-307
@@ -4318,6 +4624,7 @@ DZJY: [[dzjy:JY310/JY310_01.txt][JY310 天下名山記]]
 
 * EX001 青玄濟煉鐵貫斛食 Qingxuan jilian tieguan hushi	          :excan:
 :PROPERTIES:
+:KR_ID: KR5i0106
 :EXTENT:  1 juan
 :LODGE:  [續]張1
 :KZ:  
@@ -4331,6 +4638,7 @@ DZJY: [[dzjy:CK_EX01/CK_EX01.txt][CK_EX01 青玄濟煉鐵貫斛食]]
 
 * EX002 太上無極大道三十六部尊經 (啟請科儀) Taishang wuji dadao sanshiliu bu zunjing :excan:
 :PROPERTIES:
+:KR_ID: KR5i0107
 :EXTENT:  
 :LODGE:  [續]翼
 :KZ:  
@@ -4347,6 +4655,7 @@ DZJY: [[dzjy:EX002/EX002.txt][CK_EX02 太上無極大道三十六部尊經 ]]
 
 * EX003 太上無極太道三十六部尊經註解 Taishang wuji dadao sanshiliu bu zunjing :excan:
   :PROPERTIES:
+:KR_ID: KR5i0108
   :EXTENT:  
   :LODGE:    [續]翼
   :KZ:  
@@ -4365,6 +4674,7 @@ DZJY: [[dzjy:EX003/EX003.txt][EX003 太上無極太道三十六部尊經註解]]
 ** Comments
 * EX004 女丹合編 Nudan hebian_nd 	          :excan:
 :PROPERTIES:
+:KR_ID: KR5i0109
 :EXTENT:  1 juan
 :LODGE:  
 :KZ:  
@@ -4378,6 +4688,7 @@ DZJY: [[dzjy:CK_EX04/CK_EX04.txt][CK_EX04 女丹合編]]
 
 * EX005 太上洞玄靈寶玉樞調元應顯尊經 Taishang dongxuan lingbao yushu tiaoyuan yingxian xunjing :excan:
   :PROPERTIES:
+:KR_ID: KR5i0110
   :EXTENT:  
   :LODGE:    [續]翼
   :KZ:  
