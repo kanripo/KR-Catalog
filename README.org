@@ -3,7 +3,7 @@
 * Kanseki Repository 
 
 * General collections 叢書
-** Sibu congkan 四部叢刊 (sbck)
+** Sibu congkan 四部叢刊 ([[file:general/sbck.org][sbck.org]])
 ** Siku quanshu 四庫全書 (skqs)
 ** TODO Sibu beiyao 四部備要 (sbby)  
 ** TODO Zhongguo jiben gujiku 中國基本古籍庫 (jbgjk)
