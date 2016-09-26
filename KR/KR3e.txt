@@ -84,7 +84,7 @@
 
 
 **** 电子版
-*** KR3e0004 難經本義-周-秦越人
+*** KR3e0004 難經本義-元-滑壽
 :PROPERTIES:
 :KR_ID: KR3e0004
 :CUSTOM_ID:  ZB3e0003
@@ -796,7 +796,7 @@
 
 
 **** 电子版
-*** KR3e0030 金生指迷方-宋-王貺
+*** KR3e0030 全生指迷方-宋-王貺
 :PROPERTIES:
 :KR_ID: KR3e0030
 :CUSTOM_ID:  ZB3e0026
