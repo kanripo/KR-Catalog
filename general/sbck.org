@@ -1,4 +1,6 @@
 #+TITLE: 四部叢刊
+#+LINK: krpimg file:/Volumes/3db4116f-6ca3-3439-8b75-fe0e71f7f47b/imgdb-tif/general/%s
+
 * Comments							   :noexport:
   - all text should either have a KR_ID property or be in the KR files.
   - 286 KR_ID
@@ -8875,12 +8877,55 @@ SB04n0358 000歐阳文忠公文集居士集
 [[krpimg:sbck/SB1/SB14n263/SB14n263_010-002.tif][冊 10]]
 [[krpimg:sbck/SB1/SB14n263/SB14n263_011-002.tif][冊 11]]
 [[krpimg:sbck/SB1/SB14n263/SB14n263_012-002.tif][冊 12]]
-*** SB14n264 王文成公全書
+
+*** SBXX 陽明先生集要（初印本）
+:PROPERTIES:
+:TYPE:  text
+:CUSTOM_ID: SBXX
+:EXTENT: 三十八卷
+:BOOK: 1569 - 1580
+:KR_ID:    KR4e0245
+:_RESP:    （明）王守仁
+:END:
+**** 人物
+***** 王守仁
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 明
+:END:
+
+cf 集部 別集類 明中葉之屬
+陽明先生集要理學編四卷 經濟編七卷 文章編四卷 坿年譜一卷
+明 王守仁 撰 明 施邦曜 輯 明 闕名 撰年譜   民國十二年 上海商務印書館涵芬樓 用無錫孫氏小綠天藏崇禎中餘姚施氏刊本景印  四部叢刊集部之一  12册
+京大人文研 東方 集-II-7-153 
+
+**** 版本
+***** SBCK
+:PROPERTIES:
+:EDITION:  無錫孫氏小綠天藏崇禎閒施忠愍刊本
+:END:
+
+**** 电子版
+[[krpimg:sbck/SB1/SB14n264/SB14n264_001-002.tif][冊 1]]
+[[krpimg:sbck/SB1/SB14n264/SB14n264_002-002.tif][冊 2]]
+[[krpimg:sbck/SB1/SB14n264/SB14n264_003-002.tif][冊 3]]
+[[krpimg:sbck/SB1/SB14n264/SB14n264_004-002.tif][冊 4]]
+[[krpimg:sbck/SB1/SB14n264/SB14n264_005-002.tif][冊 5]]
+[[krpimg:sbck/SB1/SB14n264/SB14n264_006-002.tif][冊 6]]
+[[krpimg:sbck/SB1/SB14n264/SB14n264_007-002.tif][冊 7]]
+[[krpimg:sbck/SB1/SB14n264/SB14n264_008-002.tif][冊 8]]
+[[krpimg:sbck/SB1/SB14n264/SB14n264_009-002.tif][冊 9]]
+[[krpimg:sbck/SB1/SB14n264/SB14n264_010-002.tif][冊 10]]
+[[krpimg:sbck/SB1/SB14n264/SB14n264_011-002.tif][冊 11]]
+[[krpimg:sbck/SB1/SB14n264/SB14n264_012-002.tif][冊 12]]
+
+
+*** SB14n264 王文成公全書 （重印本、縮印本）
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB14n264
 :EXTENT: 三十八卷
-:BOOK: 1569 - 1580
+:BOOK: xxx
 :KR_ID:    KR4e0157
 :_RESP:    （明）王守仁
 :END:
@@ -8898,20 +8943,9 @@ SB04n0358 000歐阳文忠公文集居士集
 :EDITION:  上海涵芬樓藏隆慶中刊本
 :END:
 
+(no image files)
 
-**** 电子版
-[[krpimg:sbck/SB1/SB14n264/SB14n264_001-002.tif][冊 1]]
-[[krpimg:sbck/SB1/SB14n264/SB14n264_002-002.tif][冊 2]]
-[[krpimg:sbck/SB1/SB14n264/SB14n264_003-002.tif][冊 3]]
-[[krpimg:sbck/SB1/SB14n264/SB14n264_004-002.tif][冊 4]]
-[[krpimg:sbck/SB1/SB14n264/SB14n264_005-002.tif][冊 5]]
-[[krpimg:sbck/SB1/SB14n264/SB14n264_006-002.tif][冊 6]]
-[[krpimg:sbck/SB1/SB14n264/SB14n264_007-002.tif][冊 7]]
-[[krpimg:sbck/SB1/SB14n264/SB14n264_008-002.tif][冊 8]]
-[[krpimg:sbck/SB1/SB14n264/SB14n264_009-002.tif][冊 9]]
-[[krpimg:sbck/SB1/SB14n264/SB14n264_010-002.tif][冊 10]]
-[[krpimg:sbck/SB1/SB14n264/SB14n264_011-002.tif][冊 11]]
-[[krpimg:sbck/SB1/SB14n264/SB14n264_012-002.tif][冊 12]]
+
 *** SB14n265 重刊荊川先生文集
 :PROPERTIES:
 :TYPE:  text
