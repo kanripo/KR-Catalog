@@ -1,0 +1,5 @@
+#-*- mode: org; -*-
+#+COLUMNS: %30ITEM %15CUSTOM_ID
+** KR2p 金石類
+*** KR2p0001 馬王堆漢墓帛書
+*** KR2p0001 合陰陽釋文 
