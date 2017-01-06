@@ -107,7 +107,7 @@
 ** Goryeo daejanggyeong 高麗大藏經 (K-koreana)
 ** Jiaxing dazangjing 嘉興大藏經 (J-jiaxing)
 ** Songzang yizhen 宋藏遺珍 (S-songzang)
-** Zhaocheng jinzang 趙城金藏 (S-songzang)
+** Zhaocheng jinzang 趙城金藏 (A-jin)
 ** Hongwu nanzang 洪武南藏 (U-hongwu)
 ** Yongle beizang 永樂北藏 (P-yongle)
 ** Qianlong dazangjing 乾隆大藏經 (L-qianlong)
