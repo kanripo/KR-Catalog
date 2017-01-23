@@ -29,7 +29,7 @@
 *** [[file:KR/KR2m.txt][KR2m 政書類]]
 *** [[file:KR/KR2n.txt][KR2n 目錄類]]
 *** [[file:KR/KR2o.txt][KR2o 史評類]]
-*** [[file:KR/KR2p.txt][KR2p 金石類]]
+*** [[file:KR/KR2p.txt][KR2p 漢帛金石類]]
 
 
 ** KR3 子部
