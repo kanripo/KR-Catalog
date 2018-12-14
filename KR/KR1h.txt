@@ -339,7 +339,7 @@
      :BOOK:   (1)
      :END:
 
-*** KR1h0015 大學-宋-朱熹
+*** KR1h0015 四書章句集註-宋-朱熹
 :PROPERTIES:
 :KR_ID: KR1h0015
 :CUSTOM_ID:  ZB1h0011
