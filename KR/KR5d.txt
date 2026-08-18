@@ -312,6 +312,14 @@
 :PROPERTIES:
 :KR_ID: KR5d0013
 :EXTRA_ID: DZJY:JY112
+:CUSTOM_ID: ZB5d0013
+:TTC: 704 - 705
+:DZ: DZ0996
+:page: 200033c
+:ZHDZ: ZHDZ19p0077
+:XWDZ: XWDZ34p0107
+:BASEEDITION: HFL
+:HFL: HFL映上004
 :END:
 **** 目次
 ￥０ 奏箚（周眞一）
@@ -352,15 +360,7 @@
 ￥３ 參同契大丹火候 攅簇周天火候圖
 ￥３  金火相交生藥圖
 ￥Ｅ 後序
-:CUSTOM_ID: ZB5d0013
-:TTC: 704 - 705
-:DZ: DZ0996
-:page: 200033c
-:ZHDZ: ZHDZ19p0077
-:XWDZ: XWDZ34p0107
-:BASEEDITION: HFL
-:HFL: HFL映上004
-:END: 1185
+# FIXME: the malformed ":END: 1185" that closed this block lost its key; the value 1185 is preserved here (possibly :DATE:, cf. 淳煕十二年 in 目次).
 
 **** 人物
 ***** 王道
@@ -1159,7 +1159,7 @@ DZJ0: [[dzjy:JY141/JY141_01.txt][JY141 參同契 ]]
        	:END:
 
 
-*** KR5d0029 席上腐談:END:-宋-俞琰
+*** KR5d0029 席上腐談-宋-俞琰
 :PROPERTIES:
 :KR_ID: KR5d0029
 :CUSTOM_ID:  ZB3n0042
@@ -1238,7 +1238,7 @@ DZJ0: [[dzjy:JY141/JY141_01.txt][JY141 參同契 ]]
 :DATE: 1300
 :HFL: HFL若下082
 :BASEEDITION: HFL
-*** KR5d0029 席上腐談:END:-宋-俞琰
+:END:
 
 PROPERROR xx DZ1012 xx x 空山先生易圖通變
 **** 人物

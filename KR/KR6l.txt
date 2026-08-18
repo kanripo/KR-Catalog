@@ -560,9 +560,6 @@
 :SOURCE: Taisho Tripitaka Vol. 27, No. 1545
 :DYNASTY: 唐
 :EXTENT:  200卷
-:END:
-:PROPERTIES:
-:KR_ID: KR6l0010
 :PAGES: 1-1004
 :END:
 **** 人物 
