@@ -4039,3 +4039,19 @@
 
 **** 版本
 ***** WYG
+
+*** KR3j0192 新論-漢-桓譚
+:PROPERTIES:
+:KR_ID: KR3j0192
+:CH_ID:  CH1b0943
+:BASEEDITION: tls
+:END:
+**** 人物
+***** 桓譚
+     :PROPERTIES:
+     :DYNASTY:  漢
+     :FUNCTION: 撰
+     :END:
+
+**** 版本
+***** tls
