@@ -157,3 +157,36 @@
       :BOOK:   (7)
       :END:
 
+*** KR4a0008 楚辭後語-宋-朱熹
+:PROPERTIES:
+:KR_ID: KR4a0008
+:SOURCE:   四庫全書 文淵閣版, V1062
+:EXTENT: 6 卷
+:END:
+**** 人物
+***** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1130 - 1200
+      :END:
+
+**** 版本
+***** WYG
+
+*** KR4a0009 楚辭辯證-宋-朱熹
+:PROPERTIES:
+:KR_ID: KR4a0009
+:SOURCE:   四庫全書 文淵閣版, V1062
+:EXTENT: 2 卷
+:END:
+**** 人物
+***** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1130 - 1200
+      :END:
+
+**** 版本
+***** WYG

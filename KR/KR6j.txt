@@ -28570,3 +28570,28 @@ cf T18n0893c
 :WITID: wit99
 :END:
 
+*** KR6j0762 釋教最上乘秘密藏陀羅尼集-唐-行琳
+:PROPERTIES: 
+:KR_ID: KR6j0762
+:BASEEDITION:  F
+:CBETA_ID:  F28n1071
+:SOURCE: Fangshan shijing Vol. 28, No. 1071
+:DYNASTY: 唐
+:END:
+**** 人物 
+***** 行琳
+:PROPERTIES:
+:DYNASTY: 唐
+:FUNCTION: 述
+:END:
+
+**** 版本
+***** CBETA
+:PROPERTIES: 
+:WITID: wit1
+:END:
+
+***** orig
+:PROPERTIES: 
+:WITID: wit99
+:END:

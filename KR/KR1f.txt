@@ -288,3 +288,13 @@
 
 **** 版本
 ***** WYG
+
+*** KR1f0014 忠經--
+:PROPERTIES:
+:KR_ID: KR1f0014
+:CH_ID:  CH1a0915
+:BASEEDITION: CHANT
+:END:
+
+**** 版本
+***** CHANT

@@ -604,7 +604,7 @@
 
 **** 版本
 ***** WYG
-*** KR3f0027 大統歷志-清-梅文鼎
+*** KR3f0027 大統曆志-清-梅文鼎
 :PROPERTIES:
 :KR_ID: KR3f0027
 :CUSTOM_ID:  ZB3f0028
@@ -1275,3 +1275,18 @@
 
 **** 版本
 ***** WYG
+
+*** KR3f0057 佛國暦象編--
+:PROPERTIES:
+:KR_ID: KR3f0057
+:BASEEDITION: TZH
+:SOURCE:   德風本東叡大王府藏版
+:END:
+**** 人物
+***** 円通
+     :PROPERTIES:
+     :FUNCTION: 著
+     :END:
+
+**** 版本
+***** TZH

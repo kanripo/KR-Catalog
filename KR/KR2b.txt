@@ -1126,3 +1126,18 @@
      :_RESP:    
      :END:
 ***** WYG
+
+*** KR2b0041 十八史略-元-曾先之
+:PROPERTIES:
+:KR_ID: KR2b0041
+:BASEEDITION: MJSY
+:END:
+**** 人物
+***** 曾先之
+     :PROPERTIES:
+     :DYNASTY:  元
+     :FUNCTION: 撰
+     :END:
+
+**** 版本
+***** MJSY
