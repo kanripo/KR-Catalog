@@ -900,7 +900,7 @@
      :BOOK:   (1)
      :END:
 
-*** KR3l0045 湘山野綠-宋-釋文瑩
+*** KR3l0045 湘山野錄-宋-釋文瑩
 :PROPERTIES:
 :KR_ID: KR3l0045
 :CUSTOM_ID:  ZB3l0040
@@ -926,7 +926,7 @@
      :BOOK:   (2)
      :END:
 
-*** KR3l0046 王壺野史-宋-釋文瑩
+*** KR3l0046 玉壺野史-宋-釋文瑩
 :PROPERTIES:
 :KR_ID: KR3l0046
 :CUSTOM_ID:  ZB3l0041
@@ -1038,7 +1038,7 @@
 
 **** 版本
 ***** WYG
-*** KR3l0052 國光談苑-宋-王君玉
+*** KR3l0052 國老談苑-宋-王君玉
 :PROPERTIES:
 :KR_ID: KR3l0052
 :CUSTOM_ID:  ZB3l0047
@@ -1222,7 +1222,7 @@
 
 **** 版本
 ***** WYG
-*** KR3l0062 揮塵錄-宋-王明清
+*** KR3l0062 揮麈錄-宋-王明清
 :PROPERTIES:
 :KR_ID: KR3l0062
 :CUSTOM_ID:  ZB3l0057
@@ -2544,7 +2544,7 @@
 
 **** 版本
 ***** WYG
-*** KR3l0125 西陽雜俎-唐-段成式
+*** KR3l0125 酉陽雜俎-唐-段成式
 :PROPERTIES:
 :KR_ID: KR3l0125
 :CUSTOM_ID:  ZB3l0116

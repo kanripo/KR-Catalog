@@ -803,7 +803,7 @@
 
 **** 版本
 ***** WYG
-*** KR2n0041 崇陽石刻集記-清-葉封
+*** KR2n0041 嵩陽石刻集記-清-葉封
 :PROPERTIES:
 :KR_ID: KR2n0041
 :CUSTOM_ID:  ZB2n0041

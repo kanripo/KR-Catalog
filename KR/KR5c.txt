@@ -6405,7 +6405,7 @@ added these two files from the CTDZJY files
    :BASEEDITION: ZHW
    :END:
 
-*** KR5c0125 釋文-周-列禦寇
+*** KR5c0125 列子-周-列禦寇
 :PROPERTIES:
 :KR_ID: KR5c0125
 :CUSTOM_ID:  ZB3n0014

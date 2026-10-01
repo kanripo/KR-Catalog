@@ -765,7 +765,7 @@
 :EDITION: 常熟瞿氏鐵琴銅劍樓藏元刊本
 :END:
 
-*** KR3a0034 公是第子記-宋-劉敞
+*** KR3a0034 公是弟子記-宋-劉敞
 :PROPERTIES:
 :KR_ID: KR3a0034
 :CUSTOM_ID:  ZB3a0030
@@ -1049,7 +1049,7 @@
      :BOOK:   (1)
      :END:
 
-*** KR3a0046 御定小學集駐-宋-朱熹
+*** KR3a0046 御定小學集註-宋-朱熹
 :PROPERTIES:
 :KR_ID: KR3a0046
 :CUSTOM_ID:  ZB3a0042
@@ -1880,7 +1880,7 @@
 
 **** 版本
 ***** WYG
-*** KR3a0084 因知記-明-羅欽訓
+*** KR3a0084 困知記-明-羅欽訓
 :PROPERTIES:
 :KR_ID: KR3a0084
 :CUSTOM_ID:  ZB3a0080
@@ -2282,7 +2282,7 @@
      :FUNCTION: 撰
      :END:
 
-*** KR3a0102 聖論廣訓-清-聖祖
+*** KR3a0102 聖諭廣訓-清-聖祖
 :PROPERTIES:
 :KR_ID: KR3a0102
 :CUSTOM_ID:  ZB3a0097

@@ -794,7 +794,7 @@
 
 **** 版本
 ***** WYG
-*** KR1e0034 春秋左傳讞-宋-葉夢得
+*** KR1e0034 春秋三傳讞-宋-葉夢得
 :PROPERTIES:
 :KR_ID: KR1e0034
 :CUSTOM_ID:  ZB1e0027
@@ -1553,7 +1553,7 @@
      :BOOK:   (12)
      :END:
 
-*** KR1e0065 春秋闕欵-元-鄭玉
+*** KR1e0065 春秋闕疑-元-鄭玉
 :PROPERTIES:
 :KR_ID: KR1e0065
 :CUSTOM_ID:  ZB1e0057
@@ -2342,7 +2342,7 @@
 
 **** 版本
 ***** WYG
-*** KR1e0099 春秋平議-清-兪汝言
+*** KR1e0099 春秋平義-清-兪汝言
 :PROPERTIES:
 :KR_ID: KR1e0099
 :CUSTOM_ID:  ZB1e0091

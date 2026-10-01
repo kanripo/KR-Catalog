@@ -175,7 +175,7 @@
 
 **** 版本
 ***** WYG
-*** KR2l0009 翰林志-明-黃佐
+*** KR2l0009 翰林記-明-黃佐
 :PROPERTIES:
 :KR_ID: KR2l0009
 :CUSTOM_ID:  ZB2l0009

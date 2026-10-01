@@ -536,7 +536,7 @@
      :BOOK:   (6)
      :END:
 
-*** KR1j0023 千祿字書-唐-顏元孫
+*** KR1j0023 干祿字書-唐-顏元孫
 :PROPERTIES:
 :KR_ID: KR1j0023
 :CUSTOM_ID:  ZB1j0020

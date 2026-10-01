@@ -264,7 +264,7 @@
 
 **** 版本
 ***** WYG
-*** KR4b0012 謝宣域集-南齊-謝眺
+*** KR4b0012 謝宣城集-南齊-謝眺
 :PROPERTIES:
 :KR_ID: KR4b0012
 :CUSTOM_ID:  ZB4b0010

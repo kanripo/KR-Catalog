@@ -1682,7 +1682,7 @@
 
 **** 版本
 ***** WYG
-*** KR4h0074 瀛奎律隨-元-方回
+*** KR4h0074 瀛奎律髓-元-方回
 :PROPERTIES:
 :KR_ID: KR4h0074
 :CUSTOM_ID:  ZB4c0070

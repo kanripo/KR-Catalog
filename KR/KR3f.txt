@@ -61,7 +61,7 @@
 
 **** 版本
 ***** WYG
-*** KR3f0003 六經天法編-宋-王應麟
+*** KR3f0003 六經天文編-宋-王應麟
 :PROPERTIES:
 :KR_ID: KR3f0003
 :CUSTOM_ID:  ZB3f0003
@@ -527,7 +527,7 @@
 
 **** 版本
 ***** WYG
-*** KR3f0023 天經惑問-清-游藝
+*** KR3f0023 天經或問-清-游藝
 :PROPERTIES:
 :KR_ID: KR3f0023
 :CUSTOM_ID:  ZB3f0024
@@ -760,7 +760,7 @@
 
 **** 版本
 ***** WYG
-*** KR3f0034 數述記遺-漢-徐岳
+*** KR3f0034 數術記遺-漢-徐岳
 :PROPERTIES:
 :KR_ID: KR3f0034
 :CUSTOM_ID:  ZB3f0035
@@ -904,7 +904,7 @@
 
 **** 版本
 ***** WYG
-*** KR3f0040 緝古等經-唐-王孝通
+*** KR3f0040 緝古算經-唐-王孝通
 :PROPERTIES:
 :KR_ID: KR3f0040
 :CUSTOM_ID:  ZB3f0041
@@ -1205,7 +1205,7 @@
 
 **** 版本
 ***** WYG
-*** KR3f0053 句股矩解原-清-黃百家
+*** KR3f0053 句股矩測解原-清-黃百家
 :PROPERTIES:
 :KR_ID: KR3f0053
 :CUSTOM_ID:  ZB3f0054
