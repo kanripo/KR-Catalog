@@ -4370,7 +4370,7 @@
 
 **** 版本
 ***** WYG
-*** KR4d0176 廬溪文集-宋-王庭珪
+*** KR4d0176 盧溪文集-宋-王庭珪
 :PROPERTIES:
 :KR_ID: KR4d0176
 :CUSTOM_ID:  ZB4b0273
@@ -5593,7 +5593,7 @@
       :BOOK:   (78)
       :END:
 
-*** KR4d0228 雲山集-宋-王質
+*** KR4d0228 雪山集-宋-王質
 :PROPERTIES:
 :KR_ID: KR4d0228
 :CUSTOM_ID:  ZB4b0325
@@ -6675,7 +6675,7 @@
       :BOOK:   (1)
       :END:
 
-*** KR4d0271 金陸百詠-宋-曾極
+*** KR4d0271 金陵百詠-宋-曾極
 :PROPERTIES:
 :KR_ID: KR4d0271
 :CUSTOM_ID:  ZB4b0367
@@ -6842,7 +6842,7 @@
       :FUNCTION: 撰
       :END:
 
-*** KR4d0279 蓬峯集-宋-史堯弼
+*** KR4d0279 蓮峯集-宋-史堯弼
 :PROPERTIES:
 :KR_ID: KR4d0279
 :CUSTOM_ID:  ZB4b0375
@@ -7797,7 +7797,7 @@
 
 **** 版本
 ***** WYG
-*** KR4d0322 滄洲塵罐編-宋-程公許
+*** KR4d0322 滄洲塵缶編-宋-程公許
 :PROPERTIES:
 :KR_ID: KR4d0322
 :CUSTOM_ID:  ZB4b0416
@@ -8507,7 +8507,7 @@
 
 **** 版本
 ***** WYG
-*** KR4d0354 藝隱橫舟稿-宋-施樞
+*** KR4d0354 芸隱橫舟稿-宋-施樞
 :PROPERTIES:
 :KR_ID: KR4d0354
 :CUSTOM_ID:  ZB4b0447

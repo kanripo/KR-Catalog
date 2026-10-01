@@ -540,7 +540,7 @@
 
 **** 版本
 ***** WYG
-*** KR2m0025 大金集體-金-闕名
+*** KR2m0025 大金集禮-金-闕名
 :PROPERTIES:
 :KR_ID: KR2m0025
 :CUSTOM_ID:  ZB2m0025
@@ -1324,7 +1324,7 @@
       :BOOK:   (7)
       :END:
 
-*** KR2m0057 欽定式英殿聚珍版程式-清-金簡
+*** KR2m0057 欽定武英殿聚珍版程式-清-金簡
 :PROPERTIES:
 :KR_ID: KR2m0057
 :CUSTOM_ID:  ZB2m0057

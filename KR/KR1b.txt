@@ -404,7 +404,7 @@
 
 **** 版本
 ***** WYG
-*** KR1b0020 融尚書解-宋-錢時
+*** KR1b0020 融堂書解-宋-錢時
 :PROPERTIES:
 :KR_ID: KR1b0020
 :CUSTOM_ID:  ZB1b0015

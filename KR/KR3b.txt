@@ -254,7 +254,7 @@
      :BOOK:   (18)
      :END:
 
-*** KR3b0013 虎鈴經-宋-許洞
+*** KR3b0013 虎鈐經-宋-許洞
 :PROPERTIES:
 :KR_ID: KR3b0013
 :CUSTOM_ID:  ZB3b0013
