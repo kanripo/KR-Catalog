@@ -1405,7 +1405,7 @@
 
 # finished check to here. (when?)
 
-*** KR4j0070 草堂詞餘--闕名
+*** KR4j0070 草堂詩餘--闕名
 :PROPERTIES:
 :KR_ID: KR4j0070
 :CUSTOM_ID:  ZB4e0064
@@ -1735,7 +1735,7 @@
 
 **** 版本
 ***** WYG
-*** KR4j0084 西河詩話-清-毛奇齡
+*** KR4j0084 西河詞話-清-毛奇齡
 :PROPERTIES:
 :KR_ID: KR4j0084
 :CUSTOM_ID:  ZB4e0073

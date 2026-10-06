@@ -606,7 +606,7 @@
       :BOOK:   (9)
       :END:
 
-*** KR4i0030 竹坡詩詩-宋-周紫芝
+*** KR4i0030 竹坡詩話-宋-周紫芝
 :PROPERTIES:
 :KR_ID: KR4i0030
 :CUSTOM_ID:  ZB4d0029

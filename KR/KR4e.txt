@@ -1298,7 +1298,7 @@
 
 **** 版本
 ***** WYG
-*** KR4e0057 何傳集-明-袁華
+*** KR4e0057 可傳集-明-袁華
 :PROPERTIES:
 :KR_ID: KR4e0057
 :CUSTOM_ID:  ZB4b0733
@@ -1582,7 +1582,7 @@
 
 **** 版本
 ***** WYG
-*** KR4e0070 榮陽外史集-明-鄭眞
+*** KR4e0070 滎陽外史集-明-鄭眞
 :PROPERTIES:
 :KR_ID: KR4e0070
 :CUSTOM_ID:  ZB4b0746
@@ -4917,7 +4917,7 @@
       :BOOK:   (20)
       :END:
 
-*** KR4e0211 薛荔園詩集-明-佘翔
+*** KR4e0211 薜荔園詩集-明-佘翔
 :PROPERTIES:
 :KR_ID: KR4e0211
 :CUSTOM_ID:  ZB4b0887
@@ -5627,7 +5627,7 @@
 
 **** 版本
 ***** WYG
-*** KR4e0243 茅薝集-明-魏學洢
+*** KR4e0243 茅簷集-明-魏學洢
 :PROPERTIES:
 :KR_ID: KR4e0243
 :CUSTOM_ID:  ZB4b0919

@@ -730,7 +730,7 @@
      :BOOK:   (20)
      :END:
 
-*** KR1c0031 詩經欵問-元-朱倬
+*** KR1c0031 詩經疑問-元-朱倬
 :PROPERTIES:
 :KR_ID: KR1c0031
 :CUSTOM_ID:  ZB1c0025
@@ -1403,7 +1403,7 @@
      :BOOK:   (6)
      :END:
 
-*** KR1c0061 詩欵辨證-清-黃中松
+*** KR1c0061 詩疑辨證-清-黃中松
 :PROPERTIES:
 :KR_ID: KR1c0061
 :CUSTOM_ID:  ZB1c0054

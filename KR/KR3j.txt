@@ -662,7 +662,7 @@
 
 **** 版本
 ***** WYG
-*** KR3j0032 靖康緗素雜誌-宋-黃朝英
+*** KR3j0032 靖康緗素雜記-宋-黃朝英
 :PROPERTIES:
 :KR_ID: KR3j0032
 :CUSTOM_ID:  ZB3j0032
@@ -938,7 +938,7 @@
 
 **** 版本
 ***** WYG
-*** KR3j0044 蘆浦日記-宋-劉昌詩
+*** KR3j0044 蘆浦筆記-宋-劉昌詩
 :PROPERTIES:
 :KR_ID: KR3j0044
 :CUSTOM_ID:  ZB3j0044
@@ -1165,7 +1165,7 @@
 
 **** 版本
 ***** WYG
-*** KR3j0055 果學紀聞-宋-王應麟
+*** KR3j0055 困學紀聞-宋-王應麟
 :PROPERTIES:
 :KR_ID: KR3j0055
 :CUSTOM_ID:  ZB3j0055
@@ -1740,7 +1740,7 @@
 
 **** 版本
 ***** WYG
-*** KR3j0079 識小織-清-董豐垣
+*** KR3j0079 識小編-清-董豐垣
 :PROPERTIES:
 :KR_ID: KR3j0079
 :CUSTOM_ID:  ZB3j0079
@@ -2176,7 +2176,7 @@
 
 **** 版本
 ***** WYG
-*** KR3j0101 苗洧舊聞-宋-朱辨
+*** KR3j0101 曲洧舊聞-宋-朱辨
 :PROPERTIES:
 :KR_ID: KR3j0101
 :CUSTOM_ID:  ZB3j0100
@@ -2556,7 +2556,7 @@
 
 **** 版本
 ***** WYG
-*** KR3j0119 游宧紀聞-宋-張世南
+*** KR3j0119 游宦紀聞-宋-張世南
 :PROPERTIES:
 :KR_ID: KR3j0119
 :CUSTOM_ID:  ZB3j0118
@@ -2938,7 +2938,7 @@
 
 **** 版本
 ***** WYG
-*** KR3j0136 隱居通義-元-劉壎
+*** KR3j0136 隱居通議-元-劉壎
 :PROPERTIES:
 :KR_ID: KR3j0136
 :CUSTOM_ID:  ZB3j0135
@@ -2976,7 +2976,7 @@
 
 **** 版本
 ***** WYG
-*** KR3j0138 敬齊古今黈-元-李治
+*** KR3j0138 敬齋古今黈-元-李治
 :PROPERTIES:
 :KR_ID: KR3j0138
 :CUSTOM_ID:  ZB3j0137
@@ -3899,7 +3899,7 @@
 
 **** 版本
 ***** WYG
-*** KR3j0185 說孚-明-陶宗儀
+*** KR3j0185 說郛-明-陶宗儀
 :PROPERTIES:
 :KR_ID: KR3j0185
 :CUSTOM_ID:  ZB3j0184

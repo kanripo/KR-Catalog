@@ -1141,7 +1141,7 @@
       :BOOK:   (4)
       :END:
 
-*** KR4f0034 張文眞集-清-張玉書
+*** KR4f0034 張文貞集-清-張玉書
 :PROPERTIES:
 :KR_ID: KR4f0034
 :CUSTOM_ID:  ZB4b0945
